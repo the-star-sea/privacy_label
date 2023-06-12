@@ -1,0 +1,90 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Browser and device information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Online identifiers, Device or other IDs"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Location data"
+    },
+    {
+      "data": "Website usage data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Financial information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name, email address and other contact information",
+      "optional": false,
+      "purpose": "Account management, Customer support",
+      "type": "Personal information"
+    },
+    {
+      "data": "Billing address, payment method, and transaction history",
+      "optional": false,
+      "purpose": "Account management, App functionality, Fraud prevention, security, and compliance",
+      "type": "Financial information"
+    },
+    {
+      "data": "Device information, including IP address and browser type",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization, Fraud prevention, security, and compliance",
+      "type": "Online identifiers, Device or other IDs"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Location data"
+    },
+    {
+      "data": "Website usage data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Financial information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is encrypted at rest",
+      "description": "Your data is stored in an encrypted format"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Authentications and security",
+      "description": "The developer implements strong authentication and security measures to protect your data"
+    }
+  ]
+}

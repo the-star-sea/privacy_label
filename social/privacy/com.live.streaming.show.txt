@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Information about the user's device",
+      "optional": false,
+      "purpose": "Service operation",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Personal information such as name, email address, age, and gender",
+      "optional": false,
+      "purpose": "Improving the structure of services, Providing information about products or services, Responding to questions or comments, Notification of changes to services, Analysis and market research, Statutory and regulatory obligations",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Information about the user's device",
+      "optional": false,
+      "purpose": "Service operation",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Personal information such as name, email address, age, and gender",
+      "optional": false,
+      "purpose": "Improving the structure of services, Providing information about products or services, Responding to questions or comments, Notification of changes to services, Analysis and market research, Statutory and regulatory obligations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Browsing and interaction information on third party websites",
+      "optional": false,
+      "purpose": "Third party data processing",
+      "type": "Web browsing"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Adequate protection measures",
+      "description": "Before sharing personal data with third parties we ensure that your personal data will be given adequate protection as required by relevant data privacy laws and the Services internal policies."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "sharedData": [
+    {
+      "data": "Contacts",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Contacts"
+    },
+    {
+      "data": "Messages",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "App functionality, Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Browsing history",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Cookies",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Cookies"
+    },
+    {
+      "data": "Preferences",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Preferences"
+    },
+    {
+      "data": "User content metadata",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "User content"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Public WaveChat information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Name and profile of WaveChat contact",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Appropriate technical and organizational measures to ensure security",
+      "description": "We have implemented measures to ensure the security of your personal data."
+    },
+    {
+      "practice": "Changes to privacy settings applied immediately",
+      "description": "Any changes to privacy settings will affect information you have posted in the past."
+    },
+    {
+      "practice": "Retention criteria for personal information",
+      "description": "We use several criteria to determine how long your information will be retained."
+    },
+    {
+      "practice": "Compliance with applicable laws",
+      "description": "We comply with applicable laws and regulations in processing personal data."
+    },
+    {
+      "practice": "Protection of children’s privacy",
+      "description": "The platform is not for children under 18 and we will delete any personal information collected from a person under 18."
+    }
+  ]
+}

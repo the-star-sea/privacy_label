@@ -1,0 +1,38 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Communication and support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Communication, Support, Marketing and promotions",
+      "type": "Contact info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Apps and Apps versions",
+      "optional": false,
+      "purpose": "Technical support and network issues",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "All browsing information, traffic destination, data content, IP addresses, DNS queries or other similar information is encrypted"
+    },
+    {
+      "practice": "No data retention",
+      "description": "No information regarding the websites you visit or any data stored on or transmitted from your device is collected"
+    },
+    {
+      "practice": "Strong security practices",
+      "description": "Servers are housed in data centers with strong security practices"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "sharedData": [
+    {
+      "data": "Log-in information",
+      "optional": false,
+      "purpose": "User account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Advertising or marketing, Personalization",
+      "type": "Financial info"
+    },
+    {
+      "data": "Store statistics",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Business info"
+    },
+    {
+      "data": "Organization number",
+      "optional": false,
+      "purpose": "Legal compliance",
+      "type": "Business info"
+    },
+    {
+      "data": "Tracking technology",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Web browsing"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is encrypted at rest",
+      "description": "Your data is stored securely on Klarna's servers"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "Klarna offers a way for you to request that your data be deleted"
+    }
+  ]
+}

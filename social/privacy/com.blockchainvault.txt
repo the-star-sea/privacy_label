@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact and identity information",
+      "optional": false,
+      "purpose": "Registration, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User-created content",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Network information regarding transactions",
+      "optional": false,
+      "purpose": "App functionality, Financial transactions",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Cookies and similar technologies",
+      "optional": false,
+      "purpose": "Analytics, Demographic information",
+      "type": "Browsing activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption of personal data during storage and transmission",
+      "description": "Personal data is stored and transferred in encrypted format to ensure confidentiality"
+    },
+    {
+      "practice": "Compliance with applicable laws and regulations",
+      "description": "Personal data is collected, processed and shared in strict accordance with applicable laws and regulations"
+    }
+  ]
+}

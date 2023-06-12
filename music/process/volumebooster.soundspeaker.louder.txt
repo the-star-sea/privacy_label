@@ -1,0 +1,23 @@
+Privacy Policy
+Last updated on January 11, 2023
+This privacy policy helps you understand how we collect, use and disclose your personal data to provide a better user experience. To fulfill the contractual obligations: to fulfill and manage purchases, orders, payments, and other transactions related to the application. Our Collection of Your Information
+Usage Data
+When you use our service, usage data, the non-personally identifiable information, is collected automatically, which may include information such as your device's internet protocol address, browser type, browser version, the pages of our service that you visit, the time and date of your visit, the time spent on those pages, and unique Device identifiers. App Permission
+In order to make some features work, we need your app permissions as follows:
+NOTIFICATION PERMISSION: If you want our app to show the information of the music that is playing, such as the title of the song, singer and album cover, or switch the next song in our app, we may need access to your music player. This permission is only for showing music information. We will not obtain any other information from your device. STORAGE PERMISSION: If you want to add some photos chosen from gallery when you are giving a feedback, we will ask a storage permission to select photos. We will not obtain any video or photo from your device, nor will we modify or delete the content in your local media storage. And we will provide notice to inform you before the transactions. Law enforcement
+We may be required to disclose your personal data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency). Analytics
+We may use Google Analytics to observe and analyze the use of our service. Google uses the data collected to track and observe the use of our service. Google may use the collected data to contextualize and personalize the ads of its own advertising network. You can opt-out from the AdMob by Google Service by following the instructions described by Google: https://support.google.com/ads/answer/1660762
+For more information on how Google uses the collected information, please visit the "How Google uses data when You use Our partners' sites or app" page:
+https://policies.google.com/technologies/partner-sites or visit the Privacy Policy of Google: https://policies.google.com/privacy
+Our protection of Your Personal Data
+We do not retain any of your information on our servers. However, please be aware that no system is ever completely secure. Additionally, you are entitled to request a copy of your personal data. Request correction of the Personal Data that We hold about You. Object to processing of Your Personal Data. We will provide to you, or to a third-party you have chosen, your personal data in a structured, commonly used, machine-readable format. Please note that this right only applies to automated information which you initially provided consent for us to use or where We used the information to perform a contract with you. Rights California Users of under the CCPA
+If you are a resident in california, you are entitled to the following rights:
+The right to notice. The right to access / the right to request. The right to say no to the sale of Personal Data. You have the right to request and obtain from the Company information regarding the disclosure of the following:
+The categories of Personal Data collected
+The sources from which the Personal Data was collected
+The business or commercial purpose for collecting or selling the Personal Data
+Categories of third parties with whom We share Personal Data
+The specific pieces of Personal Data We collected about You
+The right to delete Personal Data. You also have the right to request the deletion of Your Personal Data that have been collected in the past 12 months. The right not to be discriminated against. Privacy for Children
+We do not knowingly collect personally identifiable information from anyone under the age of 13. If you click on these links, you will be directed to that third party's site or applications of interest, accordingly the safety of your activity on the third parties could not be guaranteed by our Privacy Policy. We strongly encourage you to review this Privacy Policy periodically for any changes since any changes to this Privacy Policy become effective when they are posted on this page. Contact Us
+If you have any concerns or questions, please feel free to email us at 360tool.ca@gmail.com, we strive to answer your questions as soon as possible.

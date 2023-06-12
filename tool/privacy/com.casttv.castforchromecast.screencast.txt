@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information used to identify user by third-party services",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Cookies"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information used to identify user by third-party services",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Cookies"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable security measures",
+      "description": "The developer strives to use commercially acceptable means of protecting user data"
+    },
+    {
+      "practice": "No guarantee of absolute security",
+      "description": "The developer cannot guarantee 100% secure and reliable transmission or storage of user data"
+    },
+    {
+      "practice": "Deletion of personal information of children under 13",
+      "description": "Children under 13 are not targeted by this app, and personal information provided by them will be deleted as soon as it is discovered"
+    },
+    {
+      "practice": "Notification of changes to privacy policy",
+      "description": "Users will be notified of any changes to the privacy policy"
+    }
+  ]
+}

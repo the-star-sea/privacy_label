@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Automatically collected information",
+      "optional": false,
+      "purpose": "Analytics, Security, System Integrity",
+      "type": "App activity"
+    },
+    {
+      "data": "Technical Information and Usage Information",
+      "optional": false,
+      "purpose": "Advertising, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact Information",
+      "optional": false,
+      "purpose": "Advertising, Analytics, Service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Transaction Information",
+      "optional": false,
+      "purpose": "Advertising, Analytics, Service",
+      "type": "Financial info"
+    },
+    {
+      "data": "Personal Information from Social Networks",
+      "optional": false,
+      "purpose": "Advertising, Analytics, Service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mobile devices advertising identifier",
+      "optional": false,
+      "purpose": "Analytics, Advertising",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Advertising, Analytics, Service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Automatically collected information",
+      "optional": false,
+      "purpose": "Analytics, Security, System Integrity",
+      "type": "App activity"
+    },
+    {
+      "data": "Third-party data",
+      "optional": false,
+      "purpose": "Advertising, Analytics, Service",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred through a secured connection"
+    },
+    {
+      "practice": "Data security measures are in place",
+      "description": "We have implemented reasonable and appropriate security measures to safeguard your personal information"
+    }
+  ]
+}

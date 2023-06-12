@@ -1,0 +1,92 @@
+{
+  "sharedData": [
+    {
+      "data": "Messages sent to customer service or by contacting us on social networks, Type of warning received by the user, Date of receipt of the warning by the user, Information contained in judicial requests, Complaint from a user (content, reason, date and time).",
+      "optional": false,
+      "purpose": "Management of messages, disputes, and inappropriate behavior",
+      "type": "Communications data"
+    },
+    {
+      "data": "User name, date of registration, such as country where the item is located, number of products sold, badges earned by a seller, seller's rating etc.",
+      "optional": false,
+      "purpose": "Access for other users",
+      "type": "Personal info"
+    },
+    {
+      "data": "Answers provided in response to surveys",
+      "optional": true,
+      "purpose": "Analyzing survey responses",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal data necessary for creating an account on the Platform",
+      "optional": false,
+      "purpose": "Account creation",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal data necessary for managing the account",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal data necessary for entering into contracts with us",
+      "optional": false,
+      "purpose": "Contract management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal data necessary for providing our services (direct shipping, integrated seller-buyer messaging service, integrated customer service messaging service, integrated negotiation tool, item controls etc.)",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal data necessary for analyzing user preferences and behavior on the Platform",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Data collected through cookies and tracers on the Platform",
+      "optional": true,
+      "purpose": "Cookie management",
+      "type": "Online activity"
+    },
+    {
+      "data": "Sensitive data",
+      "optional": true,
+      "purpose": "Not collected",
+      "type": "N/A"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Modification of the policy is possible at any time and the current version is available on the Platform",
+      "description": "Policy updates"
+    },
+    {
+      "practice": "Retention of data is limited in certain circumstances",
+      "description": "Retention period"
+    },
+    {
+      "practice": "Data is not sold to third parties",
+      "description": "Data sharing"
+    },
+    {
+      "practice": "Requesting data deletion is possible",
+      "description": "Data deletion"
+    },
+    {
+      "practice": "Prior transfer of data outside the EU is subject to appropriate safeguards",
+      "description": "Data transfer"
+    },
+    {
+      "practice": "Identity verification may be required for certain requests",
+      "description": "Identity verification"
+    }
+  ]
+}

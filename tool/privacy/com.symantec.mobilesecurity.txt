@@ -1,0 +1,61 @@
+{
+  "sharedData": [
+    {
+      "data": "Billing address",
+      "optional": false,
+      "purpose": "Transaction processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Credit card, debit card, and/or PayPal payment data",
+      "optional": false,
+      "purpose": "Transaction processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "National ID (region specific, if outside the United States), and VAT/Tax ID (regional specific, if outside the United States)",
+      "optional": false,
+      "purpose": "Transaction processing",
+      "type": "Government-issued ID"
+    },
+    {
+      "data": "Commercial information, such as information about the items you have purchased",
+      "optional": false,
+      "purpose": "Transaction processing",
+      "type": "Commercial info"
+    },
+    {
+      "data": "Internet or other electronic network activity information, such as diagnostic data, system logs, error reports, and product usage time",
+      "optional": false,
+      "purpose": "App functionality, Network and information security purposes, Cyber-threat intelligence",
+      "type": "App activity"
+    },
+    {
+      "data": "Blocked websites and device or phone settings",
+      "optional": false,
+      "purpose": "Network and information security purposes, Cyber-threat intelligence",
+      "type": "App activity"
+    },
+    {
+      "data": "Reviews from third parties",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Internet or other electronic network activity information about the individual web pages or products that you view, the purchases you make, what websites or search terms referred you to our Services, the dates and times of your visits, and other information about how you interact with our Services",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Personal data about friends and family through customer or employee referrals, or data about family members you include on your account",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Encryption, intrusion detection, and data loss prevention protocols

@@ -1,0 +1,34 @@
+{
+  "sharedData": [
+    {
+      "data": "Generic third-party services",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Generic third-party services"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Log data"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable security measures",
+      "description": "The developer strives to use commercially acceptable measures of preserving your Personal Information"
+    },
+    {
+      "practice": "No method of electronic storage is completely secure and trustworthy",
+      "description": "The developer cannot guarantee the perfect security of your data as no method of electronic storage is completely secure"
+    }
+  ]
+}

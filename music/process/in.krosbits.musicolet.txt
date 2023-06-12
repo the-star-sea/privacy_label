@@ -1,0 +1,63 @@
+Privacy
+policy
+Summary
+o This
+app does not collect any Personal or Sensitive information. o We,
+Krosbits, the developers: Refers to the proprietorship firm
+named Krosbits which is based in India, owned by Maulik Raviya and has
+developed this software and managing it. o You,
+the user: Refers to the user who is using this software and consuming
+the services provided by it. o The
+device: Refers to a physical/virtual device running on
+Android based operating system, and in which this app (Musicolet) is
+installed. User can control this from App >
+Menu > Settings > Song library and tags > Folders to scan. o Media
+files related audio-playing functionality: Refers to JPG and
+PNG files stored in Folders to scan containing the AlbumArt (cover photo of
+track/album), LRC files stored in Folders to scan (containing the Lyrics). Users
+have full control on which folders containing the audio files are read?. Note:
+Musicolet does not read any other types of files (non-media files, or
+media files which is not relevant to its audio-playing functionality. Other
+similar (Non-Personal and Non-Sensitive) data required for the various
+functionalities of the app. This
+data is used to create and maintain a music (audio) library locally on the
+device, to play audio, and for the various other functionalities of the app. These data are stored in a
+private folder in the device. ( Location of this folder is decided by the
+operating system). Other apps do not have access to this folder. These collected data are
+permanently deleted when the app is uninstalled or when the user clears app
+data from devices settings. o
+Sharing and disclosing of these data:
+Musicolet does not share
+these data with any other apps, services, person or organization. These data contain a log of system
+messages, including stack traces when the device throws an error and debug messages
+which were written by the app while user performs various action in the app. These data do not contain logs
+from other apps. These data do not contain any Personal and Sensitive
+Information. Thus, if
+users want to help the developers fixing some bugs/crash, Users have to send
+them to the developers manually via email or by other methods suggested
+by developers. o Manual
+Backups and Automatic backups:
+A feature of Musicolet provides users
+an ability to back up their Playlists, Favorites, Playback history (recently
+played, play-counts) and Settings in the form of a ZIP file (referred as
+Backup file or Backup). Manual backup files are
+stored in the internal storage of the device by default. ( In android 4.4+, users can create them in any folder they
+want. Sharing
+and disclosing of these data:
+This app does not
+(and cannot) send these backup files by its own. Interaction with other apps and services
+In order to provide some specific functionalities
+(mentioned below), Musicolet interacts with the following apps and services if
+they are installed on the device:
+o
+Cast Plug-in for Musicolet:
+ Cast
+Plug-in for Musicolet (referred as Cast Plug-in) is an app developed by
+Krosbits, which enabled Chromecast functionality in Musicolet. Musicolet
+does not send any Personal and Sensitive Information to this Cast Plug-in. o Musicolet
+can interact with Google Play Services if it is installed on the device. o Read
+the privacy
+policy of Google Play Services. Changes to This Privacy Policy
+We may update our Privacy
+Policy from time to time. Thus, you are advised to review this page
+periodically for any changes. This policy is effective as of 2021-08-10.

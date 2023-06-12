@@ -1,0 +1,46 @@
+Go Pro
+Brands
+Careers
+Help
+News
+Research
+Privacy Policy
+For more information about your access to and use of our services, please refer to our Terms of Service. Last Updated: Nov 21, 2018
+This Privacy Policy applies solely to information collected through the web site located at JioSaavn.com and our JioSaavn application (collectively, the web site and the app shall be referred to as the "Platform"); whether accessed via computer, mobile device or other technology. Quick Guide to Contents
+Special Message for European Users
+As you are probably aware, a new European law called the General Data Protection Regulation ("GDPR") gives certain rights to European users in relation to their personal data. Usage Information may include information collected in the following ways:
+Log Files: Information is logged about your use of the Platforms, including your browser type, operating system, activations, content you purchase, access, download or burn, access and listening times, the page served and the preceding page views. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by going to the setting feature on your Device and changing your preferences. In addition, we may receive information about you if other users of a third party application or website give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third party website or interactive service. JioSaavn's Partners and Service Providers: We may also receive information about you from our partners and service providers, (including, for example, business partners, analytics vendors, advertising networks and search information providers) which we use to personalize your JioSaavn experience, to measure ad quality and responses, and to display ads that are more likely to be relevant to you. How We Use the Information Collected
+We use the information about you to operate and maintain our Platform, and provide you with access to the Platform, including providing customer and technical support, processing payments and transactions, and tailoring content and advertising. Cookies
+Our Platform uses cookies (data files placed on a Device when it is used to visit the Platform)and/or other similar technologies such as [device-IDs], [in-App codes], mobile analytics software, pixel tags or web beacons (a transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed and may tell your browser to get content from another server) to collect and store certain information. This helps us to provide you with a good experience when you use our Platform and also allows us to improve our Platform. Most web browsers automatically accept cookies and similar technologies, but if you prefer, you can change your browser to prevent that and your help screen or manual will tell you how to do this. Click here to learn more about the legal reasons (Consent, Contract and Legitimate Interest) for which JioSaavn may collect this information under the GDPR. We use the following types of cookies:
+Strictly necessary cookies. Disabling Cookies
+The effect of disabling cookies depends on which cookies you disable but, in general, the website may not operate properly if all cookies are switched off. 2 years
+App
+B
+Functionality
+Uniquely identifies the browser of the user. Jan 1, 2023
+App
+FBM_REFERER
+Targeting / Advertising
+Identifies if the user came from Facebook. App
+device_id
+Functionality
+Identifies the device of the user. Session
+App
+latlong
+Functionality
+Used for storing the lat long of the user if explicitly provided
+20 years
+App
+LO
+Functionality
+Stores whether to show language options or not. 30 days
+App
+abpc
+Functionality
+Stores A/B test details and status of paywall. 30 days
+Mobile Web
+ctx_logging
+Functionality
+Stores parameters for data logging. Please note that even after opting out of targeted advertising, you will still see advertisements while youre browsing online, however they will not be targeted and may be less relevant to you and your interests, and we may still track your visits to the Platform for our own analytics, operations and security purposes. Sharing of Information
+The information collected or generated through your use of the Platform may be shared by you or by us as described below. Your information may also be used by us or shared with our sponsors, partners, advertisers, advertising networks, advertising servers, and analytics companies or other third parties in connection with marketing, promotional, and other offers, as well as product information, and for such third partys advertising, analytics and market research. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties. You may have certain rights in relation to your personal information depending on your local laws. You can also exercise the rights listed above at any time by contacting us at feedback@jiosaavn.com Privacy Officer's email address or other email contact]. Children
+The Platform is not directed to children under 13. We do not knowingly collect personal information from anyone under 13 years of age. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. Where your information is transferred outside the EEA, we will take all steps reasonably necessary to ensure that your data is subject to appropriate safeguards, such as relying on a recognised legal adequacy mechanism, and that it is treated securely and in accordance with this privacy policy.

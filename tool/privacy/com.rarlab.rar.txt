@@ -1,0 +1,49 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "File names and paths",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Activity data"
+    },
+    {
+      "data": "Archive passwords",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Sensitive information"
+    },
+    {
+      "data": "Device advertising ID",
+      "optional": false,
+      "purpose": "Analytics, Advertising",
+      "type": "Device identification"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Activity data"
+    },
+    {
+      "data": "Instance IDs",
+      "optional": false,
+      "purpose": "Crash reporting",
+      "type": "Device identification"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is not transferred outside of device",
+      "description": "RAR does not transfer locally stored information outside of the device"
+    },
+    {
+      "practice": "Usage data helps identify and fix RAR bugs",
+      "description": "Data collected by analytic services helps improve RAR functionality and correct errors"
+    },
+    {
+      "practice": "Permissions are used for app functionality",
+      "description": "RAR uses a limited set of permissions for app functionality and third party integrations"
+    }
+  ]
+}

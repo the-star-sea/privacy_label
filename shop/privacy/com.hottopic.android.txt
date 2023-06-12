@@ -1,0 +1,80 @@
+{
+  "sharedData": [
+    {
+      "data": "Communications with customer service",
+      "optional": false,
+      "purpose": "Customer service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Transaction information",
+      "optional": false,
+      "purpose": "Order processing and tracking",
+      "type": "Financial info"
+    },
+    {
+      "data": "IP address and online identifiers",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Social media account information",
+      "optional": false,
+      "purpose": "Personalization, Analytics",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Demographic information",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Transaction information",
+      "optional": false,
+      "purpose": "Order processing and tracking, Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Communications with customer service",
+      "optional": false,
+      "purpose": "Customer service, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies and similar technologies",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online activity"
+    },
+    {
+      "data": "Social media account information",
+      "optional": false,
+      "purpose": "Personalization, Analytics",
+      "type": "Online identifiers"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is stored securely",
+      "description": "Personal Information is stored securely on servers in the United States"
+    },
+    {
+      "practice": "Notifications are provided for material changes to the Privacy Policy",
+      "description": "Users are notified in a reasonable manner of any material changes to the Privacy Policy"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal data",
+      "optional": false,
+      "purpose": "Various",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial information",
+      "optional": false,
+      "purpose": "Payment and financial transactions",
+      "type": "Financial info"
+    },
+    {
+      "data": "Government ID data",
+      "optional": false,
+      "purpose": "Verification and security",
+      "type": "Government ID"
+    },
+    {
+      "data": "Account information",
+      "optional": false,
+      "purpose": "Account creation and management",
+      "type": "Account info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal health data",
+      "optional": false,
+      "purpose": "Health and fitness tracking",
+      "type": "Sensitive personal info"
+    },
+    {
+      "data": "Cookies and other technologies",
+      "optional": false,
+      "purpose": "Service optimization and personalization",
+      "type": "Cookies and other tracking technologies"
+    },
+    {
+      "data": "Subscriber ID",
+      "optional": false,
+      "purpose": "Developer or publisher reporting",
+      "type": "Unique identifier"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Administrative, technical, and physical safeguards",
+      "description": "Protecting personal data through various means"
+    },
+    {
+      "practice": "Compliance with data transfer laws",
+      "description": "Ensuring personal data is protected during transfers between countries"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality, Customers' orders and accounts",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mailing address",
+      "optional": false,
+      "purpose": "App functionality, Customers' orders and accounts, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Customers' orders and accounts, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "App functionality, Customers' orders and accounts, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Credit card or other payment information (including account numbers and expiration dates)",
+      "optional": false,
+      "purpose": "Customers' orders and accounts",
+      "type": "Financial info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online identifiers"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality, Customers' orders and accounts",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mailing address",
+      "optional": false,
+      "purpose": "App functionality, Customers' orders and accounts, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Customers' orders and accounts, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "App functionality, Customers' orders and accounts, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Credit card or other payment information (including account numbers and expiration dates)",
+      "optional": false,
+      "purpose": "Customers' orders and accounts",
+      "type": "Financial info"
+    },
+    {
+      "data": "Order information (ship-to name and address, if different than name and address)",
+      "optional": false,
+      "purpose": "Customers' orders and accounts",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device operating system",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Browser type",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online identifiers"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption of personal information",
+      "description": "Personal information is encrypted in transit and at rest"
+    },
+    {
+      "practice": "Access controls",
+      "description": "Access to personal information is restricted to authorized personnel only"
+    }
+  ]
+}

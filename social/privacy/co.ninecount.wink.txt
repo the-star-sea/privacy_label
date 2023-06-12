@@ -1,0 +1,12 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": []
+}

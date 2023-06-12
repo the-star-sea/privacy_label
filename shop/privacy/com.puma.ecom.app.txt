@@ -1,0 +1,20 @@
+{
+  "scope": "This Data Processing Information applies to the data processing activities carried out by PUMA SE on its App, as well as the processing of personal data of App users and customers within Canada by PUMA North America, Inc.",
+  "dataController": {
+    "name": "PUMA SE",
+    "address": "Somerville, MA 02145",
+    "email": "usprivacy@puma.com"
+  },
+  "dataProtectionOfficer": {
+    "email": "usprivacy@puma.com"
+  },
+  "definitions": {
+    "App": "the mobile application provided by PUMA SE",
+    "App users": "individuals who use the App",
+    "Personal data": "any information relating to an identified or identifiable natural person (data subject)",
+    "Controller": "the natural or legal person, public authority, agency, or other body that determines the purposes and means of processing personal data",
+    "GDPR": "General Data Protection Regulation",
+    "Canada": "refers to App users and customers located within Canada",
+    "PUMA Affiliate": "the PUMA Group entity responsible for processing personal data of App users and customers within a particular jurisdiction"
+  }
+}

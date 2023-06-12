@@ -1,0 +1,116 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User name",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing communications",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Mailing address",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Internet Protocol (IP) address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Device identifier",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Advertising identifier",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "MAC address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Operating system",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Browser type",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Language preferences",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Referring and exiting pages",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Purchasing activity",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data retention policy",
+      "description": "We retain your personal information for as long as necessary to achieve the purposes stated in this Policy or to comply with the applicable law"
+    },
+    {
+      "practice": "Security measures",
+      "description": "We adopt standard practices in the internet industry to protect your personal information from unauthorized access, disclosure, use, alteration, and corruption or loss"
+    }
+  ]
+}

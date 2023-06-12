@@ -1,0 +1,29 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Cookies and Usage Data",
+      "optional": false,
+      "purpose": "Service provision, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage Data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Service provision, Analytics",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Strive to use commercially acceptable means to protect personal data",
+      "description": "The service implements security measures to protect personal data"
+    }
+  ]
+}

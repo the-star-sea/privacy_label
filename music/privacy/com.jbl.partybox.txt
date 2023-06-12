@@ -1,0 +1,58 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Marketing and advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "E-mail address",
+      "optional": false,
+      "purpose": "Marketing and advertising, Required disclosures",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mobile number",
+      "optional": false,
+      "purpose": "Required disclosures",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Marketing and advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "E-mail address",
+      "optional": false,
+      "purpose": "Marketing and advertising, Required disclosures",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mobile number",
+      "optional": false,
+      "purpose": "Required disclosures",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data related to user interactions with the site",
+      "optional": false,
+      "purpose": "Data analytics, Tailoring advertising",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Technical, administrative, and physical security measures in place",
+      "description": "HARMAN has implemented measures to protect Personal Information from unauthorized access or disclosure and improper use"
+    },
+    {
+      "practice": "Global data storage",
+      "description": "The location where HARMAN stores Personal Information collected outside of the Site may vary depending on the user's country of residence"
+    }
+  ]
+}

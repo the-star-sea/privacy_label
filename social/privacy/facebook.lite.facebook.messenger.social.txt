@@ -1,0 +1,21 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Device information (including cookies and tracking technologies)",
+      "optional": false,
+      "purpose": "Provide and improve the Service, Analytics",
+      "type": "Device information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is transferred securely",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Reasonable steps taken to protect personal data",
+      "description": "The developer strives to use commercially acceptable means to protect your Personal Data"
+    }
+  ]
+}

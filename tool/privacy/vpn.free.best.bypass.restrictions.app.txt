@@ -1,0 +1,27 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Error monitoring and debugging",
+      "type": "App activity"
+    },
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Providing and improving the Service",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "We strive to use commercially acceptable means to protect user data",
+      "description": "We value the trust of our users and are committed to protecting their data using commercially reasonable methods"
+    },
+    {
+      "practice": "No method of transmission over the internet or method of electronic storage is 100% secure",
+      "description": "We cannot guarantee the absolute security of user data, but we will take reasonable steps to protect it"
+    }
+  ]
+}

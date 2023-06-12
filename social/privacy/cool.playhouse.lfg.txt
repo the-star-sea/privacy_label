@@ -1,0 +1,57 @@
+{
+  "sharedData": [
+    {
+      "data": "Username, date of birth and gender",
+      "optional": false,
+      "purpose": "Account creation, App functionality",
+      "type": "Account info"
+    },
+    {
+      "data": "Bio, profile picture, phone number, email, and/or other social network information",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Account info and personal info"
+    },
+    {
+      "data": "Billing information including name, billing address, credit card or other payment information, and billing email",
+      "optional": false,
+      "purpose": "App functionality, Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Contact information and correspondence",
+      "optional": false,
+      "purpose": "Customer support",
+      "type": "Contact info"
+    },
+    {
+      "data": "Log and usage information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Information collected by cookies and similar technologies",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Information other users provide about you when using the app and/or services",
+      "optional": false,
+      "purpose": "App functionality, Social networking",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ]
+}

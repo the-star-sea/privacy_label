@@ -1,0 +1,118 @@
+{
+  "sharedData": [
+    {
+      "data": "Video chat durations",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Text messages",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Personal communications"
+    },
+    {
+      "data": "Usage by geographies",
+      "optional": false,
+      "purpose": "Service functionality, Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Device and connection information",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Service functionality, Analytics",
+      "type": "Online identifier"
+    },
+    {
+      "data": "Device capability",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Bandwidth",
+      "optional": false,
+      "purpose": "Service functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Statistics on page views",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Network type",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Error-reporting information",
+      "optional": false,
+      "purpose": "Service functionality, App performance improvement",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Profile information",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Profile information",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Connection with others on the Service",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Personal communications"
+    },
+    {
+      "data": "Usage of certain features of the Service",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Proximity to other users",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Personal information shared with third-party service providers",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information collected by third-party providers",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Restricted access to personally identifiable information",
+      "description": "Access to personally identifiable information is restricted to Unearby Inc. and SayHi employees, contractors, agents, and third-party service providers who need to know that information in order to provide, operate, develop, maintain, support or improve the Service."
+    },
+    {
+      "practice": "International data transfer",
+      "description": "Unearby Inc. and SayHi reserve the right to transfer information (including personal information) outside of your country."
+    }
+  ]
+}

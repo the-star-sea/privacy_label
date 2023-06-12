@@ -1,0 +1,21 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Error reporting, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is stored on the user's device",
+      "description": "The information collected is retained on the user's device"
+    },
+    {
+      "practice": "Commercially acceptable security measures are used",
+      "description": "The developer strives to use commercially acceptable security measures to protect personal information"
+    }
+  ]
+}

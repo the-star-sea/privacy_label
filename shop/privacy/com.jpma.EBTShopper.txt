@@ -1,0 +1,37 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Product inquiry history",
+      "optional": false,
+      "purpose": "Core functionality of the mobile application, Evaluating system performance and effectiveness, Mapping inquiry trends, Identifying improper usage of the application",
+      "type": "App activity"
+    },
+    {
+      "data": "EBT/WIC benefit information (online EBT)",
+      "optional": false,
+      "purpose": "Core functionality of the mobile application",
+      "type": "Personal info"
+    },
+    {
+      "data": "Non-personally identifiable information",
+      "optional": false,
+      "purpose": "Sharing with WIC agency and/or the US Department of Agriculture for program and product inquiry statistics",
+      "type": "Analytics"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "EBT/WIC benefit information is transmitted through a secure https encrypted transmission"
+    },
+    {
+      "practice": "WICShopper does not hold benefit information or personal information on their servers",
+      "description": "At no time does WICShopper hold EBT/WIC benefit information or personal information in the WICShopper server"
+    },
+    {
+      "practice": "Privacy policy may be changed without notice",
+      "description": "Any changes to the privacy policy will be posted at the location (https://ebtshopper.com/privacypolicy)"
+    }
+  ]
+}

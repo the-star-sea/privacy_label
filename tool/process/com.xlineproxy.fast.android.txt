@@ -1,0 +1,24 @@
+Privacy Policy
+This page is used to inform visitors of my policy on the collection, use and disclosure of personal information. If you choose to use my services, you agree to the collection and use of information in connection with this policy. The personal information I collect is used to provide and improve the service. Personal Information
+Our application is a non-obligatory logging network. With few exceptions, we do not collect any personal information about you automatically. That is, we do not collect any information about the websites you visit or any data stored on or transmitted from your device, including any data that applications on your device may transmit over a VPN network. More specifically, with limited connection to your personal information and without collecting the websites you visit or any data stored on or transmitted from your device, LineProxy Team does not have the following files/information:
+We do not know which user ever visited a particular website or service. We do not know the user's computer's original set of IP addresses or temporarily assigned network addresses. It enables our support team to efficiently identify and resolve technical issues for you. Connection related information
+We collect information about whether the VPN connection was successful on a specific day (but not a specific time of day), to which VPN location (but not your assigned outgoing IP address), and from which country/ISP (but not your source) IP address). Minimal information enables us to provide you with effective technical support, such as identifying connectivity issues, providing country-specific advice on how to use our VPN service, and enabling our engineers to identify and fix network issues. Anonymous data for web diagnostics, research and analysis
+When you become one of the users of our VPN service, with your permission, we collect minimal usage statistics and anonymous analytics data for network diagnostics in our network operations tools to optimize network speed and allow us to identify Issues related to the following are specific to the application, VPN server, or ISP. Use and sharing of information
+We use the information we collect in a variety of ways, including:
+provide, operate and maintain our Services;
+improve, personalize and expand our Services;
+understand and analyze how you use our services;
+develop new products, services, features and functionality;
+Communicate with you directly or through one of our partners, including for customer service, to provide you with service-related updates and other information, and for marketing and promotional purposes;
+Detect and prevent fraud. To learn more about these programs, please visit:
+Google Play Services: https://policies.google.com/privacy
+AdMob: https://policies.google.com/privacy
+Google Analytics for Firebase: https://firebase.google.com/policies/analytics
+Pangle Ads: https://www.pangleglobal.com/privacy
+Facebook: https://www.facebook.com/about/privacy/update/printable
+4. Data retention
+We will retain personal information collected from you for as long as we have an ongoing legitimate business need. When we have no ongoing legitimate business need to process your personal information, we will delete it. Or securely store your personal information until it can be deleted. Depending on how you contact us, we may collect your email address and any other information you provide to us. Having a full record of correspondence allows us to provide the best possible customer support experience. Security measures
+The LineProxy team is committed to protecting your information. We use state-of-the-art physical, procedural and technical security measures in our offices and information storage facilities to protect information from loss, misuse, unauthorized access, disclosure or modification. Access to user information is limited to those employees who require such access to perform their job functions. Servers are located in data centers with strong security measures. If any data center requires us to record such data, we will immediately cease operations with that data center and find an alternative. Third Party Services
+You can access other third-party services while using the VPN service, for example by clicking on links to those third-party services within the service. Children's Privacy
+This product is not intended for minors (or an equivalent minimum age under the laws of EU Member States). We will take relevant technical measures and do our best to verify whether the processing of minors' information has obtained the consent of their guardians. International data transfers
+LineProxy Team is a global business. We may transfer personal information to countries other than the country in which the data was originally collected. Your continued use of our services constitutes your acceptance of our Privacy Policy.

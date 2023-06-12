@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "First and Last Name",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email id",
+      "optional": false,
+      "purpose": "App functionality, Account management, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Primary Phone No.",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Contact info"
+    },
+    {
+      "data": "Geo-location information like IP addresses",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Cookies"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "First and Last Name",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email id",
+      "optional": false,
+      "purpose": "App functionality, Account management, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Primary Phone No.",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Contact info"
+    },
+    {
+      "data": "Geo-location information like IP addresses",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Cookies"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Administrative, technical, and physical security measures",
+      "description": "We implement and update security measures to protect your information against unauthorized access, loss, destruction, or alteration"
+    },
+    {
+      "practice": "Compliance with laws and standards",
+      "description": "We ensure compliance with applicable laws and standards such as standard contractual clauses approved by the European Commission"
+    }
+  ]
+}

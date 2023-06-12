@@ -1,0 +1,88 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "App functionality, Registration, Account security",
+      "type": "Personal info"
+    },
+    {
+      "data": "User information",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "User info"
+    },
+    {
+      "data": "Camera or microphone access permission",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Device data"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Subscription orders",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Registration information",
+      "optional": false,
+      "purpose": "Registration, Account security",
+      "type": "Personal info"
+    },
+    {
+      "data": "Third-party account information",
+      "optional": false,
+      "purpose": "Registration, App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Technical information",
+      "optional": false,
+      "purpose": "App functionality, Payment processing",
+      "type": "App activity"
+    },
+    {
+      "data": "Virtual gold coins and points",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Financial info"
+    },
+    {
+      "data": "Device identifiers and location data",
+      "optional": false,
+      "purpose": "App functionality, Third-party service integration",
+      "type": "Device data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted with strong encryption algorithms",
+      "description": "Personal data is encrypted with proper and strong encryption algorithms, including hashing where possible."
+    },
+    {
+      "practice": "Data security measures are implemented",
+      "description": "Appropriate technical and organizational measures are designed to implement data-protection principles in an effective manner and to integrate necessary safeguards into processing."
+    },
+    {
+      "practice": "Data breaches are promptly notified",
+      "description": "In the event that personal information is compromised as a breach of security, affected users are promptly notified in compliance with applicable law."
+    },
+    {
+      "practice": "Data can be deleted upon request",
+      "description": "Users can request deletion of personal information and account closure by contacting the company."
+    },
+    {
+      "practice": "Users have certain rights under EEA",
+      "description": "Users in EEA have certain rights to access, rectify, erase, restrict or object to processing of their personal information, and to receive a copy thereof."
+    }
+  ]
+}

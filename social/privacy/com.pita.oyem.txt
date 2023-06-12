@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Mobile device unique ID",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "IP address of mobile device",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "IP address"
+    },
+    {
+      "data": "Mobile operating system",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Mobile Internet browser",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Personal data including identity information and account information",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal data including identity information and account information",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Diagnostic data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Cookies data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Cookies data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Reasonable security measures are taken to protect your data",
+      "description": "We strive to use commercially acceptable means to protect your Personal Data"
+    },
+    {
+      "practice": "Third-party services are used for monitoring and analyzing",
+      "description": "Third-party Service Providers may monitor and analyze the use of our Service"
+    }
+  ]
+}

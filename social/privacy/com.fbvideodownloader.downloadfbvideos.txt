@@ -1,0 +1,45 @@
+{
+  "sharedData": [
+    {
+      "data": "Current location",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Camera",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Calendar events",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "No logging of user activity",
+      "description": "Data such as app history, traffic objective or DNS demands is not logged"
+    },
+    {
+      "practice": "Encryption of personal data",
+      "description": "Sensitive data is encrypted to ensure secure processing and storage"
+    },
+    {
+      "practice": "Limited access to customer data",
+      "description": "Access to customer data is restricted to employees who require it to perform their work functions"
+    },
+    {
+      "practice": "Data is stored securely",
+      "description": "Employee data is stored in server farms with strong security practices in place"
+    },
+    {
+      "practice": "Compliance with GDPR",
+      "description": "The company is committed to protecting customer privacy worldwide, and only collects a minimal amount of data"
+    }
+  ]
+}

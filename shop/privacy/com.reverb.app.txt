@@ -1,0 +1,84 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Username",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Postal address",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Telephone number",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Pictures",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Sensory visual data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Age",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Demographics"
+    },
+    {
+      "data": "Gender",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Demographics"
+    },
+    {
+      "data": "Public information",
+      "optional": true,
+      "purpose": "App functionality, Advertising or marketing",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is stored securely",
+      "description": "All information you provide to us is stored on our secure servers behind firewalls"
+    },
+    {
+      "practice": "Password protection",
+      "description": "You are responsible for keeping your password confidential"
+    },
+    {
+      "practice": "Data breach notification",
+      "description": "If you suspect a data breach, please contact us through our Help Center"
+    }
+  ]
+}

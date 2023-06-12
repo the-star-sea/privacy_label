@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online identifier"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online identifier"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Contact information",
+      "optional": false,
+      "purpose": "Service functionality, Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Unique device identifiers",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Precise location information",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is stored securely",
+      "description": "Your data is stored securely and access is restricted to authorized personnel"
+    },
+    {
+      "practice": "Data usage is transparent",
+      "description": "We have provided clear information on data collection, use, and sharing practices in our privacy policy"
+    }
+  ]
+}

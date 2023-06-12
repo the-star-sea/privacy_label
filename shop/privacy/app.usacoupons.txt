@@ -1,0 +1,48 @@
+{
+  "sharedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Voluntarily provided information",
+      "optional": false,
+      "purpose": "App functionality, Contacting user",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Voluntarily provided information",
+      "optional": false,
+      "purpose": "App functionality, Contacting user",
+      "type": "Personal info"
+    },
+    {
+      "data": "Automatically collected personal information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "General information or research data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is protected within commercially acceptable means",
+      "description": "Personal information is protected to prevent loss and theft, as well as unauthorized access, disclosure, copying, use, or modification"
+    }
+  ]
+}

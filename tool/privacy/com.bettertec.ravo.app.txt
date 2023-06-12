@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Establishing a RavoVPN account, Payment processing, Marketing purposes",
+      "type": "Personal info"
+    },
+    {
+      "data": "Server load information",
+      "optional": false,
+      "purpose": "Improving RavoVPN services",
+      "type": "Server performance"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Improving user experience",
+      "type": "Cookies"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Payment data",
+      "optional": false,
+      "purpose": "Collecting payments for RavoVPN services",
+      "type": "Financial info"
+    },
+    {
+      "data": "Google Analytics data",
+      "optional": false,
+      "purpose": "Statistical assessment and website performance improvement",
+      "type": "Analytics"
+    },
+    {
+      "data": "Affiliate cookies",
+      "optional": false,
+      "purpose": "Identifying customers referred to the Site by partners",
+      "type": "Cookies"
+    },
+    {
+      "data": "Personalized cookies",
+      "optional": false,
+      "purpose": "Personalizing content of the Site for users",
+      "type": "Cookies"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "No logs policy",
+      "description": "RavoVPN does not store connection time stamps, session information, used bandwidth, traffic logs, IP addresses or other data"
+    },
+    {
+      "practice": "Protecting online traffic",
+      "description": "Any online traffic coming from user's device is no longer visible to ISP, third-party snoopers or cyber criminals"
+    },
+    {
+      "practice": "Server performance monitoring",
+      "description": "Monitoring server performance in order to recommend the most suitable servers to customers"
+    },
+    {
+      "practice": "Cookies management",
+      "description": "Allowing users to set up warnings for every time the Site places a cookie in their browser or disable all cookies through browser settings"
+    },
+    {
+      "practice": "Data protection rights",
+      "description": "Providing users the right to request information, changes or correction of inaccurate information, object to certain processing of personal data, provide a copy of personal data, transmit personal data to another controller, or erase personal data; allowing users to withdraw consent to the processing of personal data at any time"
+    }
+  ]
+}

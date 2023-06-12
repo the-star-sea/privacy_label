@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information, including name, contact information, and purchase history",
+      "optional": false,
+      "purpose": "To provide products and services, responding to customer feedback, and sharing data with partners",
+      "type": "Personal info, Financial info"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Facilitate purchases and participation in a loyalty program, and for location-based services",
+      "type": "Location"
+    },
+    {
+      "data": "Social media posts",
+      "optional": false,
+      "purpose": "Marketing and advertising purposes",
+      "type": "Social media info"
+    },
+    {
+      "data": "Driver's license information",
+      "optional": true,
+      "purpose": "As permitted by applicable law",
+      "type": "Government ID"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Purchasing or consuming histories, behaviors or tendencies",
+      "optional": false,
+      "purpose": "To provide products and services, improve customer experience, and for marketing purposes",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "We limit our use or disclosure of sensitive personal information as defined in applicable California law for permitted business purposes",
+      "description": "Sensitive personal information is used and disclosed only as necessary for business-related purposes"
+    },
+    {
+      "practice": "We strive to comply with the provisions of COPPA (The Children's Online Privacy Protection Act) and do not knowingly collect personally identifiable data from persons under the age of 16",
+      "description": "We do not intentionally collect information from children under 16 without parental consent"
+    },
+    {
+      "practice": "We will not discriminate against you because you exercised your rights under the Privacy Policy",
+      "description": "We will not treat you differently if you choose to exercise your privacy rights under the Privacy Policy"
+    }
+  ]
+}

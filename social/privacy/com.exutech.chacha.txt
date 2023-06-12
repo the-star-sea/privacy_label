@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Username and name",
+      "optional": false,
+      "purpose": "Communication with other users",
+      "type": "Personal info"
+    },
+    {
+      "data": "Log information",
+      "optional": false,
+      "purpose": "Improving and enforcing security measures",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information shared voluntarily",
+      "optional": false,
+      "purpose": "Communication with other users",
+      "type": "Personal info"
+    },
+    {
+      "data": "User-generated content (photos, comments, etc.)",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Log information (pages visited, etc.)",
+      "optional": false,
+      "purpose": "Improving and enforcing security measures",
+      "type": "App activity"
+    },
+    {
+      "data": "Personal Information shared with third parties",
+      "optional": false,
+      "purpose": "Third-party integrations, co-branded or third-party-branded services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Providing, securing, and improving services",
+      "type": "Cookies and usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Limiting access to user information",
+      "description": "Access to user information is restricted to necessary personnel."
+    },
+    {
+      "practice": "Protecting user data during a business transaction",
+      "description": "If the company undergoes a transaction, user data may be shared with the acquiring company."
+    },
+    {
+      "practice": "Allowing users to delete their account and data",
+      "description": "Users may request deletion of their account and data, subject to legal requirements."
+    },
+    {
+      "practice": "Obtaining user consent for third-party services",
+      "description": "Third-party services integrated with HOLLA require user consent before accessing personal information."
+    },
+    {
+      "practice": "Using cookies for necessary site functionality",
+      "description": "Cookies are used for necessary site functionality and do not require user consent."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "sharedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Improving product experience",
+      "type": "Device info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Google Advertising ID",
+      "optional": false,
+      "purpose": "Advertising and analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Demographic data",
+      "optional": false,
+      "purpose": "Advertising and analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data to fight against fraud",
+      "optional": false,
+      "purpose": "Advertising and analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data associated with your device",
+      "optional": false,
+      "purpose": "Advertising and analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Data to do advertising, marketing and analysis",
+      "optional": false,
+      "purpose": "Advertising and analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Advertising and analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Content of feedback",
+      "optional": false,
+      "purpose": "Advertising and analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Content of questionnaire",
+      "optional": false,
+      "purpose": "Advertising and analytics",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    }
+  ]
+}

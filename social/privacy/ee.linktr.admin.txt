@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality, Contact purposes",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Contact purposes, Marketing communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "User data (location, preferences, interactions, etc.)",
+      "optional": false,
+      "purpose": "Platform and Linktree Services improvement, Analytics, User recommendations, Localized content, Targeted content",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality, Contact purposes",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Contact purposes, Marketing communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "User data (location, preferences, interactions, etc.)",
+      "optional": false,
+      "purpose": "Platform and Linktree Services improvement, Analytics, User recommendations, Localized content, Targeted content",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Payment card details are not stored or collected",
+      "description": "Payment processors adhere to payment card industry data security standards"
+    },
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "Personal information is protected during transmission and storage"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "Service enhancements",
+      "type": "Location"
+    },
+    {
+      "data": "Unique device identifiers, mobile device unique ID, advertising ID",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Cookies and tracking data",
+      "optional": true,
+      "purpose": "Analytics, Service enhancements",
+      "type": "Cookies and tracking data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics, Service enhancements",
+      "type": "Usage data"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Service enhancements",
+      "type": "Location"
+    },
+    {
+      "data": "Cookies and tracking data",
+      "optional": false,
+      "purpose": "Analytics, Service enhancements",
+      "type": "Cookies and tracking data"
+    },
+    {
+      "data": "Personal data",
+      "optional": false,
+      "purpose": "Service enhancements",
+      "type": "Personal data"
+    },
+    {
+      "data": "Information provided for payment processing",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is treated securely and with adequate controls",
+      "description": "Kraftwerk 9 Inc takes all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information."
+    },
+    {
+      "practice": "Third-party service providers adhere to PCI-DSS standards",
+      "description": "Our third-party payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council."
+    }
+  ]
+}

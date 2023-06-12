@@ -1,0 +1,39 @@
+Privacy Policy of Scanner Radio for Android
+This Application collects some Personal Data from its Users. Such initiatives allow Users to select their tracking preferences for most of the advertising tools. The Owner thus recommends that Users make use of these resources in addition to the information provided in this document. Users may also opt-out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general. Further information about the processing of Personal Data
+Push notifications
+This Application may send push notifications to the User. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (opt-out), without having to rely on consent or any other of the following legal bases. Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. Once the retention period expires, Personal Data shall be deleted. The purposes of processing
+The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following:
+Analytics, Location-based interactions, Advertising, Hosting and backend infrastructure, Infrastructure monitoring, Managing support and contact requests, Content performance and features testing (A/B testing) and Managing contacts and sending messages. Personal Data processed: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data. Place of processing:
+US 
+Privacy Policy  Opt Out. Place of processing:
+Germany 
+Privacy Policy. Place of processing:
+United States 
+Privacy Policy. Personal Data processed: Tracker; Usage Data. Mintegral
+(Mintegral international limited)
+Mintegral
+is an advertising service provided by Mintegral international limited. Place of processing:
+China 
+Privacy Policy  Opt out. ironSource (ironSource Ltd.)
+ironSource is an advertising service provided by ironSource Ltd.
+Personal Data processed: Tracker; Usage Data. Vungle (Vungle, Inc.)
+Vungle is an advertising service provided by Vungle, Inc.
+Personal Data processed: Tracker; Usage Data. Flurry Analytics (Flurry, Inc.)
+Flurry Analytics is an analytics service provided by Yahoo! The analytics service tracking will stop across all applications within the Flurry network. Hosting and backend infrastructure
+This type of service has the purpose of hosting data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Personal Data processed: Usage Data; various types of Data as specified in the privacy policy of the service. Firebase Cloud Messaging (Google LLC)
+Firebase Cloud Messaging is a message sending service provided by Google LLC. Zendesk (Zendesk)
+Zendesk is a support and contact request management service provided by Zendesk Inc.
+Personal Data processed: various types of Data as specified in the privacy policy of the service. Information on opting out of interest-based advertising
+In addition to any opt-out feature provided by any of the services listed in this document, Users may follow the instructions provided by
+YourOnlineChoices (EU),
+the Network Advertising Initiative (US) and
+the Digital Advertising Alliance (US),
+DAAC (Canada),
+DDAI (Japan)
+or other similar initiatives. Further details are provided in the dedicated section below. Applicability of broader protection standards
+While most provisions of this document concern all Users, some provisions expressly only apply if the processing of Personal Data is subject to broader protection standards. Such broader protection standards apply when the processing:
+is performed by an Owner based within the EU;
+concerns the Personal Data of Users who are in the EU and is related to the offering of paid or unpaid goods or services, to such Users;
+concerns the Personal Data of Users who are in the EU and allows the Owner to monitor such Users behavior taking place in the EU. How Do Not Track requests are handled
+This Application does not support Do Not Track requests. Data Controller (or Owner)
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Application.

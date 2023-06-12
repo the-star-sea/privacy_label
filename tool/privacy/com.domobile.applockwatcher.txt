@@ -1,0 +1,138 @@
+{
+  "sharedData": [
+    {
+      "data": "Mobile device brand",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Mobile device model",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Mobile device operating system",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Mobile device system version",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Mobile device Bluetooth settings",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Internet connection",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "RAM",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Installed applications",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Running applications in the background",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Mobile device advertising ID",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Device info"
+    },
+    {
+      "data": "Activation time and country code of the device",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Player profile information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Game progress information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "IMEI code",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Analytics data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Analytics data"
+    },
+    {
+      "data": "Partner-collected data",
+      "optional": false,
+      "purpose": "Partner data collection",
+      "type": "Partner-collected data"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Cookies"
+    },
+    {
+      "data": "Tracking pixels within ads",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Tracking pixels"
+    },
+    {
+      "data": "Information provided by the user",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "Data is encrypted for secure transfer"
+    },
+    {
+      "practice": "Data access restrictions",
+      "description": "Data access is restricted to authorized personnel only"
+    },
+    {
+      "practice": "Third-party privacy policies",
+      "description": "Users are encouraged to review the privacy policies of third-party websites"
+    },
+    {
+      "practice": "User consent for cookies",
+      "description": "Users provide consent for the collection of cookies"
+    }
+  ]
+}

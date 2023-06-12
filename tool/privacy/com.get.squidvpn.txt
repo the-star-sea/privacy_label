@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Providing virtual or proxy IP address, approximate location, analytics",
+      "type": "Internet information"
+    },
+    {
+      "data": "Contact information (optional)",
+      "optional": true,
+      "purpose": "Providing customer service",
+      "type": "Personal information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Providing virtual or proxy IP address, approximate location, analytics",
+      "type": "Internet information"
+    },
+    {
+      "data": "Online activities",
+      "optional": false,
+      "purpose": "Providing and improving services, analytics",
+      "type": "Internet information"
+    },
+    {
+      "data": "Device advertising ID, IMEI, MAC address, and wireless carrier",
+      "optional": false,
+      "purpose": "Advertising, analytics",
+      "type": "Device information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Traffic encryption using TLS 1.2 with perfect 256-bit AES data encryption",
+      "description": "All traffic is encrypted between device and servers"
+    },
+    {
+      "practice": "No storage, logging, or sharing of true IP address",
+      "description": "Daily Vpn never associates true IP address with browsing information or online activities and deletes it after VPN session is closed"
+    }
+  ]
+}

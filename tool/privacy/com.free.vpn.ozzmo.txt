@@ -1,0 +1,124 @@
+{
+  "sharedData": [
+    {
+      "data": "Address",
+      "optional": false,
+      "purpose": "Contact and identification",
+      "type": "Personal Data"
+    },
+    {
+      "data": "Country",
+      "optional": false,
+      "purpose": "Contact and identification",
+      "type": "Personal Data"
+    },
+    {
+      "data": "State",
+      "optional": false,
+      "purpose": "Contact and identification",
+      "type": "Personal Data"
+    },
+    {
+      "data": "Province",
+      "optional": false,
+      "purpose": "Contact and identification",
+      "type": "Personal Data"
+    },
+    {
+      "data": "ZIP/Postal code",
+      "optional": false,
+      "purpose": "Contact and identification",
+      "type": "Personal Data"
+    },
+    {
+      "data": "City",
+      "optional": false,
+      "purpose": "Contact and identification",
+      "type": "Personal Data"
+    },
+    {
+      "data": "Internet Protocol address (IP address)",
+      "optional": false,
+      "purpose": "Usage and analytics",
+      "type": "Usage Data"
+    },
+    {
+      "data": "Browser type",
+      "optional": false,
+      "purpose": "Usage and analytics",
+      "type": "Usage Data"
+    },
+    {
+      "data": "Browser version",
+      "optional": false,
+      "purpose": "Usage and analytics",
+      "type": "Usage Data"
+    },
+    {
+      "data": "Pages visited on the Service",
+      "optional": false,
+      "purpose": "Usage and analytics",
+      "type": "Usage Data"
+    },
+    {
+      "data": "Date and time of visit",
+      "optional": false,
+      "purpose": "Usage and analytics",
+      "type": "Usage Data"
+    },
+    {
+      "data": "Time spent on pages",
+      "optional": false,
+      "purpose": "Usage and analytics",
+      "type": "Usage Data"
+    },
+    {
+      "data": "Unique device identifiers",
+      "optional": false,
+      "purpose": "Usage and analytics",
+      "type": "Usage Data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Data",
+      "optional": false,
+      "purpose": "Contact and identification",
+      "type": "Personal Data"
+    },
+    {
+      "data": "Cookie data",
+      "optional": false,
+      "purpose": "Usage and analytics",
+      "type": "Tracking Cookies Data"
+    },
+    {
+      "data": "Billing and collection information",
+      "optional": false,
+      "purpose": "Billing and collection",
+      "type": "Personal Data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "We use cookies and similar tracking technologies",
+      "description": "We use cookies and similar tracking technologies to track the activity on our Service."
+    },
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "We aim to take reasonable steps to protect Personal Data and have implemented technical and organizational measures such as SSL/TLS encryption to secure the Service."
+    },
+    {
+      "practice": "Third-party service providers may access Personal Data",
+      "description": "Third-party service providers may have access to Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose."
+    },
+    {
+      "practice": "We do not knowingly collect personally identifiable information from children under 13",
+      "description": "We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us."
+    },
+    {
+      "practice": "We comply with the California Consumer Privacy Act (CCPA)",
+      "description": "Your data protection rights, described above, are covered by CCPA."
+    }
+  ]
+}

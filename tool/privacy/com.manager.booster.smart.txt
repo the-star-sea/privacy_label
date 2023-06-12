@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "IP Addresses",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Device info"
+    },
+    {
+      "data": "Device ID",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Device info"
+    },
+    {
+      "data": "Advertiser ID",
+      "optional": false,
+      "purpose": "Advertising or marketing, Analytics, Fraud prevention, security, and compliance",
+      "type": "Device info"
+    },
+    {
+      "data": "Browser type and settings",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Device info"
+    },
+    {
+      "data": "Device type and settings",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Device info"
+    },
+    {
+      "data": "Operating system",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Device info"
+    },
+    {
+      "data": "Aggregated analytical data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Analytics data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Industry-standard security measures are implemented",
+      "description": "Industry-standard security measures are intended to protect against the loss, misuse, and alteration of the information under their control"
+    },
+    {
+      "practice": "Data transmission over the Internet is not guaranteed to be 100% secure",
+      "description": "Data transmission over the Internet can't be guaranteed to be 100% secure"
+    },
+    {
+      "practice": "Personal data is processed and stored as long as required for the purpose they have been collected for",
+      "description": "Personal data is processed and stored as long as required for the purpose they have been collected for"
+    },
+    {
+      "practice": "Strict policies control the access and usage of such data",
+      "description": "Strict policies control the access and usage of such data"
+    },
+    {
+      "practice": "Users can request to have their information deleted",
+      "description": "Users can contact the company to have their information deleted"
+    }
+  ]
+}

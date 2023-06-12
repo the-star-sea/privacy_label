@@ -1,0 +1,44 @@
+{
+  "sharedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Usage data"
+    },
+    {
+      "data": "Personal data (name, contact information)",
+      "optional": false,
+      "purpose": "Account management, Requests management",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal data (name, contact information)",
+      "optional": false,
+      "purpose": "Account management, Requests management, Purchase contract management, Business transfers",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics, Service monitoring and analysis",
+      "type": "Usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is stored securely",
+      "description": "Your data is stored using commercially acceptable means to protect it"
+    },
+    {
+      "practice": "Children's privacy is respected",
+      "description": "The Service does not knowingly collect personal information from children under 13"
+    }
+  ]
+}

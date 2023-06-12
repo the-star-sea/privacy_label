@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Advertising or marketing, Personalization",
+      "type": "Financial info"
+    },
+    {
+      "data": "Cookies and other tracking technologies",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Online identifiers and tracking info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name and email address (if created using third party login)",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Online activity such as browsing and usage information",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "IP address and device information",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "Online identifiers and device info"
+    },
+    {
+      "data": "Information disclosed as required by law",
+      "optional": false,
+      "purpose": "Compliance",
+      "type": "Legal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "Your data is protected by encryption measures"
+    },
+    {
+      "practice": "We have implemented physical, technical, and administrative security measures",
+      "description": "We have taken steps to protect your data and information"
+    },
+    {
+      "practice": "You can request access to and deletion of your information (California residents)",
+      "description": "California residents have the right to request access to and deletion of their data"
+    }
+  ]
+}

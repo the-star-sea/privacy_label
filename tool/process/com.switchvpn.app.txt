@@ -1,0 +1,31 @@
+PRIVACY POLICY
+Welcome to Swing Lite VPN! This privacy policy describes what information we collect from you, how we collect it, how we use it, how we obtain your consent, how long we keep it in our databases and, if necessary, with whom we share it. This Privacy Policy has been developed and is maintained in accordance with all applicable federal and international laws and regulations and specifically with the California Online Privacy Protection Act (CalOPPA  U.S regulation) and the GDPR (General Data Protection Regulation - European regulation). GENERAL INFORMATION
+The personal data of the users that are collected and processed through:
+Swing Lite VPN (Android version - Available on Google Play)
+Will be under responsibility and in charge of:
+Swing Lite VPN
+support@swingvpn.com
+(Hereinafter referred to as Swing Lite VPN). You provide information when you provide, create, modify, download and share content, use the platform in general and/or communicate with us through our contact information or through our contact forms. As a result of those actions, you might supply us with the following information:
+Usage Data
+device information
+geography/region/country
+In-app purchases
+payment info
+the number of sessions
+session duration
+Application opens
+Application updates
+Payment information
+Any additional information relating to you that you provide to us directly or indirectly through our platform. Installed Apps Information
+App Usage Stats
+Universally unique identifier (UUID)
+crash data
+Your IP addresses
+Operating system and device characteristics
+Referrer URLs
+Which parts of the platform you use and how often
+Location (non-continuous): Swing Lite VPN can collect and store the user's information and location when they use the functionalities available on the platform. This information is used for the time necessary to provide the services and functionalities of the platform. The information does not identify or individualize the person, it is completely anonymous. Location information collected through the platform will be treated in accordance with this privacy policy. Please consult Google's privacy policy here:
+https://policies.google.com/privacy
+Advertising: We may collect and use certain information to display relevant advertising within the app as well as to understand and report on the effectiveness of ads served on the app. The information collected is also used to create user profiles, including showing you advertisements based on the products or services you have viewed on our platform. Furthermore, Swing Lite VPN may be obliged to retain personal data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority. Once the retention period expires, personal data shall be deleted. Create a user account via third party accounts. Create and modify content through the platform. Respond to your comments or questions through our support team. Protect, investigate and deter against fraudulent, unauthorized or illegal activity. By downloading the App, using the features available on the App, making in-app purchases, sharing information or content within the Platform, communicating with us through the contact forms or our contact information and by providing us with personal information to communicate with you, you consent to our collection, storage and use of your information on the terms contained in this Privacy Policy. Email Address: The email address that you supply to us for purposes of receiving our email communications will never be rented or sold to a third party. Other security measures taken to protect personal information 1) Manage and regulate the storage and use of personal information by establishing a data classification and grading system, data security management specifications, and data security development specifications. 2) Data security personnel are responsible for security emergency response to promote and protect personal information security. In certain cases, we may continue to process your information after you have withdrawn your consent if we have a legal basis for doing so or if your withdrawal of consent was limited to certain processing activities. Complaint: If you wish to file a complaint about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority. Our platform is intended for persons over the age of 13. If you become aware that your child under the age of 13 has provided us with personal information, please contact us. EDITING AND DELETING INFORMATION
+If you believe that any information, we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect. Your request should be processed within 48 hours. THIRD PARTIES
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information Swing Lite VPN collects from you.

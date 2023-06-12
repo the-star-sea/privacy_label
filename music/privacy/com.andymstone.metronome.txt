@@ -1,0 +1,24 @@
+{
+  "sharedData": [
+    {
+      "data": "Unique identifier",
+      "optional": false,
+      "purpose": "Personalized advertising",
+      "type": "Advertising ID"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Unique identifier",
+      "optional": false,
+      "purpose": "In-app billing",
+      "type": "Payment information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t stored on Stonekick's own servers",
+      "description": "All data collection and processing is handled by Google and their partners in accordance with their privacy policy."
+    }
+  ]
+}

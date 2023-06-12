@@ -1,0 +1,102 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Advertising or marketing, Personalization",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Virtual Try-On and/or PD Measurement data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information for participation in Promotions",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Google Analytics data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Personal information for Renewal Reminders",
+      "optional": true,
+      "purpose": "Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information for Site usage analysis",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information for investigating, preventing or mitigating violations of terms, agreements or policies",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information for enforcing agreements with third parties",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information shared with Luna for Virtual Try-On and/or PD Measurement services",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information shared with parent company, subsidiaries, affiliates or joint ventures",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information shared with third-party review service",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information visible to others even after Account termination",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Usage of functional cookies to remember user choices",
+      "description": "We use functional cookies to tailor our Services for users."
+    },
+    {
+      "practice": "Availability of opt-out options for interest-based targeting",
+      "description": "Users can opt-out of interest-based targeting provided by participating ad servers."
+    },
+    {
+      "practice": "Ability to request notice of personal information sharing once a year",
+      "description": "Users may request notice of personal information sharing once a year free of charge."
+    },
+    {
+      "practice": "Contact email for privacy complaints and questions",
+      "description": "Users may reach out to privacy@zennioptical.com in case of privacy complaints or questions."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "sharedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Personal data",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Your personal data is subject to limitations defined by applicable law",
+      "description": "You are entitled to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, erasure and portability of your own Personal Data. Where the use of your information is based on consent, you can withdraw this consent at any time without affecting the lawfulness of processing based on consent before its withdrawal."
+    },
+    {
+      "practice": "Personal data is retained only as long as needed",
+      "description": "We retain your Personal Data as long as needed to provide services or products to you, or as required or permitted by applicable laws, such as tax and accounting laws."
+    }
+  ]
+}

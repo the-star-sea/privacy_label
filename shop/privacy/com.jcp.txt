@@ -1,0 +1,58 @@
+{
+  "sharedData": [
+    {
+      "data": "Information submitted or collected through JCPenney's Services",
+      "optional": false,
+      "purpose": "Provide personalized Services, advertising, and improve user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Geo-location data through cookies, web beacons, and mobile devices",
+      "optional": false,
+      "purpose": "Provide personalized Services, advertising, and improve user experience",
+      "type": "Location"
+    },
+    {
+      "data": "Online activities and interests for interest-based advertising",
+      "optional": false,
+      "purpose": "Provide personalized advertising",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information such as name, address, and email",
+      "optional": false,
+      "purpose": "Provide and improve JCPenney's products and Services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information systems management, accounting, billing and audits, credit card processing and verification, consumer-relations correspondence, and operation of the JCPenney Rewards program",
+      "optional": false,
+      "purpose": "Administrative and analytical purposes",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Use of cookies to maintain safe and secure Services",
+      "description": "Cookies help keep the Services safe and secure"
+    },
+    {
+      "practice": "Opt-outs for postal mail and email",
+      "description": "Users can opt-out of promotional mail and email offers"
+    },
+    {
+      "practice": "Opt-out choices for interest-based advertising",
+      "description": "Users can opt-out of interest-based advertising through websites such as Network Advertising or About Ads"
+    },
+    {
+      "practice": "Protection of children's privacy",
+      "description": "JCPenney does not knowingly collect personally identifiable information from minors under the age of 16"
+    },
+    {
+      "practice": "Privacy rights for California residents",
+      "description": "JCPenney provides additional privacy rights for California residents under the California Privacy Rights Act (CPRA)"
+    }
+  ]
+}

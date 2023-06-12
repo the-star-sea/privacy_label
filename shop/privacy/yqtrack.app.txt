@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Communication with the user",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "Communication with the user",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Communication with the user",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "Communication with the user",
+      "type": "Personal info"
+    },
+    {
+      "data": "User's package tracking information",
+      "optional": false,
+      "purpose": "Providing 17TRACK services",
+      "type": "Tracking info"
+    },
+    {
+      "data": "Information submitted for contests, sweepstakes, surveys, or promotions",
+      "optional": true,
+      "purpose": "Administering contests and promotions",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information provided to service providers and vendors",
+      "optional": false,
+      "purpose": "Managing, providing, and improving 17TRACK services and marketing purposes",
+      "type": "Personal info and transaction info"
+    },
+    {
+      "data": "User account information",
+      "optional": false,
+      "purpose": "Providing 17TRACK services and ensuring account security",
+      "type": "Account info"
+    },
+    {
+      "data": "Usage data such as site navigation and preferences",
+      "optional": false,
+      "purpose": "Improving content, products, and services",
+      "type": "Usage and preference info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted with SSL during financial transactions",
+      "description": "Financial transactions done through the Site are encrypted with SSL"
+    },
+    {
+      "practice": "Access to personal information is limited to employees providing a specific service",
+      "description": "Only employees who are providing a specific service have access to personal information"
+    },
+    {
+      "practice": "Third-party service providers are carefully chosen for adequate security of computer hardware",
+      "description": "Third-party service providers who work with the Site are believed to adequately secure computer hardware"
+    }
+  ]
+}

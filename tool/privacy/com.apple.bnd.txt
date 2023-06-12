@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal data, including but not limited to: Account Information, Financial Information, Government ID Data, Personal Health Data",
+      "optional": false,
+      "purpose": "Apple products and services",
+      "type": "Personal data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal data, including but not limited to: Account Information, Financial Information, Government ID Data, Personal Health Data",
+      "optional": false,
+      "purpose": "Apple products and services",
+      "type": "Personal data"
+    },
+    {
+      "data": "Cookies and other technologies",
+      "optional": false,
+      "purpose": "Apple products and services",
+      "type": "Online activity"
+    },
+    {
+      "data": "Subscriber ID",
+      "optional": false,
+      "purpose": "Transactional data for subscriptions",
+      "type": "Transaction data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Administrative, technical, and physical safeguards are in place to protect your personal data",
+      "description": "Apple takes privacy seriously and has implemented safeguards to protect your data"
+    },
+    {
+      "practice": "Compliance with laws on the transfer of personal data between countries",
+      "description": "Apple complies with laws to help ensure your data is protected"
+    }
+  ]
+}

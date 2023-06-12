@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Device Internet Protocol (IP) address",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Device name",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Operating system version",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Configuration of the app",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Date and time of app usage",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable security measures",
+      "description": "The developer uses commercially acceptable means of protecting user data"
+    },
+    {
+      "practice": "No 100% guarantee of absolute security",
+      "description": "The developer cannot guarantee that user data is 100% secure and reliable"
+    },
+    {
+      "practice": "Children's privacy protection",
+      "description": "The developer does not knowingly collect personally identifiable information from children under the age of 13"
+    }
+  ]
+}

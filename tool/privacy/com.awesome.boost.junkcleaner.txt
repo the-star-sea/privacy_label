@@ -1,0 +1,27 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Device and network connection information",
+      "optional": false,
+      "purpose": "Improving the app experience",
+      "type": "Device and network info"
+    },
+    {
+      "data": "Personal data necessary for providing the services",
+      "optional": false,
+      "purpose": "Providing the app services",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Efforts to ensure security, but no absolute guarantee",
+      "description": "The company cannot guarantee the absolute security of personal data or communication facilities provided."
+    },
+    {
+      "practice": "Third-party data processing policies",
+      "description": "If personal data is shared with third parties, it will be governed by their privacy policies."
+    }
+  ]
+}

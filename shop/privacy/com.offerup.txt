@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Information about your use of the OfferUp Service",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity, Device information"
+    },
+    {
+      "data": "Name, address, and IP address when registering for Stripe's services",
+      "optional": false,
+      "purpose": "Financial transactions",
+      "type": "Personal info, Device information"
+    },
+    {
+      "data": "Information you choose to share outside of OfferUp",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Information about your use of the OfferUp Service",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity, Device information"
+    },
+    {
+      "data": "Name, address, and IP address when registering for Stripe's services",
+      "optional": false,
+      "purpose": "Financial transactions",
+      "type": "Personal info, Device information"
+    },
+    {
+      "data": "Information collected automatically (type of browser, access times, pages viewed, IP address, and inferred geographic location)",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Device information"
+    },
+    {
+      "data": "Information collected during merger, sale of company assets, financing, or acquisition",
+      "optional": false,
+      "purpose": "Business operations",
+      "type": "Personal info, Device information"
+    },
+    {
+      "data": "Information shared with your consent or direction, or as mentioned in the Social Sharing Features section of the OfferUp Service",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Personal info, App activity, Device information"
+    },
+    {
+      "data": "Cookies and other identifiers used for personalized advertising",
+      "optional": false,
+      "purpose": "Advertising or marketing, Personalization",
+      "type": "Device information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection."
+    },
+    {
+      "practice": "You have the right to correct inaccurate information, a right to know what personal information we collect, and a right to delete your personal information",
+      "description": "You have the ability to correct, access, and delete your personal information."
+    },
+    {
+      "practice": "We do not knowingly sell personal information about consumers under the age of 16",
+      "description": "We do not sell personal information about minors."
+    }
+  ]
+}

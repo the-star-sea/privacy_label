@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Information provided by user through in-app support",
+      "optional": false,
+      "purpose": "Improving user experience, content, behavior, and services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Push notification settings",
+      "optional": false,
+      "purpose": "Sending notifications",
+      "type": "Device info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Information and user log data when using or entering website and detection",
+      "optional": false,
+      "purpose": "Unauthorized access prevention",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device data for using services",
+      "optional": false,
+      "purpose": "Operation, improvement, and protection of services",
+      "type": "Device info"
+    },
+    {
+      "data": "Consented personal data for personalized advertising",
+      "optional": false,
+      "purpose": "Personalized advertising",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is stored securely",
+      "description": "Your data is stored in a secure manner"
+    },
+    {
+      "practice": "Prior consent is obtained for sharing user data with third parties",
+      "description": "User data is shared with third parties only after obtaining prior consent"
+    }
+  ]
+}

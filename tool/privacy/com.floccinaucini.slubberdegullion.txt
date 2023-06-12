@@ -1,0 +1,37 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Information volunteered by the user when using the service",
+      "optional": true,
+      "purpose": "Service improvement",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device information generated during use of the features or receiving the service",
+      "optional": true,
+      "purpose": "Service improvement",
+      "type": "Device info"
+    },
+    {
+      "data": "Cookie or anonymous identifiers sent to user's device for service access and usage",
+      "optional": true,
+      "purpose": "Service improvement",
+      "type": "Usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Reasonable security measures (including technical and management aspects) are taken to protect user's personal information",
+      "description": "Personal information is protected from unauthorized access, use, modification, damage, loss or leakage"
+    },
+    {
+      "practice": "Emergency response plans are in place and will be launched in case of user information security incidents",
+      "description": "Impact and consequences of security incidents are prevented from expanding"
+    },
+    {
+      "practice": "Users are promptly informed in case of user information security incidents",
+      "description": "Notification is done through push notification, email, announcement or other reasonable and effective way"
+    }
+  ]
+}

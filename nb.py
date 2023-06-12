@@ -11,9 +11,9 @@ def remove_non_english(text):
     
     return clean_text
 #traverse all the txt files in the directory
-dir_path="/pool/tongz/tongz/bert-extractive-summarizer/tool"
+dir_path="tool"
 #create if not exist
-output_path="/pool/tongz/tongz/bert-extractive-summarizer/toolprocess"
+output_path=dir_path+"/process"
 if not os.path.exists(output_path):
     os.makedirs(output_path)
 
@@ -21,9 +21,10 @@ for file in os.listdir(dir_path):
     if file.endswith(".txt"):
         body = open(os.path.join(dir_path,file), 'r').read()
         body=remove_non_english(body)
-        
+        #remove lines with less than 10 characters and blank above and below
+        body = re.sub(r'\n\s*\n', '\n', body)
         model = SBertSummarizer('paraphrase-MiniLM-L6-v2')
-        result = model(body, num_sentences=20)
+        result = model(body, num_sentences=30)
 
         output_file=open(os.path.join(output_path,file), 'w+')
         output_file.write(result)

@@ -1,0 +1,80 @@
+{
+  "sharedData": [
+    {
+      "data": "Full name",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Device info"
+    },
+    {
+      "data": "Browser information",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Username",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Demographic information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Account and user profile information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "User preferences",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Application specific data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "The developer believes in obtaining parental consent before collecting information from children",
+      "description": "The developer does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parents consent before giving out any personal information."
+    }
+  ]
+}

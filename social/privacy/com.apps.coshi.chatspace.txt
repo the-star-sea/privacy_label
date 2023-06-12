@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Website access and attack prevention",
+      "type": "Online identifier"
+    },
+    {
+      "data": "Cookie data",
+      "optional": false,
+      "purpose": "Website functionality, personalization, and analytics",
+      "type": "Online identifier and usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Website access and attack prevention",
+      "type": "Online identifier"
+    },
+    {
+      "data": "Cookie data",
+      "optional": false,
+      "purpose": "Website functionality, personalization, and analytics",
+      "type": "Online identifier and usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "IP data is deleted by de-personalization",
+      "description": "IP data is deleted or de-personalized when no longer necessary for website access and attack prevention"
+    },
+    {
+      "practice": "Cookies can be deleted independently at any time",
+      "description": "Users can delete cookies at any time using their browser settings"
+    },
+    {
+      "practice": "Technically necessary cookies are used",
+      "description": "Cookies are used for website functionality and cannot be disabled"
+    },
+    {
+      "practice": "Analyzing cookies are used for user behavior analysis",
+      "description": "Cookies are used to analyze user behavior and improve website understanding and functionality"
+    },
+    {
+      "practice": "Third-party cookies are used for certain functionalities",
+      "description": "Cookies from third-party providers are used to enable certain website functionalities"
+    },
+    {
+      "practice": "Evaluation data is collected to improve website functionality and user experience",
+      "description": "Personal evaluations are created to improve understanding and inform website improvements"
+    },
+    {
+      "practice": "Users have the right to rectify incorrect personal data",
+      "description": "Users have the right to demand rectification of any incorrect personal data concerning them"
+    }
+  ]
+}

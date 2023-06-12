@@ -1,0 +1,36 @@
+HOME
+TERMS OF SERVICE
+PRIVACY POLICY(current)
+CCPA
+Privacy Policy
+HomePrivacy Policy
+Privacy Policy
+Created on: September 03, 2020
+This is the Privacy Policy of Peachat Video Chat App (Peachat, us, we, "Service" or our) and is incorporated into and is subject to our Terms of Use which can be found here. Unless we link to a different policy or state otherwise, this Privacy Policy applies when you visit or use the Service. Data Protection Officer:
+Our data protection officer can be contacted under the Email Address. We also collect some data automatically, like information about your device and what parts of our Services you interact with or spend time using. For security reasons, we do not collect or store sensitive cardholder data, such as full credit card numbers or card authentication data. Where you do upload and choose to tell us sensitive data about yourself, you are explicitly consenting to our processing your information and making this public to other users. Data From Others
+In addition to the information you provide us directly, we receive information about you from others or by automated means, including:
+System Data: Technical data about your computer or device, like your IP address, device type, operating system type and version, unique device identifiers, device language, browser, browser language, and other systems data, and platform types (System Data). The collection of your geolocation may occur in the background even when you arent using the Services if the permission you gave us expressly permits such collection. Other Partners:
+We may receive information about you from our partners, for instance where our ads are published on a partners websites and platforms (in which case they may pass along details on a campaigns success). Additionally, we use your info to help keep you safe. 3rd Party Usage Analytics Tools:
+We use tools provided by Google Inc (1600 Amphitheater Parkway, Mountain View, CA 94043, USA, Google) in our Services for usage analytics purposes. Crash Detection Tools:
+We use Crashlytics tools owned by Fabric for crash detection. All your crash data is collected anonymously. The ads can be based on your recent activity or activity over time and across other services and may be personalized to your likes and interests. To help deliver personalized advertising, we may provide these service providers with a hashed, anonymized version of your personal information in a non-human-readable form and content that you share publicly on the Services. For instance, as you go about using our service to build meaningful connections, we use your information to maintain your account and your profile, to make it viewable to other users and recommend other users to you. 5.2 With Our Service Providers and Partners:
+We use third parties to help us operate and improve our Services. 5.3 When Required by Law:
+We may disclose your information if reasonably necessary: (i) to comply with a legal process, such as a court order, subpoena or search warrant, government/law enforcement investigation or other legal requirements; (ii) to assist in the prevention or detection of crime (subject in each case to applicable law); or (iii) to protect the safety of any person. 5.4 To Enforce Legal Rights:
+We may also share information:
+(i) if disclosure would mitigate our liability in an actual or threatened lawsuit;
+(ii) as necessary to protect our legal rights and legal rights of our users, business partners or other interested parties;
+(iii) to enforce our agreements with you; and
+(iv) to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing. Your Rights
+You have certain rights around the use of your data, including the ability to opt-out of cookies, and the collection of your data by certain analytics providers. We want you to be in control of your information, so we have provided you with the following tools:
+Access / Update tools in the service:
+Tools and account settings that help you to access, rectify or delete information that you provided to us and thats associated with your account directly within the service. You can request a copy of your personal information by sending us an email at [emailprotected]
+Updating your information:
+If you believe that the information we hold about you is inaccurate or that we are no longer entitled to use it and want to request its rectification, deletion or object to its processing, please contact us via [emailprotected]
+For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer the above requests. Uninstall: You can stop all information collected by an app by uninstalling it using the standard uninstall process for your device. To protect the safety and security of our users on and off our Services, we implement a safety retention window of six months following account deletion unless there is a technical difficulty. In any event, the Account of a Premium Member is not considered inactive. We regularly monitor our systems for possible vulnerabilities and attacks and regularly review our information collection, storage, and processing practices to update our physical, technical and organizational security measures. Legal Notice
+For European citizens or residents:
+You can exercise your rights as a data subject (right to be informed; right of access; right to rectification; right to erasure; right to restriction; right of data portability; and the right to object) by contacting our European representative:
+Naq Cyber B.V.;
+Contact: Nadia Kadhim
+Address: Vlamingstraat 4, 2712BZ Zoetermeer, Netherlands
+Email: [emailprotected]
+This representative may be contacted at any time for inquiries or complaints related to the processing of your data if you are a European national or resident. We do not permit users under the age of 18 on our platform and we do not knowingly collect personal information from anyone under the age of 18. If we do delete a Profile because you violated our no children rule, we may retain basic account and profile information to ensure that you do not try to get around our rules by creating a new profile. International Transfer Policy
+In order to provide the Services to you, we must transfer your data to our servers and process it there.

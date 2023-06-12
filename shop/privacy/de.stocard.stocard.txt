@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "DeutschlandCard points and transactions",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Password for user account from a card provider",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Credentials"
+    },
+    {
+      "data": "Technical data from use of app",
+      "optional": false,
+      "purpose": "Analytics, Optimization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Express consented personal data",
+      "optional": false,
+      "purpose": "App functionality, Forwarding to third parties",
+      "type": "Personal info"
+    },
+    {
+      "data": "Technical data from use of app",
+      "optional": false,
+      "purpose": "Analytics, Optimization",
+      "type": "App activity"
+    },
+    {
+      "data": "Anonymized advertising ID",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Individual activities (events) within the app",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Political Exposed Person (PEP) status and sanctions lists",
+      "optional": false,
+      "purpose": "Verification",
+      "type": "Personal info"
+    },
+    {
+      "data": "Selfie and photo of government-issued ID",
+      "optional": false,
+      "purpose": "Verification",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data can be deleted upon request",
+      "description": "Users can request deletion of their data"
+    },
+    {
+      "practice": "Data transmission to third-party states only as required or with consent",
+      "description": "User data is only transmitted outside of the European Union in specific situations"
+    },
+    {
+      "practice": "Data is partially processed through automated means",
+      "description": "Automated processing is used for assessing potential fraud, money laundering or terrorist financing risk"
+    }
+  ]
+}

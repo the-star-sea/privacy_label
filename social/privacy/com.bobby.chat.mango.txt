@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Username and name",
+      "optional": false,
+      "purpose": "Service functionality, Public sharing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information about interaction with service",
+      "optional": false,
+      "purpose": "Service functionality, Public sharing",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Service functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Service functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "Service functionality, Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Contact information and correspondence",
+      "optional": false,
+      "purpose": "Customer support",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Deletion timeframe is not guaranteed",
+      "description": "There is no guarantee on the timeframe for deletion of user data"
+    },
+    {
+      "practice": "Not responding to Do Not Track signals",
+      "description": "The service does not currently respond to Do Not Track signals"
+    }
+  ]
+}

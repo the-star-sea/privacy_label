@@ -1,0 +1,80 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Website operation, Personalization, Customer service, Transaction processing, Contests, promotions, and surveys",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Transaction processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Website usage data",
+      "optional": false,
+      "purpose": "Website operation, Personalization, Customer service",
+      "type": "App activity"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Sending periodic emails",
+      "type": "Contact info"
+    },
+    {
+      "data": "Username and password",
+      "optional": false,
+      "purpose": "Website security",
+      "type": "Login credentials"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Transaction processing, Personalization",
+      "type": "Financial info"
+    },
+    {
+      "data": "Survey responses",
+      "optional": false,
+      "purpose": "Contests, promotions, and surveys",
+      "type": "User feedback"
+    },
+    {
+      "data": "Social media sharing activity",
+      "optional": false,
+      "purpose": "User engagement",
+      "type": "App activity"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Website operation, Analytics",
+      "type": "Online identifier"
+    },
+    {
+      "data": "Cookie data",
+      "optional": false,
+      "purpose": "Website operation, Personalization",
+      "type": "Cookies and similar tech"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Website and servers are security scanned and verified externally",
+      "description": "The website and servers are scanned daily to protect online users"
+    },
+    {
+      "practice": "Third-party partners are required to keep information confidential",
+      "description": "Third parties must agree to keep shared information confidential"
+    }
+  ]
+}

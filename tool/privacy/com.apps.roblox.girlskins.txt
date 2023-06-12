@@ -1,0 +1,29 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Non-personal information about users' interactions with the app",
+      "optional": false,
+      "purpose": "To better understand user behavior, solve problems with products and services, and improve products, services, and advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Log data in case of app error",
+      "optional": false,
+      "purpose": "App functionality, Analytics, and Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Online identifiers"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable means of protecting personal information",
+      "description": "The app uses commercially acceptable means to protect personal information"
+    }
+  ]
+}

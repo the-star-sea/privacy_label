@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Facilitate service, Service-related services, Analysis",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Facilitate service, Service-related services, Analysis",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Use of commercially acceptable means of data protection",
+      "description": "The developer of the app strives to use commercially acceptable means of protecting the user's Personal Information"
+    },
+    {
+      "practice": "No guarantee of absolute security of user data",
+      "description": "The developer of the app cannot guarantee the absolute security of user data transmitted over the internet or stored electronically"
+    },
+    {
+      "practice": "Notification of changes in Privacy Policy",
+      "description": "The developer of the app will notify users of changes in the Privacy Policy by posting the updated version on the app's website"
+    }
+  ]
+}

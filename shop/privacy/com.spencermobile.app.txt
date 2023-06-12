@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Email communications, promotions, sweepstakes, purchases or donations on the Site, customer service, surveys",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact or mailing/shipping information of someone else",
+      "optional": false,
+      "purpose": "Authorized submission to Spencer's",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP addresses, device identifiers, browser characteristics, operating system details, language preferences, referring URLs, length of visits, anonymous traffic data and pages viewed",
+      "optional": false,
+      "purpose": "Analytics, Ads serving, Site experience",
+      "type": "Online identifiers"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Service provider information",
+      "optional": false,
+      "purpose": "Business operation, Site administration, email sending, advertisement serving, order fulfillment, sweepstake administration, Site maintenance, customer service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Third-party content access or display",
+      "optional": false,
+      "purpose": "Data collection by third party",
+      "type": "Online identifiers"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Authentication of identity before processing requests",
+      "description": "The developer authenticates the user's identity before processing data requests"
+    },
+    {
+      "practice": "No sale of personal data",
+      "description": "The developer doesn't sell user's personal data"
+    }
+  ]
+}

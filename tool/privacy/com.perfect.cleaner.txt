@@ -1,0 +1,62 @@
+{
+  "sharedData": [
+    {
+      "data": "Device information (Android ID, package name, first open time timestamp, app brand, app net status, firebase_device_id, app model, sim country, system language)",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Advertisements and marketing materials based on ad identifiers, age, country, region, gender, language, games played by user, and information related to interaction of user with the Services and with other users",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Marketing and demographic info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device information (Android Advertising ID)",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Demographic data (e.g. determination of user's IP address)",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Marketing and demographic info"
+    },
+    {
+      "data": "Data to fight against fraud (e.g. click fraud in advertising)",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Data associated with user's device (e.g. device type, technological information, country)",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Data to do advertising, marketing and analysis",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Marketing and demographic info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Security measures are in place to protect personal information",
+      "description": "The developer has implemented security measures to protect personal information from unauthorized access, alteration, disclosure, or destruction"
+    },
+    {
+      "practice": "Third-party partners' privacy policies are provided",
+      "description": "The developer provides links to the third-party partners' privacy policies, which are governed by the third parties and not within the developer's control"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Advertising IDs",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Advertising or marketing, Analytics, Fraud prevention, security, and compliance",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal info",
+      "optional": false,
+      "purpose": "App functionality, Account management, Analytics, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial info",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Contacts",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Contacts"
+    },
+    {
+      "data": "App activity",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization, Fraud prevention, security, and compliance",
+      "type": "App activity"
+    },
+    {
+      "data": "Web browsing",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Web browsing"
+    },
+    {
+      "data": "App info and performance",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "User can request deletion of their data",
+      "description": "The user can request that their data be deleted"
+    }
+  ]
+}

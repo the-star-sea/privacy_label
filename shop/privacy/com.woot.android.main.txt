@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "App functionality, Optimization, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Transaction history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Financial info"
+    },
+    {
+      "data": "Addresses",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "De-identified data",
+      "optional": false,
+      "purpose": "Optimization, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "App functionality, Optimization, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Transaction history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Financial info"
+    },
+    {
+      "data": "Addresses",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "De-identified data",
+      "optional": false,
+      "purpose": "Optimization, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request to access, correct or delete your personal information",
+      "description": "You have the right to access, correct, or delete your personal information by contacting the Customer Service or emailing privacy@woot.com"
+    },
+    {
+      "practice": "Non-Discrimination Policy",
+      "description": "Woot will not discriminate against any consumer for exercising their rights under the California Privacy Rights Act"
+    }
+  ]
+}

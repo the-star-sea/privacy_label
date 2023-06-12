@@ -1,0 +1,23 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Non-Personal Information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Location Information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Employ administrative, physical, and electronic measures to protect Non-Personal Information",
+      "description": "The developer uses various measures to safeguard the confidentiality of your Non-Personal Information from unauthorized access and use"
+    }
+  ]
+}

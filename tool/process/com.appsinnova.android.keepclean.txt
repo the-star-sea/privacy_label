@@ -1,0 +1,56 @@
+KeepClean Privacy Policy
+Effective: 2022/6/2
+Your privacy and data security are extremely important to us. We store the information collected through the Android ID tied to the device you are using. Whether the function is running normally, such as whether a virus is detected. The above information is only used to improve the product experience and will not
+be sold to any third parties. Monetization and Analytical Information from Other Sources
+Third-party SDKs integrated in our app may access your information, including:
+Google Advertising ID
+Demographic data (e.g. determination of your IP address)
+Data to fight against fraud (e.g. click fraud in advertising)
+Data associated with your device (e.g. device type, technological information, country)
+Data to do advertising, marketing and analysis
+Advertisers may store or read cookies
+The information collected by third-party SDKs is governed by the providers of these SDKs and we have no control
+over such third parties. It
+is used exclusively for advertising and analytics. The information includes but is not
+limited to: your email address, the content of feedback, and the content of questionnaire answered by you. Designated Countries
+For all information listed above, pursuant to the EU General Data Protection Regulation (GDPR) or
+any equivalent legislation (collectively Data Protection Laws), we process the personal
+information of users located in the European Economic Area (EEA), United Kingdom and Switzerland
+(collectively, the Designated Countries) based on our contract with you. In order to keep the Service safe, to fight fraud and to ensure acceptable use otherwise, we have a legitimate
+interest to process necessary data to
+Analyze and monitor use of the Services
+Prevent cheating, crime or fraud
+Take action against fraudulent or misbehaving users
+Despite our efforts, we cannot guarantee the absolute security of your personal data, nor can we ensure the
+security of any of the communication facilities provided by us. In particular, please note that any personally identifiable
+information or personally sensitive data that you communicate or disclose to any user in connection with the
+Services may be collected and used by others. Please contact us at
+keepclean_support@appsinnova.comif you would like to exercise your rights under applicable law. Right of access and rectification
+If you request a copy of your personal information that we hold, we will provide you with a copy without undue
+delay and free of charge, except where we are permitted by law to charge a fee. We will only process your restricted personal information shall with your consent or for the establishment,
+exercise or defense of legal claims or for the protection of the rights of another natural or legal person or
+for reasons of important public interest. Third-party Partners Privacy Policy
+Here we list the links to the third-party partners privacy policy. Please note that these policies are
+governed by the third parties and we have no control over them. InMobi
+https://www.inmobi.com/privacy-policy/
+9. Pubmatic
+https://pubmatic.com/legal/privacy-policy/
+11. This notice is designed to supplement the
+information described in our <Privacy Policy> and applies solely to users who reside in the State of
+California (consumers or you). IF YOU ARE NOT A CALIFORNIA RESIDENT, THIS POLICY DOES NOT APPLY TO YOU. You (or your agent)have the right to request that we delete your specific personal information that we
+collected from you and retained, except in the following cases Such cases include:
+We need your information to detect security incidents, protect against malicious, or illegal activity;
+We need your information to identify and repair application errors that impair existing intended
+functionality;We need your information to exercise free speech, ensure the right of another consumer to
+exercise their free speech rights, or exercise another right provided for by law. We need your information to conduct internal uses that are reasonably aligned with your expectations based
+on your relationship with us;and other cases provided by CCPA and other California laws. You may only make a verifiable consumer request for request for information twice within a 12-month period. We cannot respond to your request accurately if we cannot verify your identity. v. Non-Discrimination
+We will not discriminate against you for exercising any of your CCPA rights. Such discrimination include:
+denying you our services; charging you different prices or rates for our services; providing you a different
+level or quality of our services; suggesting that you may receive a different price or rate for services or a
+different level or quality of services. We do not knowingly collect personally identifiable
+information from children under 13. In the case we discover that a child under 13 has provided us with personal
+information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that
+your child has provided us with personal information, please contact us so that we will be able to do necessary
+actions. Children's Privacy
+These Services do not address anyone under the age of 13. Changes to the Policy
+Any information that is collected is subject to the Policy in effect at the time such information is collected.

@@ -1,0 +1,28 @@
+{
+  "sharedData": [
+    {
+      "data": "Photograph",
+      "optional": false,
+      "purpose": "Content generation",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Photograph",
+      "optional": false,
+      "purpose": "Content generation",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is securely stored",
+      "description": "All user data, including photographs, are stored securely to protect user privacy"
+    },
+    {
+      "practice": "User data deletion request is available",
+      "description": "Users can request the deletion of their data through the app or by contacting customer support"
+    }
+  ]
+}

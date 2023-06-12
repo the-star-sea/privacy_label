@@ -1,0 +1,25 @@
+{
+  "sharedData": [
+    {
+      "data": "Error log data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable means of protecting personal information",
+      "description": "The developer strives to use commercially acceptable means of protecting personal information but cannot guarantee 100% security"
+    },
+    {
+      "practice": "No collection of personally identifiable information from children under 13",
+      "description": "The app does not knowingly collect personally identifiable information from children under 13 and will immediately delete any such information discovered on their servers"
+    },
+    {
+      "practice": "Privacy policy of third-party service providers",
+      "description": "Users are advised to review the privacy policy of third-party service providers used by the app"
+    }
+  ]
+}

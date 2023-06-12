@@ -1,0 +1,54 @@
+{
+  "sharedData": [
+    {
+      "data": "Profile photos, photos, videos, RealMojis, emojis, captions, comments, messages, and geolocation",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Personal info and activity"
+    },
+    {
+      "data": "Communication with BeReal",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "IP address, account creation date, last login, terminal equipment, and port",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization",
+      "type": "Connection and technical info"
+    },
+    {
+      "data": "Geolocation data",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Address book data",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Contacts"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is encrypted at rest",
+      "description": "Your data is stored in an encrypted format"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Data retention periods are defined based on type of data and purpose",
+      "description": "BeReal defines data retention periods based on the type of data and the purpose for which it was collected"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Username, name, and Bitmoji",
+      "optional": false,
+      "purpose": "App functionality, Social networking",
+      "type": "Personal info"
+    },
+    {
+      "data": "Hru score",
+      "optional": false,
+      "purpose": "App functionality, Social networking",
+      "type": "App activity"
+    },
+    {
+      "data": "Content posted or sent",
+      "optional": false,
+      "purpose": "Social networking",
+      "type": "App activity"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "App functionality, Social networking",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "TrueDepth camera information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Camera info"
+    },
+    {
+      "data": "How you interact with our services",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "How you communicate with other users",
+      "optional": false,
+      "purpose": "App functionality, Social networking",
+      "type": "Communication"
+    },
+    {
+      "data": "Precise location information",
+      "optional": false,
+      "purpose": "App functionality, Social networking",
+      "type": "Location"
+    },
+    {
+      "data": "Browser cookies",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Cookies"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Automatically deleting most messages after opening",
+      "description": "hru automatically deletes most messages after they have been opened by all recipients or have expired"
+    },
+    {
+      "practice": "Providing way to request account deletion",
+      "description": "You can ask hru to delete your account if you ever decide to stop using it"
+    },
+    {
+      "practice": "Disclosing legal requirements to store data",
+      "description": "hru may need to suspend deletion practices if required by valid legal process or if there are reports of abuse or other Terms of Service violations"
+    }
+  ]
+}

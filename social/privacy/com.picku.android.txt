@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Username and name",
+      "optional": false,
+      "purpose": "Identification and communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Communication history",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "User-generated content",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "Usage data"
+    },
+    {
+      "data": "Communication history (names, time, date, number of messages)",
+      "optional": false,
+      "purpose": "App functionality, Communication, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "User-generated content (photos, screenshots, comments)",
+      "optional": false,
+      "purpose": "App functionality, Communication, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "Device info"
+    },
+    {
+      "data": "Cookies and other technologies",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Other technologies"
+    },
+    {
+      "data": "Information from third-party sources",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Third-party data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Access to user information is restricted",
+      "description": "Only authorized personnel have access to user information"
+    },
+    {
+      "practice": "Users have control over their information",
+      "description": "Users can access and update their personal information"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Storage permission",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Permission"
+    },
+    {
+      "data": "Usage trends",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Interest-based advertising",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Personal data sharing",
+      "optional": false,
+      "purpose": "App functionality, Advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Third-party SDKs",
+      "optional": true,
+      "purpose": "App functionality, Advertising",
+      "type": "Third-party info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Users can revoke permissions",
+      "description": "Users can revoke previously granted permissions, such as camera access"
+    },
+    {
+      "practice": "Data is anonymized",
+      "description": "Personal data is anonymized to protect user privacy"
+    },
+    {
+      "practice": "Protection of information security",
+      "description": "The developer works to prevent information loss, improper use, hacking, or disclosure"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Information about user activity (e.g. Clips created, subscription status)",
+      "optional": false,
+      "purpose": "Improving and optimizing the Platform, prevention of illegal use",
+      "type": "App activity"
+    },
+    {
+      "data": "Real-Person Profile Picture Authentication",
+      "optional": false,
+      "purpose": "Authentication",
+      "type": "Facial recognition"
+    },
+    {
+      "data": "Aggregated insights",
+      "optional": false,
+      "purpose": "Analysis and statistics",
+      "type": "Aggregated data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information (e.g. name, contact details)",
+      "optional": false,
+      "purpose": "Improving and optimizing the Platform, prevention of illegal use",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information from games, services, or social media networks",
+      "optional": false,
+      "purpose": "Improving and optimizing the Platform, personalization",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Appropriate administrative, technical, and physical security measures are taken",
+      "description": "Personal Information is safeguarded from unauthorized access and disclosure"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "App functionality, Contacting customers",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, System operations",
+      "type": "Device info"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Calendar events",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "We use advanced security measures to protect your data and information"
+    },
+    {
+      "practice": "Sensitive data protection",
+      "description": "We take precautions to ensure that your personal and sensitive data is protected and only used for the intended purposes"
+    },
+    {
+      "practice": "Data retention",
+      "description": "We retain your data only for as long as necessary to provide you with our services and for other legitimate purposes"
+    }
+  ]
+}

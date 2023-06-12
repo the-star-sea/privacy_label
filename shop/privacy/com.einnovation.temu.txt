@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact data",
+      "optional": false,
+      "purpose": "Account management, Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Demographic information",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Communications",
+      "optional": false,
+      "purpose": "Customer support",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Automatically collected information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Payment card information",
+      "optional": false,
+      "purpose": "Financial transactions",
+      "type": "Financial info"
+    },
+    {
+      "data": "Social media or other third-party service information",
+      "optional": false,
+      "purpose": "Account management, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Seller information",
+      "optional": false,
+      "purpose": "Account management, Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Profile and other user-generated content",
+      "optional": false,
+      "purpose": "Account management, Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address and device information",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Device information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "Your data is transferred and stored securely"
+    },
+    {
+      "practice": "You can access, update, and delete your information",
+      "description": "You have control over your personal information"
+    }
+  ]
+}

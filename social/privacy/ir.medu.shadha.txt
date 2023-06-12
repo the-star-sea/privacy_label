@@ -1,0 +1,17 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable security measures are used",
+      "description": "The developer strives to use commercially acceptable means of protecting user data"
+    }
+  ]
+}

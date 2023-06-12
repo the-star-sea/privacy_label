@@ -1,0 +1,86 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account creation and management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account creation and management, Marketing and advertising, Customer support",
+      "type": "Contact info"
+    },
+    {
+      "data": "Physical address",
+      "optional": false,
+      "purpose": "Shipping and billing of purchased items",
+      "type": "Contact info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Account creation and management, Customer support",
+      "type": "Contact info"
+    },
+    {
+      "data": "Payment account information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Photographs in which the user may be recognized",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Media"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Activities on the site (e.g. purchases, views)",
+      "optional": false,
+      "purpose": "Analytics and marketing",
+      "type": "User activity info"
+    },
+    {
+      "data": "Information received from third-party partners",
+      "optional": false,
+      "purpose": "Analytics and marketing",
+      "type": "Third-party info"
+    },
+    {
+      "data": "Activities on social media platforms",
+      "optional": false,
+      "purpose": "Marketing",
+      "type": "User activity info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Disclosure of personal information to third-party vendors",
+      "description": "Zulily may disclose personal information to third-party vendors such as payment processors, fraud prevention services, and shippers for account management and payment processing purposes."
+    },
+    {
+      "practice": "Opt-out of email promotions",
+      "description": "Users can opt-out of promotional emails by following the opt-out instructions in the email invitation."
+    },
+    {
+      "practice": "Collection of information for Interest-Based Advertising (IBA)",
+      "description": "Zulily may collect information through cookies, web beacons, and other tracking technologies from our Sites, emails/communications and on other third-party websites that participate in our advertising networks. Users can opt-out of IBA by following the instructions in the Interest-Based Advertising section of this Notice."
+    },
+    {
+      "practice": "Protection of children's privacy",
+      "description": "Zulily will delete personal information of persons under the age of 18 if the company becomes aware that it has unknowingly collected such information."
+    },
+    {
+      "practice": "CCPA compliance",
+      "description": "The California Consumer Privacy Act is complied by Zulily by disclosing personal information that may be sold/used to third-party vendors for commercial purposes."
+    },
+    {
+      "practice": "Data modification",
+      "description": "Zulily may modify the terms of this Notice and will obtain user's consent if personal information is to be used in a materially different manner."
+    }
+  ]
+}

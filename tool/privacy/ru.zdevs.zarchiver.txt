@@ -1,0 +1,10 @@
+{
+  "sharedData": [],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Archive passwords are stored encrypted, but a hack-proof confidentiality is not guaranteed",
+      "description": "The developer does not collect, transfer, sell personal information such as name, email address, phone number, credit card, or usage data. Archive passwords are stored encrypted, but there is no guarantee of hack-proof confidentiality."
+    }
+  ]
+}

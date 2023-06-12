@@ -1,0 +1,55 @@
+{
+  "sharedData": [
+    {
+      "data": "Device technical information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device technical information"
+    },
+    {
+      "data": "Usage-related information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Financial information",
+      "type": "Financial info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Account verification",
+      "type": "Contact info"
+    },
+    {
+      "data": "Camera and photo album",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Media"
+    },
+    {
+      "data": "Profile information",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Users can deactivate their accounts",
+      "description": "Users can choose to deactivate their accounts when they no longer want to use the app"
+    },
+    {
+      "practice": "Personal information is not disclosed without user consent or required by law",
+      "description": "The app only discloses personal information when the user has given consent or it is required by law"
+    }
+  ]
+}

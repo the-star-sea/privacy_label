@@ -1,0 +1,21 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Error reporting",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "The developer uses commercially acceptable means of protecting your Personal Information."
+    },
+    {
+      "practice": "Vulnerability testing is done regularly",
+      "description": "The developer regularly assesses the security of their application to identify vulnerabilities."
+    }
+  ]
+}

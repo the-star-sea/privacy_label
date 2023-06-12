@@ -1,0 +1,94 @@
+{
+  "sharedData": [
+    {
+      "data": "E-mail address",
+      "optional": false,
+      "purpose": "Account creation and operation, Troubleshooting, Data analysis, Testing, Fraud prevention, System maintenance, Support, Reporting, Hosting of data",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mobile telephone number",
+      "optional": true,
+      "purpose": "Account creation and operation",
+      "type": "Personal info"
+    },
+    {
+      "data": "Geographic location",
+      "optional": true,
+      "purpose": "Account creation and operation, Personalization, Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Profile picture",
+      "optional": true,
+      "purpose": "Account creation and operation, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "User ID",
+      "optional": true,
+      "purpose": "Account creation and operation",
+      "type": "Personal info"
+    },
+    {
+      "data": "Facebook or Google account details",
+      "optional": true,
+      "purpose": "Account creation and operation",
+      "type": "Personal info"
+    },
+    {
+      "data": "Driver's license or other government ID",
+      "optional": true,
+      "purpose": "Account creation and operation, ID verification",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Any other information you choose to provide in connection with your account",
+      "optional": true,
+      "purpose": "Account creation and operation, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Actual location when posting an item on the Platform",
+      "optional": true,
+      "purpose": "Platform functionality, Personalization, Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Non-identifiable information shared with analytics providers that help us analyze how people are using our Services",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Non-identifiable info"
+    },
+    {
+      "data": "All communications through chat feature for fraud prevention and safety",
+      "optional": true,
+      "purpose": "Fraud prevention, Safety",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Efforts to protect personal information",
+      "description": "Reasonable efforts to protect your personal information"
+    },
+    {
+      "practice": "Verification of identity",
+      "description": "Verification of identity in connection with any requests regarding personal information to help ensure that we provide the information we maintain to the individual to whom it pertains"
+    },
+    {
+      "practice": "Prompt response to requests",
+      "description": "We endeavor to respond promptly to verifiable consumer requests"
+    },
+    {
+      "practice": "Efforts to protect data transfer",
+      "description": "Despite the measures we have implemented to protect your data, the transfer of data through the Internet or other open networks is never completely secure"
+    },
+    {
+      "practice": "Use of any ad posted on the Platform for advertising purposes",
+      "description": "We may use any ad you post on our Platform, including the uploaded photo or image of the product as well as other data (including user name and location) associated with the ad, for our own advertising purposes"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "User profile information",
+      "optional": false,
+      "purpose": "Providing and improving services, matching users for building meaningful connections",
+      "type": "Personal info"
+    },
+    {
+      "data": "Photos and videos",
+      "optional": true,
+      "purpose": "Providing and improving services, matching users for building meaningful connections",
+      "type": "User-generated content"
+    },
+    {
+      "data": "Selfie verification data",
+      "optional": true,
+      "purpose": "Verification of user identity",
+      "type": "Biometric data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Providing and improving services, analytics, fraud prevention, and security",
+      "type": "Device info"
+    },
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Providing and improving services, analytics, fraud prevention, and security",
+      "type": "Usage data"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "Providing and improving services, matching users for building meaningful connections",
+      "type": "Location data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption in transit",
+      "description": "Data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data retention limitations",
+      "description": "Data is deleted after it is no longer necessary for specified purposes"
+    },
+    {
+      "practice": "Identity verification for privacy requests",
+      "description": "Request for privacy information requires proof of identity to protect user privacy"
+    }
+  ]
+}

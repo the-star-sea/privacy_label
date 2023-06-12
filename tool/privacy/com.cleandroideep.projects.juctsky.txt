@@ -1,0 +1,92 @@
+{
+  "sharedData": [
+    {
+      "data": "Content displayed to the user",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Advertisements displayed to the user",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "URLs visited by the user",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Notifications displayed on the user's device",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "User ID",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Wi-Fi connection information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Network information"
+    },
+    {
+      "data": "Call information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Call information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Account activation time",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed application list",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Mobile country code",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Contact information or information about interactions with the Services",
+      "optional": false,
+      "purpose": "Marketing",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Administrative, physical, and electronic measures are in place to safeguard data against unauthorized access and use",
+      "description": "The developer has implemented measures to ensure the security of your data"
+    },
+    {
+      "practice": "Personal information is processed to ensure safety and adherence to terms, agreements, or policies",
+      "description": "The developer uses personal information to monitor and prevent prohibited, illicit, or illegal activities on the Services"
+    }
+  ]
+}

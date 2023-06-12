@@ -1,0 +1,86 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal Data (name, contact information, etc.)",
+      "optional": false,
+      "purpose": "To provide services and customize user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data collected for fraud prevention purposes",
+      "optional": false,
+      "purpose": "Fraud prevention and compliance with information regimes",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data for credit risk verification tasks",
+      "optional": false,
+      "purpose": "Credit risk analysis and verification",
+      "type": "Financial info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Analytics, customization and advertising/marketing",
+      "type": "Location"
+    },
+    {
+      "data": "User-generated content",
+      "optional": false,
+      "purpose": "Personalization and analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Fraud prevention, security and customization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Data (name, contact information, etc.)",
+      "optional": false,
+      "purpose": "To provide services and customize user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data collected for fraud prevention purposes",
+      "optional": false,
+      "purpose": "Fraud prevention and compliance with information regimes",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data for credit risk verification tasks",
+      "optional": false,
+      "purpose": "Credit risk analysis and verification",
+      "type": "Financial info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Analytics, customization and advertising/marketing",
+      "type": "Location"
+    },
+    {
+      "data": "User-generated content",
+      "optional": false,
+      "purpose": "Personalization and analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Fraud prevention, security and customization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Data transfers are secured with encryption"
+    },
+    {
+      "practice": "Users have rights over their personal data",
+      "description": "Users have rights to access, update, rectify, erase, withdraw consent, confidentiality, and automated decision review"
+   

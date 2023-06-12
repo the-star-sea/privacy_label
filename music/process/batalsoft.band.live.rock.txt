@@ -1,0 +1,31 @@
+BATALSOFT PRIVACY POLICY
+Your privacy is very important to Batalsoft. For that reason, this
+document explains how we treat data we collect. This is valid for both
+Batalsoft apps and Batalsoft web. First of all, you should know that Batalsoft does not collect any
+personal or sensible information from you (for example, we does not collect
+your name, address, passwords, emails, credit card numbers, images, etc.). Data
+collected is not shared, nor sold to any third party. All data is collected by
+Batalsoft through the next services:
+- Batalsoft apps use Google Analytics to measure performance of
+the different features and to improve apps in the future. You can check Google
+Analytics privacy policy in this link
+-
+Batalsoft apps use some ad networks that also collect information:
+-
+Google
+Admob. You can check Google Admob privacy policy here. You can check StartApp privacy policy here. You can check MobileCore privacy policy here. You can check AppNext privacy policy here. Explanation
+of the permissions required by the apps:
+android.permission. ACCESS_WIFI_STATE
+Above permissions are
+required for sending data collected to Google Analytics and for adquiring ads
+from the ad networks. VIBRATE
+This
+permission is used by make the device vibrate on several events. READ_EXTERNAL_STORAGE
+android.permission. WRITE_EXTERNAL_STORAGE
+Above
+permissions give the app the possibility to access ONLY to your music to play
+it on the app, and for saving some temporal files. It is important to highlight
+that the app access the music, not Batalsoft. No information from your SD
+card is collected or analyzed. If
+you have any questions about the above policy, or any suggestions to update the
+information, please send us a mail to [emailprotected]

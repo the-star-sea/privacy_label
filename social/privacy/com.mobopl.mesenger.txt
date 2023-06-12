@@ -1,0 +1,94 @@
+{
+  "sharedData": [
+    {
+      "data": "Screen name",
+      "optional": false,
+      "purpose": "Identifying user to others",
+      "type": "Personal info"
+    },
+    {
+      "data": "Profile pictures",
+      "optional": false,
+      "purpose": "Identifying user to others",
+      "type": "Personal info"
+    },
+    {
+      "data": "Username",
+      "optional": true,
+      "purpose": "Identifying user to others",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Authentication of account",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Messages, media, and files",
+      "optional": false,
+      "purpose": "Delivery of cloud chat history",
+      "type": "App activity"
+    },
+    {
+      "data": "Contacts",
+      "optional": true,
+      "purpose": "Delivery of cloud chat history",
+      "type": "Contacts"
+    },
+    {
+      "data": "Moderated messages",
+      "optional": false,
+      "purpose": "Prevention of phishing, spam, and other abuse",
+      "type": "App activity"
+    },
+    {
+      "data": "Bot usage data",
+      "optional": false,
+      "purpose": "Functionality of bots",
+      "type": "App activity"
+    },
+    {
+      "data": "Saved shipping information",
+      "optional": true,
+      "purpose": "Facilitation of future purchases",
+      "type": "Financial info"
+    },
+    {
+      "data": "Translation data",
+      "optional": false,
+      "purpose": "Translation of chats and messages",
+      "type": "App activity"
+    },
+    {
+      "data": "Audio data",
+      "optional": false,
+      "purpose": "Voice-to-text conversion",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "End-to-end encryption",
+      "description": "Messages are encrypted before reaching servers and can only be decrypted by authorized recipients"
+    },
+    {
+      "practice": "Account self-destruction",
+      "description": "Accounts inactive for 6 months are deleted along with all data"
+    },
+    {
+      "practice": "User control over data",
+      "description": "Users can control how their data is used through data settings in the app"
+    },
+    {
+      "practice": "No ads based on user data",
+      "description": "User data is not used for targeted advertising"
+    },
+    {
+      "practice": "Data protection rights",
+      "description": "Users have the right to access, correct, restrict, and delete their personal data"
+    }
+  ]
+}

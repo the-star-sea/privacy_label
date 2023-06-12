@@ -1,0 +1,47 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Device IP address",
+      "optional": false,
+      "purpose": "Service delivery",
+      "type": "Device info"
+    },
+    {
+      "data": "Device name",
+      "optional": false,
+      "purpose": "Service delivery",
+      "type": "Device info"
+    },
+    {
+      "data": "Operating system version",
+      "optional": false,
+      "purpose": "Service delivery",
+      "type": "Device info"
+    },
+    {
+      "data": "App configuration",
+      "optional": false,
+      "purpose": "Service delivery",
+      "type": "App info"
+    },
+    {
+      "data": "Time and date of service use",
+      "optional": false,
+      "purpose": "Service delivery",
+      "type": "App info"
+    },
+    {
+      "data": "User permissions",
+      "optional": false,
+      "purpose": "Service delivery",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable security measures",
+      "description": "The app employs commercially acceptable security measures to protect user data, but does not guarantee 100% security."
+    }
+  ]
+}

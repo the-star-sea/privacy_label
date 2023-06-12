@@ -1,0 +1,80 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Developer communications, Advertising or marketing, Personalization",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email messages",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device location",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Purchase history from other platforms",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Personalization, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Government-issued identification",
+      "optional": false,
+      "purpose": "Verification, Legal compliance",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is anonymized after use",
+      "description": "Your personal information is anonymized after use, and only aggregated non-identifiable information is used to improve our services."
+    },
+    {
+      "practice": "You can request access or deletion of your data",
+      "description": "You can make a data subject request through the online portal."
+    }
+  ]
+}

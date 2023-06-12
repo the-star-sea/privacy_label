@@ -1,0 +1,35 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Managing our relationship with you",
+      "type": "Personal info"
+    },
+    {
+      "data": "Archived personal information",
+      "optional": false,
+      "purpose": "Compliance with legal obligations or proving a right or contract",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal information is desensitized when collected",
+      "description": "Personal information is not stored in plaintext in our own database"
+    },
+    {
+      "practice": "Personal information is completely deleted or anonymized when no longer necessary",
+      "description": "Personal information is deleted or anonymized when no longer necessary for the purpose or file corresponding to our legal obligations or statutory limitations"
+    },
+    {
+      "practice": "Legal documents are required for information disclosure",
+      "description": "Legal documents, such as subpoena or investigation letter, are required to be issued when we receive requests for information disclosure from competent government departments"
+    },
+    {
+      "practice": "Exceptions are made for direct national security and criminal investigation purposes",
+      "description": "Sharing, transfer, and public disclosure of personal information are allowed without prior authorization and consent in cases directly related to national security or criminal investigation"
+    }
+  ]
+}

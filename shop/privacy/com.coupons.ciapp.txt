@@ -1,0 +1,102 @@
+{
+  "sharedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Product management, Customization, Fraud prevention, and Advertising",
+      "type": "Device information"
+    },
+    {
+      "data": "Browser information",
+      "optional": false,
+      "purpose": "Product management, Customization, Fraud prevention, and Advertising",
+      "type": "Browser information"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Product management, Customization, and Advertising",
+      "type": "Cookies"
+    },
+    {
+      "data": "Log Files and Local Storage",
+      "optional": false,
+      "purpose": "Product management, Customization, and Fraud prevention",
+      "type": "Log Files and Local Storage"
+    },
+    {
+      "data": "Device features",
+      "optional": false,
+      "purpose": "Product management, Customization, and Advertising",
+      "type": "Device features"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Financial account information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial information"
+    },
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Product management, Customization, and Advertising",
+      "type": "Personal information"
+    },
+    {
+      "data": "Email address or phone number",
+      "optional": false,
+      "purpose": "Promotional emails and text messages",
+      "type": "Contact information"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Product management, Customization, Fraud prevention, and Advertising",
+      "type": "Device information"
+    },
+    {
+      "data": "Browser information",
+      "optional": false,
+      "purpose": "Product management, Customization, Fraud prevention, and Advertising",
+      "type": "Browser information"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Product management, Customization, and Advertising",
+      "type": "Cookies"
+    },
+    {
+      "data": "Log Files and Local Storage",
+      "optional": false,
+      "purpose": "Product management, Customization, and Fraud prevention",
+      "type": "Log Files and Local Storage"
+    },
+    {
+      "data": "Device features",
+      "optional": false,
+      "purpose": "Product management, Customization, and Advertising",
+      "type": "Device features"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "Data is kept secure by encrypting the data both in transit and at rest"
+    },
+    {
+      "practice": "Data retention period",
+      "description": "Data is only retained for the necessary period of time to fulfill the purposes of data collection"
+    },
+    {
+      "practice": "Data sharing with third parties",
+      "description": "Data is only shared with third parties for specific purposes and with the user's consent"
+    },
+    {
+      "practice": "User's rights",
+      "description": "Users have the right to make certain requests regarding their personal information"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Location",
+      "optional": false,
+      "purpose": "Analytics, Advertising, Fraud prevention, Security, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Name, email address, telephone number, postal address",
+      "optional": false,
+      "purpose": "Account Creation, Customer Support",
+      "type": "Personal Info"
+    },
+    {
+      "data": "Transaction details",
+      "optional": false,
+      "purpose": "Transaction Processing, Customer Support",
+      "type": "Financial Info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Location",
+      "optional": false,
+      "purpose": "Improvement and Personalization of Zip Services",
+      "type": "Location"
+    },
+    {
+      "data": "Name, email address, telephone number, postal address",
+      "optional": false,
+      "purpose": "Improvement and Personalization of Zip Services",
+      "type": "Personal Info"
+    },
+    {
+      "data": "Financial information",
+      "optional": false,
+      "purpose": "Transaction Processing, Fraud Prevention",
+      "type": "Financial Info"
+    },
+    {
+      "data": "Mobile device information",
+      "optional": false,
+      "purpose": "Improvement and Personalization of Zip Services",
+      "type": "Device Info"
+    },
+    {
+      "data": "Cookies and similar technologies",
+      "optional": false,
+      "purpose": "Improvement and Personalization of Zip Services, Advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Behavioral and interest-based marketing preferences",
+      "optional": false,
+      "purpose": "Improvement and Personalization of Zip Services, Advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Internet or other electronic network activity information",
+      "optional": false,
+      "purpose": "Improvement and Personalization of Zip Services, Fraud prevention, Security",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Verification of requestor's identity",
+      "description": "Zip is required to verify the requestor's identity before acting on any request related to the personal information of its customers"
+    },
+    {
+      "practice": "Non-disclosure of credit card and bank account information",
+      "description": "Zip will not disclose a customer's credit card or bank account number to anyone they have paid or who has paid them using Zip, except with their express permission or as required by law"
+    }
+  ]
+}

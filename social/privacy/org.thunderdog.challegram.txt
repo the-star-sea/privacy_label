@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Screen name",
+      "optional": false,
+      "purpose": "App functionality, Networking",
+      "type": "Personal info"
+    },
+    {
+      "data": "Profile picture",
+      "optional": false,
+      "purpose": "App functionality, Networking",
+      "type": "Personal info"
+    },
+    {
+      "data": "Username",
+      "optional": true,
+      "purpose": "App functionality, Networking",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "App functionality, Authentication",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "App functionality, Authentication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cloud chat history, messages, media, and files",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Shipping information",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment tokens",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Financial info"
+    },
+    {
+      "data": "Translated messages",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Audio data of voice and video messages",
+      "optional": false,
+      "purpose": "App functionality, Translation services",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "End-to-end encrypted messages",
+      "description": "Messages sent via Telegram are encrypted with a key known only to the sender and recipient."
+    },
+    {
+      "practice": "Limited data collection",
+      "description": "Telegram only collects and stores the data necessary for app functionality, such as cloud chat history and shipping information."
+    }
+  ]
+}

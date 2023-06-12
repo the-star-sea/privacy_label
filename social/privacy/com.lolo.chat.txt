@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact information",
+      "optional": false,
+      "purpose": "Account management, Marketing and promotion, Service-related communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Interaction data",
+      "optional": false,
+      "purpose": "Account management, Personalization, Service-related communications, Service improvement",
+      "type": "App activity"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "Analytics, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Cookies and tracking data",
+      "optional": false,
+      "purpose": "Service improvement",
+      "type": "Tracking and cookies"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Contact information",
+      "optional": false,
+      "purpose": "Account management, Marketing and promotion, Service-related communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Interaction data",
+      "optional": false,
+      "purpose": "Account management, Personalization, Service-related communications, Service improvement",
+      "type": "App activity"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "Analytics, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Cookies and tracking data",
+      "optional": false,
+      "purpose": "Service improvement",
+      "type": "Tracking and cookies"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is not 100% secure",
+      "description": "The developer uses reasonable security safeguards to protect your data but cannot guarantee its absolute security due to the nature of the Internet"
+    }
+  ]
+}

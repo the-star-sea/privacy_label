@@ -1,0 +1,71 @@
+{
+  "sharedData": [
+    {
+      "data": "Access My Account, Order History, Lists and more",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personalized advertising and promotional content and materials",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Analysis and improvement of the service and business",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Information about how the service is accessed and used",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity and device info"
+    },
+    {
+      "data": "Data about fraudulent or criminal activity related to the account",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data about the device used to access the service",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Information about online activity on the service and browsing history",
+      "optional": false,
+      "purpose": "Advertising or marketing, Personalization, Analytics",
+      "type": "Web browsing history"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Opt-out options for personalized advertising",
+      "description": "Users are provided with opt-out options for personalized advertising"
+    },
+    {
+      "practice": "Data is collected through regular security updates",
+      "description": "Data is collected through regular security updates to ensure user privacy"
+    },
+    {
+      "practice": "Privacy policy changes are notified",
+      "description": "Privacy policy changes are notified to users"
+    },
+    {
+      "practice": "No information is collected from children under the age of 13",
+      "description": "Grainger does not knowingly collect or solicit any information from anyone under the age of 13 on this Site."
+    }
+  ]
+}

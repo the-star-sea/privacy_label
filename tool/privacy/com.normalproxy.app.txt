@@ -1,0 +1,55 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account creation, billing, and subscription",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": false,
+      "purpose": "Account creation, billing, and subscription",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account creation, billing, and subscription",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Account creation, billing, and subscription",
+      "type": "Financial info"
+    },
+    {
+      "data": "Non-personal data",
+      "optional": false,
+      "purpose": "Internal monitoring, analytics, and improvement of services",
+      "type": "Non-personal info"
+    },
+    {
+      "data": "Connection diagnostics",
+      "optional": true,
+      "purpose": "Debugging customer support issues",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "Data is protected during transmission and storage through encryption"
+    },
+    {
+      "practice": "Opt-out options available",
+      "description": "Users can opt-out of unwanted emails and have the option to approve or deny connection diagnostics"
+    },
+    {
+      "practice": "Disclosure of personal data is limited",
+      "description": "Personal data is only shared with our group of companies and for the purpose of enforcement of terms of service"
+    }
+  ]
+}

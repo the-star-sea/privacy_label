@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Notification of package updates, new service promotions, email newsletter",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Evaluation of Site use, marketing, personalization",
+      "type": "Usage info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Allowing Site to work properly, providing services, marketing, personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Transaction information",
+      "optional": false,
+      "purpose": "Managing, providing and improving Package Tracker services, marketing",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Safeguarding all financial transactions done through this Site with Secure Sockets Layer ('SSL') encryption"
+    },
+    {
+      "practice": "Employees only have access to specific information",
+      "description": "Granting only employees who are providing a specific service access to your personal information"
+    },
+    {
+      "practice": "Third-party service providers must adequately secure all computer hardware",
+      "description": "Working only with third-party service providers who we believe adequately secure all computer hardware"
+    },
+    {
+      "practice": "Requires username and password for account login",
+      "description": "Package Tracker accounts require a username and password to log in. You must keep your username and password confidential, and never disclose it to a third party"
+    },
+    {
+      "practice": "Option to control the use of cookies",
+      "description": "Most browsers are initially set to accept cookies; you may control the use of cookies at the browser level"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "sharedData": [
+    {
+      "data": "Media Access Control (MAC) address",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Screen resolution",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Operating system name and version",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Device manufacturer and model",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Language",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Internet browser type and version",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Battery usage, charge, and state",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Browser type",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Pages visited",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Language preferences",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "App functionality, Rewards program",
+      "type": "Contact info"
+    },
+    {
+      "data": "Purchase details",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Credit card number",
+      "optional": true,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Social Security number",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Verification required for sensitive personal information",
+      "description": "Sensitive personal information must be verified through a separate channel"
+    }
+  ]
+}

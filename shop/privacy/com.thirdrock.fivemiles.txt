@@ -1,0 +1,81 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "App functionality, Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Third-party account credentials",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Demographic information",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Personalization, Analytics",
+      "type": "Cookies"
+    },
+    {
+      "data": "Information from third-party platforms",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "App functionality, Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Third-party account credentials",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Demographic information",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Personal

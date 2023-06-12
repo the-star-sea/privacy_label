@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Nickname",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Birth date",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Login data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Login data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Session and available data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Summary information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted",
+      "description": "The personal information is encrypted and protected from unauthorized access."
+    },
+    {
+      "practice": "Users can delete their account and information",
+      "description": "Users can delete their account and information, and all their collected data will be deleted within 7 days."
+    }
+  ]
+}

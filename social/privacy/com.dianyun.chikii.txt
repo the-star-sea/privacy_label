@@ -1,0 +1,99 @@
+{
+  "sharedData": [
+    {
+      "data": "Full name",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "ID/passport number",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Portrait",
+      "optional": false,
+      "purpose": "Profile",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Contact info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing",
+      "type": "Contact info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Internet info"
+    },
+    {
+      "data": "Device identifier",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Geological location",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Billing information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Messages",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Images",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "VoIP data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Audio-video streaming data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Other activities under the Services",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ]
+}

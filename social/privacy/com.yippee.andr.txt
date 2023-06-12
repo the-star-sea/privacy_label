@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Technical information from browser or device",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Technical info"
+    },
+    {
+      "data": "Order and payment records",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Accounting",
+      "type": "Financial info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance, Account management",
+      "type": "Contact info"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Camera, microphone, and photo album",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Media"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information on profile",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "User data is transferred over a secure connection"
+    },
+    {
+      "practice": "Third-party data processing agreements in place",
+      "description": "Third-party service providers must adhere to strict data protection and confidentiality provisions"
+    },
+    {
+      "practice": "Users can request data deletion",
+      "description": "Users have the right to request deletion of their personal information"
+    },
+    {
+      "practice": "Data breaches are promptly reported",
+      "description": "The company reports data breaches to authorities and affected users in a timely and transparent fashion"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+Introduction
+When it comes to your personal data, Gen Digital Inc. and its subsidiaries (collectively referred to as Gen Digital, Norton, LifeLock, we, or us), as well as our employees, contractors, and service providers, are committed to providing you with transparency. If you complete a purchase for one of our products and services, we collect your billing address, including credit card, debit card, and or PayPal payment data, National ID (region specific, if outside the United States), and VAT/Tax ID (regional specific, if outside the United States), as well as commercial information, such as information about the items you have purchased. This data may include internet or other electronic network activity information, such as diagnostic data such as crash dumps, system logs, error reports, product and internet usage time, network connection activity, interactions with our websites and extensions, blocked websites, device or phone settings, and reviews from third parties which we collect to, as necessary, to troubleshoot any malfunctioning Services. However, in such cases, we will process the data only to the extent strictly necessary and proportionate to the purposes of detecting, blocking, reporting (by removing any personally identifiable elements), and mitigating the cyber or identity threats of concern or those of other users relying on our Services to protect their networks, systems, and identities. When you browse our websites and Services, we automatically collect internet or other electronic network activity information, commercial information, and inferences drawn from personal information about the individual web pages or products that you view, the purchases you make, what websites or search terms referred you to our Services, the dates and times of your visits, and other information about how you interact with our Services. We may collect personal data from you about other people, such as personal data about friends and family through customer or employee referrals, or data about family members you include on your account. Examples include forwarding references or sending job referrals. Where applicable, third parties may unsubscribe from any future communication following the link provided in the initial message. *For Network and Information Security Purposes and Cyber-Threat Intelligence:
+Our legitimate interests include developing threat intelligence resources aimed at maintaining and improving the ability of our information networks and systems to resist unlawful or malicious actions and other harmful events, such as cybercriminal activities, and attempts at identity theft or fraud (cyber and identity threats). When and Why WeDisclose Your Personal Data
+We are committed to maintaining your trust, and we want you to understand when and why we disclose personal data to third parties. In the past 12 months since this Statement was last updated, we disclosed the following categories of personal data to our partners: User data, Product data, Website data, Third-party data. With our Distributors or Resellers
+We may provide your personal data to our distributors, resellers, or partners for the purpose of distribution, sale, or management of our products. We may provide or share (as defined by the CCPA) your personal data, including the data about your interests in our Services, to third parties for the purposes of serving you more relevant ads about our Services. For more information, please see our Cookie Statement. We contractually require service providers to keep data confidential, and we do not allow our service providers to disclose our data or your personal data to others without our authorization, or to sell it or use it for purposes unrelated to the services they provide (e.g., their own marketing purposes). With Third-Party Service Providers
+If you access third-party services through our Services, these third parties may be able to collect user data, security data, diagnostic information, and third-party data about you in accordance with their own privacy policies. If you use the platforms listed below, your use is subject to the platforms terms of service and privacy policies available through the provided links. When we no longer have an ongoing legitimate business reason to keep your personal data, your personal data will either be securely disposed of, or de-identified through an appropriate anonymization means. If your personal data originates from the European Economic Area and is transferred to Gen Digital subsidiaries, affiliates, or third-party vendors engaged by Gen Digital or NortonLifeLock to process such personal data on our behalf who are located in countries that are not recognized by the European Commission as offering an adequate level of personal data protection, such transfers are covered by alternate appropriate safeguards, specifically Standard Contractual Clauses adopted by the European Commission. Technical Safeguards
+We implement and use information security standards, protocols, and technologies, including encryption, intrusion detection, and data loss prevention, and we monitor our systems and data centers to comply with our security policies. There are a variety of data protection laws around the globe that provide privacy rights to you as our customer. You may appeal any decision with regard to your privacy request by contacting us here or using the details provided in the Contact Us section below. If you do not want to continue receiving any marketing materials from us, you have the following options:
+Click on the unsubscribe function in the communications you receive from us;
+Unsubscribe from Norton and LifeLock Marketing Offers;
+Manage your communication preferences in your Norton Account or LifeLock Portal;
+Contact our Member Services Department at 1-800-543-3562; or
+Contact our Member Services Department by regular mail at Attn.: However, we will continue to communicate with you as needed to provide the Services you are entitled to, to respond to your inquiries, or to otherwise relay transactional product or service-related messages. How to Opt-Out of Interest-Based Advertising
+We partner with third parties to display advertising on our website or to manage our advertising on other sites. We also do not sell or share personal information of consumers under 16 years of age. Please review the applicable privacy statements on any co-branded site you visit, as they may differ from ours. LAST UPDATED: March 13, 2023
+Back to Top
+About NortonLifeLock
+|
+Careers
+|
+News
+|
+Sitemap
+|
+Legal
+|
+License Agreement
+|
+Privacy
+|
+Cookies
+|
+Accessibility Policy
+|
+Contact Us
+|
+System Status
+ 20192023 NortonLifeLock Inc. All rights reserved. NortonLifeLock, the NortonLifeLock Logo, the Checkmark Logo, Norton, LifeLock, and the LockMan Logo are trademarks or registered trademarks of NortonLifeLock Inc. or its affiliates in the United States and other countries. Other names may be trademarks of their respective owners.

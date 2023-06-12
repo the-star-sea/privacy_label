@@ -1,0 +1,88 @@
+{
+  "sharedData": [
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account management, Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Username",
+      "optional": false,
+      "purpose": "Account management, Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Demographic information",
+      "optional": true,
+      "purpose": "Advertising or marketing, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address or contact information",
+      "optional": true,
+      "purpose": "Account management, Customer support, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Interests",
+      "optional": true,
+      "purpose": "Advertising or marketing, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Publicly-observed data",
+      "optional": true,
+      "purpose": "Advertising or marketing, Personalization",
+      "type": "Public info"
+    },
+    {
+      "data": "Web browsing history",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Mobile device information",
+      "optional": true,
+      "purpose": "Advertising or marketing, Personalization",
+      "type": "Device info"
+    },
+    {
+      "data": "Email",
+      "optional": false,
+      "purpose": "Account management, Customer support",
+      "type": "Contact info"
+    },
+    {
+      "data": "Purchase information",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request access, deletion, or correction of your personal information",
+      "description": "You can request to access, delete, or correct your personal information by email or phone"
+    }
+  ]
+}

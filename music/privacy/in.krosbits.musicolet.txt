@@ -1,0 +1,39 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Media files related audio-playing functionality",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Media files"
+    },
+    {
+      "data": "Other similar data for app functionalities",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Non-Personal and Non-Sensitive data"
+    },
+    {
+      "data": "Log of system messages",
+      "optional": false,
+      "purpose": "App functionality, Bug fixing",
+      "type": "System messages"
+    },
+    {
+      "data": "Manual backups and automatic backups",
+      "optional": false,
+      "purpose": "App functionality, Backup and restore",
+      "type": "Backup files"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is stored in a private folder in the device",
+      "description": "No other apps can access the folder where Musicolet stores its collected data"
+    },
+    {
+      "practice": "Collected data are permanently deleted when the app is uninstalled or when app data is cleared",
+      "description": "Musicolet ensures that collected data are deleted from the device when it is no longer needed"
+    }
+  ]
+}

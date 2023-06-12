@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Web address, type of browser, device or hardware used, search terms, mobile network information, IP-based geographic location, advertising identifier",
+      "optional": false,
+      "purpose": "Recognize and customize website experience",
+      "type": "Web activity data"
+    },
+    {
+      "data": "Personal information provided on Wegmans Shoppers Club account or wegmans.com profile",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase information provided confidentially to vendors in aggregate or de-identified form",
+      "optional": false,
+      "purpose": "Planning, research, product development, and special offers on products and services",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Mobile application usage",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Secure Socket Layer (SSL) encryption",
+      "description": "Personal information is encrypted during transmission"
+    },
+    {
+      "practice": "Protection of personal data",
+      "description": "Wegmans does not sell personal data and has measures in place to protect it"
+    },
+    {
+      "practice": "Compliance with legal requirements",
+      "description": "Customer personal data may be released when necessary to comply with the law or protect Wegmans and its customers"
+    },
+    {
+      "practice": "Obtaining permission before collecting location data",
+      "description": "Wegmans mobile applications only collect location data with user permission"
+    },
+    {
+      "practice": "Deleting personal data of children under 13",
+      "description": "Wegmans website and applications do not collect personal data from children under 13 and will delete such data if received"
+    }
+  ]
+}

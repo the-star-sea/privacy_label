@@ -1,0 +1,114 @@
+{
+  "sharedData": [
+    {
+      "data": "Nickname",
+      "optional": false,
+      "purpose": "Recommendations and personalized user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Recommendations and personalized user experience, troubleshoot and improve services, communicate with users, recommendations and advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Recommendations and personalized user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Birth date",
+      "optional": false,
+      "purpose": "Recommendations and personalized user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": false,
+      "purpose": "Recommendations and personalized user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Login data",
+      "optional": false,
+      "purpose": "Automatic information collection",
+      "type": "Personal info"
+    },
+    {
+      "data": "Unique user device serial number",
+      "optional": false,
+      "purpose": "Automatic information collection",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Automatic information collection",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Type of browser or operating system",
+      "optional": false,
+      "purpose": "Automatic information collection",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Nickname",
+      "optional": false,
+      "purpose": "Recommendations and personalized user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Recommendations and personalized user experience, troubleshoot and improve services, communicate with users, recommendations and advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Recommendations and personalized user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Birth date",
+      "optional": false,
+      "purpose": "Recommendations and personalized user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": false,
+      "purpose": "Recommendations and personalized user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Login data",
+      "optional": false,
+      "purpose": "Automatic information collection",
+      "type": "Personal info"
+    },
+    {
+      "data": "Unique user device serial number",
+      "optional": false,
+      "purpose": "Automatic information collection",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Automatic information collection",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Type of browser or operating system",
+      "optional": false,
+      "purpose": "Automatic information collection",
+      "type": "Device or other IDs"
+    },
+    {
+     

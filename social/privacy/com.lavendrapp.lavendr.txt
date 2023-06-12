@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Date of birth",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Profile information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "App usage data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Localization data",
+      "optional": true,
+      "purpose": "App functionality, Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Chat history",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data deletion upon user request",
+      "description": "Users can request that their personal data be deleted and it will be deleted within 6 months of the request"
+    },
+    {
+      "practice": "Limited third-party disclosure",
+      "description": "Personal data is only provided to necessary third-party processors"
+    },
+    {
+      "practice": "Access and updating of personal data",
+      "description": "Users have access to and can update their personal data at any time"
+    },
+    {
+      "practice": "Confidentiality agreement with employees and contractual partners",
+      "description": "All employees and contractual partners are bound by the duty to uphold confidentiality"
+    }
+  ]
+}

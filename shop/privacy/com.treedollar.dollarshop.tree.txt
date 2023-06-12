@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Providing and improving the Service",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Error logging and analysis",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Cookies",
+      "optional": true,
+      "purpose": "Website functionality",
+      "type": "Cookies"
+    },
+    {
+      "data": "Third-party service provider data",
+      "optional": false,
+      "purpose": "Identification, Error logging and analysis, Analytics, Advertising or marketing",
+      "type": "Third-party data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Use commercially acceptable means of protecting Personal Information",
+      "description": "The developer strives to use secure methods to protect Personal Information"
+    },
+    {
+      "practice": "Cannot guarantee absolute security of transmitted or stored data",
+      "description": "The developer cannot guarantee that the data transmitted or stored on the app is 100% secure"
+    }
+  ]
+}

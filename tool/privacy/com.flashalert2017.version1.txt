@@ -1,0 +1,43 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Site functionality, Analytics",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Non-personally identifiable visitor information",
+      "optional": false,
+      "purpose": "Marketing, Advertising",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Data breach notification information",
+      "optional": false,
+      "purpose": "Site functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Site functionality, Data breach notification",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "No SSL certificate",
+      "description": "Data is not encrypted in transit"
+    },
+    {
+      "practice": "Data breach notification",
+      "description": "Users will be notified of any data breach within 1 business day"
+    },
+    {
+      "practice": "Individual Redress Principle",
+      "description": "Individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law"
+    }
+  ]
+}

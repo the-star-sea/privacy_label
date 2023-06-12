@@ -1,0 +1,106 @@
+{
+  "sharedData": [
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Creating an account, App functionality",
+      "type": "Contact info"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Creating an account, App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Profile picture",
+      "optional": false,
+      "purpose": "Creating an account, App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Creating an account, App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Birthday",
+      "optional": true,
+      "purpose": "Creating an account, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Interests",
+      "optional": true,
+      "purpose": "Creating an account, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Content created on the app",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Metadata of the content",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Pages viewed on the app",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Log information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Securing your personal information",
+      "description": "We take protecting your personal information seriously and will not abuse the information you give us"
+    },
+    {
+      "practice": "Ability to deny giving permission",
+      "description": "We encourage you to deny giving permission if you are uncomfortable doing so"
+    },
+    {
+      "practice": "Ability to delete information",
+      "description": "You have the ability to delete any information you have given us from our servers"
+    },
+    {
+      "practice": "Sharing information with service providers",
+      "description": "We may share information about you with service providers who perform services on our behalf"
+    },
+    {
+      "practice": "Disclosing information when required",
+      "description": "We may disclose information about you if required by a valid legal process, governmental request, or applicable law, rule, or regulation"
+    },
+    {
+      "practice": "Mergers and acquisitions",
+      "description": "We may share information about you with third parties as part of a merger or acquisition"
+    },
+    {
+      "practice": "Third-party integrations",
+      "description": "Through third-party integrations, you may be providing information directly to the third party, us, or both"
+    },
+    {
+      "practice": "Updating privacy policy",
+      "description": "We may change this Privacy Policy from time to time"
+    }
+  ]
+}

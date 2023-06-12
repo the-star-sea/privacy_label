@@ -1,0 +1,96 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Communication, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Communication, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Communication, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Date of birth",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Geolocation",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Photos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Media"
+    },
+    {
+      "data": "Videos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Media"
+    },
+    {
+      "data": "Gallery",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Media"
+    },
+    {
+      "data": "Audio",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Media"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Financial information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Crash detection tools",
+      "description": "Firebase is used for crash detection"
+    },
+    {
+      "practice": "Data is processed outside of Switzerland and the EEA",
+      "description": "Data may be transferred, stored, and processed outside of Switzerland and the EEA"
+    },
+    {
+      "practice": "Deletion of data",
+      "description": "In practice, data is deleted or anonymized upon the deletion of the account or after 5 years of continuous inactivity"
+    },
+    {
+      "practice": "Protection against attacks by hackers",
+      "description": "The company pursues every detected attack by hackers"
+    }
+  ]
+}

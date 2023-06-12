@@ -1,0 +1,37 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Establishing a Wala VPN account, Paying for Services, Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment data",
+      "optional": false,
+      "purpose": "Collecting payment for Services",
+      "type": "Financial info"
+    },
+    {
+      "data": "Server load information",
+      "optional": true,
+      "purpose": "Technical monitoring to recommend suitable servers",
+      "type": "Technical info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "No-logs policy",
+      "description": "User activities using Wala VPN Services are not monitored, recorded, logged, stored or passed to any third party."
+    },
+    {
+      "practice": "Processing personal data under legal basis of performance of contract",
+      "description": "Processing of personal data is for the purpose of providing the best Wala VPN services under the legal basis of performance of the contract between the user and Wala VPN."
+    },
+    {
+      "practice": "Data subject rights",
+      "description": "Users have the right to request information about their personal data, make changes or corrections, object to certain processing, receive a copy of their personal data, transmit their personal data to another controller, or request erasure of their personal data."
+    }
+  ]
+}

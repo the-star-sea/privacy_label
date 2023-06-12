@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Information You Give Us (name, address, email, phone number, payment information)",
+      "optional": false,
+      "purpose": "Processing orders, customizing future shopping experiences, responding to customer requests, sending marketing and advertising communications",
+      "type": "Personal info, Payment info"
+    },
+    {
+      "data": "E-mail communications",
+      "optional": false,
+      "purpose": "Improving email content and effectiveness",
+      "type": "Electronic activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Cookies or other unique identifiers",
+      "optional": false,
+      "purpose": "Customizing shopping experiences, enabling certain website features",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Delivery and address information, credit bureau information",
+      "optional": false,
+      "purpose": "Preventing and detecting fraud",
+      "type": "Financial info, Personal info"
+    },
+    {
+      "data": "Account information (order history, shipping addresses, favorites, contact info)",
+      "optional": false,
+      "purpose": "Providing personalized shopping experiences",
+      "type": "Personal info, Electronic activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption methods utilized",
+      "description": "Encryption methods are used during the transmission or storage of information"
+    },
+    {
+      "practice": "Team of security professionals working to safeguard information",
+      "description": "There is a team of security professionals working to protect the security of information"
+    }
+  ]
+}

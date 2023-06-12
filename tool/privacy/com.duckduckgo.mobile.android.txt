@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Browser and device information",
+      "optional": false,
+      "purpose": "Security and display purposes",
+      "type": "Anonymous info"
+    },
+    {
+      "data": "Anonymous experiments data",
+      "optional": false,
+      "purpose": "Product improvement and promotion",
+      "type": "Anonymous info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information necessary for optional features",
+      "optional": false,
+      "purpose": "Functionality of optional features",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact information provided for support or feedback",
+      "optional": false,
+      "purpose": "Support or feedback response",
+      "type": "Personal info"
+    },
+    {
+      "data": "Recruiting information",
+      "optional": false,
+      "purpose": "Recruiting process",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "No tracking of search or browsing history or unique identifiers",
+      "description": "No saving or sharing of search or browsing history or unique identifiers"
+    },
+    {
+      "practice": "Anonymous viewing of private search ads",
+      "description": "Viewing ads on DuckDuckGo Search is anonymous"
+    },
+    {
+      "practice": "Use of anonymous methods to learn key insights",
+      "description": "Development and use of anonymous experiments to test different designs"
+    },
+    {
+      "practice": "Data is transferred over an end-to-end encrypted connection",
+      "description": "Content is securely delivered through an end-to-end encrypted connection"
+    },
+    {
+      "practice": "No tracking through cookies or other storage methods",
+      "description": "No tracking through cookies or other storage methods, except for anonymous local storage to remember dismissed prompts"
+    },
+    {
+      "practice": "Respect and support of legal privacy rights",
+      "description": "Respect and support of legal privacy rights regarding personal information we may hold"
+    },
+    {
+      "practice": "No sale of personal information",
+      "description": "No sale of personal information, and will post a notice on the privacy policy page if the policy is updated"
+    },
+    {
+      "practice": "Notification of changes to policy",
+      "description": "Notification of changes to policy by posting the modified version on the website"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "sharedData": [
+    {
+      "data": "Device IP address",
+      "optional": false,
+      "purpose": "Site usage statistics",
+      "type": "Device info"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "Site usage statistics",
+      "type": "Location"
+    },
+    {
+      "data": "Automatically collected information and cookies",
+      "optional": false,
+      "purpose": "Site usage statistics, Advertising",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Employment application information",
+      "optional": false,
+      "purpose": "Transaction completion",
+      "type": "Personal info"
+    },
+    {
+      "data": "Audio, video or similar information",
+      "optional": false,
+      "purpose": "Customer service, Security monitoring",
+      "type": "Audio/Visual"
+    },
+    {
+      "data": "Inference from collected data",
+      "optional": false,
+      "purpose": "Ad customization, Research and development",
+      "type": "Preferences, characteristics, behavior, attitudes, abilities, etc."
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Cookies stay on browser until expiration or deletion",
+      "description": "The Site's cookies are designed to remain on the user's browser until they expire or are deleted"
+    },
+    {
+      "practice": "Data is shared with third parties under certain circumstances",
+      "description": "Information may be revealed to third parties to help complete a transaction, comply with laws, or protect the rights, property, or safety of users or others"
+    },
+    {
+      "practice": "Users can delete or block cookies",
+      "description": "Users can choose to delete or block cookies by adjusting their browser settings"
+    },
+    {
+      "practice": "Reasonable measures are taken to verify identity before providing information",
+      "description": "The Site will ask for information to verify the user's identity before providing access to personal information"
+    },
+    {
+      "practice": "Non-discriminatory practices in response to user requests",
+      "description": "The Site will not discriminate against users who exercise their privacy rights"
+    },
+    {
+      "practice": "No sale of personal information for monetary consideration",
+      "description": "The Site does not transfer personal information for monetary compensation"
+    },
+    {
+      "practice": "Opt-out available for marketing emails",
+      "description": "Users can opt-out of marketing emails by clicking 'unsubscribe'"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+Home (current)
+FAQ
+BLOG
+Terms
+Privacy Policy and Terms of Use
+By using Audify Music Player, you consent to have read, understood, and agree to our Privacy Policy and Terms of Use provided herein. We do not process your personal information or disseminate it to Third Parties for any reason whatsoever except as provided under Section 5 of this agreement. Definitions:
+Unless the context provides otherwise:
+1.1. Application shall mean Audify Music Player
+1.2. Storage shall mean your SD card/External Storage and internal storage of your device
+1.5. Storage: We needaccess to your Storage to install the Application. Further, we need access to your device storage in order to add the audio files in the playlist available in the Application or created by you in our app. This permission is also needed to install the Application in thestorage. Whenever we add a new feature or fix an error, we intimate our users about the updates. We also neednetwork details to optimize the services on slow networks. You can also delete unwanted files using the Application. Device id, Phone Status: All the user logs, crash reports, performance reports, and analytic logs are mapped under unique user ids. Prevent the phone from sleeping: This is needed to keep the Application functioning as per your need. You can set the sleep timer to play theaudio for acertain time duration. Cookies: Cookies are small text files designed to identify your preferences and manage your sessions. They are transferred via web servers and are stored in your storage. You can disable and delete the cookies at your convenience. However, disabling the cookies may lead to the Application not functioning correctly. We do not collect your images by default and it be collected only when you create and add images to the Mix feature in the application. Name -AudifyMusic Playercollects, transmits and stores names once you log in or create Audify Mix to provide a more personal experience in the Application on Audify Cloud. How do we use the information: To let you enjoy our services seamlessly, we are continuously putting efforts to bring forward the best. We need the error reports, analytics, logs, crash reports to understand the issues and provide upgrades. We reserve the right to change our Privacy Policy. Disclosure: In the event, the information, of whatever nature, is requested by Police or law enforcement agencies to detect fraud, illegality, and concerns related to national security, we reserve the right to disclose the information requested. belongs to another person and to which the user does not have any right to;
+8.1.2. contains software viruses or any other computer code, files, or programs designed to interrupt, destroy or limit the functionality of any computer resource;
+8.1.8. Threatens the unity, integrity, defence, security or sovereignty of your, friendly relations with foreign states, or public order or causesincitement to the commission of any cognizable offence or prevents investigation of any offence or is insulting any other nation. Our partners are flexible with opt-outs and numerous other privacy efforts to minimize the privacy impact of online ads
+How do we protect your data
+Security Safeguards
+All sorts of administrative, technical, and physical security measures are being taken from our side to confirm a safe and secure user experience. Also, if you ask us to clear your personal data, we will retain your data as required for our fair business interests, along with compliance with legal obligations, resolving disputes, and implementing our contracts. Contact
+Name - Ashish Patel
+Email - ashish@audifytech.com
+Address - Audify Tech Private Limited,8th Floor, Building 3, TEC, Prestige Technostar, Brookfield, Bangalore - 560048, Karnataka, India
+(c) Audify Tech Private Limited

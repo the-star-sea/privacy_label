@@ -1,0 +1,68 @@
+Privacy Policy  Phone Guardian
+Available at: phoneguardianapp.com/pp/en.php
+Privacy Policy
+See previous versions
+data.ai Privacy Policy for Mobile Applications (Phone Guardian)
+Last Updated February 23, 2023
+Our Privacy Policy Has Recently Changed. For more information about how
+data.ai processes your personal information when you visit our website at data.ai, please review https://www.data.ai/en/legal/privacy/.
+Summary
+This data.ai Privacy Policy for Mobile Applications (" Policy") explains how the App
+collects information about you and about how you use your mobile device, including information about the apps you
+use and websites you visit. The Policy also explains your rights and choices with respect to your personal information, and how you
+can
+contact us if you have any questions or concerns. No part of the App is directed to children under the age of 16,
+nor do we knowingly collect information from anyone under the age of 16 (see Section 7 of this Policy). Where applicable, we indicate whether and why the provision of your Personal Information is a statutory or
+contractual requirement, as well as the possible consequences of failing to do so. i. Personal Information Provided
+Directly by You When You Engage with Us
+If you contact us directly, such as to request information, access the App, or connect with Customer Support, we
+may
+receive additional Personal Information about you, such as your name, email address, the content, date and time of
+your message, and our reply. Personal Information contained in the network traffic transmitted through the VPN and encrypted by us is
+processed as
+part of our service that we provide through this App. Please note that if you seek help through the Help and
+Feedback section within the App, we use a third party to facilitate customer support on our behalf, and the Phone
+Guardian website privacy policy applies: phoneguardianapp.com/pp.php. Withdrawing your consent will not impact the legality of us having processed your
+Personal Information prior to you withdrawing your consent. How much time is generally spent on social networks (e.g., Facebook, Twitter)? How many times per day is a specific app being used on a general basis? We use a third-party service to detect App crashesGoogle LLC's Firebase Crashlytics in the U.S. (see Section
+10
+of this Policy)to process:
+Device-specific information (e.g., model, operating system and version number);
+Per-installation identifier (a random installation identifier unique to Firebase);
+Coarse geographic location information inferred from your IP address (e.g., city, country); and
+Other crash-related information (e.g., date and time of crash and crash traces). You also consent to Leanplum Inc. and Google LLC storing and accessing information on your device, including
+unique per-installation identifiers that are only used in relation to analytics and remote configuration. We do not combine personal
+information collected through Firebase or Leanplum with any other personal information we may have received from
+you for other purposes. Your consent will allow us to disclose and process your Personal Information through the Leanplum and Firebase
+services we currently use. Your consent also will allow Leanplum and Firebase to store and gain access to
+per-installation identifiers on your mobile device. See a list of our Related Companies here: phoneguardianapp.com/related-companies.php. As Required by Law and Similar Disclosures
+Subject to applicable local laws and regulations we disclose Personal Information we have about you: (i) if we
+are
+required to do so by law, regulation, or legal process, such as a court order or subpoena; (ii) in response to
+requests by government agencies, such as law enforcement authorities; (iii) when we believe disclosure is
+necessary
+or appropriate to protect against or respond to physical, financial or other harm, injury, or loss to property; or
+(iv) in connection with an investigation of suspected or actual unlawful activity. We do not sell your Personal
+Information. You may contact us as specified in "How to Contact Us" (see Section 12 of this Policy) to obtain a copy
+of
+the appropriate and suitable safeguards we use to transfer Personal Information outside of these countries. Unless we are required or permitted by law to keep this information for a
+longer period of time, when this information is no longer necessary to carry out the purposes for which we process
+it, we will delete your Personal Information or keep it in a form that does not permit identifying you. Electronic communications sent to or from the App may not be secure. Do Not Track
+Some web browsers incorporate a "Do Not Track" feature. You can reset the advertising identifier randomly assigned to your device at any time and can
+opt out of personalized ads by denying such permissions on your device. Once you delete the App from your device, we will no longer
+receive any of your information, including Personal Information, and we will no longer be able to identify you
+as a user of the App because your information will be anonymized. You can exercise this right by going to the Data Privacy Preferences page and selecting
+"Data Export." You can, for example, contact the supervisory authority in
+the EU Member State of your residence, place of work or place of the alleged infringement. We also may contact you by email (if
+you
+have provided it to us) to verify your identity and ask you additional questions so that we can match your
+identity
+with the data we have about you. To use an authorized agent, we may require:
+(1)
+your signed permission designating the authorized agent; (2) evidence that the authorized agent has power of
+attorney under the California Probate Code; or (3) proof that the authorized agent is registered with the
+California
+Secretary of State and that you have authorized such authorized agent to be able to act on your behalf. Legal Department
+44 Montgomery Street, Third Floor
+San Francisco, CA 94104 USA
+data.ai's Data Protection Officer may be contacted via email (PG-privacy@data.ai) or at the following address:
+data.ai inc.

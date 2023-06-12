@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-personally identifiable information for advertising and analytics",
+      "optional": false,
+      "purpose": "Advertising, Analytics",
+      "type": "Non-personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Necessary data to improve and optimize the Services",
+      "optional": false,
+      "purpose": "Service improvement, Relationship management, Customization, Support, Offers",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information shared with third party advertising and marketing partners",
+      "optional": false,
+      "purpose": "Advertising, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Necessary data to analyze and monitor use of the Services and prevent fraud",
+      "optional": false,
+      "purpose": "Fraud prevention, Security",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information disclosed to business partners",
+      "optional": false,
+      "purpose": "Advertising, Traffic usage analysis",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Efforts are made to ensure security of personal data, but absolute security cannot be guaranteed",
+      "description": "The service provider cannot guarantee the absolute security of personal data or communication facilities provided"
+    },
+    {
+      "practice": "Individual rights requests are honored, but there may be limitations",
+      "description": "Individuals have the right to request information and object to processing, but there may be some limitations"
+    },
+    {
+      "practice": "Policy is subject to change and notice will be provided",
+      "description": "The policy may change over time and notice will be provided to users"
+    }
+  ]
+}

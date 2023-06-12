@@ -1,0 +1,57 @@
+{
+  "sharedData": [
+    {
+      "data": "Technical information from browser or device",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Technical info"
+    },
+    {
+      "data": "Order and payment records (excluding payment details)",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Submitted PayPal account and handwritten signature",
+      "optional": true,
+      "purpose": "App functionality, Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Contact info"
+    },
+    {
+      "data": "Wi-Fi access points and location information",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Camera or photo album content",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Media"
+    },
+    {
+      "data": "Personal information on user profile",
+      "optional": false,
+      "purpose": "App functionality, User consent",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Reasonable efforts to secure personal information",
+      "description": "We take steps to keep your personal information secure"
+    },
+    {
+      "practice": "Ability to request data deletion",
+      "description": "You can request that your personal information be deleted and account closed"
+    }
+  ]
+}

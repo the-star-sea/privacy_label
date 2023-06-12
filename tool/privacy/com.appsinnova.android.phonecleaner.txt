@@ -1,0 +1,86 @@
+{
+  "sharedData": [
+    {
+      "data": "Android ID",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Detection of viruses or malfunctions",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Google Advertising ID",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Demographic data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data to fight against fraud",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Data to do advertising, marketing, and analysis",
+      "optional": false,
+      "purpose": "Advertising or marketing, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Feedback and customer service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Feedback content",
+      "optional": true,
+      "purpose": "Feedback and customer service",
+      "type": "Content"
+    },
+    {
+      "data": "Questionnaire content",
+      "optional": true,
+      "purpose": "Feedback and customer service",
+      "type": "Content"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request your personal information",
+      "description": "We will provide you with a copy of your personal information upon request"
+    },
+    {
+      "practice": "Age verification for children under 13",
+      "description": "The app does not knowingly collect personally identifiable information from children under 13 without parental consent"
+    }
+  ]
+}

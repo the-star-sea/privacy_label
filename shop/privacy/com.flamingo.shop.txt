@@ -1,0 +1,62 @@
+{
+  "sharedData": [
+    {
+      "data": "Primary account information",
+      "optional": false,
+      "purpose": "Security, Account functionality",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Browser type",
+      "optional": false,
+      "purpose": "Fraud prevention and detection",
+      "type": "Technical info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Fraud prevention and detection",
+      "type": "Technical info"
+    },
+    {
+      "data": "Operating system",
+      "optional": false,
+      "purpose": "Fraud prevention and detection",
+      "type": "Technical info"
+    },
+    {
+      "data": "Account setting information",
+      "optional": false,
+      "purpose": "Fraud prevention and detection",
+      "type": "Personal info"
+    },
+    {
+      "data": "Log-in data",
+      "optional": false,
+      "purpose": "Risk control and fraud reporting",
+      "type": "Personal info"
+    },
+    {
+      "data": "Billing address",
+      "optional": false,
+      "purpose": "Payment verification",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Use of Secure Sockets Layer (SSL) protocol",
+      "description": "Encrypts any personal information you enter into registration forms on the Application"
+    },
+    {
+      "practice": "Data is protected against fraud and illegal activities",
+      "description": "Automatic collection of Information through the Services, such as device information, operating system and account setting information for fraud prevention and detection and credit risk reduction"
+    },
+    {
+      "practice": "You can access, correct or delete your personal information",
+      "description": "You have the right to access, correct, or delete the personal information that we collect. To exercise your rights, you may make updates within your customer account on the Site or App, or you may contact us our dedicated Privacy Center"
+    }
+  ]
+}

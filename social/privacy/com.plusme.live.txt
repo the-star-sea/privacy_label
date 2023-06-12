@@ -1,0 +1,108 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account creation and management, Communication and customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": true,
+      "purpose": "Content recommendations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Date of Birth",
+      "optional": true,
+      "purpose": "Content recommendations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Username and password",
+      "optional": false,
+      "purpose": "Account creation and management",
+      "type": "Credentials"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Communication and marketing",
+      "type": "Contact info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "Communication and customer support",
+      "type": "Contact info"
+    },
+    {
+      "data": "Picture",
+      "optional": true,
+      "purpose": "Account and profile customization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device identifier",
+      "optional": false,
+      "purpose": "Analytics and personalized content and ads",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Feedback",
+      "optional": true,
+      "purpose": "Customer support and app improvements",
+      "type": "Personal info"
+    },
+    {
+      "data": "User log information",
+      "optional": false,
+      "purpose": "App functionality and bug fixes",
+      "type": "App activity"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "App functionality and transactions",
+      "type": "Financial info"
+    },
+    {
+      "data": "Chats",
+      "optional": false,
+      "purpose": "Communication and engagement",
+      "type": "Personal info"
+    },
+    {
+      "data": "Installed application information",
+      "optional": false,
+      "purpose": "Compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Third-party data",
+      "optional": true,
+      "purpose": "Services integration",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Physical, technical, and administrative safeguards",
+      "description": "Service providers are required to protect the security and confidentiality of personal information"
+    },
+    {
+      "practice": "Retention periods",
+      "description": "Personal information is retained as required or authorized by law"
+    },
+    {
+      "practice": "Individual rights",
+      "description": "Individual rights may be limited in certain cases, such as denial of access required by law or to protect privacy"
+    },
+    {
+      "practice": "Withdrawal of consent",
+      "description": "Consent to process personal information can be withdrawn at any time"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "sharedData": [
+    {
+      "data": "User ID",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mobile phone number",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Profile photo",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "User bio and handle",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Quotes, images, political opinions, religious views",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number and SMSes",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contacts list",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Contacts"
+    },
+    {
+      "data": "GPS location, camera or photos",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Device info"
+    },
+    {
+      "data": "Data from device settings",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Device info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Phone number and SMSes",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contacts list",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Contacts"
+    },
+    {
+      "data": "GPS location, camera or photos",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Device info"
+    },
+    {
+      "data": "Data from device settings",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Device info"
+    },
+    {
+      "data": "Apple's TrueDepth camera data",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted during transmission",
+      "description": "Data transmitted over internet is encrypted"
+    },
+    {
+      "practice": "Data is deleted upon request",
+      "description": "User can request for deletion of their data"
+    }
+  ]
+}

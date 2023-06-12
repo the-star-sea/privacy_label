@@ -1,0 +1,58 @@
+{
+  "sharedData": [
+    {
+      "data": "Other apps installed on your device",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Personalized content based on interests",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal data necessary to provide services",
+      "optional": false,
+      "purpose": "Service operations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Marketing materials",
+      "optional": false,
+      "purpose": "Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personalized content based on interests",
+      "optional": false,
+      "purpose": "Customizing your experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal data shared with group of companies",
+      "optional": false,
+      "purpose": "Service operations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal data disclosed or shared with law enforcement agencies or courts",
+      "optional": false,
+      "purpose": "Compliance with legal obligations or to protect rights",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Implementation of appropriate technical and organizational measures to ensure data security",
+      "description": "Measures are evaluated regularly to ensure security of the processing"
+    },
+    {
+      "practice": "Retention of personal data only for duration of relationship with user",
+      "description": "Personal data is deleted after relationship ends"
+    }
+  ]
+}

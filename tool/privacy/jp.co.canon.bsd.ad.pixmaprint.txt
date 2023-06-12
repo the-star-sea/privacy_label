@@ -1,0 +1,72 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Sending important notices",
+      "type": "Personal info"
+    },
+    {
+      "data": "Basic personal details",
+      "optional": false,
+      "purpose": "Improving user experience and overall quality of services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Behavioral, device, and interactions information",
+      "optional": false,
+      "purpose": "Providing, maintaining, protecting, improving, and developing products and services",
+      "type": "App activity"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Providing, maintaining, protecting, improving, and developing products and services",
+      "type": "Location"
+    },
+    {
+      "data": "Cookies and similar technologies",
+      "optional": false,
+      "purpose": "Identifying users and enabling certain functionalities",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Behavioral, device, and interactions information",
+      "optional": false,
+      "purpose": "Providing, maintaining, protecting, improving, and developing products and services",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal data is not transferred without prior explicit consent",
+      "description": "Canon will not transfer your personal data to other individuals or businesses without your prior explicit consent"
+    },
+    {
+      "practice": "Protection of minors' privacy",
+      "description": "Access and use of Canon's services by anyone under the age of majority is only permitted with the express permission of a parent or legal guardian"
+    },
+    {
+      "practice": "Personal data is deleted after a reasonable period of time",
+      "description": "Canon will delete your personal data and any stored content after a reasonable period of time, typically not exceeding 5 years in most jurisdictions"
+    },
+    {
+      "practice": "User guaranteed quality of information",
+      "description": "Users guarantee the quality of the information provided to Canon, ensuring it is accurate, updated, and complies with the principle of privacy"
+    },
+    {
+      "practice": "User authorization of data usage",
+      "description": "By using any of Canon's services, users authorize the company to use their personal data for the purposes described in this privacy policy"
+    },
+    {
+      "practice": "Process operations do not put personal information at risk",
+      "description": "Canon does not engage in any processing operations that might put users' personal information at risk and will gather explicit consent where necessary to safeguard users' right to privacy"
+    },
+    {
+      "practice": "Updates to privacy policy",
+      "description": "Canon will keep users updated on any important changes to this privacy policy through the services"
+    }
+  ]
+}

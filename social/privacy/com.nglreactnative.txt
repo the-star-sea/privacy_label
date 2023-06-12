@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Messages",
+      "optional": false,
+      "purpose": "Providing and supporting the Services",
+      "type": "Communication"
+    },
+    {
+      "data": "IP addresses or browser user agents",
+      "optional": false,
+      "purpose": "Protecting the safety of our users",
+      "type": "Identifiers"
+    },
+    {
+      "data": "Web beacons",
+      "optional": false,
+      "purpose": "Monitoring and protecting our Services",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Account information",
+      "optional": false,
+      "purpose": "Providing and supporting the Services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Messages",
+      "optional": false,
+      "purpose": "Providing and supporting the Services",
+      "type": "Communication"
+    },
+    {
+      "data": "Web beacons",
+      "optional": false,
+      "purpose": "Monitoring and protecting our Services",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Marketing and advertising",
+      "type": "Location"
+    },
+    {
+      "data": "Personal info used for marketing and advertising purposes",
+      "optional": false,
+      "purpose": "Marketing and advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data shared with third parties",
+      "optional": false,
+      "purpose": "Providing and supporting the Services",
+      "type": "Data sharing"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption in transit",
+      "description": "Data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data deletion upon request",
+      "description": "Users have the ability to delete their personal information upon request"
+    }
+  ]
+}

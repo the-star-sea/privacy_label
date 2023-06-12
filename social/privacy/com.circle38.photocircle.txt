@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Media (photos, videos, comments, etc.)",
+      "optional": false,
+      "purpose": "Limited to Circle Members only",
+      "type": "Media"
+    },
+    {
+      "data": "Email address (optional)",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Hashed email address",
+      "optional": false,
+      "purpose": "Identity and service providers",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP Address",
+      "optional": false,
+      "purpose": "Identity and service providers",
+      "type": "Personal info"
+    },
+    {
+      "data": "Browser or operating system information",
+      "optional": false,
+      "purpose": "Identity and service providers",
+      "type": "Personal info"
+    },
+    {
+      "data": "Online identification code",
+      "optional": false,
+      "purpose": "Online, in-app, and cross-channel advertising",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "Server spaces encrypt data sent to the App and displayed by the App, both at rest in the database and in transit between the App and those databases."
+    },
+    {
+      "practice": "Data deletion upon request",
+      "description": "We comply with requests to update or remove personal information within a reasonable time period unless prohibited by law."
+    },
+    {
+      "practice": "Account self-deletion",
+      "description": "Moderators can delete their Circles, while Members can remove Media contributions from the Circle and/or leave the Circle."
+    }
+  ]
+}

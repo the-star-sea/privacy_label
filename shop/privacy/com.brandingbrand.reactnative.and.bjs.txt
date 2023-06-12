@@ -1,0 +1,92 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Audio and video information",
+      "optional": false,
+      "purpose": "Asset protection and operational purposes",
+      "type": "Sensitive info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Transaction-related information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Financial info"
+    },
+    {
+      "data": "Internet Protocol (IP) address",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Online identifier"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Advertising identifiers",
+      "optional": false,
+      "purpose": "Marketing",
+      "type": "Online identifier"
+    },
+    {
+      "data": "General location",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Browser type",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Online identifier"
+    },
+    {
+      "data": "Website referral",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online activity"
+    },
+    {
+      "data": "Items viewed or placed in shopping cart",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Online activity"
+    },
+    {
+      "data": "Movement taken through BJs Sites",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Online activity"
+    },
+    {
+      "data": "(BJs) WiFi information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is encrypted at rest",
+      "description": "Your data is securely stored on our servers"
+    },
+    {
+      "practice": "We have measures in place to detect and respond to security incidents",
+      "description": "We monitor our systems for suspicious activity and have procedures in place to respond to any incidents"
+    }
+  ]
+}

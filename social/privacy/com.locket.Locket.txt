@@ -1,0 +1,27 @@
+{
+  "sharedData": [
+    {
+      "data": "Phone numbers",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Contact info"
+    },
+    {
+      "data": "Photos and associated metadata (time taken)",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Media"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ]
+}

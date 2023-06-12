@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "Basic personal information (age, gender)",
+      "optional": false,
+      "purpose": "User registration, identity verification",
+      "type": "Personal info"
+    },
+    {
+      "data": "Non-personally identifiable information (residence, preferences)",
+      "optional": true,
+      "purpose": "Personalized content and services",
+      "type": "Non-personal info"
+    },
+    {
+      "data": "Location information (IP address)",
+      "optional": false,
+      "purpose": "Location inference and use in personalized content and services",
+      "type": "Location"
+    },
+    {
+      "data": "Upload content (photos, screenshots, comments)",
+      "optional": false,
+      "purpose": "User-generated content and user experience improvement",
+      "type": "App activity"
+    },
+    {
+      "data": "Information related to transactions",
+      "optional": false,
+      "purpose": "Transaction processing and record keeping",
+      "type": "Financial info"
+    },
+    {
+      "data": "Error report information",
+      "optional": true,
+      "purpose": "Service improvement and error investigation",
+      "type": "App info and performance"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Cookies (session and permanent)",
+      "optional": true,
+      "purpose": "Personalized content and services",
+      "type": "Non-personal info"
+    },
+    {
+      "data": "Device identifiers and location data",
+      "optional": true,
+      "purpose": "Personalized content and services",
+      "type": "Device or other IDs, Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Reasonable and feasible security protection measures",
+      "description": "The company adopts measures to protect personal data and prevent unauthorized access, disclosure, use, modification, damage, or loss"
+    },
+    {
+      "practice": "Regularly checking page for new content",
+      "description": "Users are recommended to check the page for any updates to the Privacy Policy"
+    }
+  ]
+}

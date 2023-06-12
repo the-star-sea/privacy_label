@@ -1,0 +1,78 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality, Marketing communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Marketing communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial data",
+      "optional": false,
+      "purpose": "Order fulfilment, Fraud prevention and detection",
+      "type": "Financial info"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Marketing communications, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Order fulfilment, Customer support, Marketing communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial data",
+      "optional": false,
+      "purpose": "Order fulfilment, Fraud prevention and detection",
+      "type": "Financial info"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Marketing communications, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Marketing communications, Personalization",
+      "type": "Cookies"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Third parties must have security measures in place to protect data",
+      "description": "Third parties who process personal data on behalf of PLT must have security measures in place to protect data"
+    },
+    {
+      "practice": "Personal data is not stored indefinitely",
+      "description": "Personal data is stored only as long as it is needed to provide services to the user"
+    },
+    {
+      "practice": "Data sharing only with consent or necessary purposes",
+      "description": "Personal data is shared only with user consent or for necessary purposes such as fraud prevention and detection"
+    },
+    {
+      "practice": "Efforts made to comply with data protection regulations",
+      "description": "PLT makes efforts to comply with data protection regulations and allows users to exercise their rights regarding their personal data"
+    }
+  ]
+}

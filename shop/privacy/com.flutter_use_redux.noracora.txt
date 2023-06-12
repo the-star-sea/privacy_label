@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Order processing, Marketing communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Order processing, Marketing communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Shopping cart items",
+      "optional": false,
+      "purpose": "Personalization, Order processing",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Survey responses",
+      "optional": false,
+      "purpose": "Marketing communication, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "Error tracking, App improvements",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal information is stored securely",
+      "description": "Personal information is contained behind secured networks and is only accessible to a limited number of people who have special access rights"
+    },
+    {
+      "practice": "Transactions are processed securely",
+      "description": "All transactions are processed through a gateway provider and are not stored or processed on our servers"
+    },
+    {
+      "practice": "Users are notified of any privacy policy changes",
+      "description": "Users shall be notified of any privacy policy changes on our Privacy Policy Page"
+    },
+    {
+      "practice": "Users can change their personal information",
+      "description": "Users can change their personal information by chatting with us or sending us a ticket"
+    },
+    {
+      "practice": "Data breach notification",
+      "description": "Users shall be notified via email and SMS within 7 business days in case of a data breach"
+    },
+    {
+      "practice": "Users can unsubscribe from emails",
+      "description": "Users can unsubscribe by using the link at the bottom of each email"
+    }
+  ]
+}

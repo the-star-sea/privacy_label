@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-refundable fees for value added services",
+      "optional": false,
+      "purpose": "Online purchases",
+      "type": "Financial info"
+    },
+    {
+      "data": "Personal information transmitted to third party service providers",
+      "optional": false,
+      "purpose": "Online purchases",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage of the Platform and Services",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Content uploaded to the Platform",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "User-generated content"
+    },
+    {
+      "data": "Personal information transmitted to third party service providers",
+      "optional": false,
+      "purpose": "Service functionality, Online purchases",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption of transmitted personal information",
+      "description": "Personal information transmitted through the Platform is encrypted"
+    },
+    {
+      "practice": "Account termination for non-compliance",
+      "description": "Accounts found to be in non-compliance with the Terms or Privacy Policy may be terminated."
+    },
+    {
+      "practice": "Modification or discontinuation of Service",
+      "description": "OpenSooq may modify or discontinue the Service with or without notice."
+    }
+  ]
+}

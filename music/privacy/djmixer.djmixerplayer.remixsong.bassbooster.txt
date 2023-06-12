@@ -1,0 +1,58 @@
+{
+  "sharedData": [
+    {
+      "data": "Access Fine Location permission",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Push Notification token",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Contact Information",
+      "optional": false,
+      "purpose": "Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Technical Data",
+      "optional": true,
+      "purpose": "App functionality, Analytics",
+      "type": "Technical info"
+    },
+    {
+      "data": "Voluntarily provided Information",
+      "optional": true,
+      "purpose": "App functionality, Customer support",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Contractual obligation to ensure Service Providers' compliance with applicable data protection laws",
+      "description": "Service Providers must comply with applicable data protection laws as required by our contract"
+    },
+    {
+      "practice": "Use of Google Cloud",
+      "description": "Data is stored and processed on Google Cloud servers located in EU, US, and Asia"
+    },
+    {
+      "practice": "Restriction of processing activities to specific countries",
+      "description": "Some processing activities are conducted only in specific countries"
+    },
+    {
+      "practice": "Children's data protection",
+      "description": "The App and Services are not directed to children under 13 years old"
+    }
+  ],
+  "additionalNotes": [
+    "The App and Services do not respond to Do Not Track signals",
+    "Reasonable efforts will be made to notify users of substantial changes to the Privacy Policy"
+  ]
+}

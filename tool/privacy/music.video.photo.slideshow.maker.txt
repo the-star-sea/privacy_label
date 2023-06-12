@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Account administration, providing services, customer support, communication, personalized experiences",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Ensuring a consistent experience across devices",
+      "type": "Device info"
+    },
+    {
+      "data": "Photo metadata",
+      "optional": false,
+      "purpose": "Facial and key-points recognition, region segmentation, content tags, and other custom features",
+      "type": "Photo metadata"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Information provided by other users",
+      "optional": false,
+      "purpose": "Providing and improving our services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contents of SD card",
+      "optional": false,
+      "purpose": "Read, modify, or delete contents in accordance with user instructions",
+      "type": "Files"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Authentication, remembering preferences and settings, analyzing site traffic, delivering and measuring the effectiveness of advertising campaigns, social feature use",
+      "type": "Cookies"
+    },
+    {
+      "data": "Photo metadata",
+      "optional": false,
+      "purpose": "Facial and key-points recognition, region segmentation, content tags, and other custom features",
+      "type": "Photo metadata"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Protecting against unauthorized access, alteration, disclosure or destruction of personal information",
+      "description": "The company takes appropriate security and technical measures to safeguard personal information"
+    },
+    {
+      "practice": "Deleting personal data within a reasonable time frame when requested by users",
+      "description": "Users have the right to request the deletion of their personal data and the company will make reasonable efforts to comply"
+    },
+    {
+      "practice": "Obtaining consent for sharing personal information with third parties",
+      "description": "The company will ask for consent before sharing personal information with third parties"
+    },
+    {
+      "practice": "Complying with legal processes or protecting the safety of individuals",
+      "description": "The company will disclose personal information when required by law or to protect the safety of individuals"
+    },
+    {
+      "practice": "Not collecting personal information from individuals under the age of 13",
+      "description": "The company does not knowingly collect personal information from individuals under the age of 13"
+    }
+  ]
+}

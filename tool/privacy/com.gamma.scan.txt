@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Advertising or marketing, Analytics, Fraud prevention, security, and compliance",
+      "type": "Internet or other similar network activity"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Advertising or marketing, Analytics, Fraud prevention, security, and compliance, Personalization",
+      "type": "Geolocation data"
+    },
+    {
+      "data": "Interaction data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal data is kept secure",
+      "description": "Strict procedures and security features are used to prevent unauthorized access to personal data"
+    },
+    {
+      "practice": "Data is not shared without consent",
+      "description": "The developer will not share any personal data without the user's consent"
+    }
+  ]
+}

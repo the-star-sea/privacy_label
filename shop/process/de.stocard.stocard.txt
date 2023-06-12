@@ -1,0 +1,43 @@
+The app
+Business
+Jobs
+Help
+Company
+Contact
+Help
+Legal
+Terms
+Privacy Policy
+Site Notice
+Follow us
+Instagram
+LinkedIn
+Facebook
+Twitter
+Privacy Policy. With the following information, we would like to give you an overview of the processing of your personal data within the scope of the installation and usage of the "Stocard" mobile application (hereinafter referred to as app) and your rights from data protection laws. Stocard only accesses this data in an anonymous form. Furthermore, the customer card conditions from the respective partner apply, which are linked correspondingly and you have given separate consent. e) Interface data: if you have logged into your user account from a card provider through the app, we will collect and save the respective point status and the shared transactions or other offers provided to you (such as card-linked coupons or personalized offers). To facilitate future requests, we will store your password in Stocard. h)
+Data privacy statement for receiving DeutschlandCard points balance and transactions:
+You can enter the password for your DeutschlandCard account in the Stocard app in order to display your DeutschlandCard points and your DeutschlandCard transactions. b) Within the scope of the consideration of interests (art. 1 a GDPR)
+If you have given us express consent (opt-in) to process personal data for the respective purposes within the corresponding functions of the app (for example, application for a customer card from a partner, login to your user account from a card provider, delivery of personalized offers (so-called card-linked coupons), the legality of this processing (for example, forwarding the data to third parties) is given on the basis of your consent. Granted consent can be revoked at any time. The revocation of consent does not affect the legality of the data processed until revocation. f. GDPR (this means interest in the analysis, optimization and efficient operation of our app), we use the following third-party services:
+a) Mixpanel: we use Mixpanel in our app - a service offered by Mixpanel Inc. (Mixpanel), 405 Howard Street, Floor 2, San Francisco, CA 94105, USA
+to collect technical data from our app and website in a pseudo-anonymous manner so that we can better understand how users interact with our app. Google is certified under the Privacy Shield agreement and offers a guarantee to comply with the European data protection regulations. If you would like to opt out of this data processing, you can use the settings and opt out options provided by Google at https://www.google.com/ads/preferences. 141 5th Avenue Suite 9, New York, NY 1001, United States. An anonymous advertising ID serves as a pseudonym. We, therefore, do not have any information about the user's identity. You can find more information about the AppsFlyer SDK at https://www.appsflyer.com/product/data-privacy You can opt out of this data processing at any time through https://www.appsflyer.com/optout. Additionally, individual activities (events) from the user within the app can be analyzed to be able to define the target group for advertising campaigns in a more precise and better manner. Our app sends anonymous data to Facebook and the information that the app was started for this purpose. You can find out more information about the Facebook SDK under iOS at https://developers.facebook.com/docs/ios. Data transmission to sites in states outside of the European Union (so-called third-party states) occurs provided that
+it is required to execute your orders,
+it is legally prescribed,
+within the scope of order data processing or
+you have given us your consent. It must be considered that our business relationship is a continuing obligation that exists for years. of the Civil Code (BGB), these limitation periods can amount to up to 30 years, whereby the regular limitation period is 3 years. We do not use fully automatic decision-making in accordance with article 22 GDPR. GPS provides the card issuing, transaction processing and fraud monitoring system that is essential to the payment services. You can find more information about Moorwand
+at https://www.moorwand.com/privacy
+W2 Global Data Solutions Ltd.: we use W2 Global Data Solutions Ltd., Clarence House, Clarence Place, Newport, NP19 7AAW2, UK to screen you for politically exposed person (PEP) status and sanctions lists, and to verify your identity by checking databases for a match on the personal information provided by you. You can find more information about ComplyAdvantage at
+https://complyadvantage.com/terms-and-conditions
+Onfido: we use Onfido, 3 Finsbury Avenue, London EC2M 2PA, UK to verify your identity online based on a selfie and a photo of your government-issued ID. d) Automated decision-making and profiling
+We may process your personal data partially automated to assess if you pose a fraud, money laundering or terrorist financing risk in the following situations:
+To complete sanctions and PEP status screening. Company
+Contact
+Help
+Legal
+Terms
+Privacy Policy
+Site Notice
+Follow us
+Instagram
+LinkedIn
+Facebook
+Twitter

@@ -1,0 +1,104 @@
+{
+  "sharedData": [
+    {
+      "data": "YUBO ID",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Notification preferences",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Interactions with YUBO features and other users",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Information about purchases on Yubo",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Content shared with other users",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Date of account creation and last login",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Country of residence",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Usage statistics of the app",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Access to device's photo album, camera and microphone",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Reports made to authorities",
+      "optional": false,
+      "purpose": "Legal obligation",
+      "type": "Legal info"
+    },
+    {
+      "data": "Interactions with support team",
+      "optional": false,
+      "purpose": "Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Candidate data for job applications",
+      "optional": false,
+      "purpose": "Recruiting",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Use of strong data protection guarantees and confidentiality obligations for service providers",
+      "description": "Service providers are required to offer strong data protection guarantees and agree to confidentiality obligations"
+    },
+    {
+      "practice": "Retention period of user data",
+      "description": "User data is retained for a certain period of time depending on the relevant purpose"
+    },
+    {
+      "practice": "User's responsibility to keep data confidential",
+      "description": "Users are responsible for keeping their data confidential and reporting any breaches immediately"
+    },
+    {
+      "practice": "Parental consent",
+      "description": "Parental consent may be required before a user can use Yubo, depending on applicable laws in the country of residence"
+    },
+    {
+      "practice": "Right to withdraw consent",
+      "description": "Users have the right to withdraw their consent if processing relies on consent as the legal basis"
+    },
+    {
+      "practice": "Deletion of account and personal data",
+      "description": "Users can request to delete their account and personal data"
+    }
+  ]
+}

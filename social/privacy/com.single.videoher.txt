@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Account information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Gender",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Birthday",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Profile information",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Third-party services information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Implementing reasonable and appropriate security measures",
+      "description": "videoher has implemented measures to protect and prevent the loss, misuse, and alteration of the information under their control, including personal information."
+    },
+    {
+      "practice": "Preventing unauthorized access",
+      "description": "Once videoher has received personal information, they have procedures and security features in place to try to prevent unauthorized access."
+    },
+    {
+      "practice": "Password protection",
+      "description": "Users are not to disclose their password to any third parties or share it with anyone to keep their information secure."
+    }
+  ]
+}

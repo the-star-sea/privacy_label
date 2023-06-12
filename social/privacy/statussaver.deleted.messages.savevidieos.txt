@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Chat messages (text and multimedia)",
+      "optional": false,
+      "purpose": "Backup and recovery",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "User's data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is protected using commercially acceptable means",
+      "description": "Soft Apps is striving to use commercially acceptable means of protecting user data"
+    },
+    {
+      "practice": "Children's privacy protection",
+      "description": "Soft Apps does not knowingly collect personally identifiable information from children under 13. If a child under 13 provides personal information, it will be immediately deleted"
+    },
+    {
+      "practice": "Data is used only as described in the privacy policy",
+      "description": "Soft Apps will not use or share user's information with anyone except as described in the privacy policy"
+    },
+    {
+      "practice": "Links to other sites",
+      "description": "This Service may contain links to other sites. If the user clicks on a third-party link, they will be directed to that site. Note that these external sites are not operated by Soft Apps"
+    }
+  ]
+}

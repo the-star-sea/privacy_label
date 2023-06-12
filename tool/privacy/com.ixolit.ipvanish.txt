@@ -1,0 +1,92 @@
+{
+  "sharedData": [
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Developer communications",
+      "type": "Financial info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Anonymous aggregated performance data",
+      "optional": false,
+      "purpose": "App functionality, Product performance, Diagnosing crashes, Identifying bugs, Server performance",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies and pixels",
+      "optional": false,
+      "purpose": "Creating a purchase history",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Promotional emails",
+      "optional": false,
+      "purpose": "Marketing and advertising",
+      "type": "Marketing and advertising"
+    },
+    {
+      "data": "Transactional emails",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Account management"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Developer communications",
+      "type": "Financial info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Anonymous aggregated performance data",
+      "optional": false,
+      "purpose": "App functionality, Product performance, Diagnosing crashes, Identifying bugs, Server performance",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies and pixels",
+      "optional": false,
+      "purpose": "Creating a purchase history",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Promotional emails",
+      "optional": false,
+      "purpose": "Marketing and advertising",
+      "type": "Marketing and advertising"
+    },
+    {
+      "data": "Transactional emails",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Account management"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is kept accurate and up-to-date",
+      "description": "IPVanish takes reasonable steps to ensure your Personal Data is accurate, up-to-date, and erased or rectified if inaccuracies are found"
+    },
+    {
+      "practice": "Users can exercise their legal rights",
+      "description": "Under applicable law, users have the right to access their Personal Data, rectify inaccuracies, request erasure or restriction of data Processing, object to data Processing, have their data transferred to another Controller, withdraw consent, and lodge complaints with Data Protection Authorities"
+    }
+  ]
+}

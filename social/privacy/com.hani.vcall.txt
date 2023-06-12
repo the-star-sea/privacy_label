@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Geolocation",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Contact information of others provided by the user",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Contacts"
+    },
+    {
+      "data": "Cookies and similar data collection technologies",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Cookies and similar technologies"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "We encrypt your personal information to protect it from unauthorized access"
+    },
+    {
+      "practice": "Suspension of use in case of security breach",
+      "description": "We may suspend use of our services if we detect any breach of security"
+    }
+  ]
+}

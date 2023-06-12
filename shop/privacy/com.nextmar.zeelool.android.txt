@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Automatically collected information",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Automatically collected information"
+    },
+    {
+      "data": "IP Address",
+      "optional": false,
+      "purpose": "Analyics, Security",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Age",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing, Advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Sensitive data is not stored",
+      "description": "Zeelool does not collect, store or share locally or remotely facial mapping information."
+    },
+    {
+      "practice": "Users under 16 require consent",
+      "description": "Zeelool requires verifiable parental consent for collecting personal information of children under 16."
+    },
+    {
+      "practice": "Clear deletion policy",
+      "description": "Users can delete their account and Zeelool will permanently delete their personal information."
+    }
+  ]
+}

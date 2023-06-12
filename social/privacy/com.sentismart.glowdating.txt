@@ -1,0 +1,62 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Profile photo",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Postal address",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Service functionality, Analytics",
+      "type": "Usage info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Service functionality, Analytics",
+      "type": "Usage info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Commercially acceptable security means",
+      "description": "We use commercially acceptable security measures to protect your data"
+    },
+    {
+      "practice": "We delete underage users' data",
+      "description": "We do not knowingly collect personal identifiable information from children under 18 and delete their data if discovered"
+    }
+  ]
+}

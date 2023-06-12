@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Purchase transactions including receipts, details of what was purchased, the merchant from which the goods/services were purchased, the amount spent and the date of the purchase",
+      "optional": false,
+      "purpose": "Consumer insights market research reports, providing clients with insights",
+      "type": "Financial info"
+    },
+    {
+      "data": "Marketing communications",
+      "optional": false,
+      "purpose": "Sending marketing communications, improving sites and services",
+      "type": "Contact info"
+    },
+    {
+      "data": "Information obtained by automated means (such as cookies or similar technologies)",
+      "optional": false,
+      "purpose": "Improving quality of sites and services, improving online experience",
+      "type": "Usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Purchase transactions including receipts, details of what was purchased, the merchant from which the goods/services were purchased, the amount spent and the date of the purchase",
+      "optional": false,
+      "purpose": "Improving sites and services, better engagement with users, providing rewards related to use of Platforms",
+      "type": "Financial info"
+    },
+    {
+      "data": "Marketing communications consent",
+      "optional": false,
+      "purpose": "Improving sites and services, better engagement with users",
+      "type": "Consent data"
+    },
+    {
+      "data": "Information obtained by automated means (such as cookies or similar technologies)",
+      "optional": false,
+      "purpose": "Improving quality of sites and services, improving online experience",
+      "type": "Usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Participates in EU-U.S. Privacy Shield Framework",
+      "description": "Committed to subjecting all personal data received from European Union member countries and the United Kingdom, in reliance on the Privacy Shield Framework, to the Frameworks applicable Principles"
+    },
+    {
+      "practice": "Password-protected user accounts",
+      "description": "Account access can only be authorized with a unique user ID and password"
+    },
+    {
+      "practice": "User control over consent settings",
+      "description": "Users can withdraw consent to information collection at any time by updating consent settings"
+    }
+  ]
+}

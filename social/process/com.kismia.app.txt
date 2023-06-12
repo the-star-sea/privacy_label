@@ -1,0 +1,62 @@
+KISMIA
+IMPORTANT PRIVACY INFORMATION
+In order to use the Service, we may ask you to enter your email, name, date of birth, gender, location (city
+and country), marital status, weight, height, add your photo and answer several questions about your habits,
+hobbies, professional activity, education. We will also automatically collect from your device language
+settings, IP address, time zone, type and model of a device, device settings, operating system, Internet
+service provider, mobile carrier, hardware ID, Facebook ID, and other unique identifiers (such as IDFA and
+AAID). EEA EEA includes all current member states to the European Union and the European Free Trade
+Association. Process, in respect of personal data, includes to collect, store, and disclose to others. SEE MORE
+Data you give us
+If you decide to make a purchase on the Website or when you register for and/or use the
+Service, we will ask you to provide us information about yourself, for example, your
+photo, email address, name, date of birth (age), gender, city, country, weight and
+height. Cookies
+A cookie is a small text file that is stored on a user's computer for
+record-keeping purposes. Cookies can be either session cookies or persistent
+cookies. A session cookie expires when you close your browser and is used to
+make it easier for you to navigate our Service. A persistent cookie remains on
+your hard drive for an extended period of time. We may also use the information provided
+by you during the quiz on relationship and lifestyle to make the most suitable offer to
+you. To opt out of receiving push notifications, you need to change the settings on
+your device. To communicate with you we also use Firebase Cloud Messaging and Firebase
+Notifications, which is message sending service provided by Google. We may use Apple Push Notification service (APNs), that is a
+notifications service
+provided by Apple. Appsflyer also provides us with different analytics tools that enable us to research
+and analyze your use of the Service. If you do not want to receive marketing emails
+from us, you can unsubscribe following instructions in the footer of the marketing
+emails. You can usually find these settings
+in the options or preferences menu of your browser. SEE MORE
+We value your right to influence the ads that you see, thus we are letting you
+know
+what service providers we use for this purpose and how some of them allow you to
+control your ad preferences. We use Facebook Ads Manager together with Facebook Custom Audience,
+which allows us to choose audiences that will see our ads on Facebook or other
+Facebooks products (for example, Instagram). Google allows its users to
+opt out of Googles
+personalized
+ads and to prevent
+their
+data from being used by Google
+Analytics. If you do not want to receive interest-based ads from Taboola,
+you
+can
+Opt-Out. For this purpose, we use
+third-party services for payment processing (for example, payment processors). To comply with legal obligations
+We may process, use, or share your data when the law requires it, in particular, if a law
+enforcement agency requests your data by available legal means. You can disable notifications any time in the settings of your device. to research and analyze your use of the Service
+Our legitimate interest for this purpose is our interest in improving our
+Service so that we understand users preferences and are able to provide you
+with a better experience (for example, to make the use of the Service easier and
+more enjoyable, or to introduce and test new features). WITH WHOM WE SHARE YOUR PERSONAL DATA
+We share information with third parties that help us operate, provide, improve, integrate,
+customize, support, and market our Service. You may request a copy
+of, as
+well as updating and correcting your personal data collected during your use of the Service at
+[emailprotected]. To exercise
+any of your privacy rights, please send a request to [emailprotected]. If we decide to make material changes to
+this Privacy Policy, you will be notified by available means such as email and will have an
+opportunity to review the revised Privacy Policy. We collect this information for the purposes described in Section 3. HOW DO NOT TRACK REQUESTS ARE HANDLED
+Various browsers (including Internet Explorer, Firefox, and Safari) offer a DNT option that
+relies on a technology known as a DNT header that sends a signal to websites visited by the
+browser user about the user's DNT preference.

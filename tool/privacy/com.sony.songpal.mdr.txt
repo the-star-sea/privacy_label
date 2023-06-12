@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Device location",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Device identifier",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device model and operating system version",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Technical"
+    },
+    {
+      "data": "Login credentials",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Music playback history",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "App usage data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Device connectivity data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Technical"
+    },
+    {
+      "data": "Device sensor data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Technical"
+    },
+    {
+      "data": "Biometric data",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Sensitive info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is stored securely",
+      "description": "Your data is stored securely and protected from unauthorized access"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ]
+}

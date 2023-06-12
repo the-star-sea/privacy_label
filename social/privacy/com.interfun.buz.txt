@@ -1,0 +1,75 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Account creation and management, Prize draws and competitions, Feedback request and surveys",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone network information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Mobile device information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Application usage data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Payment and transaction information",
+      "optional": false,
+      "purpose": "App functionality, Financial transactions",
+      "type": "Financial info"
+    },
+    {
+      "data": "Data analytics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Analytics"
+    },
+    {
+      "data": "Content moderation",
+      "optional": false,
+      "purpose": "Content moderation",
+      "type": "Content moderation"
+    },
+    {
+      "data": "Performance monitoring",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Product design and testing",
+      "optional": false,
+      "purpose": "App functionality, Product development",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption of personal data",
+      "description": "Your personal data is encrypted to ensure its confidentiality and integrity"
+    },
+    {
+      "practice": "Regular backups",
+      "description": "Regular backups of data are taken to ensure its availability"
+    }
+  ]
+}

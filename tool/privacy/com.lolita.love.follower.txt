@@ -1,0 +1,39 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personal registration information",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Browser type, language, date and time of visit, information on hardware and software features, and web page records",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Location and mobile device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization, Fraud prevention, security, and compliance",
+      "type": "Location, Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Security measures in place",
+      "description": "Lolita employs security measures to protect your data"
+    }
+  ]
+}

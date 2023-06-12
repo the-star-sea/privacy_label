@@ -1,0 +1,21 @@
+{
+  "sharedData": [
+    {
+      "data": "Device and usage information",
+      "optional": false,
+      "purpose": "Website functionality, Analytics",
+      "type": "Device or other IDs and App activity"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Updates to privacy policy",
+      "description": "Changes made to the privacy policy will be posted with an updated revision date"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Error reporting and troubleshooting",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Cookies",
+      "optional": true,
+      "purpose": "Functionality",
+      "type": "Identifiers"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable means of protecting Personal Information",
+      "description": "The developer strives to use commercially acceptable means of protecting Personal Information"
+    }
+  ]
+}

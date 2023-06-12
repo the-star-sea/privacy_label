@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Device type and ID",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Browser type and time zone",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Application information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Contact information",
+      "optional": false,
+      "purpose": "Communication with users",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device type and ID, IP address, browser type and time zone",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location, Device or other IDs, Web browsing"
+    },
+    {
+      "data": "Application information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Contact information",
+      "optional": false,
+      "purpose": "Communication with users",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Personal information is securely stored",
+      "description": "We take all steps necessary to ensure that personal information is handled securely."
+    },
+    {
+      "practice": "Third-party access to personal information is limited",
+      "description": "We do not disclose any personal information to third parties except as outlined in this Privacy Policy."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+Privacy Policy
+Last updated: May 13th, 2020
+Welcome
+Security and privacy are at the heart of what we do. What
+information do we collect about you? We collect
+information from and about the device you use to access our services. We may collect information about the nature of the
+requests that you make to our servers (such as what is being requested,
+information about the device and app used to make the request, timestamps, and
+referring URLs). To
+communicate with users and prospective users. We want to offer you the best services and user
+experiences we can, so we have a legitimate interest in continually improving
+and optimizing our services. To do so, we use your information to understand
+how users interact with our services. Our VPN products do not use your VPN
+browsing activity for these purposes and we do not maintain any records that
+show what you were browsing or accessing through a VPN connection. We may do this to comply with our legal obligations, to protect
+an individuals vital interests, or because we have a legitimate interest in
+preventing harm or liability to us and our users. If you choose to do so, we will share
+information with the third party account provider. To protect your data, we enter into appropriate
+confidentiality and data processing terms with these third parties, review
+their security practices, and limit information sharing to the scope of what
+they are helping us with. Subject to the foregoing, we may share your information if we are required to
+do so by applicable law; to comply with our legal obligations; to comply with
+legal process; and to respond to valid law enforcement requests relating to a
+criminal investigation, or alleged or suspected illegal activity that may
+expose us, you, or any of our other users to legal liability. For
+example, some of these advertising networks may collect information through
+their SDKs, such as your mobile advertising identifier, IP address, and device
+information, for the purpose of serving you with personalized ads (ads that
+they think are more relevant to you) and measuring your response to those ads. If you opt out from personalized advertising, you
+may still see non-personalized ads. Cookies are used to inform us how users interact with
+our services so we can, as a legitimate interest, improve how they work (such
+as what screens or webpages you access, and whether our advertising is
+effective). We advertise our services online with
+the help of third parties who show ads and marketing about us on sites around
+the internet. These partners use these technologies
+for the following purposes:
+ To provide
+our services. International Data Transfers
+We may transfer your personal data to countries other
+than the one in which you reside. For
+example, personal data collected within Switzerland, United Kingdom or the
+European Economic Area (EEA) may be transferred and processed outside
+Switzerland, United Kingdom or the EEA for purposes described in this policy. Data
+Retention
+We generally retain your personal data for as long as is
+needed to provide the services to you, or for as long as you have an account
+with us. Please note your rights and choices vary depending upon
+your location, and some information may be exempt from certain requests under
+applicable law. Otherwise, if you wish to exercise any of these rights,
+you may contact us using the details in the Contact Us section below. Your
+California Privacy Rights
+This Section applies solely to California residents. Third Party Disclosure Requests
+California law permits users who are California residents
+to request and obtain from us once a year, free of charge, a list of the third
+parties to whom we have disclosed their personal information (if any) as
+defined under California Civil Code 1798.83 for their direct marketing purposes
+in the prior calendar year, as well as the type of personal information
+disclosed to those parties. 9.3 Opt-Out From
+Sale
+You may have the
+right to opt out of the sale of your personal information as defined by the
+California Consumer Privacy Act (CCPA). We do not sell
+(as defined by the CCPA) your personal information except in the context of
+certain versions of our products that are supported by personalized
+advertising. You are also
+permitted to designate an authorized agent to submit certain requests on your
+behalf. We may also follow up with you to verify your identity
+before processing the authorized agents request. We do not knowingly collect
+personal data from minors or allow them to use our services. If you do
+not cancel your account before the date the update becomes effective, your
+continued use of our services will be subject to the updated Privacy Policy.

@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Device identifiers",
+      "optional": false,
+      "purpose": "Application functionality, Analytics, and Advertising",
+      "type": "Device or Other Identifiers"
+    },
+    {
+      "data": "Internet Usage Information",
+      "optional": false,
+      "purpose": "Application functionality, Analytics, and Advertising",
+      "type": "Internet Usage Information"
+    },
+    {
+      "data": "Social media login information",
+      "optional": false,
+      "purpose": "Application functionality",
+      "type": "Authentication Data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Data",
+      "optional": true,
+      "purpose": "Delivery of products, services, and information, Improving services, and Regulatory obligations",
+      "type": "Personal Info"
+    },
+    {
+      "data": "Financial Data",
+      "optional": false,
+      "purpose": "Financial Transactions",
+      "type": "Financial Info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is protected by encryption when it is transmitted"
+    },
+    {
+      "practice": "Data is processed by third party service providers",
+      "description": "We use third party service providers to process the data"
+    },
+    {
+      "practice": "We do not sell personal information to third parties",
+      "description": "We do not sell personal information to third parties for their business or commercial uses"
+    }
+  ]
+}

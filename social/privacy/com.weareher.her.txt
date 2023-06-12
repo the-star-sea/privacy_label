@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Social media account authentication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Birthdate",
+      "optional": false,
+      "purpose": "Social media account authentication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Providing services, and communication",
+      "type": "Contact info"
+    },
+    {
+      "data": "Location",
+      "optional": false,
+      "purpose": "Providing services, and communication",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Improving services",
+      "type": "App activity"
+    },
+    {
+      "data": "Analytics information",
+      "optional": false,
+      "purpose": "Improving services",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Improving services",
+      "type": "Online activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is secured and encrypted with industry-standard tools",
+      "description": "Our servers and databases are encrypted to protect personal information"
+    },
+    {
+      "practice": "Compliance with law and legitimate interests",
+      "description": "We only collect and process personal information where we have lawful bases for it"
+    },
+    {
+      "practice": "Data collection transparency",
+      "description": "We provide detailed information on the data we collect and the purposes for collecting it"
+    },
+    {
+      "practice": "Privacy of children",
+      "description": "We do not collect or maintain personal information from users under the age of 13"
+    },
+    {
+      "practice": "Opt-out options",
+      "description": "Users have the option to opt-out of certain data collection and advertising"
+    }
+  ]
+}

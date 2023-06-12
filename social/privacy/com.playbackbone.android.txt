@@ -1,0 +1,108 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Online Identifiers"
+    },
+    {
+      "data": "Unique identifiers (cookie identifiers, mobile advertising IDs)",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Online Identifiers"
+    },
+    {
+      "data": "Browser information and device details",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Device and browser information"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Content interactions and activity",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Information from third-party services",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Communication preferences",
+      "optional": true,
+      "purpose": "Marketing",
+      "type": "Preferences"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Sweepstakes or contests",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Sweepstakes or contests",
+      "type": "Contact info"
+    },
+    {
+      "data": "User identification information",
+      "optional": false,
+      "purpose": "Account registration, App functionality, Advertising or marketing, Personalization",
+      "type": "Online Identifiers"
+    },
+    {
+      "data": "Birth date",
+      "optional": false,
+      "purpose": "Account registration, Advertising or marketing, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Profile picture",
+      "optional": false,
+      "purpose": "Account registration, App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contacts stored in third-party services",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Contacts"
+    },
+    {
+      "data": "User-generated content on publicly accessible features",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is disclosed in compliance with applicable laws",
+      "description": "Your data is disclosed to third parties only as necessary and in accordance with applicable law"
+    },
+    {
+      "practice": "Users can request to exercise their privacy rights",
+      "description": "Users can request to exercise their privacy rights such as opting out of the sale of their personal information"
+    },
+    {
+      "practice": "Notification of material changes to the privacy policy",
+      "description": "Users will be notified of any material changes to the privacy policy"
+    }
+  ]
+}

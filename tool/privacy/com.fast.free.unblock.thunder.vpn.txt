@@ -1,0 +1,54 @@
+{
+  "termsOfService": {
+    "serviceProvider": "Thunder VPN",
+    "serviceDescription": "The VPN services provided by Thunder VPN",
+    "website": "The associated website domains of Thunder VPN",
+    "changes": "Thunder VPN may update the Terms from time to time without notice. Any changes in the Terms will be incorporated into a revised Agreement that we will post on the Site. Unless otherwise specified, such changes shall be effective when they are posted.",
+    "applicableLaws": "You agree to comply with all applicable laws and regulations in connection with your use of this service.",
+    "prohibitedConduct": [
+      "Engaging in any conduct that restricts or inhibits any other subscriber from using or enjoying the Service",
+      "Attempting to access, probe, or connect to computing devices without proper authorization (i.e., any form of 'hacking')",
+      "Posting to or transmitting through the Service any unlawful, harmful, threatening, abusive, harassing, hateful, racially, ethnically or otherwise objectionable material of any kind",
+      "Violations of this Usage Policy may result in termination of your account, without any refund of amounts previously paid for the Service. Additionally, you may be held responsible for any and all damages incurred by Thunder VPN , including any amounts charged by any outside entity due to said violation(s), including without limitation attorneys fees and costs."
+    ],
+    "license": "Thunder VPN grants to you a non-exclusive, limited license to use the Software solely for the purpose stated by Thunder VPN at the time the Software is made available to you and in accordance with these Terms. Modifying, distributing to unauthorized parties, reverse engineering, or otherwise using the Software in any way not expressly authorized by Thunder VPN, is strictly prohibited.",
+    "disclaimers": [
+      "The accuracy of any materials or information provided through the Site or Service, or their suitability for any particular purpose is not warranted.",
+      "All warranties of any kind, whether express or implied, including, but not limited to, warranties of merchantability or fitness for a particular purpose, or non-infringement are expressly disclaimed.",
+      "Thunder VPN is not liable for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any Third Party Website.",
+      "Thunder VPN is not responsible for the content, accuracy, timeliness or delivery of any opinions, advice, statements, messages, services, graphics, data or any other information provided to or by third parties as accessible through the Service.",
+      "VPN service coverage, speeds, server locations and quality may vary."
+    ]
+  },
+  "privacyPolicy": {
+    "dataCollected": [
+      {
+        "data": "Internet service provider",
+        "purpose": "Network performance analysis"
+      },
+      {
+        "data": "Device OS version",
+        "purpose": "Network performance analysis"
+      },
+      {
+        "data": "Device manufacturer and model",
+        "purpose": "Network performance analysis"
+      },
+      {
+        "data": "Language of the device",
+        "purpose": "Network performance analysis"
+      },
+      {
+        "data": "App version",
+        "purpose": "Network performance analysis"
+      },
+      {
+        "data": "Times when connected to our service, and the total amount of data transferred per day",
+        "purpose": "Network performance analysis"
+      }
+    ],
+    "dataUsage": "We store this to be able to deliver the best possible network experience to you. We analyze this information generically and keep the data secure.",
+    "dataSharing": "Our software may send diagnostic data to a third party analytics provider for the purpose of identifying connection errors and possible bugs in our application. The information collected is generic in nature and does not contain personally identifying information.",
+    "dataProtection": "We will not collect your personal identifying information, nor will we collect or log traffic data or browsing activity from individual users connected to our VPN."
+  }
+}

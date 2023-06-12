@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Transactional emails",
+      "type": "Personal info"
+    },
+    {
+      "data": "Profile information (photo, bio, name, location, interests, videos)",
+      "optional": true,
+      "purpose": "App functionality, Advertising or marketing, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage data (activity on Services, search preferences, clicks, pages shown, referring web page address, advertising clicked, interactions with other users)",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Photos and videos (with consent)",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Media"
+    },
+    {
+      "data": "Crash detection data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Account and transaction data",
+      "optional": false,
+      "purpose": "App functionality, Customer support, Order management and billing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Location data (estimated)",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Device ID, age, gender, visit data, hashed email address",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data deletion processes",
+      "description": "Our systems are designed to carry out data deletion processes according to applicable laws and guidelines"
+    },
+    {
+      "practice": "Protection from hacking",
+      "description": "We will pursue every detected attack by hackers or other malicious entities"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "User-generated content",
+      "optional": false,
+      "purpose": "Display and sharing on the public open network platform",
+      "type": "User-generated content"
+    },
+    {
+      "data": "Voluntarily provided business information",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Communications with others",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Communications"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Processing payment for services bought",
+      "type": "Financial info"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "Providing the service",
+      "type": "Location"
+    },
+    {
+      "data": "Inferred interests based on collected data",
+      "optional": false,
+      "purpose": "Personalizing user experience",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Improving service, monitoring ads and metrics",
+      "type": "Cookies and usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Data is transferred over a secure connection"
+    },
+    {
+      "practice": "Identity verification for access to personal information",
+      "description": "Qualified measures are taken to verify identity before granting access, making corrections, or deleting information"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "Service functionality, Third-party service integration",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "Error reporting, Third-party service integration, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies",
+      "optional": true,
+      "purpose": "Service functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Links to external sites",
+      "optional": true,
+      "purpose": "Third-party service integration",
+      "type": "Web browsing"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is protected with commercially acceptable measures",
+      "description": "The developer uses commercially acceptable measures to protect user data."
+    },
+    {
+      "practice": "No guarantee of 100% secure transmission or storage",
+      "description": "Despite efforts to protect user data, no transmission or storage method is completely secure."
+    },
+    {
+      "practice": "No collection of personally identifiable information from children under 13",
+      "description": "The app does not collect personally identifiable information from children under 13."
+    },
+    {
+      "practice": "Updates to privacy policy",
+      "description": "The developer may update the privacy policy and advises users to review the policy periodically."
+    },
+    {
+      "practice": "Contact information available",
+      "description": "Users can contact the developer with questions or suggestions about the privacy policy."
+    }
+  ]
+}

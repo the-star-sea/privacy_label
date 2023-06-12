@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Precise geolocation and other location information of mobile device",
+      "optional": false,
+      "purpose": "Apps, online orders, personalized coupons and offers",
+      "type": "Location"
+    },
+    {
+      "data": "Hashed or otherwise de-identified or pseudonymized information (including hashed email addresses), Usage Information, and location information",
+      "optional": false,
+      "purpose": "Serving more relevant ads on and off the Services",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Administration of promotions, winner selection, prize fulfillment, as required by law or as permitted by promotion terms or official rules",
+      "type": "Personal info"
+    },
+    {
+      "data": "Precise geolocation and other location information of mobile device",
+      "optional": false,
+      "purpose": "Apps, online orders, personalized coupons and offers",
+      "type": "Location"
+    },
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Third party advertising companies, analytics providers and other third parties for the purpose of serving more relevant ads on and off the Services",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn't encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "Verification of identity for requests",
+      "description": "Reasonable steps are taken to verify identity based on information provided"
+    },
+    {
+      "practice": "Right to Limit the Use and Disclosure of Sensitive Personal Information",
+      "description": "Only provided when sensitive personal information is collected or processed for inferring characteristics about a consumer"
+    }
+  ]
+}

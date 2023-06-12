@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Device type",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device information"
+    },
+    {
+      "data": "Operating system version and type",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device information"
+    },
+    {
+      "data": "Wireless carrier",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device type",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device information"
+    },
+    {
+      "data": "Operating system version and type",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device information"
+    },
+    {
+      "data": "Wireless carrier",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device information"
+    },
+    {
+      "data": "Log files and servers information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Server data"
+    },
+    {
+      "data": "Cookies and other tracking technologies",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising",
+      "type": "Usage information"
+    },
+    {
+      "data": "Personal Data or Personal Information",
+      "optional": false,
+      "purpose": "Contact, Technical support, Notices, Advertising, Personalization",
+      "type": "Personal information"
+    },
+    {
+      "data": "Direct messages content and information",
+      "optional": false,
+      "purpose": "Communication, Processing",
+      "type": "User activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "Your data is transferred and stored securely"
+    },
+    {
+      "practice": "You can request that data be corrected, deleted or accessed",
+      "description": "The developer provides a way for you to manage your data"
+    }
+  ]
+}

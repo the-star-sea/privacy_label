@@ -1,0 +1,44 @@
+{
+  "sharedData": [
+    {
+      "data": "Mobile device type and unique ID",
+      "optional": false,
+      "purpose": "Account management, Analytics",
+      "type": "Device information"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Security",
+      "type": "IP address"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal data",
+      "optional": false,
+      "purpose": "Account management, Purchases, Requests",
+      "type": "Personal information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal data is retained only for as long as necessary",
+      "description": "Your Personal Data is kept no longer than necessary for the purposes for which it is processed"
+    },
+    {
+      "practice": "Personal data is processed in secure locations",
+      "description": "Your information, including Personal Data, is processed only in secure locations"
+    },
+    {
+      "practice": "Personal data is protected",
+      "description": "We use commercially acceptable means to protect Your Personal Data"
+    }
+  ]
+}

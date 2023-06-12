@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Creating an account, providing support services, marketing-related communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "Two-factor authentication, using the telephony service",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Providing services, implementing app features, improving app performance",
+      "type": "Device info"
+    },
+    {
+      "data": "Service interaction information",
+      "optional": false,
+      "purpose": "Improving app performance, providing services",
+      "type": "App activity"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Providing support services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Providing support services",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal information is not sold, traded, or transferred to outside parties",
+      "description": "The developer does not share your personal information with outside parties"
+    },
+    {
+      "practice": "Appropriate measures are taken to secure the service",
+      "description": "The developer ensures appropriate measures are taken to secure the service"
+    },
+    {
+      "practice": "Personal information is used to investigate/prevent violation of the law or terms of service, and to protect rights, privacy, safety, or property of the developer, users, or others",
+      "description": "The developer may use your personal information to investigate/prevent violation of the law or terms of service, and to protect rights, privacy, safety, or property of the developer, users, or others"
+    }
+  ]
+}

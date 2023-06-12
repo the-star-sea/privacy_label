@@ -1,0 +1,78 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information (including name, contact information, and device information)",
+      "optional": false,
+      "purpose": "Services customization, analytics, marketing, advertising, and maintenance",
+      "type": "Personal information"
+    },
+    {
+      "data": "Face-clustering data",
+      "optional": false,
+      "purpose": "Services customization and maintenance",
+      "type": "Biometric data"
+    },
+    {
+      "data": "Data about user visits to websites and apps",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Online activity"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Services customization and analytics",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information (including name, contact information, and device information)",
+      "optional": false,
+      "purpose": "Services customization, analytics, marketing, advertising, and maintenance",
+      "type": "Personal information"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Services customization and analytics",
+      "type": "Device information"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Services customization and analytics",
+      "type": "Location"
+    },
+    {
+      "data":"Face-clustering data",
+      "optional": false,
+      "purpose":"Services customization and maintenance",
+      "type":"Biometric data"
+    },
+    {
+      "data": "Data about user visits to websites and apps",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Online activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "Data is protected through the use of secure connections and encryption"
+    },
+    {
+      "practice": "Regular security assessments and updates",
+      "description": "Security assessments are performed regularly to detect and address vulnerabilities"
+    },
+    {
+      "practice": "Access controls and data minimization",
+      "description": "Access to data is restricted to authorized personnel and data is minimized to only what is necessary"
+    },
+    {
+      "practice": "Data retention and deletion policies",
+      "description": "Data is retained only for as long as necessary and is deleted securely afterwards"
+    }
+  ]
+}

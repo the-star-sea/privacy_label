@@ -1,0 +1,34 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Customer service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Customer service",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device identification code",
+      "optional": false,
+      "purpose": "Identification, customer service",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Robust security measures",
+      "description": "Data is protected from unauthorized access, collection, use, disclosure, copying, modification, disposal, or similar risks"
+    },
+    {
+      "practice": "Limited collection scope",
+      "description": "Only data required to maintain service is collected. No data logs of activity or connection logs are collected."
+    }
+  ]
+}

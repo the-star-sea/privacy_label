@@ -1,0 +1,37 @@
+Privacy Policy
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy. Interpretation and Definitions
+Collecting and Using Your Personal Data
+Detailed Information on the Processing of Your Personal Data
+GDPR Privacy
+CCPA Privacy
+"Do Not Track" Policy as Required by California Online Privacy Protection Act (CalOPPA)
+Children's Privacy
+Your California Privacy Rights (California Business and Professions Code Section 22581)
+Links to Other Websites
+Changes to this Privacy Policy
+Contact Us
+Interpretation and Definitions
+Interpretation
+The words of which the initial letter is capitalized have meanings defined under the following conditions. Under GDPR (General Data Protection Regulation), You can be referred to as the Data Subject or as the User as you are the individual using the Service. Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority. Device means any device that can access the Service such as a computer, a cellphone or a digital tablet. Business, for the purpose of the CCPA (California Consumer Privacy Act), refers to the Company as the legal entity that collects Consumers' personal information and determines the purposes and means of the processing of Consumers' personal information, or on behalf of which such information is collected and that alone, or jointly with others, determines the purposes and means of the processing of consumers' personal information, that does business in the State of California. Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data. We may process the account data you provide by using the app and create it through your account only for the purposes of login or registration, third-party services, such as Apple ID, Google account and Facebook account. The Company may use Personal Data for the following purposes:
+To provide and maintain our Service, including to monitor the usage of our Service. To manage Your requests: To attend and manage Your requests to Us. Forums Cookies (Webview browser cookies) - Forum Cookies generally are used to deliver or optimize our services, to communicate with users or manage their forum accounts, to develop content, or for the purposes of research and analysis. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures and description of Your activity. The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information. Perform regular data protection impact assessments
+The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. Detailed Information on the Processing of Your Personal Data
+Service Providers have access to Your Personal Data only to perform their tasks on Our behalf and are obligated not to disclose or use it for any other purpose. Analytics
+We may use third-party Service providers to monitor and analyze the use of our Service. You may opt-out of certain Google Analytics features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=en
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
+Advertising
+We may use Service providers to show advertisements to You to help support and maintain Our Service. Google AdSense & DoubleClick Cookie
+Google, as a third party vendor, uses cookies to serve ads on our Service. We will not store or collect Your payment card details. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. This also enables You to receive a copy of the Personal Data We hold about You. Object to processing of Your Personal Data. This right exists where We are relying on a legitimate interest as the legal basis for Our processing and there is something about Your particular situation, which makes You want to object to our processing of Your Personal Data on this ground. You have the right to request and obtain from the Company information regarding the disclosure of the following:
+The categories of Personal Data collected
+The sources from which the Personal Data was collected
+The business or commercial purpose for collecting or selling the Personal Data
+Categories of third parties with whom We share Personal Data
+The specific pieces of Personal Data we collected about You
+The right to delete Personal Data. Do Not Sell My Personal Information
+We do not sell personal information. Please note that any opt out is specific to the browser You use. Website
+You can opt out of receiving ads that are personalized as served by our Service Providers by following our instructions presented on the Service:
+From Our "Cookie Consent" notice banner
+Or from Our "CCPA Opt-out" notice banner
+Or from Our "Do Not Sell My Personal Information" notice banner
+Or from Our "Do Not Sell My Personal Information" link
+The opt out will place a cookie on Your computer that is unique to the browser You use to opt out. Children's Privacy
+Our Service does not address anyone under the age of 13. We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.

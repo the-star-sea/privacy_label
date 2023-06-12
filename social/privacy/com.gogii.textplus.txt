@@ -1,0 +1,94 @@
+{
+  "sharedData": [
+    {
+      "data": "Device type",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Device info"
+    },
+    {
+      "data": "Operating system version",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Device info"
+    },
+    {
+      "data": "Device settings",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Device info"
+    },
+    {
+      "data": "Device time zone",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Device carrier",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Current IP address",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Platform-specific advertising identifiers",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Device info"
+    },
+    {
+      "data": "Messages and Message Data including Images, Photos, and Audio & Video Recordings",
+      "optional": false,
+      "purpose": "App functionality, Communications",
+      "type": "Communication data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Site functionality, Services, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact Data",
+      "optional": false,
+      "purpose": "Site functionality, Services, Marketing",
+      "type": "Contact info"
+    },
+    {
+      "data": "Usage Data",
+      "optional": false,
+      "purpose": "Site functionality, Services, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Content",
+      "optional": false,
+      "purpose": "Site functionality, Services, Communications",
+      "type": "Content"
+    },
+    {
+      "data": "Message Data",
+      "optional": false,
+      "purpose": "Site functionality, Services, Communications",
+      "type": "Communication data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ]
+}

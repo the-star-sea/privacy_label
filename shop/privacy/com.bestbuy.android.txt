@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "Internal Best Buy uses",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "Internal Best Buy uses, Updating and expanding customer records, Identifying new customers, Providing products and services of interest",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "Providing content, information, and notices required by law",
+      "type": "Location"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Social media feature functionality",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Browsing activity",
+      "optional": false,
+      "purpose": "Interest-based advertising",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Password-protected accounts",
+      "description": "Strong passwords are encouraged and user passwords will never be solicited by Best Buy"
+    },
+    {
+      "practice": "Restrictions on data access",
+      "description": "Access to personal information is restricted to Best Buy employees and authorized third-party vendors"
+    },
+    {
+      "practice": "Data security measures",
+      "description": "Data is protected by administrative, physical, and technical security measures"
+    }
+  ]
+}

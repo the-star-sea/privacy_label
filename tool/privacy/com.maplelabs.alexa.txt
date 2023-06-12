@@ -1,0 +1,62 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact information",
+      "optional": false,
+      "purpose": "Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Service optimization, security, compliance, fraud prevention, and safety",
+      "type": "Device info"
+    },
+    {
+      "data": "Interactions with the Service",
+      "optional": false,
+      "purpose": "Analytics, advertising, and personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Telephony or text messaging services information",
+      "optional": false,
+      "purpose": "Service optimization",
+      "type": "Communication info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Service optimization, security, compliance, fraud prevention, and safety",
+      "type": "Device info"
+    },
+    {
+      "data": "Interactions with the Service",
+      "optional": false,
+      "purpose": "Analytics, advertising, and personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Telephony or text messaging services information",
+      "optional": false,
+      "purpose": "Service optimization",
+      "type": "Communication info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Protection against unauthorized access",
+      "description": "We take appropriate measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction."
+    },
+    {
+      "practice": "Retention of your information",
+      "description": "We will only retain your personal information for as long as necessary to fulfill the purposes for which it was collected."
+    },
+    {
+      "practice": "Third-party partners",
+      "description": "We may share your personal information with service providers who help us provide and improve the Service. All of our third-party partners are required to comply with our privacy policies."
+    }
+  ]
+}

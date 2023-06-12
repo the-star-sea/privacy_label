@@ -1,0 +1,28 @@
+{
+  "sharedData": [
+    {
+      "data": "Information you choose to share with us",
+      "optional": true,
+      "purpose": "Providing and improving products and services, sending notifications and updates, supporting the product through advertising",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Providing and improving products and services, performing analytics, deriving approximate location, generating virtual or proxy IP address",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "All traffic is encrypted with perfect 256-bit AES data encryption",
+      "description": "Free Vpn uses TLS 1.2 encryption to ensure secure traffic between your device and our servers"
+    },
+    {
+      "practice": "True IP addresses are never stored, logged, or shared",
+      "description": "Free Vpn immediately obfuscates and anonymizes your IP address, provides you with a virtual or proxy IP address, and clears your true IP address after your session is closed"
+    }
+  ]
+}

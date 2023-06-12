@@ -1,0 +1,121 @@
+{
+  "sharedData": [
+    {
+      "data": "Device and network connection information",
+      "optional": false,
+      "purpose": "Improving product experience and advertising",
+      "type": "Device and network connection information"
+    },
+    {
+      "data": "Advertising behavior",
+      "optional": false,
+      "purpose": "Product experience and advertising",
+      "type": "Advertising behavior"
+    },
+    {
+      "data": "Users' installed applications",
+      "optional": false,
+      "purpose": "Product experience and advertising",
+      "type": "App usage"
+    },
+    {
+      "data": "Failed download urls",
+      "optional": false,
+      "purpose": "Analyzing reasons for download failure",
+      "type": "Download information"
+    },
+    {
+      "data": "Android advertising ID",
+      "optional": false,
+      "purpose": "Customized advertising and analytics",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device and network connection information",
+      "optional": false,
+      "purpose": "Product experience and advertising",
+      "type": "Device and network connection information"
+    },
+    {
+      "data": "Advertising behavior",
+      "optional": false,
+      "purpose": "Product experience and advertising",
+      "type": "Advertising behavior"
+    },
+    {
+      "data": "Users' installed applications",
+      "optional": false,
+      "purpose": "Product experience and advertising",
+      "type": "App usage"
+    },
+    {
+      "data": "Failed download urls",
+      "optional": false,
+      "purpose": "Analyzing reasons for download failure",
+      "type": "Download information"
+    },
+    {
+      "data": "Age",
+      "optional": false,
+      "purpose": "Advertising and marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Country",
+      "optional": false,
+      "purpose": "Advertising and marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Region",
+      "optional": false,
+      "purpose": "Advertising and marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Gender",
+      "optional": false,
+      "purpose": "Advertising and marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Games played by user",
+      "optional": false,
+      "purpose": "Advertising and marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Interaction with the Services and with other users",
+      "optional": false,
+      "purpose": "Advertising and marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Personally identifiable information or personally sensitive data",
+      "optional": false,
+      "purpose": "Communication with users",
+      "type": "Personal info"
+    },
+    {
+      "data": "Questions, answers, comments, submissions posted in forum",
+      "optional": false,
+      "purpose": "Accessibility and public display",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Taking appropriate security and technical measures",
+      "description": "Protecting user information against unauthorized access, loss, and misuse"
+    },
+    {
+      "practice": "Limiting user access",
+      "description": "Limiting user access if such access would adversely affect the rights and freedoms of other individuals"
+    },
+    {
+      "practice": "Erasure of personal information upon request",
+      "description": "Erasing personal information held by us upon user request"
+    },
+    {

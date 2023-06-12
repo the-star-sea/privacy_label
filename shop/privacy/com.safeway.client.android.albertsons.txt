@@ -1,0 +1,84 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Pharmacy Services, Customer support, Rewards program",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Pharmacy Services, Customer support, Marketing and promotions",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Pharmacy Services, Customer support, Marketing and promotions",
+      "type": "Personal info"
+    },
+    {
+      "data": "Home address",
+      "optional": false,
+      "purpose": "Pharmacy Services, Customer support, Delivery services, Marketing and promotions",
+      "type": "Personal info"
+    },
+    {
+      "data": "Billing information",
+      "optional": false,
+      "purpose": "Pharmacy Services, Customer support, Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Prescription information",
+      "optional": false,
+      "purpose": "Pharmacy Services, Customer support",
+      "type": "Health information"
+    },
+    {
+      "data": "Information about family members or others",
+      "optional": true,
+      "purpose": "Pharmacy Services, Customer support, Refill prescriptions and grocery pick-up",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Personalization, Rewards program, Marketing and promotions",
+      "type": "Financial info"
+    },
+    {
+      "data": "Activity data",
+      "optional": false,
+      "purpose": "Personalization, Rewards program, Marketing and promotions",
+      "type": "App activity"
+    },
+    {
+      "data": "Contact information and interactions",
+      "optional": false,
+      "purpose": "Customer support, Marketing and promotions",
+      "type": "Personal info and app activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Personal data is securely stored",
+      "description": "We store your personal data in a secure manner to prevent unauthorized access"
+    },
+    {
+      "practice": "We have measures in place to prevent fraud and unauthorized access",
+      "description": "We take steps to protect your data from fraud and unauthorized access"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "You can request that your data be deleted by contacting us"
+    }
+  ]
+}

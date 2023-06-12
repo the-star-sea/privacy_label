@@ -1,0 +1,78 @@
+Products
+Bulk Tracking
+17TRACK
+Tracking API
+Shopify app
+Mobile APP
+Apps
+Developers
+Carriers Integration
+Tools
+Tracking Widget
+Carriers
+Links
+Help
+Help center
+Contact us
+English
+Help us translate
+EnglishEspaolPortugusFranaisItalianoDeutschTrkeetinaNederlandsSuomiPolskiMagyarSvenskaSloveninaLietuviRomnNorskShqipSloveninaAzrbaycanDansk
+Message
+Mark all as read
+No unread message. Register
+Login
+Sign up For Free
+Products
+Bulk Tracking
+17TRACK
+Tracking API
+Shopify app
+Mobile APP
+Apps
+Developers
+Carriers Integration
+Tools
+Tracking Widget
+Carriers
+Links
+Help
+Help center
+Contact us
+Login
+Register
+PrivacyLast Updated:
+17th Sep 2021
+Thanks for accessing to 17TRACK.net website, mobile applications, devices and other software, any and all parent, subsidiary or associate company (collectively, the 'Site') of 17TRACK.net (all references to 'we' 'us' and 'our' refer to 17TRACK.net). We take your privacy seriously and want you to know about the Privacy Policy we have in place to protect your personal information. This Private Policy also applies through our services and products via mobile devices, either through mobile applications or mobile-optimized websites. Personal Information' means information that can be used to identify you (whether alone or in combination). Our purpose is to allow the Site to work properly, to allow us to provide our services, to evaluate use of the Site, for marketing purposes and to personalize and enhance your interaction with us. Communication with You:
+We will use your personal information to communicate with you about our Site. You may also submit your email address or phone number to request notification when we receive new update of your package, our new service promotion, or to sign up for our email newsletter, SMS newsletter. You can unsubscribe or opt out of future emails at any time. Administer Contests and Promotions:
+From time to time, 17TRACK may invite you to enter various contests, sweepstakes, surveys or promotions. Sharing of Information
+We do not sell, rent, trade, license, or otherwise disclose your personal information to anyone, except in the following specific situations:
+Service Providers and Vendors: We may disclose or otherwise make available personal information, including transaction information, to service providers and vendors for the purpose of managing, providing and improving 17TRACK services and for marketing purposes. You can contact us through our email at serv@17track.net to:
+Correct or update your personal information
+Stop receiving mail to your email address
+Stop receiving SMS messages to your phones
+Disable your account
+Block cookies on your computer to stop using featured service on the Site
+Data Security and Retention
+This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, such as:
+Safeguarding all financial transactions done through this Site with Secure Sockets Layer ('SSL') encryption. Granting only employees who are providing a specific service access to your personal information. Working only with third-party service providers who we believe adequately secure all computer hardware. You must keep your username and password confidential, and never disclose it to a third party. Because the information in your Distribution Lists is so sensitive, account passwords are encrypted, which means we cannot see your passwords. We cannot resend forgotten passwords either. Subject to limitations in applicable law, you are entitled to object to or request the restriction of processing of your personal information, and to request access to, portability, rectification and erasure of your own personal information. Requests should be submitted by contacting us through our email at serv@17track.net. Our Privacy Policy does not apply to these Third-Party Websites and we make no representations regarding the policies or business practices of any such Third-Party Websites. Privacy of Children Online
+We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 18. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or are using the Site with the supervision of a parent or guardian. Cookie Policy
+Cookies are small pieces of information that your Internet browser stores as text files on your computer's hard drive. The Site uses cookies to:
+Speed up navigation
+Track site usage
+Recognize users and user access privileges and preference
+Conduct research and diagnostics to improve our content, products and services
+Most browsers are initially set to accept cookies; you may control the use of cookies at the browser level. Changes to This Privacy Policy
+To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Policy on this Site and encourage you to review this Privacy Policy from time to time. Collection of Permissions (App only)
+We will only apply to the users for permissions when necessary to ensure the normal use of the functions. The SDK we used are as follows:
+QQ Login SDK (to authorize login via QQ and account connection(the identification information of the user devices might be collected). Firebase SDK (to push notifications, analyze and count the application errors(the identification information of the user devices might be collected). About us
+Contact us
+Help
+Terms
+Privacy
+Copyright
+About us
+Contact us
+Help
+Terms
+Privacy
+Copyright

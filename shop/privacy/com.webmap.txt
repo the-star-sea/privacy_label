@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-personally identifiable usage information",
+      "optional": false,
+      "purpose": "Service functionality, Maintenance, Analytics",
+      "type": "Usage data"
+    },
+    {
+      "data": "Geolocation data",
+      "optional": false,
+      "purpose": "Service functionality, Maintenance, Analytics",
+      "type": "Location data"
+    },
+    {
+      "data": "Anonymous Non-PII statistics",
+      "optional": false,
+      "purpose": "Maintenance, Analytics",
+      "type": "Anonymous usage data"
+    },
+    {
+      "data": "Google Login information",
+      "optional": true,
+      "purpose": "Service functionality, Sync-related services",
+      "type": "Login information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Demographic information",
+      "optional": true,
+      "purpose": "Service functionality, Analytics",
+      "type": "Demographic data"
+    },
+    {
+      "data": "Personally identifiable information",
+      "optional": true,
+      "purpose": "Service functionality, Sync-related services",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Google Login information is not stored or shared",
+      "description": "Yard Sale Treasure Map does not store or share your Google Login information"
+    }
+  ]
+}

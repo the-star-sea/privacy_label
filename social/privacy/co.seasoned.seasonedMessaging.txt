@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Records and copies of correspondence",
+      "optional": false,
+      "purpose": "Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Site functionality, Personalization",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information provided by the user",
+      "optional": false,
+      "purpose": "Facilitate Site and Services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Site functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Information automatically collected",
+      "optional": false,
+      "purpose": "Statistical data",
+      "type": "Statistical data"
+    },
+    {
+      "data": "Personal information used to improve Site and Services",
+      "optional": false,
+      "purpose": "Site improvement",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information used to fulfill user's request",
+      "optional": false,
+      "purpose": "User request fulfillment",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information disclosed in connection with transactions",
+      "optional": false,
+      "purpose": "Legal compliance, Property defense, Personal safety",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Cookies usage",
+      "description": "Ability to modify browser settings to decline cookies"
+    },
+    {
+      "practice": "Controlled sharing of personal information with third-party companies",
+      "description": "Sharing only essential information for request response purposes"
+    },
+    {
+      "practice": "Disclosure of personal information in connection with transactions",
+      "description": "Will only disclose if required by law or legal process served"
+    },
+    {
+      "practice": "Retaining personal information",
+      "description": "Will delete personal information upon receipt of verifiable consumer request, unless an exception applies"
+    },
+    {
+      "practice": "Addressing consumer concerns",
+      "description": "Promptly addressing concerns and striving for satisfactory resolution"
+    }
+  ]
+}

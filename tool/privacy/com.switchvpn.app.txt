@@ -1,0 +1,140 @@
+{
+  "sharedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Geography/region/country",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "In-app purchases",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Payment info",
+      "optional": false,
+      "purpose": "Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Communication",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Number of sessions",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Session duration",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Application opens",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Application updates",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "App usage stats",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Universally unique identifier (UUID)",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Crash data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "IP addresses",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Operating system and device characteristics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Referrer URLs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Which parts of the platform you use and how often",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Location (non-continuous)",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Advertising information",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "Personal data is encrypted in transit"
+    },
+    {
+      "practice": "Data access control",
+      "description": "Access to personal data is strictly controlled"
+    },
+    {
+      "practice": "Data deletion",
+      "description": "Personal data is deleted once the retention period expires"
+    }
+  ]
+}

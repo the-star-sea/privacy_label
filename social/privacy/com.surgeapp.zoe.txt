@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Registration information",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Localization data",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Message content",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "App usage data",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Registration information",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Localization data",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Message content",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "App usage data",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Personal data is deleted upon request",
+      "description": "Users have the right to delete their personal data at any time"
+    },
+    {
+      "practice": "Employees and partners are bound by confidentiality",
+      "description": "All employees and partners are required to uphold confidentiality"
+    }
+  ]
+}

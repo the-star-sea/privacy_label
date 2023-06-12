@@ -1,0 +1,13 @@
+Skip to Main Content
+The Garage Sale App for Finding Sales Near You
+Advertise
+Locations
+Blog
+Menu
+Advertise
+Locations
+Blog
+Privacy Policy
+This privacy policy describes how Yard Sale Treasure Map collects and uses information. We collect information in order to provide services to our users, like discovering sales happening near your location and syncing treasure maps across your devices. Anonymous information may also be collected and shared with trusted 3rd party partners. Data Handling
+Like most applications, Yard Sale Treasure Map collects non-personally identifiable usage information (Non-PII) in order to maintain, protect, and improve the platform. Non-PII is information that is linked or reasonably linkable to a particular computer or device, but does not reveal your specific identity or directly identify an individual. Non-PII may include your geolocation data, unique identifier, demographic information, and aggregated information. Geolocation information can be hidden from the app at your discretion by disabling location access in your device Settings app. Some features will become limited without access to this information. For instance, without geolocation a manual location search may be necessary and route lines cannot be drawn to start at your location. Anonymous Non-PII statistics like phone type and crash logs are collected for use in maintenance to support improvements to Yard Sale Treasure Map services. Anonymous Non-PII information may be shared with trusted 3rd party partners to improve mobile ad targeting and other similar services. Shared information can include anonymous geolocation data and information about nearby networks within range of wireless or bluetooth connectivity. Personally identifiable information (PII) information is optionally used through Google Login to support sync related services like sharing a treasure map across multiple devices. Information like full name and email address are used to verify your identity, however, this information is not stored or shared by Yard Sale Treasure Map. A unique identifier based on your Google Login information is used to support sync related services across devices. This information is only provided to the app when directly logging into Google through the app and use of Google Login is not required to use the app. Changes
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice.

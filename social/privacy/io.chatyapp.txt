@@ -1,0 +1,86 @@
+{
+  "sharedData": [
+    {
+      "data": "Photos uploaded by user",
+      "optional": false,
+      "purpose": "App functionality, Connecting users, Personalization",
+      "type": "User-generated content"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality, Connecting users, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Age",
+      "optional": false,
+      "purpose": "Connecting users, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location",
+      "optional": false,
+      "purpose": "Connecting users, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Profile information",
+      "optional": false,
+      "purpose": "Connecting users, Personalization",
+      "type": "User-generated content"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Device information"
+    },
+    {
+      "data": "General demographics",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Demographic information"
+    },
+    {
+      "data": "Behavioral data",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Behavioral data"
+    },
+    {
+      "data": "Geolocation data",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Personal information in hashed form",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Strict confidentiality obligations for service providers and partners",
+      "description": "All service providers and partners must agree to strict confidentiality obligations."
+    },
+    {
+      "practice": "Standard contract clauses approved by the European Commission or other suitable safeguard",
+      "description": "We use standard contract clauses approved by the European Commission or other suitable safeguard to permit data transfers from the EEA to other countries."
+    },
+    {
+      "practice": "Suspension of services possible in case of security breach",
+      "description": "We may suspend your use of all or part of the services without notice if we suspect or detect any breach of security."
+    }
+  ]
+}

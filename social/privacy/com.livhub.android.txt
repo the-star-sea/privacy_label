@@ -1,0 +1,80 @@
+{
+  "sharedData": [
+    {
+      "data": "Profile information (such as interests)",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Facebook ID and corresponding token",
+      "optional": false,
+      "purpose": "Registration and automatic login",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information available on Facebook (such as name, email, profile picture, birthday)",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Communications history (excluding content)",
+      "optional": false,
+      "purpose": "Service operation, safety and integrity",
+      "type": "App activity"
+    },
+    {
+      "data": "Location information (current or previous)",
+      "optional": false,
+      "purpose": "Personalization, service operation",
+      "type": "Location"
+    },
+    {
+      "data": "Transaction information (date and details)",
+      "optional": false,
+      "purpose": "Service operation",
+      "type": "Financial info"
+    },
+    {
+      "data": "Device information (type, version, identifier)",
+      "optional": false,
+      "purpose": "Service operation, error reporting",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Age profile",
+      "optional": false,
+      "purpose": "Service operation",
+      "type": "Personal info"
+    },
+    {
+      "data": "Activities on Livhub and other services provided by Livhub",
+      "optional": false,
+      "purpose": "Personalization, service operation",
+      "type": "App activity"
+    },
+    {
+      "data": "Stress tests on Livhub's systems",
+      "optional": false,
+      "purpose": "System improvement",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Users can delete their data",
+      "description": "Users can request to have their data removed from Livhub's servers"
+    },
+    {
+      "practice": "Users can exercise their rights to access and control their personal information",
+      "description": "Users have the right to access and control their personal information under applicable laws"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information must be provided to use the services",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Your Content",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Member Content",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Our Content",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Account management, Payment processing",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Account management, Payment processing",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Users are responsible for their own content",
+      "description": "Users have control over the personal information and content they upload"
+    },
+    {
+      "practice": "No refunds are given for virtual items",
+      "description": "All purchases and redemptions of virtual items are final and non-refundable"
+    }
+  ]
+}

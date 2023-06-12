@@ -1,0 +1,37 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account creation, communication, and recovery",
+      "type": "Personal info"
+    },
+    {
+      "data": "Credit card information",
+      "optional": false,
+      "purpose": "Billing information",
+      "type": "Financial info"
+    },
+    {
+      "data": "Aggregated non-identifying information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "No logs VPN service",
+      "description": "We do not log users' traffic or the content of any communications"
+    },
+    {
+      "practice": "Data encryption",
+      "description": "Access to our infrastructure and Secure Core servers is tightly controlled and all user data is encrypted"
+    },
+    {
+      "practice": "Limited disclosure of user data",
+      "description": "We will only disclose the limited user data we possess when compelled by law for the prevention, investigation, detection or prosecution of criminal offenses"
+    }
+  ]
+}

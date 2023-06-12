@@ -1,0 +1,34 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Service provision, Service improvement",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Service provision, Service improvement",
+      "type": "Personal info"
+    },
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "Service improvement",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable means used to protect personal information",
+      "description": "The developer uses commercially acceptable means to protect the personal information collected"
+    },
+    {
+      "practice": "Absolute security not guaranteed",
+      "description": "The developer cannot guarantee absolute security of the personal information collected"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+Privacy Policy
+Privacy Policy
+Your privacy and data security are extremely important to us. Whether the function is running normally, such as whether a virus is detected. Package name
+First open time timestamp
+App net status
+Firebase_device_id
+App model
+System language etc
+Advertisers may store or read cookies
+3. Monetization and Analytical Information from Other Sources
+Third-party SDKs integrated with our app may access your information, including:
+Google Advertising ID
+Demographic data (e.g. determination of your IP address)
+Data to fight against fraud (e.g. click fraud in advertising)
+Data associated with your device (e.g. device type, technological information, country)
+Data to do advertising, marketing, and analysis
+Advertisers may store or read cookies
+The information collected by third-party SDKs is governed by the providers of these SDKs and we have no control over such third parties. and also analytical tools partners, such as Firebase, Firebase Analytics, and our self-built data statistics system (ECS). Please note that these policies are governed by third parties and we have no control over them. i. Google Admob & Firebase
+https://policies.google.com/privacy?hl=en
+ii. Trustlook
+Trustlook SDK provides security service and it will record certain information that included the users installed application. Because it will analyze the app collection, app static & behavior analysis to give the app risk report. Android Advertising ID
+We use your Android advertising identifier in order to provide you with a customized advertisement experience. It is used exclusively for advertising and analytics. It is not connected to personally-identifiable information or associated with any persistent device identifier (for example SSAID, MAC address, IMEI, etc.). We will collect basic application information to compare the virus database of antivirus service providers with the white list in order to locate malicious applications. If you refuse to provide such information, you will not be able to use the virus checking and antivirus service. How Do We Use the Information
+i. To improve and optimize the Services
+To provide better Services to you, we have a legitimate interest to collect and process necessary data to:
+Update and develop the Services
+Develop and improve your experience
+Manage the relationship with you
+Customize your service experience
+Respond to your comments and questions and provide support to you
+Provide offers in the Services as well as on other websites and services
+Send related information (e.g. updates, security alerts, support messages) to you
+ii. We encourage you to review the privacy policies of our third-party advertising and marketing partners so that you can understand how these third parties collect, use and share your information. We are not responsible for the privacy policies of any third party whether accessed through the Services or otherwise. Depending on the context of your interactions with us, we may ask you to provide certain permissions in order to let our app perform properly. The permissions we ask for are listed below:
+Storage
+Read the contents of your USB storage
+Modify or delete the contents of your USB storage
+All files
+access
+Device ID & call information
+read phone status and identity
+Wi-Fi connection information
+View Wi-Fi connections
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Camera
+take pictures and videos
+Phone
+read phone status and identity
+Accessibility
+in order to better optimize memory usage and reduce repetitive operations, we need Accessibility API to automatically force stop apps. Legal Basis of Your Personal Data
+We process Personal Data for the purposes set out in this Privacy Policy, as described above. Please contact us at gamestreee@gmail.com if you would like to exercise your rights under applicable law. When we receive an individual rights request from you, please make sure you are ready to verify your identity. We may limit your individual rights in the following ways:
+Where denial of access is required or authorized by law. When granting access would have a negative impact on others' privacy. Children's Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. Changes to the Policy
+Any information that is collected is subject to the Policy in effect at the time such information is collected. We may, however, modify the Policy from time to time. If such change has been made, we will provide you additional forms of notice of modifications or updates as appropriate under the circumstances.

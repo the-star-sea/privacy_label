@@ -1,0 +1,72 @@
+{
+   "sharedData": [
+      {
+         "data": "Comment author name",
+         "optional": false,
+         "purpose": "Article commenting",
+         "type": "Personal info"
+      },
+      {
+         "data": "Comment author email address",
+         "optional": false,
+         "purpose": "Article commenting",
+         "type": "Personal info"
+      }
+   ],
+   "collectedData": [
+      {
+         "data": "Personal info (name, email address) when commenting on an article or contribution",
+         "optional": false,
+         "purpose": "Article commenting",
+         "type": "Personal info"
+      },
+      {
+         "data": "Website usage data",
+         "optional": false,
+         "purpose": "Website analytics and statistics",
+         "type": "App activity"
+      },
+      {
+         "data": "Location data",
+         "optional": false,
+         "purpose": "Advertising",
+         "type": "Location"
+      },
+      {
+         "data": "Website interactions",
+         "optional": false,
+         "purpose": "Website analytics and statistics, Advertising",
+         "type": "App activity"
+      },
+      {
+         "data": "Payment transaction data",
+         "optional": false,
+         "purpose": "Order processing",
+         "type": "Financial info"
+      },
+      {
+         "data": "Email address for email marketing",
+         "optional": false,
+         "purpose": "Email marketing",
+         "type": "Personal info"
+      }
+   ],
+   "securityPractices": [
+      {
+         "practice": "Data encryption",
+         "description": "The data is transmitted over a secure connection"
+      },
+      {
+         "practice": "Right to veto data processing",
+         "description": "Users have the right to veto the processing of their personal data"
+      },
+      {
+         "practice": "Compliance with legal requirements",
+         "description": "The data processing is compliant with legal requirements"
+      },
+      {
+         "practice": "Opt-out options",
+         "description": "Opt-out options are available to prevent future data collection"
+      }
+   ]
+}

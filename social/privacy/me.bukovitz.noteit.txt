@@ -1,0 +1,58 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact Information",
+      "optional": false,
+      "purpose": "Customer Support, Improving Products and Services, Protecting Company, Customers and Business Partners",
+      "type": "Personal info"
+    },
+    {
+      "data": "Demographic Information",
+      "optional": false,
+      "purpose": "Customer Support, Improving Products and Services, Protecting Company, Customers and Business Partners",
+      "type": "Personal info"
+    },
+    {
+      "data": "Internet and Network Activity Information",
+      "optional": false,
+      "purpose": "Improving Products and Services, Protecting Company, Customers and Business Partners",
+      "type": "Data activity"
+    },
+    {
+      "data": "Account username, display name, avatar image, and links to other social media accounts",
+      "optional": false,
+      "purpose": "Sharing with other users, Make friend suggestions",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Contact Information",
+      "optional": false,
+      "purpose": "Customer Support, Improving Products and Services, Protecting Company, Customers and Business Partners",
+      "type": "Personal info"
+    },
+    {
+      "data": "Demographic Information",
+      "optional": false,
+      "purpose": "Customer Support, Improving Products and Services, Protecting Company, Customers and Business Partners",
+      "type": "Personal info"
+    },
+    {
+      "data": "Internet and Network Activity Information",
+      "optional": false,
+      "purpose": "Improving Products and Services, Protecting Company, Customers and Business Partners",
+      "type": "Data activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Reasonable steps are taken to protect personal identifying information",
+      "description": "The company takes reasonable steps to protect personal identifying information"
+    },
+    {
+      "practice": "Updated Privacy Policy",
+      "description": "The company updates its Privacy Policy periodically"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "sharedData": [
+    {
+      "data": "List of files or apps on user's device",
+      "optional": false,
+      "purpose": "Phone optimization (detecting and cleaning junk files or apps)",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Information of installed apps on user's device (app name, app size, app usage, installation time)",
+      "optional": false,
+      "purpose": "Phone optimization (scanning junk files, removing apps)",
+      "type": "App activity"
+    },
+    {
+      "data": "Analytics information",
+      "optional": false,
+      "purpose": "Service improvement",
+      "type": "Analytics"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is not sold to any third-party",
+      "description": "User data is only used for app features and improving the user experience"
+    },
+    {
+      "practice": "Commercially acceptable means of protecting user data",
+      "description": "Efforts are made to protect user data, but no method of transmission or electronic storage is 100% secure"
+    },
+    {
+      "practice": "Services do not collect personally identifiable information from children under 12",
+      "description": "No data is collected from users under the age of 12"
+    },
+    {
+      "practice": "No explicit use of cookies",
+      "description": "The service uses third-party code and libraries that may use cookies, but the app does not use cookies explicitly"
+    }
+  ]
+}

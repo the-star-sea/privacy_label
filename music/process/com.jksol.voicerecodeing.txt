@@ -1,0 +1,30 @@
+Privacy Policy
+Voice Recording ("us", "we", or "our") operates the mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Information Collection And Use
+We collect several different types of information for various purposes to provide and improve our Service to you. We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device; below list can provide a non-exclusive list of the contents of Usage Data:
+Hardware model;
+Information about operating system and its version;
+Screen size and density;
+Language and country;
+Unique device identifiers (e.g. IDFA);
+Time zone;
+Device mute status (related to reminder function)
+To provide a better user experience, we have integrated data statistics tools in the App. Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. Examples of Cookies we use:
+Session Cookies. We use Preference Cookies to remember your preferences and various settings. Your Consent and Our Use of Your Personal Data
+We highly value your experience with Our App and are always trying to improve current features and keep adding new features that Our users want from time to time. The Company may use Personal Data for the following purposes:
+To provide and maintain our Service, including monitoring the usage of our Service. To manage Your requests: To attend and manage Your requests to Us. We may share your personal information in the following situations:
+With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to show advertisements to You to help support and maintain Our Service, to advertise on third-party websites to You after You visit our Service, for payment processing, to contact You. Forums Cookies(Webview browser cookies) - Forum Cookies are generally used to deliver or optimize Our Services, develop content, or research and analysis. Third-Party Advertisers- We may use third-party advertising companies to serve ads when you visit the Application. Google Analytics collects information such as device, location, and app usage information. Retention of Your Data
+The Company will retain Your Data only for as long as is necessary for the purposes set out in this Privacy Policy. Transfer of Your Personal Data
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information. We are not sharing this data with Third Parties. We take the security of your data very seriously. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. Disclosure Of Data
+Legal Requirements
+Voice Recording may disclose your Personal Data in the good faith belief that such action is necessary to:
+To comply with a legal obligation
+To protect and defend the rights or property of Voice Recording
+To prevent or investigate possible wrongdoing in connection with the Service
+To protect the personal safety of users of the Service or the public
+To protect against legal liability
+Security Of Data
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. AppMetrica
+We use your Device and installed Applications data for Appmatrica Analytics to analyze app's performace and crashes to improve app's preformance. Appvestor
+Appvestor Privacy Policy and Cookie Policy
+This Privacy Policy illustrates what personal information a user may share with Appvestor ApS,when installing, running and using Appvestors applications and Caller ID technology (collectively Services). We strongly advise you to review the Privacy Policy of every site you visit. Children's Privacy
+Our Service does not address anyone under the age of 18 ("Children"). If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.

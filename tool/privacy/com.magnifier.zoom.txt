@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Language preferences",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Transaction fulfillment",
+      "type": "Financial info"
+    },
+    {
+      "data": "Product announcements, software updates, requests for assistance",
+      "optional": false,
+      "purpose": "Communication with user",
+      "type": "Personal info"
+    },
+    {
+      "data": "Shared information through publicly accessible blogs and forums or social media features",
+      "optional": false,
+      "purpose": "Communication with user, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information including age",
+      "optional": false,
+      "purpose": "App functionality, security, Fraud prevention, and compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "App functionality, security, Fraud prevention, and compliance",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "App functionality, Personalization, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Traffic flow and patterns of travel",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Performance of the Services",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Appropriate security measures to protect against unauthorized access, alteration, disclosure, or data destruction",
+      "description": "We take necessary measures to protect personal information"
+    },
+    {
+      "practice": "Right to access personal information and control its use",
+      "description": "You have the right to access and control your personal information"
+    }
+  ]
+}

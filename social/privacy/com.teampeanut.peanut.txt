@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Registration Information",
+      "optional": false,
+      "purpose": "Account creation and management, notifications regarding service changes",
+      "type": "Personal info"
+    },
+    {
+      "data": "Marketing and Communications Data",
+      "optional": true,
+      "purpose": "Marketing and communications preferences",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Behavioural Data",
+      "optional": true,
+      "purpose": "Inferred behavior and interests based on online activity",
+      "type": "Personal info"
+    },
+    {
+      "data": "Audio Data",
+      "optional": true,
+      "purpose": "Collection of audio recordings for investigating complaints and/or violations of community guidelines",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "Personalization and ease of interaction with other users",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Preservation or disclosure of personal data when necessary to comply with law or regulation",
+      "description": "Preservation or disclosure of personal data as required by law or regulation, or to protect the safety of any person, or to address fraud or security issues"
+    },
+    {
+      "practice": "Use of Professional Advisers to ensure adequate protection of personal data",
+      "description": "Use of Professional Advisers located either in the European Economic Area or the United States to ensure a similar degree of protection is afforded to personal data transferred out of Europe"
+    }
+  ]
+}

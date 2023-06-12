@@ -1,0 +1,82 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Registration, Service-related communications, Marketing communications, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Wi-Fi connection information",
+      "optional": false,
+      "purpose": "Content sharing, Service provision",
+      "type": "Network activity"
+    },
+    {
+      "data": "Call information",
+      "optional": false,
+      "purpose": "Content sharing, Service provision",
+      "type": "Call logs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Account activation time",
+      "optional": false,
+      "purpose": "Service provision, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Content displayed",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Advertisement interactions",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Visited URLs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Notifications",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Notifications"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device information"
+    },
+    {
+      "data": "Mobile country code",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device information"
+    },
+    {
+      "data": "User ID",
+      "optional": false,
+      "purpose": "Analytics, Service provision",
+      "type": "Device information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Information is encrypted",
+      "description": "Employ administrative, physical and electronic measures designed to protect your information from unauthorized access and use"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ]
+}

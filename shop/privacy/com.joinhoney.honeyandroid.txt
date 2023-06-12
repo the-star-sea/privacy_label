@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Technical information about your device",
+      "optional": false,
+      "purpose": "Technical support, App functionality",
+      "type": "Technical info"
+    },
+    {
+      "data": "Browsing habits",
+      "optional": false,
+      "purpose": "Marketing, Personalization",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Performance data",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Personal information related to Honey Rewards program",
+      "optional": false,
+      "purpose": "Rewards program",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Limited retention of personal information",
+      "description": "PayPal Honey only retains information about you as long as you keep using PayPal Honey, except in certain circumstances."
+    }
+  ]
+}

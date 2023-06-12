@@ -1,0 +1,29 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Non-personal information",
+      "optional": false,
+      "purpose": "Analytics, App functionality, Fraud prevention, security, and compliance",
+      "type": "App activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Analytics, App functionality, Fraud prevention, security, and compliance",
+      "type": "Device info"
+    },
+    {
+      "data": "Logs",
+      "optional": false,
+      "purpose": "Analytics, App functionality, Fraud prevention, security, and compliance",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Administrative, physical and electronic measures are in place to protect non-personal information",
+      "description": "The developer has taken measures to protect user data from unauthorized access and use"
+    }
+  ]
+}

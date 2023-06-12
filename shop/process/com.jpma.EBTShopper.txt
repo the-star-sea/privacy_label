@@ -1,0 +1,23 @@
+Home
+Download
+Recipes
+Press
+Partners
+Get in Touch
+Select Page
+Privacy Policy
+This privacy policy outlines how JPMA, Inc. uses and protects any information collected and stored by the WICShopper mobile application. By using the WICShopper application, you are accepting the practices described in this privacy policy. This privacy policy was last modified in April of 2017
+What we collect
+The WICShopper mobile application may collect the following information:
+Your product inquiry history, which may include details such as the product number, timestamp of the inquiry, and IP address of the requesting device. If you have a card with a mag stripe (online EBT):your current EBT/WIC benefit information is requested each time to open the mobile app. A secure https encrypted transmission is processed through the WICShopper Server and sent to the state you have registered to. The current benefit information is then retrieved from the State, encrypted and returned back through the WICShopper server to the mobile phone requesting the benefits. If you have a card with a smart chip (offline EBT): The WICShopper mobile app does not currently support card registration and no benefitinformation is collected. At no time does WICShopper hold your benefit information or personal information in the WICShopper server. What we do with the information
+The information we collect may be used for:
+Core functionality of the mobile application (e.g. displaying your benefits on your device, or identifying allowable products available in a retail location). Evaluating system performance and effectiveness. Mapping inquiry trends on the products all users have requested for inquiry. Identifying improper usage of the application. From time to time we may share some non-personally identifiable information with your WIC agency and or the US Department of Agriculture. This information may include overall program and product inquiry statistics. Modifications of this policy
+This privacy policy may be changed without notice, but any changes will be posted at this location (https://ebtshopper.com/privacypolicy). We recommend you check this policy from time to time to insure that you are fully aware of any changes. If you have questions or comments about the privacy policy for the WICShopper mobile application, contact us by sending an email to [emailprotected] or by visiting our websites to get our current contact information. WICShopper by JPMA, Inc.
+[emailprotected]
+https://ebtshopper.com
+http://www.jpma.com
+Facebook
+Twitter
+Created by JPMA, Inc. |
+Copyright 2012 - 2021 |
+All rights reserved.

@@ -1,0 +1,72 @@
+{
+  "sharedData": [
+    {
+      "data": "Account information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Contact lists from linked social media services",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Contacts"
+    },
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Account information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Contact lists from linked social media services",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Contacts"
+    },
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Security measures are implemented",
+      "description": "Reasonable and appropriate security measures are implemented to protect and prevent the loss, misuse, and alteration of the information under SUGO's control"
+    },
+    {
+      "practice": "Cookies and other technologies are used",
+      "description": "Small data files called cookies are placed on the user's device to make the application work effectively"
+    },
+    {
+      "practice": "Protection of underage individuals",
+      "description": "The Platform is not directed at children under the age of 18, and if personal information is collected on the Platform from a person under the age of 18, the information will be deleted and the account terminated"
+    },
+    {
+      "practice": "Sensitive information is not recommended to be shared",
+      "description": "Users are advised against putting sensitive information such as email addresses, URLs, instant messaging details, phone numbers, full names, addresses, credit card details, national identity numbers or driver's license details in their Profile"
+    }
+  ]
+}

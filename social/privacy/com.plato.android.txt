@@ -1,0 +1,100 @@
+{
+  "sharedData": [
+    {
+      "data": "Operating System version",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Technical information"
+    },
+    {
+      "data": "Hardware",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Technical information"
+    },
+    {
+      "data": "Browser version",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Technical information"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Generalized Geo-Location Information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Operating System version",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Technical information"
+    },
+    {
+      "data": "Hardware",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Technical information"
+    },
+    {
+      "data": "Browser version",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Technical information"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Private Messages",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Chat history"
+    },
+    {
+      "data": "Public Messages",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Chat history"
+    },
+    {
+      "data": "Invitation messages",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Messaging"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data access is limited to authorized personnel",
+      "description": "Only authorized personnel have access to your data"
+    },
+    {
+      "practice": "You can update, correct, delete or add to your Personal Information",
+      "description": "We provide you with mechanisms to update, correct, delete or add to your Personal Information as appropriate"
+    },
+    {
+      "practice": "Data retention is limited to the purposes we collected it for",
+      "description": "We only retain your personal information for as long as necessary to fulfill the purposes we collected it for"
+    },
+    {
+      "practice": "Third-party service providers are used to facilitate our Services",
+      "description": "We may employ third party companies and individuals to facilitate our Services"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Photos, videos",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Media"
+    },
+    {
+      "data": "Audio files",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Media"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Reasonable administrative and technical measures are taken to protect personal information",
+      "description": "Reasonable measures are taken to protect personal data from loss, misuse, unauthorized and unlawful access, disclosure, alteration, and destruction"
+    }
+  ]
+}

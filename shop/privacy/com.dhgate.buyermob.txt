@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Billing information",
+      "optional": false,
+      "purpose": "Account management, App functionality",
+      "type": "Financial info"
+    },
+    {
+      "data": "Shopping cart",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Site usage information",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Computer information"
+    },
+    {
+      "data": "Demographic and statistical information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Aggregated information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Password",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Submitted information on the site",
+      "optional": false,
+      "purpose": "Publishing information, Analytics",
+      "type": "User-generated content"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Use of cookies",
+      "description": "The site uses cookies to provide personalized shopping experience and store shopping cart information"
+    },
+    {
+      "practice": "Protection of password",
+      "description": "The confidentiality of password is the user's responsibility"
+    },
+    {
+      "practice": "Direct marketing",
+      "description": "The site may use personal data for the purpose of direct marketing, but will obtain the user's consent before sharing personal data with any advertisers"
+    }
+  ]
+}

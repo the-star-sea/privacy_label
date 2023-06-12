@@ -1,0 +1,33 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Data about you (e.g. name, contact information, etc.)",
+      "optional": false,
+      "purpose": "Facilitating and personalizing use of CL, combatting fraud/abuse, complying with legal requirements",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data about your device and usage of CL (e.g. IP address, cookies, etc.)",
+      "optional": false,
+      "purpose": "Facilitating and personalizing use of CL, combatting fraud/abuse, complying with legal requirements",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Credit card information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Preventing unauthorized access and misuse of data",
+      "description": "CL takes precautions to prevent unauthorized access to or misuse of data about you"
+    },
+    {
+      "practice": "Good faith efforts to store data securely",
+      "description": "CL makes good faith efforts to store data securely, but cannot guarantee security"
+    }
+  ]
+}

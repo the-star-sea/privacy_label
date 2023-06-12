@@ -1,0 +1,80 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information provided by the user",
+      "optional": false,
+      "purpose": "Providing services and interacting with customers",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP addresses and device information",
+      "optional": false,
+      "purpose": "Evaluating effectiveness of services, troubleshoot and improve services, and personalize customer experience",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Inferences about user preferences or characteristics",
+      "optional": false,
+      "purpose": "Customizing marketing messages and improving customer experience",
+      "type": "Inferences"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Payment processing, fraud prevention, credit risk reduction, or other related financial services",
+      "type": "Financial info"
+    },
+    {
+      "data": "Automated License Plate Recognition Information",
+      "optional": false,
+      "purpose": "Detecting and reporting suspicious activities to law enforcement, complying with applicable law, protecting company property and inventory, employees, and the public",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information provided by the user",
+      "optional": false,
+      "purpose": "Providing services and interacting with customers",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP addresses and device information",
+      "optional": false,
+      "purpose": "Evaluating effectiveness of services, troubleshoot and improve services, and personalize customer experience",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Inferences about user preferences or characteristics",
+      "optional": false,
+      "purpose": "Customizing marketing messages and improving customer experience",
+      "type": "Inferences"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Payment processing, fraud prevention, credit risk reduction, or other related financial services",
+      "type": "Financial info"
+    },
+    {
+      "data": "Automated License Plate Recognition Information",
+      "optional": false,
+      "purpose": "Detecting and reporting suspicious activities to law enforcement, complying with applicable law, protecting company property and inventory, employees, and the public",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Protection of personal information",
+      "description": "Costco protects personal information provided by its customers and employees"
+    },
+    {
+      "practice": "Opt-out choice",
+      "description": "Costco offers an opt-out choice for the disclosure of personal information for direct marketing purposes"
+    },
+    {
+      "practice": "Data security",
+      "description": "Personnel who handle ALPR information receive training in data security"
+    }
+  ]
+}

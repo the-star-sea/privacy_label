@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Account ID",
+      "optional": false,
+      "purpose": "Promotions, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Electronic signature",
+      "optional": false,
+      "purpose": "Authentication",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Usage information",
+      "type": "Online Identifiers"
+    },
+    {
+      "data": "Device identifier and Ad ID",
+      "optional": false,
+      "purpose": "Usage information",
+      "type": "Online Identifiers"
+    },
+    {
+      "data": "Browser type and operating system characteristics",
+      "optional": false,
+      "purpose": "Usage information",
+      "type": "Online Identifiers"
+    },
+    {
+      "data": "Information on use of Online Properties",
+      "optional": false,
+      "purpose": "Usage information",
+      "type": "Internet/Network Activity"
+    },
+    {
+      "data": "Data regarding network connected hardware",
+      "optional": false,
+      "purpose": "Usage information",
+      "type": "Internet/Network Activity"
+    },
+    {
+      "data": "Personal information provided in various areas of the Online Properties",
+      "optional": true,
+      "purpose": "Providing services, Promotions, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information obtained from other sources and combined with collected information",
+      "optional": false,
+      "purpose": "Providing services, Promotions, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Push notifications or in-app messages",
+      "optional": false,
+      "purpose": "Operational and promotional messages",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Security controls to safeguard confidentiality of personal information",
+      "description": "Loves utilizes a variety of security controls to safeguard the confidentiality of personal information from unauthorized access, disclosure, and accidental loss, alteration, or destruction."
+    },
+    {
+      "practice": "Consent withdrawal",
+      "description": "Individuals may withdraw their consent by contacting Loves."
+    }
+  ]
+}

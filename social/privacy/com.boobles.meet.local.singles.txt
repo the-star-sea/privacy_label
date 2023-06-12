@@ -1,0 +1,67 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Data identity",
+      "optional": false,
+      "purpose": "Fulfillment of contractual obligations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact details",
+      "optional": false,
+      "purpose": "Fulfillment of contractual obligations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal preferences",
+      "optional": false,
+      "purpose": "Fulfillment of contractual obligations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Order tracking and billing information",
+      "optional": false,
+      "purpose": "Fulfillment of contractual obligations",
+      "type": "Financial info"
+    },
+    {
+      "data": "Information shared with Customer Service",
+      "optional": true,
+      "purpose": "Fulfillment of contractual obligations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Health data in case of unwanted side effects",
+      "optional": false,
+      "purpose": "Fulfillment of contractual obligations",
+      "type": "Sensitive info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Marketing, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Website usage information",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal data is only accessed by authorized personnel",
+      "description": "Access to personal data is strictly controlled"
+    },
+    {
+      "practice": "Data retention times are in line with EU guidelines and legal obligations",
+      "description": "Data is not kept longer than necessary"
+    },
+    {
+      "practice": "User rights to access, correct, and delete personal data are respected",
+      "description": "Users can exercise their rights by contacting bbles.biz directly"
+    }
+  ]
+}

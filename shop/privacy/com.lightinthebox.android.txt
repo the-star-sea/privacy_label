@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Promotional offers",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Technical info"
+    },
+    {
+      "data": "Non-personally identifiable information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Order handling, Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Order processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Personalization, Promotion",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Personal and financial information is not sold or rented",
+      "description": "The company does not sell, rent, trade, or license your personal or financial information"
+    },
+    {
+      "practice": "Data retention policy",
+      "description": "Personal information is kept only for as long as required by law"
+    }
+  ]
+}

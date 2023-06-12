@@ -1,0 +1,48 @@
+USER INFORMATION
+Who is the controller of your personal data? To maintain a commercial relationship with the user. In this case, the third parties will never have access to personal data. Conduct market research and statistical analysis. Send the online newsletter on news, offers and promotions in our activity
+Specific processing:
+The controller will be able to access any piece of data that is necessary to carry out the functions of the specific
+service of every app within the device. In particular, depending on the purpose, each app will be able to access the
+following information:
+Content of the user: Camara, facial recognition, gallery, SMS (to save filters, wallpapers and others)
+Health and Fitness: Data regarding health and exercise (for diets and exercise routines)
+Location: Precise location of the user. In any case, permission will be requested to access this data. For how long will we keep your personal data? To whom do we disclose your personal data? No communication of personal data to third parties is foreseen except, if necessary for the development and execution
+of the purposes of the processing, to our suppliers of services related to communications, with which the
+CONTROLLER has signed the confidentiality and data processor contracts required by current privacy regulations. The rights of the USER are:
+Right to withdraw consent at any time. In case you do not agree with this Policy, please, do not continue
+interacting with the App. However, we would like to know the reason of your disagreement so that we can improve our products. No other user data is collected by the App ore collected. Nonetheless, in case the user is willing to obtain more detailed information about the processed commented above, contact Red Sky Labs using our contact at admin@redsky-labs.com. Email: admin@redsky-labs.com
+Contact details of the data protection officer: Avenida Alcalde Daz Saavedra Navarro, 31, 2 planta, CP: 35001, Las Palmas de Gran Canarias, Las Palmas. SECURITY MEASURES
+That in accordance with the provisions of the current regulations on the protection of personal data, the
+CONTROLLER is complying with all the provisions of the GDPR and LOPDGDD regulations for processing the
+personal data for which they are responsible, and is manifestly complying with the principles described in Article 5 of
+the GDPR, by which they are processed in a lawful, fair and transparent manner in relation to the data subject and
+appropriate, relevant and limited to what is necessary in relation to the purposes for which they are processed. COOKIES POLICY
+COOKIES POLICY
+INFORMATION ABOUT COOOKIES
+Due to the coming into force of the amendment to the Law on Services of the Information Society (LSSICE) established
+by Spanish Royal Decree 13/2012, it is mandatory to obtain the express consent of the user of all web pages that use nonessential cookies before browsing them. Behavioural advertising cookies:
+collect information on the users personal preferences and choices (retargeting)
+in order to allow management, in the most efficient way possible, of the advertising spaces which, if applicable, the
+editor has included in a website, application or platform from where the requested service is provided. The social media platforms have the ability to track activity online outside the Services. Third party cookies: are sent to the users terminal team from a team or power which is not managed by the editor,
+but by another body which processes data obtained through the cookies. DEPENDING ON THE STORAGE PERIOD
+Session cookies: are a type of cookie designed to collect and store data as long as the user accesses a website. - Right of access, rectification, portability and erasure of data and the limitation or objection to their processing. The right to file a claim with the Spanish Supervisory Authority (www.aepd.es) if you consider that the processing does not
+comply with current legislation
+Contact information to exercise their rights:
+Red Sky Labs, S.L. Avenida Alcalde Daz Saavedra Navarro, 31, 2 planta, CP: 35001, Las Palmas de Gran Canarias, Las Palmas. Usually used
+to maintain an anonymised user session by the server. Suppliers may at any time modify their service conditions, the
+purpose and use of cookies, etc. External suppliers of this website:
+Microsoft
+Property
+Cookie
+redsky-labs.com
+https://account.microsoft.com/privacy
+COOKIES CONFIGURATUON PANEL
+From this panel the user will be able to configure the cookies that the website can install in their browser, except for the
+technical or functional cookies that are necessary for browsing and using the different options or services that are offered. Cookie panel
+HOW TO MANAGE COOKIES FROM YOUR BROWSER
+Delete cookies from your device
+Cookies that are already on a device can be deleted by clearing the browser history, thus
+deleting the cookies from all websites visited. In addition, some services and features may not work properly (for
+example, profile logins). Version 11
+https://support.microsoft.com/es-es/help/278835/how-to-delete-cookie-files-in-internet-explorer
+Firefox.

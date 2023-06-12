@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Geographic location",
+      "optional": true,
+      "purpose": "Service enhancement, Personalization, Advertising or marketing, Safer-sex practices",
+      "type": "Location"
+    },
+    {
+      "data": "Community identifications (including health details and gender identity), sex preferences, and safer-sex practices",
+      "optional": false,
+      "purpose": "Communication with users",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Geographic location",
+      "optional": true,
+      "purpose": "Service enhancement, Personalization, Advertising or marketing, Safer-sex practices",
+      "type": "Location"
+    },
+    {
+      "data": "Community identifications (including health details and gender identity), sex preferences, and safer-sex practices",
+      "optional": false,
+      "purpose": "Communication with users",
+      "type": "Personal info"
+    },
+    {
+      "data": "Interests and preferences",
+      "optional": true,
+      "purpose": "Personalization, Service enhancement",
+      "type": "App activity"
+    },
+    {
+      "data": "Activity and interests on the Service",
+      "optional": true,
+      "purpose": "Personalization, Service enhancement",
+      "type": "App activity"
+    },
+    {
+      "data": "IP address",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Operating system used",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "No guarantee of absolute security",
+      "description": "No security measures are foolproof and no method of electronic storage is perfectly secure."
+    }
+  ]
+}

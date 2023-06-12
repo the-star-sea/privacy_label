@@ -1,0 +1,25 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information, including name and email address",
+      "optional": false,
+      "purpose": "To provide accurate and personalized services",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is stored in accordance with this policy and deleted when no longer needed",
+      "description": "We store data in accordance with this policy until the purpose specified in this policy is achieved, unless longer storage is required or allowed by law. After that, if it is no longer needed for the purpose of this policy, we can completely delete the stored data within a reasonable time."
+    },
+    {
+      "practice": "Child privacy protection",
+      "description": "Super Translator meets the requirements of COOPA (children's online privacy protection act). We don't collect any information from anyone under the age of 13. If you find that your child has shared his or her personal data, please inform us immediately and all relevant data will be deleted from Super Translator as soon as possible. Super Translator, products and services are for people over the age of 13."
+    },
+    {
+      "practice": "Notifications for changes to the privacy policy",
+      "description": "Super Translator reserves the right to periodically review and change this policy and will notify users who have enabled notification preferences of any changes. Continued use of the service will be deemed to be acceptance of such changes."
+    }
+  ]
+}

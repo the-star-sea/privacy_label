@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Username, screen name, handle, account ID, assigned user ID, or similar identifier",
+      "optional": false,
+      "purpose": "Account management, App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Advertising or marketing, Account management",
+      "type": "Contact info"
+    },
+    {
+      "data": "Content viewed and searches made on the Site",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Cookie and tracking technology data",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Online identifiers and usage data"
+    },
+    {
+      "data": "Website log and usage data",
+      "optional": false,
+      "purpose": "Analytics, Policy enforcement",
+      "type": "Online identifiers and usage data"
+    },
+    {
+      "data": "Billing, delivery, accounting, payment, and other transaction-related personal information",
+      "optional": false,
+      "purpose": "Transaction facilitation",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Access to personal information is limited to authorized personnel",
+      "description": "Only authorized personnel have access to personal information"
+    },
+    {
+      "practice": "Regular security assessments and updates",
+      "description": "Regular assessments and updates are conducted to ensure security of personal information"
+    }
+  ]
+}

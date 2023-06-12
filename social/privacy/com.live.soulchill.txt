@@ -1,0 +1,48 @@
+{
+  "sharedData": [
+    {
+      "data": "Snapchat display name",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Snapchat Bitmoji avatar",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Geographic location",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Text alerts",
+      "optional": true,
+      "purpose": "Marketing",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Sensitive information is not collected",
+      "description": "The app does not collect sensitive personal information"
+    },
+    {
+      "practice": "The accuracy of the information collected is important",
+      "description": "The developer takes steps to ensure the accuracy of the information collected"
+    },
+    {
+      "practice": "Information is deleted upon request",
+      "description": "The developer provides a way for users to update or delete their personal information"
+    },
+    {
+      "practice": "Data transfer to Singapore",
+      "description": "Users are informed that their personal information may be transferred to Singapore and consent to such transfer"
+    }
+  ]
+}

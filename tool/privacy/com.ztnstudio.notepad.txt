@@ -1,0 +1,62 @@
+{
+  "sharedData": [
+    {
+      "data": "Unique ID for personalized advertisements",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device information number",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Push notifications",
+      "optional": false,
+      "purpose": "Communication",
+      "type": "Electronic communications"
+    },
+    {
+      "data": "Analytics data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Unique ID for personalized advertisements",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device information number",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Analytics data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data will be treated securely and in accordance with the privacy policy",
+      "description": "Appvestor will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with the privacy policy"
+    },
+    {
+      "practice": "Adequate controls in place for data protection",
+      "description": "No transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information"
+    },
+    {
+      "practice": "Appropriate technical security measures",
+      "description": "Appvestor has implemented the appropriate technical security measures to ensure data protection in all contexts, also taking into consideration the category of the Personal Data that We process"
+    }
+  ]
+}

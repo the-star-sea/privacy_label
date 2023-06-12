@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information such as name, address, phone number, email address, and other contact information",
+      "optional": false,
+      "purpose": "Providing products and services, personalization, marketing, and improving products and services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial information such as credit card number, billing address, and payment information",
+      "optional": false,
+      "purpose": "Transactions, financing, and fraud prevention",
+      "type": "Financial info"
+    },
+    {
+      "data": "Device information and browsing information",
+      "optional": false,
+      "purpose": "Marketing and personalization",
+      "type": "Device and browsing info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information such as name, address, phone number, email address, and other contact information",
+      "optional": false,
+      "purpose": "Providing products and services, personalization, marketing, and improving products and services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial information such as credit card number, billing address, and payment information",
+      "optional": false,
+      "purpose": "Transactions, financing, and fraud prevention",
+      "type": "Financial info"
+    },
+    {
+      "data": "Device information and browsing information",
+      "optional": false,
+      "purpose": "Marketing and personalization",
+      "type": "Device and browsing info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "Your data is transferred and stored using secure methods"
+    },
+    {
+      "practice": "You can access and update your personal information",
+      "description": "You have the ability to view and modify your personal information"
+    },
+    {
+      "practice": "Data retention standards are in place",
+      "description": "Your personal information is not stored longer than necessary"
+    },
+    {
+      "practice": "Privacy of children is protected",
+      "description": "Personal information of children under 13 is not knowingly collected"
+    }
+  ]
+}

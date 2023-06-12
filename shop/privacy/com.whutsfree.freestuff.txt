@@ -1,0 +1,37 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personal information provided voluntarily",
+      "optional": false,
+      "purpose": "Account creation, Offers or Services, inquiries/support, data analysis, promotional campaigns, evaluation and improvement of Offers and Services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Automatically collected information",
+      "optional": false,
+      "purpose": "App and Site usage analysis, improvement of Offers, detection and prevention of fraud",
+      "type": "App activity"
+    },
+    {
+      "data": "Data collected from third parties",
+      "optional": false,
+      "purpose": "Account creation and logon process facilitation",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data retention limitation",
+      "description": "Personal information is kept only for necessary time for the purposes set out in the privacy policy or as required by law"
+    },
+    {
+      "practice": "Opt-out mechanisms",
+      "description": "Users have the ability to unsubscribe from email list and opt-out of interest-based advertising"
+    }
+  ]
+}

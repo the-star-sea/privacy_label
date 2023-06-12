@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Face Tech Data",
+      "optional": false,
+      "purpose": "Creation of customized products",
+      "type": "Biometric data"
+    },
+    {
+      "data": "Web browsing history",
+      "optional": true,
+      "purpose": "Analytics and interest-based advertising",
+      "type": "Web browsing"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Provision of services, account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Clear GIFs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Cookies and similar technologies"
+    },
+    {
+      "data": "Information collected from other sources",
+      "optional": false,
+      "purpose": "Provision of services, analytics",
+      "type": "Third-party data"
+    },
+    {
+      "data": "Web browsing history",
+      "optional": true,
+      "purpose": "Analytics and interest-based advertising",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Matched ads",
+      "optional": false,
+      "purpose": "Targeted advertising",
+      "type": "Advertising data"
+    },
+    {
+      "data": "Analytics data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Analytics data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "All collected data is encrypted to safeguard user information."
+    },
+    {
+      "practice": "Option to opt-out",
+      "description": "Users have the option to opt-out of certain data collection practices."
+    },
+    {
+      "practice": "Authorized agent designation",
+      "description": "Users have the ability to designate an authorized agent to submit requests on their behalf."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "sharedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "Service provision and improvement",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information used to identify the user",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Service provision and improvement",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable security measures are employed",
+      "description": "The app is designed to protect the Personal Information provided by the user"
+    },
+    {
+      "practice": "Inability to guarantee 100% security",
+      "description": "The app cannot guarantee absolute security of information transmission over the internet or storage"
+    },
+    {
+      "practice": "Sensitive user information is deleted immediately",
+      "description": "The developer removes any personal information provided by children below the age of 13"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "sharedData": [
+    {
+      "data": "Device's Internet Protocol address (e.g. IP address), browser type, browser version, unique device identifiers and other diagnostic data.",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personally identifiable information, such as name and contact details",
+      "optional": false,
+      "purpose": "Manage your account, manage your requests, provide news and offers about products and services, evaluate business transfers and other analysis purposes",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage data, including device information and browsing activity",
+      "optional": false,
+      "purpose": "Analytics, Adverstising or marketing, Fraud prevention, security, and compliance",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "The security of Personal Data is important to Us",
+      "description": "The Company takes appropriate security measures to protect Your personal data against unauthorized access, alteration, disclosure or destruction."
+    },
+    {
+      "practice": "The transmission and storage of data is not 100% secure",
+      "description": "The Company cannot guarantee the absolute security of any information transmitted or stored through its Service."
+    },
+    {
+      "practice": "Children's privacy is protected",
+      "description": "The Service does not address anyone under the age of 13 and the Company takes steps to remove Personal Data collected from anyone under the age of 13 without verification of parental consent."
+    }
+  ]
+}

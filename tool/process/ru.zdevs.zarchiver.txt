@@ -1,0 +1,26 @@
+Privacy Policy
+Last Updated: 08.12.2022
+Developer: ZDevs
+=== Data Collection and Use
+ZArchiver does not collect, transfer, sell personal information such as your name, email address, phone number, credit card, information about usage app or any other data. ZArchiver store archive passwords for some time to access encrypted files. Saved password are stored encrypted, but a hack-proof confidentiality is not guaranteed. === Permissions with explanation
+READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE (Android pre 11) or MANAGE_EXTERNAL_STORAGE (Android 11+) - to read and write files on external storage (SD card, USB flash);
+WAKE_LOCK - to proper work of long-lasting operations;
+INSTALL_PACKAGES - to install APK files in Android 8+;
+FOREGROUND_SERVICE - to run of file operations;
+POST_NOTIFICATIONS - to show progress notification of a background process. === Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. === Contact Us
+If you have any concerns, questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@zdevs.ru. ______________________________________________________________
+* Below is an automatic translation into Chinese. It is better to use the English version for more details. : 08.12.2022
+: ZDevs
+===
+ZArchiver
+ZArchiver
+===
+READ_EXTERNAL_STORAGE  WRITE_EXTERNAL_STORAGE (Android 11)  MANAGE_EXTERNAL_STORAGE (Android 11) - SDUSB
+WAKE_LOCK - 
+INSTALL_PACKAGES - 8APK
+FOREGROUND_SERVICE - 
+POST_NOTIFICATIONS - 
+=== 
+=== 
+support@zdevs.ru

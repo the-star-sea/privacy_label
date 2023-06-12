@@ -1,0 +1,29 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Providing security services",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Access to infrastructure and security core servers is strictly controlled",
+      "description": "User data security is given high importance"
+    },
+    {
+      "practice": "No sale or transfer of personally identifiable information to external parties",
+      "description": "User's privacy is protected"
+    },
+    {
+      "practice": "Compliance with COPPA provisions",
+      "description": "No data collection from children under the age of 13"
+    },
+    {
+      "practice": "Periodic review and update of privacy policy",
+      "description": "Users will be notified of any changes made"
+    }
+  ]
+}

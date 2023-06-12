@@ -1,0 +1,112 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account management, Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Communication, Marketing and advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Home or work address",
+      "optional": true,
+      "purpose": "Communication, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Birthdate",
+      "optional": true,
+      "purpose": "Account management, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Telephone number",
+      "optional": true,
+      "purpose": "Account management, Communication, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Debit/Credit card information",
+      "optional": true,
+      "purpose": "Transaction processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Geolocation data",
+      "optional": true,
+      "purpose": "Analytics, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Audio recordings",
+      "optional": false,
+      "purpose": "Security",
+      "type": "Audio"
+    },
+    {
+      "data": "Image",
+      "optional": false,
+      "purpose": "Security",
+      "type": "Visual"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Personalization, Analytics",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Website interaction data",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Third-party websites data",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Submissions by users",
+      "optional": true,
+      "purpose": "Communication, App functionality",
+      "type": "User-generated content"
+    },
+    {
+      "data": "Data obtained from cookies",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Survey and contest data",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Personal info, Online identifiers"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "Your personal information is encrypted"
+    },
+    {
+      "practice": "Opt-out option",
+      "description": "You can choose to opt-out of receiving special offers and marketing communications"
+    }
+  ]
+}

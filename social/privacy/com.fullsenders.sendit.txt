@@ -1,0 +1,100 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account creation and management, Customer support, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account creation and management, Customer support, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mailing address",
+      "optional": true,
+      "purpose": "Account creation and management, Customer support, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Social network details",
+      "optional": true,
+      "purpose": "Account creation and management, Customer support, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "Account creation and management, Customer support, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": true,
+      "purpose": "Demographic analysis",
+      "type": "Personal info"
+    },
+    {
+      "data": "Internet and Network Activity Information",
+      "optional": false,
+      "purpose": "Analytics, App functionality, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account creation and management, Customer support, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account creation and management, Customer support, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mailing address",
+      "optional": true,
+      "purpose": "Account creation and management, Customer support, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Social network details",
+      "optional": true,
+      "purpose": "Account creation and management, Customer support, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "Account creation and management, Customer support, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": true,
+      "purpose": "Demographic analysis",
+      "type": "Personal info"
+    },
+    {
+      "data": "Internet and Network Activity Information",
+      "optional": false,
+      "purpose": "Analytics, App functionality, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Cookies may be used to improve site functionality and personalize user experience",
+      "description": "Cookies may be used to collect and store user data for the purpose of improving the site's functionality and personalizing user experience."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Feedback and bug reporting",
+      "type": "Personal info"
+    },
+    {
+      "data": "Limited DNS query data",
+      "optional": false,
+      "purpose": "DNS resolver information",
+      "type": "Web browsing"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Account data",
+      "optional": false,
+      "purpose": "Application functionality, Paid application services, Referral programs",
+      "type": "Personal info"
+    },
+    {
+      "data": "Performance data",
+      "optional": false,
+      "purpose": "Application performance",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Application troubleshooting and improvement",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Limited access to personal information",
+      "description": "Cloudflare only collects necessary personal information to provide services"
+    }
+  ]
+}

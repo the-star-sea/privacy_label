@@ -1,0 +1,86 @@
+{
+  "sharedData": [
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "Analytics, targeting, and ad personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Analytics, targeting, and ad personalization",
+      "type": "Device"
+    },
+    {
+      "data": "Web browsing data",
+      "optional": false,
+      "purpose": "Analytics, targeting, and ad personalization",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics, targeting, and ad personalization",
+      "type": "Cookies"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Contact information",
+      "optional": false,
+      "purpose": "Customer service, fulfillment, and experience improvement",
+      "type": "Contact"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "Fulfillment, ad targeting, and personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Analytics, ad targeting, and personalization",
+      "type": "Device"
+    },
+    {
+      "data": "Web browsing data",
+      "optional": false,
+      "purpose": "Analytics, ad targeting, and personalization",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics, ad targeting, and personalization",
+      "type": "Cookies"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Fulfillment, ad targeting, and personalization",
+      "type": "Financial info"
+    },
+    {
+      "data": "Loyalty program data",
+      "optional": false,
+      "purpose": "Fulfillment, ad targeting, and personalization",
+      "type": "Loyalty program"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Data is transferred using secure connections"
+    },
+    {
+      "practice": "Safeguards for sensitive data",
+      "description": "Processes are in place to safeguard sensitive data, including personal, financial, and medical information"
+    },
+    {
+      "practice": "Allows data access and modification",
+      "description": "Data access and modification requests can be made by the user"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "sharedData": [
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Service operation, Personalization, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Mobile device identifiers",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Demographic information",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Account log-in credentials",
+      "optional": false,
+      "purpose": "Service operation",
+      "type": "Sensitive personal info"
+    },
+    {
+      "data": "Biometric information",
+      "optional": false,
+      "purpose": "Sensitive personal info",
+      "type": "Sensitive personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal data provided by users",
+      "optional": false,
+      "purpose": "Service operation, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Service operation, Personalization, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Mobile device identifiers",
+      "optional": false,
+      "purpose": "Service operation, Personalization, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Demographic information",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Sensitive personal data",
+      "optional": false,
+      "purpose": "Sensitive personal info",
+      "type": "Sensitive personal info"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics, Reporting, Service operation, Personalization, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Third-party data",
+      "optional": true,
+      "purpose": "Service operation, Personalization, Advertising or marketing",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption in transit",
+      "description": "Users' personal data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data deletion upon request",
+      "description": "Users can request that their personal data be deleted"
+    },
+    {
+      "practice": "Appeal process",
+      "description": "Residents of certain states are entitled to submit an appeal if their request to delete personal data is denied"
+    }
+  ]
+}

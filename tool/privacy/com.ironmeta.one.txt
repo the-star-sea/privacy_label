@@ -1,0 +1,38 @@
+{
+  "sharedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Error reporting",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Providing and improving the Service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Error reporting",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Use commercially acceptable means of protecting Personal Information",
+      "description": "The developer values your trust in providing them with your Personal Information and strives to use commercially acceptable means of protecting it"
+    },
+    {
+      "practice": "No method of transmission over the internet is 100% secure",
+      "description": "The developer cannot guarantee absolute security for your data"
+    }
+  ]
+}

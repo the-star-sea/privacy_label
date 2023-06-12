@@ -1,0 +1,27 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Non-personal information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device and usage information"
+    },
+    {
+      "data": "Personal information submitted by the user for creating a user account or sending an error report",
+      "optional": false,
+      "purpose": "Analytics, Product and service improvement",
+      "type": "User account and error report information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal information is safeguarded using administrative, technical and physical measures",
+      "description": "Precautions are taken to prevent loss, theft, unauthorized access, disclosure, alteration, and destruction of personal information"
+    },
+    {
+      "practice": "Privacy and security guidelines are communicated to all employees and strictly enforced",
+      "description": "Optimize Technologies is committed to protecting personal and non-personal information of its users"
+    }
+  ]
+}

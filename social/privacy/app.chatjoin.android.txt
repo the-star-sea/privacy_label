@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Username and name",
+      "optional": false,
+      "purpose": "App functionality, Community building",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Interaction with the service",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Communication with other users",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Messaging and chat history"
+    },
+    {
+      "data": "Photos and videos",
+      "optional": false,
+      "purpose": "Content moderation, Community safety",
+      "type": "Visual content"
+    },
+    {
+      "data": "Browser and device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Pages visited before and after the app",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Web browsing"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data deletion available upon request",
+      "description": "You can request to have your data deleted from our servers"
+    }
+  ]
+}

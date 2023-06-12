@@ -1,0 +1,58 @@
+{
+  "sharedData": [
+    {
+      "data": "Activities on Website and App",
+      "optional": false,
+      "purpose": "Providing Services, Tournaments and Challenges",
+      "type": "App activity"
+    },
+    {
+      "data": "Payment card details",
+      "optional": false,
+      "purpose": "Processing payments",
+      "type": "Financial info"
+    },
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Providing Services, Tournaments and Challenges",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Activities on Website and App",
+      "optional": false,
+      "purpose": "Providing Services, Tournaments and Challenges",
+      "type": "App activity"
+    },
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Providing Services, Tournaments and Challenges",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment card details",
+      "optional": false,
+      "purpose": "Processing payments",
+      "type": "Financial info"
+    },
+    {
+      "data": "Information regarding use of tracking technologies",
+      "optional": false,
+      "purpose": "Providing Services, Tournaments and Challenges",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Multi-factor authentication available",
+      "description": "You have the option to enable multi-factor authentication to protect your account"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "Authentication information",
+      "optional": false,
+      "purpose": "Account creation and access",
+      "type": "Credentials"
+    },
+    {
+      "data": "Transaction information",
+      "optional": false,
+      "purpose": "Service fulfillment",
+      "type": "Financial info"
+    },
+    {
+      "data": "Contact and shipping information",
+      "optional": false,
+      "purpose": "Service fulfillment",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Authentication information",
+      "optional": false,
+      "purpose": "Account creation and access",
+      "type": "Credentials"
+    },
+    {
+      "data": "Transaction information",
+      "optional": false,
+      "purpose": "Service fulfillment, Marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Contact and payment information",
+      "optional": false,
+      "purpose": "Service fulfillment, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Name and/or company name",
+      "optional": true,
+      "purpose": "Service fulfillment, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies and web beacons",
+      "optional": false,
+      "purpose": "Website functionality, Analytics, Advertising or marketing",
+      "type": "Web browsing"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Physical, electronic and procedural safeguards",
+      "description": "AfterShip maintains safeguards to protect the confidentiality and security of information transmitted to us"
+    },
+    {
+      "practice": "No data transmission over the Internet or other network can be guaranteed to be 100% secure",
+      "description": "AfterShip cannot guarantee the security of your information transmitted to or through the Website"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Mobile device type",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Mobile device unique ID",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Mobile operating system",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Mobile internet browser type",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Web browsing"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "No third-party analytics or data collection",
+      "description": "The application does not contain any third-party analytics and does not collect any personal information"
+    }
+  ]
+}

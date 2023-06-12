@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Mobile phone number",
+      "optional": false,
+      "purpose": "Creating an account to use the service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location information (IP address, WiFi, Bluetooth, GPS coordinates)",
+      "optional": false,
+      "purpose": "Providing the service, sharing location with chosen family members, improving tailored advertising, attribution, analytics or research purposes",
+      "type": "Location"
+    },
+    {
+      "data": "Sensory and motion data (gyroscope, accelerometer, compass, Bluetooth)",
+      "optional": false,
+      "purpose": "Providing driving, walking, and sitting event detection and other features and functionality of the service",
+      "type": "Motion data"
+    },
+    {
+      "data": "Contacts data",
+      "optional": true,
+      "purpose": "Displaying friend and family member names instead of phone numbers when using certain features",
+      "type": "Contacts"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device information through tracking technologies (cookies, web beacons, log files, embedded scripts, location-identifying technologies)",
+      "optional": false,
+      "purpose": "Providing and improving the service",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "User has control over location and contact data sharing",
+      "description": "User can choose which family members to share location and which features to use that require contact data"
+    },
+    {
+      "practice": "User can request account deletion or personal information deletion",
+      "description": "User can contact the developer to request account or personal information deletion"
+    }
+  ]
+}

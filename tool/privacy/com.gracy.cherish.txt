@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Establishing a Rider VPN account and payment processing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Server load information",
+      "optional": true,
+      "purpose": "Server performance monitoring",
+      "type": "App activity"
+    },
+    {
+      "data": "Inquiries and communications through Contact Us and Community Area pages",
+      "optional": true,
+      "purpose": "Customer support",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies",
+      "optional": true,
+      "purpose": "Improving user experience on the website",
+      "type": "Web browsing"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Payment data",
+      "optional": false,
+      "purpose": "Collecting payments for Rider VPN services",
+      "type": "Financial info"
+    },
+    {
+      "data": "Server load information",
+      "optional": true,
+      "purpose": "Server performance monitoring",
+      "type": "App activity"
+    },
+    {
+      "data": "Inquiries and communications through Contact Us and Community Area pages",
+      "optional": true,
+      "purpose": "Customer support",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies",
+      "optional": true,
+      "purpose": "Improving user experience on the website",
+      "type": "Web browsing"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "No logs are kept of online traffic",
+      "description": "Rider VPN does not store connection time stamps, session information, used bandwidth, traffic logs, IP addresses or other data."
+    },
+    {
+      "practice": "Data is processed for the purpose of providing Rider VPN services under the legal basis of performance of the contract",
+      "description": "Personal data is processed for the purpose of providing you the best Rider VPN services under the legal basis of performance of the contract between you and Rider VPN, as provided in the General Terms."
+    },
+    {
+      "practice": "Users have the right to request access, correction, erasure, or transmission of their personal data",
+      "description": "Users have the right to request data access, correction, erasure, or transmission under the GDPR."
+    }
+  ]
+}

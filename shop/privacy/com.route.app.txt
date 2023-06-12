@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Name and contact information",
+      "optional": false,
+      "purpose": "Shipping Protection, Package Tracking",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Engage, Extend Lifetime Value",
+      "type": "App activity"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Sustainable Shipping, Carbon Neutral",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name, contact information, and other personal details",
+      "optional": false,
+      "purpose": "Activation of shipping protection services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information received from merchant-customers and business partners",
+      "optional": false,
+      "purpose": "Communicate and satisfy contractual obligations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Automatically collected personal information",
+      "optional": false,
+      "purpose": "Compile reports, see user access, and send materials",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Enterprise-wide security and privacy program",
+      "description": "Technical, organizational, administrative, and other security measures to protect personal information"
+    },
+    {
+      "practice": "Opt-out for marketing materials",
+      "description": "Ability for customers to opt out of receiving marketing materials"
+    },
+    {
+      "practice": "Access, amendment, and deletion rights",
+      "description": "Customers have the right to access, amend, and delete their personal information"
+    },
+    {
+      "practice": "Data security program",
+      "description": "Technical, organizational, and administrative measures reasonably designed to protect privacy"
+    }
+  ]
+}

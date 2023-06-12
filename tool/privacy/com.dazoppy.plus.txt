@@ -1,0 +1,96 @@
+{
+  "sharedData": [
+    {
+      "data": "Nickname",
+      "optional": false,
+      "purpose": "Personalization, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Personalization, Communication, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Birth date",
+      "optional": false,
+      "purpose": "Personalization, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": false,
+      "purpose": "Personalization, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Session and Available Data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Login Data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Nickname",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "App functionality, Communication, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Birth date",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Session and Available Data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Login Data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is protected with effective measures",
+      "description": "Dazoppy has taken sufficient security measures to protect user information."
+    }
+  ]
+}

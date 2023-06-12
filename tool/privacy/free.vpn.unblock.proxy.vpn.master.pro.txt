@@ -1,0 +1,34 @@
+{
+  "sharedData": [
+    {
+      "data": "Account information (e.g. name, email, phone number)",
+      "optional": false,
+      "purpose": "Administering subscriptions and providing VPN services",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Apps and app versions activated",
+      "optional": false,
+      "purpose": "Maintaining quality of service",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash reports",
+      "optional": true,
+      "purpose": "Improving VPN services",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Minimal usage statistics collected",
+      "description": "Only necessary usage data is collected to maintain quality of service"
+    },
+    {
+      "practice": "Best-in-class physical, procedural and technical security",
+      "description": "Measures implemented to prevent loss, misuse, unauthorized access, disclosure, or modification of information"
+    }
+  ]
+}

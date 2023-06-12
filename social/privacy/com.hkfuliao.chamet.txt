@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Mobile phone number or email address",
+      "optional": false,
+      "purpose": "Registration, App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "City location, gender, name",
+      "optional": false,
+      "purpose": "Registration, App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Matches, match durations, text messages, usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views, network type and traffic",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Error-reporting information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Mobile phone number or email address",
+      "optional": false,
+      "purpose": "Registration, App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "City location, gender, name",
+      "optional": false,
+      "purpose": "Registration, App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Matches, match durations, text messages, usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views, network type and traffic",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Error-reporting information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "User content (including information from cookies, log files, device identifiers, location data, usage data)",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ]
+}

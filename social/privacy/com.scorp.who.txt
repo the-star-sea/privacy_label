@@ -1,0 +1,72 @@
+{
+ "sharedData": [
+  {
+   "data": "Contact information from address book on devices",
+   "optional": true,
+   "purpose": "Service usage",
+   "type": "Contact information"
+  },
+  {
+   "data": "Facebook ID and corresponding token",
+   "optional": true,
+   "purpose": "Service usage",
+   "type": "Social media account data"
+  },
+  {
+   "data": "Payment information",
+   "optional": false,
+   "purpose": "Commerce transactions",
+   "type": "Financial information"
+  },
+  {
+   "data": "Error-reporting information",
+   "optional": false,
+   "purpose": "Service improvement",
+   "type": "Technical data"
+  },
+  {
+   "data": "Profile data",
+   "optional": false,
+   "purpose": "Service usage",
+   "type": "Profile information"
+  },
+  {
+   "data": "Information shared in text messages, photos, videos",
+   "optional": false,
+   "purpose": "Service usage",
+   "type": "User-generated content"
+  }
+ ],
+ "collectedData": [
+  {
+   "data": "Website usage information",
+   "optional": false,
+   "purpose": "Service usage, Analytics",
+   "type": "Usage data"
+  },
+  {
+   "data": "Third-party products/services information",
+   "optional": false,
+   "purpose": "Service usage",
+   "type": "External data"
+  }
+ ],
+ "securityPractices": [
+  {
+   "practice": "Protection of information",
+   "description": "We aim to protect the information under our control against loss, misuse or alteration. However, due to the nature of the internet and related technology, we cannot guarantee complete protection."
+  },
+  {
+   "practice": "Data transfer outside of country",
+   "description": "We reserve the right to transfer information outside of your country."
+  },
+  {
+   "practice": "Notice of policy changes",
+   "description": "We will notify you of any material changes to this policy by publishing a revised Privacy Policy or providing a notice on our website."
+  },
+  {
+   "practice": "Age limitations",
+   "description": "The Service is not directed to children under the age of eighteen (18) and we do not knowingly collect personally identifiable information from children under the age of eighteen as part of the Service."
+  }
+ ]
+}

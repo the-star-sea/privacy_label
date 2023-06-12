@@ -1,0 +1,98 @@
+{
+  "sharedData": [
+    {
+      "data": "Wireless device location",
+      "optional": false,
+      "purpose": "Service provision, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Aggregate customer behavior",
+      "optional": false,
+      "purpose": "Service provision, Analytics, Advertising or marketing",
+      "type": "Behavioral data"
+    },
+    {
+      "data": "Non-personally identifiable information",
+      "optional": false,
+      "purpose": "Service provision, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "General information"
+    },
+    {
+      "data": "De-identified customer information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "General information"
+    },
+    {
+      "data": "Device information",
+      "optional": true,
+      "purpose": "Service provision, Analytics, Advertising or marketing, Personalization",
+      "type": "Device info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Information of those interacting with Verizon",
+      "optional": false,
+      "purpose": "Service provision, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Account information",
+      "optional": false,
+      "purpose": "Service provision, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Account info"
+    },
+    {
+      "data": "Customer-premises equipment information",
+      "optional": true,
+      "purpose": "Service provision, Analytics, Advertising or marketing, Personalization",
+      "type": "Device info"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Service provision, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Service provision, Analytics, Advertising or marketing, Personalization",
+      "type": "Usage info"
+    },
+    {
+      "data": "Browsing history and app usage",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Email communications",
+      "optional": false,
+      "purpose": "Service provision, Analytics, Advertising or marketing, Personalization",
+      "type": "Communication info"
+    },
+    {
+      "data": "Device information",
+      "optional": true,
+      "purpose": "Service provision, Analytics, Advertising or marketing, Personalization",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Safeguards are in place to protect data",
+      "description": "Verizon has implemented various safeguards to help protect user data against unauthorized access, use or disclosure"
+    },
+    {
+      "practice": "Privacy policy is periodically updated",
+      "description": "Verizon periodically updates its privacy policy to reflect changes in data practices and usage"
+    }
+  ]
+}

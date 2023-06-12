@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal Information: name, email address, content and time of messages",
+      "optional": false,
+      "purpose": "Engagement, Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Network traffic transmitted through VPN",
+      "optional": false,
+      "purpose": "VPN service",
+      "type": "Network traffic"
+    },
+    {
+      "data": "Device-specific information: model, operating system and version number; Per-installation identifier; Coarse geographic location information inferred from IP address; Crash-related information: date and time of crash and crash traces",
+      "optional": false,
+      "purpose": "App crashes detection",
+      "type": "Device info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Apps and websites visited",
+      "optional": false,
+      "purpose": "Usage analytics",
+      "type": "App and web activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Security of VPN service",
+      "description": "Network traffic transmitted through VPN is encrypted and processed by the service"
+    },
+    {
+      "practice": "Discretion in sharing information",
+      "description": "Personal Information and other collected data are only disclosed when required by law or with the user's consent"
+    },
+    {
+      "practice": "Data retention policy",
+      "description": "Personal Information is deleted when it is no longer necessary and anonymized if still needed"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "sharedData": [
+    {
+      "data": "Screen name",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Public account data"
+    },
+    {
+      "data": "Profile pictures",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Public account data"
+    },
+    {
+      "data": "Username",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Public account data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Authentication",
+      "type": "Contact info"
+    },
+    {
+      "data": "End-to-end encrypted messages",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Web service functionality",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Cloud chat history",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Payment and shipping information",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Financial info, Contact info"
+    },
+    {
+      "data": "User reports of abuse and violations",
+      "optional": false,
+      "purpose": "Abuse prevention",
+      "type": "App activity"
+    },
+    {
+      "data": "Rating based on frequent messaging",
+      "optional": false,
+      "purpose": "Abuse prevention",
+      "type": "App activity"
+    },
+    {
+      "data": "Public account data for automated user (bot)",
+      "optional": false,
+      "purpose": "Bot functionality",
+      "type": "Public account data"
+    },
+    {
+      "data": "Audio data of voice and video messages for translation",
+      "optional": false,
+      "purpose": "Translation functionality",
+      "type": "Media"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "End-to-end encryption for messages",
+      "description": "Messages are encrypted with a key known only to the sender and recipient"
+    },
+    {
+      "practice": "Deletion of account and associated data after 6 months of inactivity",
+      "description": "Accounts and data are automatically deleted if user has not been active for 6 months"
+    },
+    {
+      "practice": "User control over data usage through settings",
+      "description": "Users can control how their data is used through the app settings"
+    },
+    {
+      "practice": "Optional sharing of personal information",
+      "description": "Users can choose whether or not to share their email address and other personal information"
+    }
+  ]
+}

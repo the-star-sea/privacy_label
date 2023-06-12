@@ -1,0 +1,24 @@
+{
+  "sharedData": [
+    {
+      "data": "Traffic Data",
+      "optional": false,
+      "purpose": "Site functionality, Analytics",
+      "type": "Site activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Site functionality, Marketing and Advertising, Analytics, Compliance with legal process",
+      "type": "Personal Information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Security measures are in place to protect Personal Information",
+      "description": "Best efforts are made to ensure security, integrity, and confidentiality of Personal Information"
+    }
+  ]
+}

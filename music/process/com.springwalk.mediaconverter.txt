@@ -1,0 +1,16 @@
+Springwalk, Inc.
+Menu
+Home
+Video MP3 Converter
+LingoTube
+Privacy Policy
+Our applications does not collect any personal information, but shares location data and device identifier with third parties to power tailored ads and improve wireless network performance. You can see their privacy policy if you click. AdMob
+Smaato
+PubNative
+OpenSignal
+Huq
+Outlogic
+We collect the following information: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale. In addition to helping us to measure the usage of our app this information is shared with Huq for their business purposes, which consist of the creation of anonymised reports, market research and trend analyses. Data shared with Huq does not contain information from which users can be identified by name and we will not provide additional information that enables Huq to identify you. You can find a full description of Huq and what it and its partners do with the information collected via our app here as well as details on how to request more information on the use of your data and your rights for editing or removing your data.i
+ Springwalk, Inc. 2019. Based on Start Bootstrap
+Privacy
+Contact Us

@@ -1,0 +1,146 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Participation in Club Cooee",
+      "type": "Personal info"
+    },
+    {
+      "data": "Gender",
+      "optional": false,
+      "purpose": "Participation in Club Cooee",
+      "type": "Personal info"
+    },
+    {
+      "data": "Age",
+      "optional": false,
+      "purpose": "Participation in Club Cooee",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Payer information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Amount",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Payment method",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Exchange rates",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Country of origin",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Location"
+    },
+    {
+      "data": "IP addresses",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security and compliance",
+      "type": "Location"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security and compliance",
+      "type": "Location"
+    },
+    {
+      "data": "Pixel events",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Login frequency",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Duration of stay on the platform",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Frequency of return",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Usage behavior",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Payment behavior",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Purchasing behavior",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Anonymized statistical data",
+      "optional": false,
+      "purpose": "Analytics, Advertising, Market research",
+      "type": "Analytics"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Identification of malicious behavior",
+      "description": "The company employs measures to detect and identify malicious behavior on the platform"
+    },
+    {
+      "practice": "Anti-spam measures",
+      "description": "The company employs measures to prevent and detect spam on the platform"
+    },
+    {
+      "practice": "Detection and verification of payment fraud",
+      "description": "The company employs measures to detect and verify payment fraud on the platform"
+    },
+    {
+      "practice": "Sanctioning, blocking and deletion of the user accounts concerned",
+      "description": "The company has the right to sanction, block, and delete user accounts that violate the terms of service and/or privacy policy"
+    },
+    {
+      "practice": "Deletion of data after legal and earmarked deadlines",
+      "description": "The company will delete user data after legal deadlines and earmarked deadlines to clarify possible misuse of accounts"
+    },
+    {
+      "practice": "User consent to data processing",
+      "description": "The company obtains user consent for the processing of personal data"
+    }
+  ]
+}

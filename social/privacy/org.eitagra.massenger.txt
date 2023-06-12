@@ -1,0 +1,54 @@
+{
+  "sharedData": [
+    {
+      "data": "Screen name, profile pictures, and username (if set)",
+      "optional": false,
+      "purpose": "Identification and recognition by contacts and others",
+      "type": "Public information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Authentication code delivery to log in to account",
+      "type": "Contact info"
+    },
+    {
+      "data": "Cloud chat history, including messages, media, and files",
+      "optional": false,
+      "purpose": "Delivering chat history to chosen devices",
+      "type": "Communication content"
+    },
+    {
+      "data": "Screen name, username, and profile pictures (for bot automated users)",
+      "optional": false,
+      "purpose": "Functional purposes of bots",
+      "type": "Public information"
+    },
+    {
+    	"data": "Voice and video messages (if opted by user) for voice-to-text conversion",
+    	"optional": false,
+    	"purpose": "Voice-to-text conversion",
+    	"type": "Audio-visual content"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "End-to-end encryption for messages in Secret Chats",
+      "description": "No one without direct access to the device can access message content"
+    },
+    {
+      "practice": "Moderation for reported messages to prevent phishing, spam, and abuse",
+      "description": "Messages are checked by moderators"
+    },
+    {
+      "practice": "Default account self-destruction if inactive for 6 consecutive months",
+      "description": "Account is deleted along with all data"
+    },
+    {
+      "practice": "User control over data usage",
+      "description": "Settings available to control how data is used"
+    }
+  ]
+}

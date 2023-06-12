@@ -1,0 +1,28 @@
+{
+  "sharedData": [
+    {
+      "data": "Android Advertising ID",
+      "optional": false,
+      "purpose": "Advertising and analytics",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "None",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "N/A"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Material changes to privacy policy are posted in advance",
+      "description": "If there are material changes to the way personal information is collected or used, users are notified 30 days prior to taking effect"
+    }
+  ]
+}

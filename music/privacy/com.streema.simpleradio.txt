@@ -1,0 +1,114 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device identifier",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "User settings",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Settings"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Mobile carrier",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "Mobile carrier"
+    },
+    {
+      "data": "Operating system",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "Operating system"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personally Identifiable Information",
+      "optional": false,
+      "purpose": "Streema services, marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Anonymous individual and aggregate data",
+      "optional": false,
+      "purpose": "Research and analysis",
+      "type": "Anonymous data"
+    },
+    {
+      "data": "Device identifier",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Mobile carrier",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "Mobile carrier"
+    },
+    {
+      "data": "Operating system",
+      "optional": false,
+      "purpose": "Analytics, App functionality",
+      "type": "Operating system"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Assessing the performance of the Streema Service",
+      "type": "Cookies"
+    },
+    {
+      "data": "Web beacons",
+      "optional": false,
+      "purpose": "Assessing the performance of the Streema Service",
+      "type": "Web beacons"
+    },
+    {
+      "data": "Third-party payment processing information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Payment info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption of sensitive data",
+      "description": "Streema encrypts sensitive data when transmitting it over the internet."
+    },
+    {
+      "practice": "International data transfers",
+      "description": "Streema may transfer personal data outside of your country of residence."
+    },
+    {
+      "practice": "Opt-out feature",
+      "description": "You may opt-out of the use of your personally identifiable information for marketing purposes."
+    },
+    {
+      "practice": "Cookie-based opt-outs",
+      "description": "Opt-out must be performed on each device and browser."
+    }
+  ]
+}

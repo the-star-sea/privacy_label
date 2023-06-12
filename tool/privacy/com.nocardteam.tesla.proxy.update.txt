@@ -1,0 +1,27 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Device information (excluding device ID)",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Logs",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Employment of administrative, physical and electronic measures to protect Non-Personal Information",
+      "description": "The developer employs measures designed to protect non-personal information from unauthorized access and use"
+    },
+    {
+      "practice": "No sensitive information collection",
+      "description": "The developer does not collect sensitive personal information"
+    }
+  ]
+}

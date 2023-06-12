@@ -1,0 +1,55 @@
+{
+  "sharedData": [
+    {
+      "data": "Account information (user ID, email address, password, and other information for account verification)",
+      "optional": false,
+      "purpose": "Account management, Customer service, Direct marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact information (name, alias, email address, shipping address, billing address, contact list, and phone number)",
+      "optional": false,
+      "purpose": "Account management, Customer service, Direct marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment information (bank account, credit card, and debit card numbers)",
+      "optional": false,
+      "purpose": "Payment processing, Fraud prevention",
+      "type": "Financial info"
+    },
+    {
+      "data": "Device-related information (model and serial number)",
+      "optional": false,
+      "purpose": "Technical support, Fraud prevention",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "Personalization, Fraud prevention, Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Photos, videos, and text content uploaded to DJI Products and Services",
+      "optional": false,
+      "purpose": "Product features and services",
+      "type": "Content"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is protected by security measures",
+      "description": "DJI has implemented physical, technical, and administrative safeguards to protect your data"
+    },
+    {
+      "practice": "Users can request that data be deleted or corrected",
+      "description": "Users may submit a request to have their data deleted or corrected"
+    }
+  ]
+}

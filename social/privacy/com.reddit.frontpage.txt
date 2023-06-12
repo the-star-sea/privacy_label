@@ -1,0 +1,72 @@
+{
+  "sharedData": [
+    {
+      "data": "Username",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Transactional information (e.g. purchases of products/services)",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Content shared on the platform (text, links, images, gifs, audio and videos)",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "User generated content"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Log and usage data, cookie information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "IP address"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is encrypted at rest",
+      "description": "Your data is securely stored on Reddit's servers"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "You can delete your account information at any time from the user preferences page"
+    },
+    {
+      "practice": "Compliance with data protection standards",
+      "description": "Reddit complies with data protection laws, such as the CCPA and GDPR"
+    }
+  ]
+}

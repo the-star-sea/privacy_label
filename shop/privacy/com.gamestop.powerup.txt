@@ -1,0 +1,80 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Customer service, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact information (including email address and phone number)",
+      "optional": false,
+      "purpose": "Customer service, Marketing and advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Customer service, Marketing and advertising",
+      "type": "Financial info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "Personalization, Marketing and advertising",
+      "type": "Location"
+    },
+    {
+      "data": "Device information (including cookies and similar technologies)",
+      "optional": false,
+      "purpose": "Personalization, Marketing and advertising",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Personalization, Marketing and advertising",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Information from publicly available sources, identity verification services, AML, sanctions screening services, and data providers",
+      "optional": false,
+      "purpose": "Fraud prevention and investigations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mouse movements, clicks, user inputs, scrolling, access times, visit duration, pages viewed, IP address (including approximate location), operating system, and page reloading",
+      "optional": false,
+      "purpose": "Personalization, Marketing and advertising, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Sensitive information required by legal and regulatory requirements",
+      "optional": false,
+      "purpose": "Compliance with legal and regulatory requirements",
+      "type": "Sensitive info"
+    },
+    {
+      "data": "Identifying information, connection or usage data, cookie or device information, browser or device fingerprints, IP or approximate geolocation information, commercial information, browsing history, and inferences drawn from this data",
+      "optional": false,
+      "purpose": "Sharing with third-party providers for data analytics and advertising networks",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "All data is transferred and stored securely using encryption"
+    },
+    {
+      "practice": "You have the right to opt out of the sale and sharing of personal information",
+      "description": "You may opt out of the sale and sharing of your personal information for targeted advertising"
+    },
+    {
+      "practice": "Children's personal information is not knowingly collected or shared",
+      "description": "GameStop does not knowingly collect or share the personal information of children under the age of 13"
+    }
+  ]
+}

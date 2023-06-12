@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Product and Service Fulfillment, Fraud Prevention, Security and Compliance, Offer of additional products or services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Operational emails",
+      "optional": false,
+      "purpose": "Product and Service Fulfillment",
+      "type": "Emails"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Website Optimization",
+      "type": "Cookies"
+    },
+    {
+      "data": "Video Camera footage",
+      "optional": false,
+      "purpose": "Security",
+      "type": "Video footage"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Product and Service Fulfillment, Fraud Prevention, Security and Compliance, Offer of additional products or services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information from other sources",
+      "optional": false,
+      "purpose": "Product and Service Fulfillment",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data shared with Google Analytics and Adobe Analytics",
+      "optional": false,
+      "purpose": "Website Optimization",
+      "type": "Analytics data"
+    },
+    {
+      "data": "Childs photo",
+      "optional": false,
+      "purpose": "Marketing, Santaland experience",
+      "type": "Photos"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Procedural, technical, and administrative safeguards",
+      "description": "Macy's, macys.com, Macys Backstage, and Market by Macys have implemented safeguards to safeguard the information we collect and use"
+    },
+    {
+      "practice": "Verification of requests and/or identity",
+      "description": "Macy's reserves the right to require customers to confirm their requests and/or identity"
+    }
+  ]
+}

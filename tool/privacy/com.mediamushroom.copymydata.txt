@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Content of the user (Camera, facial recognition, gallery, SMS)",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data regarding health and exercise",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Sensitive info"
+    },
+    {
+      "data": "Precise location of the user",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Content of the user (Camera, facial recognition, gallery, SMS)",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data regarding health and exercise",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Sensitive info"
+    },
+    {
+      "data": "Precise location of the user",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Compliance with GDPR and LOPDGDD regulations",
+      "description": "All personal data is processed lawfully, fairly, and transparently"
+    },
+    {
+      "practice": "Appropriate and limited data processing",
+      "description": "Data is relevant, appropriate, and limited to the purposes for which it is processed"
+    },
+    {
+      "practice": "Obtaining express consent for non-essential cookies",
+      "description": "User consent is obtained before installing non-essential cookies"
+    },
+    {
+      "practice": "The right to file a claim with the Spanish Supervisory Authority if processing is not compliant with legislation",
+      "description": "Users have the right to file a complaint with the Spanish Supervisory Authority if they believe processing is not compliant with current legislation"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sharedData": [],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "No user information is collected",
+      "description": "To protect users' privacy, the application does not collect any user information and only uses trusted big platforms Google Play, Google Firebase, AppMetrica - Yandex, and Facebook SDKs to get and analyze data."
+    },
+    {
+      "practice": "Follows privacy policies in all countries and territories",
+      "description": "The application follows privacy policies in all countries and territories, including European data protection laws (GDPR), California Consumer Privacy Act (CCPA), Brazilian Lei Geral de Proteo de Dados (LGPD), and so on."
+    },
+    {
+      "practice": "Provides access to personal information and withdrawal of consent",
+      "description": "Users can access or request deletion of their personal information. If personal information has been collected and processed with the user's consent, they can withdraw their consent at any time."
+    },
+    {
+      "practice": "Notifies Google to process user requests",
+      "description": "If users make requests such as not to collect their personal data again, to delete their personal data, and so on, the application will notify Google to process those requests according to their policy. Users can refer to the links provided for requesting to process their requests directly by Google."
+    },
+    {
+      "practice": "Subscription policy",
+      "description": "Users do not need to pay any access fee to use the Services unless they want to pay the Premium Fee for permission to use the premium subscription In-App features. Users may cancel their monthly subscription at any time subject to the terms of cancelation Google Play policy. If any payment is disputed or charged back or any fraudulent activity is detected, the associated Account(s) or access through the associated Account(s) may be suspended, terminated, or other actions may be taken in the application's sole discretion."
+    }
+  ]
+}

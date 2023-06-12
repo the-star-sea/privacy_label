@@ -1,0 +1,66 @@
+{
+  "sharedData": [
+    {
+      "data": "Login credentials",
+      "optional": false,
+      "purpose": "App functionality, account management",
+      "type": "Credentials"
+    },
+    {
+      "data": "Some user account settings",
+      "optional": false,
+      "purpose": "App functionality, account management",
+      "type": "User settings"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Advertising data",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Advertising data"
+    },
+    {
+      "data": "Infrastructure monitoring data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Infrastructure data"
+    },
+    {
+      "data": "Contact information",
+      "optional": true,
+      "purpose": "Managing contacts and sending messages",
+      "type": "Contact info"
+    },
+    {
+      "data": "Internet information",
+      "optional": false,
+      "purpose": "Advertising and analytics",
+      "type": "Internet info"
+    },
+    {
+      "data": "Geolocation data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "User login credentials are transmitted over a secure connection"
+    },
+    {
+      "practice": "OAuth tokens are encrypted and stored securely",
+      "description": "A secure OAuth token is encrypted and stored on the device, using the Android system Account Manager"
+    },
+    {
+      "practice": "Users can opt-out of interest-based advertising",
+      "description": "Users can follow the instructions provided by YourOnlineChoices (EU), the Network Advertising Initiative (US), the Digital Advertising Alliance (US), DAAC (Canada), DDAI (Japan) or other similar initiatives"
+    },
+    {
+      "practice": "Users can request to opt-out of sale or sharing of their personal information",
+      "description": "Users have the right to opt out of the sale or sharing of their personal information by making a verifiable request"
+    }
+  ]
+}

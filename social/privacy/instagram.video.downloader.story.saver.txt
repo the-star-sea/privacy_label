@@ -1,0 +1,38 @@
+{
+  "sharedData": [
+    {
+      "data": "User Data for advertising communication purposes",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "User Data for advertising communication purposes",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Hosting and backend infrastructure data",
+      "optional": false,
+      "purpose": "Infrastructure and app functionality",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Users have the right to withdraw consent and request information about their personal data",
+      "description": "Users can request information about their personal data and withdraw consent where previously given"
+    },
+    {
+      "practice": "Users have the right to request the deletion of their personal data",
+      "description": "Users can request the deletion of their personal data"
+    }
+  ]
+}

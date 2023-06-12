@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact details",
+      "optional": false,
+      "purpose": "Product and device optimization, legal compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device and service data",
+      "optional": false,
+      "purpose": "Product and device optimization, legal compliance",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Product and device data",
+      "optional": false,
+      "purpose": "Product and device optimization, legal compliance",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Billing data",
+      "optional": true,
+      "purpose": "Personalized discounts",
+      "type": "Financial info"
+    },
+    {
+      "data": "Account data",
+      "optional": true,
+      "purpose": "Personalized discounts",
+      "type": "Personal info"
+    },
+    {
+      "data": "Service data",
+      "optional": true,
+      "purpose": "Personalized discounts",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Advertising data",
+      "optional": true,
+      "purpose": "Personalized discounts",
+      "type": "Personal info"
+    },
+    {
+      "data": "Billing data",
+      "optional": true,
+      "purpose": "Subscription renewal",
+      "type": "Financial info"
+    },
+    {
+      "data": "Product data",
+      "optional": true,
+      "purpose": "Product functionality",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "Data is encrypted in transit and stored using security measures"
+    },
+    {
+      "practice": "Data deletion",
+      "description": "Data is deleted according to rolling deletion periods"
+    }
+  ]
+}

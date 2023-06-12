@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Account data",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "App activity data",
+      "optional": false,
+      "purpose": "VPN service optimization, user-support",
+      "type": "App activity"
+    },
+    {
+      "data": "Third party cookies",
+      "optional": false,
+      "purpose": "Website functionality",
+      "type": "Cookies"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Account data",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "App activity data",
+      "optional": false,
+      "purpose": "VPN service optimization, user-support",
+      "type": "App activity"
+    },
+    {
+      "data": "Third party cookies",
+      "optional": false,
+      "purpose": "Website functionality",
+      "type": "Cookies"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Authorization required to access data",
+      "description": "Only authorized employees have access to user data"
+    },
+    {
+      "practice": "Data is encrypted in storage",
+      "description": "User data is stored in an encrypted format"
+    },
+    {
+      "practice": "Data is not shared for commercial purposes",
+      "description": "User data is not sold or traded for commercial purposes"
+    }
+  ]
+}

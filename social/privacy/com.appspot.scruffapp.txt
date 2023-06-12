@@ -1,0 +1,80 @@
+{
+  "sharedData": [
+    {
+      "data": "Geographic location",
+      "optional": false,
+      "purpose": "Service personalization, Advertising or marketing, Service development, Disclosure to service providers and other parties",
+      "type": "Location"
+    },
+    {
+      "data": "Profile information",
+      "optional": false,
+      "purpose": "Communication, Service personalization, Advertising or marketing, Disclosure to service providers and other parties",
+      "type": "Personal info"
+    },
+    {
+      "data": "Interests and preferences",
+      "optional": false,
+      "purpose": "Service personalization, Advertising or marketing, Service development, Disclosure to service providers and other parties",
+      "type": "App activity"
+    },
+    {
+      "data": "Activity and usage data",
+      "optional": false,
+      "purpose": "Service personalization, Service development, Disclosure to service providers and other parties",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Geographic location",
+      "optional": false,
+      "purpose": "Service personalization, Advertising or marketing, Service development, Disclosure to service providers and other parties",
+      "type": "Location"
+    },
+    {
+      "data": "Profile information",
+      "optional": false,
+      "purpose": "Communication, Service personalization, Advertising or marketing, Disclosure to service providers and other parties",
+      "type": "Personal info"
+    },
+    {
+      "data": "Interests and preferences",
+      "optional": false,
+      "purpose": "Service personalization, Advertising or marketing, Service development, Disclosure to service providers and other parties",
+      "type": "App activity"
+    },
+    {
+      "data": "Activity and usage data",
+      "optional": false,
+      "purpose": "Service personalization, Service development, Disclosure to service providers and other parties",
+      "type": "App activity"
+    },
+    {
+      "data": "Ad identifiers",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Other IDs"
+    },
+    {
+      "data": "Analytics data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Other info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn't encrypted",
+      "description": "Your data isn't transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Children's data is not knowingly collected",
+      "description": "The developer does not knowingly collect personal information from individuals under age 18"
+    }
+  ]
+}

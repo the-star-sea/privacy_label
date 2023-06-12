@@ -1,0 +1,28 @@
+{
+  "sharedData": [
+    {
+      "data": "Access logs (such as IP address, browser type, operating system)",
+      "optional": false,
+      "purpose": "App functionality, Security",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Access logs (such as IP address, browser type, operating system)",
+      "optional": false,
+      "purpose": "App functionality, Security",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data security measures are in place",
+      "description": "The developer takes reasonable steps to secure user data"
+    },
+    {
+      "practice": "Personal data is processed only as much as necessary",
+      "description": "The developer only processes personal data as necessary"
+    }
+  ]
+}

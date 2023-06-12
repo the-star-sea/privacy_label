@@ -1,0 +1,113 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "date and time of access",
+      "optional": false,
+      "purpose": "Technical reasons",
+      "type": "Usage data"
+    },
+    {
+      "data": "browser type/version",
+      "optional": false,
+      "purpose": "Technical reasons",
+      "type": "Usage data"
+    },
+    {
+      "data": "operating system used",
+      "optional": false,
+      "purpose": "Technical reasons",
+      "type": "Usage data"
+    },
+    {
+      "data": "URL of the previously visited website",
+      "optional": false,
+      "purpose": "Technical reasons",
+      "type": "Usage data"
+    },
+    {
+      "data": "IP address (truncated by one octet)",
+      "optional": false,
+      "purpose": "Technical reasons",
+      "type": "Usage data"
+    },
+    {
+      "data": "Personal data transmitted in support requests",
+      "optional": false,
+      "purpose": "Responding to support requests",
+      "type": "Contact details, Usage data"
+    },
+    {
+      "data": "Cookies from Firebase",
+      "optional": false,
+      "purpose": "Authentication",
+      "type": "Cookies"
+    },
+    {
+      "data": "Cookie from Google Ads for measuring success of ads",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Cookies"
+    },
+    {
+      "data": "Two cookies from Google Analytics for statistical evaluation and improvement of the website",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Cookies"
+    },
+    {
+      "data": "Cookie to record confirmation of cookie notice",
+      "optional": false,
+      "purpose": "Functionality",
+      "type": "Cookies"
+    },
+    {
+      "data": "Cookie to determine loading of non-standard Authenticator",
+      "optional": false,
+      "purpose": "Functionality",
+      "type": "Cookies"
+    },
+    {
+      "data": "Personal data for the investigation of illegal use of services or for prosecution",
+      "optional": false,
+      "purpose": "Fighting abuse, prosecuting criminal offences, securing, asserting and enforcing claims",
+      "type": "Contact details, Usage data"
+    },
+    {
+      "data": "Personal data for transfer to OLYMPIC s.r.o. (Data Processor)",
+      "optional": false,
+      "purpose": "Data processing",
+      "type": "Contact details, Usage data"
+    },
+    {
+      "data": "Personal data for transfer to Google LLC (Data Processor)",
+      "optional": false,
+      "purpose": "Data processing",
+      "type": "Contact details, Usage data"
+    },
+    {
+      "data": "Personal data for business structure changes",
+      "optional": false,
+      "purpose": "Corporate transactions",
+      "type": "Contact details, Usage data"
+    },
+    {
+      "data": "Email address for VPN Products registration",
+      "optional": false,
+      "purpose": "Authentication",
+      "type": "Contact details"
+    },
+    {
+      "data": "GuestID for unique user identification in VPN Products",
+      "optional": false,
+      "purpose": "Usage analysis",
+      "type": "Usage data"
+    },
+    {
+      "data": "Device name/device ID, operating system and its version, browser type, language of device, time zone, app usage (including app version, activation date, and update installation date), IP address, geographic location for VPN Products",
+      "optional": false,
+      "purpose": "VPN service",
+      "type": "Usage data"
+    }
+  ],
+  "securityPractices":

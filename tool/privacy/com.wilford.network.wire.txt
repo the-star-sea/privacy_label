@@ -1,0 +1,37 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment data",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Limited technical information",
+      "optional": false,
+      "purpose": "Improving functionality and usability of website and VPN services",
+      "type": "Technical info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Strict no-logs policy",
+      "description": "Activities using Wire VPN Services are not monitored, recorded, logged, stored or passed to any third party"
+    },
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Personal data protection rights",
+      "description": "You have the right to access and modify personal data, object to certain processing, and request data erasure or restriction"
+    }
+  ]
+}

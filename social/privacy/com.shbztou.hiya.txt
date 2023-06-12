@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Facial Information",
+      "optional": false,
+      "purpose": "App functionality, Augmented reality or beautification, User experience improvement",
+      "type": "Biometric data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Phone numbers, Emails",
+      "optional": false,
+      "purpose": "Account creation, Communication",
+      "type": "Contact"
+    },
+    {
+      "data": "Shared information",
+      "optional": false,
+      "purpose": "Service provision, Communication",
+      "type": "Contact"
+    },
+    {
+      "data": "Cookies, Web beacons, Pixel tags",
+      "optional": false,
+      "purpose": "Website functionality, Personalization",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Personal identifiable information",
+      "optional": false,
+      "purpose": "Advertising and analysis",
+      "type": "Contact"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Reasonable and feasible security protection measures",
+      "description": "Adopted common industry solutions to protect personal information and prevent unauthorized access, disclosure, use, modification, damage, or loss"
+    },
+    {
+      "practice": "Notifying subjects who obtained personal information from Hiyala",
+      "description": "Notifying them to delete personal information in a timely manner when responding to deletion requests except legal obligations"
+    }
+  ]
+}

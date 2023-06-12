@@ -1,0 +1,35 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information (including name, address, email address, payment information)",
+      "optional": false,
+      "purpose": "Order processing, delivery of products and services, communication about orders and promotional offers, customization of Products and Services to individual interests, and promoting products or services",
+      "type": "Personal info and financial info"
+    },
+    {
+      "data": "Usage patterns, preferences, and search history",
+      "optional": false,
+      "purpose": "Estimating audience size and usage patterns, customizing Products and Services, speeding up searches, and promoting products or services",
+      "type": "App activity"
+    },
+    {
+      "data": "Performance of cooperating third-party sellers",
+      "optional": false,
+      "purpose": "Measuring the performance of cooperating third-party sellers",
+      "type": "App activity"
+    },
+    {
+      "data": "Connections between hardware devices and third-party services",
+      "optional": false,
+      "purpose": "Creating connections between hardware devices and third-party services",
+      "type": "App functionality"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Encryption and TLS technology implemented",
+      "description": "Implementation of measures to secure personal data from unauthorized access, use, alteration, and disclosure"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Membership and account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact information (such as phone number, email address, mailing address)",
+      "optional": false,
+      "purpose": "Membership and account management, Customer service, Marketing and advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Credit card information",
+      "optional": false,
+      "purpose": "Membership and account management, Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Market and product analytics, Marketing and advertising",
+      "type": "Financial info"
+    },
+    {
+      "data": "Browsing information (such as cookies, web beacons, and mobile device identifiers)",
+      "optional": false,
+      "purpose": "Website and mobile service usage analysis, Personalization",
+      "type": "Usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Patient health information",
+      "optional": false,
+      "purpose": "Health services operations",
+      "type": "Health data"
+    },
+    {
+      "data": "Financial information (such as credit score)",
+      "optional": false,
+      "purpose": "Financial services operations",
+      "type": "Financial info"
+    },
+    {
+      "data": "Mobile location information",
+      "optional": false,
+      "purpose": "Mobile service personalization, Geo-targeted marketing",
+      "type": "Location data"
+    },
+    {
+      "data": "Marketing preferences and opt-in/out status",
+      "optional": true,
+      "purpose": "Marketing and advertising",
+      "type": "Preferences and opt-in/out status"
+    },
+    {
+      "data": "State privacy rights",
+      "optional": true,
+      "purpose": "Privacy regulation compliance",
+      "type": "Legal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption of sensitive information",
+      "description": "Sensitive data is encrypted when transmitted over networks and while stored on servers."
+    },
+    {
+      "practice": "Security measures for physical and electronic data storage facilities",
+      "description": "Data storage facilities are equipped with security measures to prevent unauthorized access."
+    },
+    {
+      "practice": "Access control and authentication for employees and service providers",
+      "description": "Access to personal data is restricted to employees and service providers who need it to perform their duties, and they are required to use authentication methods to access it."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Application functionality",
+      "type": "Technical data"
+    },
+    {
+      "data": "Country and language",
+      "optional": false,
+      "purpose": "Application functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mobile number, IMEI, device ID, MAC address, manufacturer and model of device, screen resolution",
+      "optional": false,
+      "purpose": "Application functionality",
+      "type": "Technical data"
+    },
+    {
+      "data": "Access point information including SSID and BSSID",
+      "optional": false,
+      "purpose": "Application functionality",
+      "type": "Technical data"
+    },
+    {
+      "data": "Registration information",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal data for Internet access services",
+      "optional": false,
+      "purpose": "Application functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Anonymized data shared with third parties for industry analysis and statistics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Technical data"
+    },
+    {
+      "data": "Message sent to referred friend",
+      "optional": false,
+      "purpose": "Application functionality",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Appropriate technical and organizational security measures in place",
+      "description": "Security measures in place to protect against loss or unlawful processing of personal data"
+    },
+    {
+      "practice": "Encryption technology used for data protection",
+      "description": "Efforts made to encrypt user data for protection"
+    },
+    {
+      "practice": "No guarantee of impenetrable security",
+      "description": "Though measures have been taken to protect personal data, no security system is absolutely impenetrable"
+    }
+  ]
+}

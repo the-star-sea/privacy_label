@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Establishing a Rain account",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Establishing a Rain account",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment data",
+      "optional": false,
+      "purpose": "Collecting payments for Rain Services",
+      "type": "Financial info"
+    },
+    {
+      "data": "Server load information",
+      "optional": false,
+      "purpose": "Improving server performance",
+      "type": "Server performance"
+    },
+    {
+      "data": "Inquiries and communications with users",
+      "optional": false,
+      "purpose": "Providing customer support",
+      "type": "Communication"
+    },
+    {
+      "data": "Cookie data",
+      "optional": true,
+      "purpose": "Improving website user experience",
+      "type": "Cookies"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Strict no-logs policy",
+      "description": "Rain Services are not monitored, recorded, logged, stored, or passed to any third party"
+    },
+    {
+      "practice": "Encryption of user data",
+      "description": "From the moment a Rain user turns on the Rain software, their data becomes encrypted"
+    },
+    {
+      "practice": "Data processing based on performance of contract",
+      "description": "Personal data is processed for the purpose of providing Rain Services under the legal basis of performance of contract"
+    },
+    {
+      "practice": "Data protection rights",
+      "description": "Users have the right to request information about, correct, object to processing of, transmit, or erase their personal data"
+    }
+  ]
+}

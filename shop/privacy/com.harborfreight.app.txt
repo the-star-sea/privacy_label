@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Order processing, Assistance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Street address",
+      "optional": true,
+      "purpose": "Order processing, Assistance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Telephone number",
+      "optional": true,
+      "purpose": "Order processing, Assistance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Credit card information",
+      "optional": true,
+      "purpose": "Order processing, Assistance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Screen name",
+      "optional": true,
+      "purpose": "Order processing, Assistance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Order processing, Assistance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mobile telephone number",
+      "optional": true,
+      "purpose": "Text message alerts",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies",
+      "optional": true,
+      "purpose": "Tracking and recognition",
+      "type": "Tracking info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "General tracking information",
+      "optional": true,
+      "purpose": "Aggregate data sharing",
+      "type": "Tracking info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is not guaranteed to be 100% secure",
+      "description": "No data transmission over the Internet can be guaranteed to be 100% secure."
+    },
+    {
+      "practice": "Personal information access and verification",
+      "description": "Steps are taken to verify identity before granting access to personal information or complying with requests."
+    }
+  ]
+}

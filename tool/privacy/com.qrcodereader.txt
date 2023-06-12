@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "E-mail address",
+      "optional": false,
+      "purpose": "Customer support",
+      "type": "Personal Info"
+    },
+    {
+      "data": "IDFA",
+      "optional": false,
+      "purpose": "Advertising and marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "E-mail address",
+      "optional": false,
+      "purpose": "Customer support",
+      "type": "Personal Info"
+    },
+    {
+      "data": "Browsing data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App Activity"
+    },
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Compliance with laws and regulations",
+      "type": "Personal Info"
+    },
+    {
+      "data": "Legal information",
+      "optional": false,
+      "purpose": "Establishing, exercising or defending legal rights",
+      "type": "Legal Info"
+    },
+    {
+      "data": "IDFA",
+      "optional": false,
+      "purpose": "Advertising and marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Aggregated data",
+      "optional": false,
+      "purpose": "Internal reporting or reporting to group or third parties",
+      "type": "App Activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption of personal information",
+      "description": "E-mail address is encrypted for extra security"
+    },
+    {
+      "practice": "Strict security procedures",
+      "description": "Strict procedures and security features are in place to prevent unauthorized access"
+    }
+  ]
+}

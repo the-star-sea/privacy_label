@@ -1,0 +1,61 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account management, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Username and password",
+      "optional": false,
+      "purpose": "Account management, Security",
+      "type": "Login details"
+    },
+    {
+      "data": "Credit card information",
+      "optional": false,
+      "purpose": "Account management, Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Product recommendations, Personalization",
+      "type": "Financial info"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Analytics, Advertising, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Browsing and e-commerce information",
+      "optional": false,
+      "purpose": "Product recommendations, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your sensitive data is transferred over a secure connection"
+    },
+    {
+      "practice": "Personal information is stored securely",
+      "description": "Your personal and financial information is stored securely"
+    },
+    {
+      "practice": "Users can choose to opt-out of certain data collection practices",
+      "description": "You can choose to limit the data that Capital One Shopping collects about you"
+    }
+  ]
+}

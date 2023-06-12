@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Gender",
+      "optional": true,
+      "purpose": "Improvement of Service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Birthday",
+      "optional": true,
+      "purpose": "Improvement of Service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Technical and Behavioral Information",
+      "optional": false,
+      "purpose": "Improvement of Service",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Service Provision",
+      "type": "Personal info"
+    },
+    {
+      "data": "Technical and Behavioral Information",
+      "optional": false,
+      "purpose": "Improvement of Service",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Reasonable and appropriate security measures implemented",
+      "description": "HappyChat has implemented reasonable and appropriate security measures to protect and prevent the loss, misuse, and alteration of the information under our control, including your personal information."
+    },
+    {
+      "practice": "Inability to guarantee complete security",
+      "description": "No website or Internet transmission is completely secure, and HappyChat cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur."
+    }
+  ]
+}

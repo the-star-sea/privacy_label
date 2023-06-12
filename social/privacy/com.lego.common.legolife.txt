@@ -1,0 +1,96 @@
+{
+  "sharedData": [
+    {
+      "data": "Identity Data",
+      "optional": false,
+      "purpose": "Account management, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact Data",
+      "optional": false,
+      "purpose": "Account management, Customer service",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Identity Data",
+      "optional": false,
+      "purpose": "Account management, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact Data",
+      "optional": false,
+      "purpose": "Account management, Customer service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial Data",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Transaction Data",
+      "optional": false,
+      "purpose": "Order processing, Payment processing",
+      "type": "Transactional info"
+    },
+    {
+      "data": "Technical Data",
+      "optional": false,
+      "purpose": "Service optimization, Website analytics",
+      "type": "Technical info"
+    },
+    {
+      "data": "Device Data",
+      "optional": false,
+      "purpose": "Service optimization, Personalization",
+      "type": "Device info"
+    },
+    {
+      "data": "Marketing Data",
+      "optional": false,
+      "purpose": "Marketing and advertising",
+      "type": "Marketing info"
+    },
+    {
+      "data": "Location Data",
+      "optional": false,
+      "purpose": "Service optimization, Personalization",
+      "type": "Location info"
+    },
+    {
+      "data": "Online Behavior Data",
+      "optional": false,
+      "purpose": "Service optimization, Personalization, Website analytics",
+      "type": "Behavioral info"
+    },
+    {
+      "data": "Children's Data",
+      "optional": false,
+      "purpose": "Child safety, Parental consent",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is encrypted at rest",
+      "description": "Your data is stored securely using encryption techniques"
+    },
+    {
+      "practice": "Data access is limited",
+      "description": "Only authorized personnel have access to your data"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The LEGO Group provides a way for you to request that your data be deleted"
+    }
+  ]
+}

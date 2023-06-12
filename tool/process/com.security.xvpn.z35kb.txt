@@ -1,0 +1,39 @@
+Privacy Policy
+March 22 2023
+X-VPN is a global company and committed to protecting your privacy. By visiting or using the Service, you consent to the terms set forth in this Privacy Policy. To offer better clarity to you, let's start with three points:
+We do not log how you utilize VPN connection, which means we do not see the applications, service or websites you use personally while connected to our Service nor do we store them. Categories of Personal Data and Purposes
+Category
+Collected Data
+What Used for
+Data Collected On Client Type
+X-VPN CLIENT
+Account Data
+registration date, email address, subscription status
+Used for the setup and management of user accounts, and help us to ensure users have successfully subscribed. We may send users cancellation survey through this email when they cancel the subscription. iOS, Android, Windows, mac, Chrome
+App Activity Data
+connection timestamp, choice of protocol, network type, error report
+For troubleshooting and VPN service optimization. To help users to choose apps which do not use VPN tunnel when X-VPN is on. Linux and Raspberry Pi
+Account Data
+unique ID: Cmdkey
+Used for the setup and management of user accounts. DO NOT contain any private information for your security reason. Besides, App Activity Data will be kept for LESS THAN 48 HOURS for the purpose of user-support and then automatically erased from our system permanently after that period. Data Security
+We are committed to protecting our users' personal data as we have various technical and organizational measures in places to ensure, e.g. only our authorized employees have the access to the data. Google
+Third Party
+https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage
+_gcl_au
+90 days
+_gid
+1 day
+_gat_gtag_UA_106067058_1
+1 minute
+YOUTUBE
+(__Secure*
+2 years
+Set by YouTube on pages with embedded YouTube video. Please note that disables certain cookies may result in inaccessibility of our services on the websites. We do not log information from children under 18 intentionally as the Service is not direct to anyone under the age of 18. Rights of Access, Rectification, Deletion, and Restriction
+You have the right to inquire as to whether X-VPN is Processing Personal Data about you, request access to Personal Data including the categories of personal information we have collected about, and the categories of any of your personal information that we have disclosed for business purpose. We will send you a portable, readily-usable format (e.g. XML, or CSV,etc) within 45 days. How to Exercise the Right to Access, Rectification, Deletion, and Restriction
+Send an email to support@xvpn.io
+You can use the contact ways to request access to, receive, restrict, or request deletion or rectification of Personal Data held about you by X-VPN. If you have any questions about our privacy practices and this Privacy Policy, please contact X-VPN by email at support@xvpn.io. Your Rights
+As a Data Subject you have rights under the GDPR. This would apply if the personal data is no longer required for the purposes it was collected for, or your consent for the processing of that data has been withdrawn, or the personal data has been unlawfully processed. The right to restrict processing; this gives the Data Subject the right to ask for a temporary halt to processing of personal data, such as in the case where a dispute or legal case has to be concluded, or the data is being corrected. The right to data portability; a Data Subject has the right to ask for any data supplied directly to the Data Controller by him or her, to be provided in a structured, commonly used, and machine-readable format. The General Data Protection Regulation (GDPR) of the European Union (EU) requires us to outline those practices in a specific manner for users in the EU. For a legitimate interest associated with the operation of our business, including:
+Enhancing the quality, reliability, and effectiveness of our Site, Services, and Apps. Communicating with customers to provide information and seek feedback related to our Services and Apps. California Consumer Privacy Act
+Non-Discrimination
+We will not discriminate against you for exercising your CCPA rights. Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties. Provide you a different level or quality of goods or services. X-VPN will not sell or trade Personal Data for commercial purposes. Changes to the Privacy Policy
+We may need to change our Privacy Policy from time-to-time and all updates will be posted online, consistent with applicable privacy laws and principles.

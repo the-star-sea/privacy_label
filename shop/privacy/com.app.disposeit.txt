@@ -1,0 +1,92 @@
+{
+  "sharedData": [
+    {
+      "data": "E-mail address",
+      "optional": false,
+      "purpose": "Account creation and management, sending non-marketing communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mobile telephone number",
+      "optional": true,
+      "purpose": "Account creation and management, sending non-marketing communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Geographic location",
+      "optional": true,
+      "purpose": "Enhancing performance of services, personalizing content, measuring and monitoring interaction with third-party advertisements, analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Profile picture",
+      "optional": true,
+      "purpose": "Account creation and management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User ID",
+      "optional": false,
+      "purpose": "Account creation and management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Facebook or Google account details",
+      "optional": true,
+      "purpose": "Account creation and management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Driver's license or other government ID",
+      "optional": true,
+      "purpose": "Account creation and management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Any other information you choose to provide in connection with your account or posting",
+      "optional": true,
+      "purpose": "Account creation and management",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Actual location (depending on device permissions)",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Cookies or other tracking technologies",
+      "optional": false,
+      "purpose": "App functionality, measuring and monitoring interaction with third-party advertisements, analytics",
+      "type": "Usage data"
+    },
+    {
+      "data": "Information regarding use of other websites, apps, and online resources",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Usage data"
+    },
+    {
+      "data": "All communications through chat feature",
+      "optional": false,
+      "purpose": "Fraud prevention, safety promotion",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Verifiable consumer request for access and deletion",
+      "description": "We allow consumers to request access and deletion of their personal information"
+    },
+    {
+      "practice": "User discretion advised when sharing personal information",
+      "description": "We advise users to exercise discretion when sharing personal information on our platform since it may be accessed by unauthorized third parties"
+    },
+    {
+      "practice": "Transfer of data may not be completely secure",
+      "description": "Despite the measures we have implemented to protect your data, the transfer of data through the Internet or other open networks is never completely secure"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "Providing a better user experience",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable means of protecting personal information",
+      "description": "The developer strives to use commercially acceptable means of protecting personal information, but cannot guarantee absolute security"
+    }
+  ]
+}

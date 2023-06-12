@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "Internet service provider",
+      "optional": false,
+      "purpose": "VPN service functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device OS version",
+      "optional": false,
+      "purpose": "VPN service functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device manufacturer and model",
+      "optional": false,
+      "purpose": "VPN service functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Language of the device",
+      "optional": false,
+      "purpose": "VPN service functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "App version",
+      "optional": false,
+      "purpose": "VPN service functionality",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Times when connected to our service",
+      "optional": false,
+      "purpose": "VPN service functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Total amount of data transferred per day",
+      "optional": false,
+      "purpose": "VPN service functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Diagnostic data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Log data is stored securely",
+      "description": "The collected data is stored in a secure manner"
+    },
+    {
+      "practice": "Data is kept confidential",
+      "description": "The collected data is not shared with third parties"
+    }
+  ]
+}

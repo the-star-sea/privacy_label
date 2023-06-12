@@ -1,0 +1,34 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal Information (such as name, social security number, income, account balances, payment history, and credit history)",
+      "optional": false,
+      "purpose": "Providing financial services, Marketing purposes, Complying with federal law",
+      "type": "Financial info or Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Information provided by the user (such as how they anticipate they will use the service and how they learned about the company)",
+      "optional": true,
+      "purpose": "Developing new products and services, Conducting research and analysis, Personalizing and improving the service",
+      "type": "User-provided info"
+    },
+    {
+      "data": "Automatically collected information (such as device information and browsing activity)",
+      "optional": false,
+      "purpose": "Personalizing and improving the service, Conducting research and analysis",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Compliance with federal law",
+      "description": "CBW Bank uses security measures that comply with federal law to protect personal information from unauthorized access and use."
+    },
+    {
+      "practice": "Computer safeguards and secured files and buildings",
+      "description": "CBW Bank uses measures such as computer safeguards and secured files and buildings to protect personal information from unauthorized access and use."
+    }
+  ]
+}

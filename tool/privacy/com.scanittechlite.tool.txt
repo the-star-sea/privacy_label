@@ -1,0 +1,21 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Non-personal information",
+      "optional": false,
+      "purpose": "Analytics, Product development and improvement",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal information is not collected",
+      "description": "The app does not collect personal information from users"
+    },
+    {
+      "practice": "Privacy policy changes will be posted",
+      "description": "Any changes to the privacy policy will be clearly posted on the app's page"
+    }
+  ]
+}

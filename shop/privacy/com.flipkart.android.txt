@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Diagnostic purposes",
+      "type": "Network data"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analysis of web page flow, measure promotional effectiveness, and promote trust and safety",
+      "type": "Internet activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Providing products and services offered by Flipkart group companies, affiliates, related companies and other third parties; to enforce Terms of Use or Privacy Policy; To respond to claims that an advertisement, posting or other content violates the rights of a third party; or to protect the rights, property or personal safety of users or the general public.",
+      "type": "Personal info"
+    },
+    {
+      "data": "Demographic information",
+      "optional": true,
+      "purpose": "Tailor your experience at our Platform and to display content according to your preferences.",
+      "type": "Demographic info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": true,
+      "purpose": "Tailor your experience at our Platform and to display content according to your preferences.",
+      "type": "Financial info"
+    },
+    {
+      "data": "Interests",
+      "optional": true,
+      "purpose": "Tailor your experience at our Platform and to display content according to your preferences.",
+      "type": "Preferences"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Reasonable physical, electronic and procedural safeguards",
+      "description": "We maintain reasonable physical, electronic and procedural safeguards to protect your information."
+    },
+    {
+      "practice": "Ads Personalization settings",
+      "description": "We offer an opt-out from tracking personalized advertising using the Opt out of Ads Personalization settings using your devices settings application."
+    }
+  ]
+}

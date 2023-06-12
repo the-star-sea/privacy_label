@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address (not retained for analytics)",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Network"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Account creation and activity information",
+      "optional": false,
+      "purpose": "Service functionality, Troubleshooting, Quality improvement",
+      "type": "Account info"
+    },
+    {
+      "data": "Mobile analytics such as app statistics and crash reports",
+      "optional": false,
+      "purpose": "Service functionality, Bug fixing",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "We do not have technical means to access the content of encrypted messages",
+      "description": "Proton uses end-to-end encryption to ensure that only the intended recipient can read messages"
+    },
+    {
+      "practice": "Alternative routing technology may go through third-party networks",
+      "description": "Proton's alternative routing technology may bypass censorship blocks, but may expose network traffic to third-party networks"
+    }
+  ]
+}

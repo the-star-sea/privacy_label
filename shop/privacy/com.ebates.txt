@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Marketing, Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Browser information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Online behavior data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Internet and other Network Activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Communication, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Transaction information",
+      "optional": false,
+      "purpose": "Cashback rewards, Financial Info",
+      "type": "Financial info"
+    },
+    {
+      "data": "Product metrics",
+      "optional": false,
+      "purpose": "Analytics, Marketing",
+      "type": "Commercial info"
+    },
+    {
+      "data": "Online behavior data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Internet and other Network Activity"
+    },
+    {
+      "data": "Sensitive personal information",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Special category data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Appropriate technical and organizational security measures",
+      "description": "The company has implemented technical and organizational measures to provide an appropriate level of security to the personal information that the company processes."
+    }
+  ]
+}

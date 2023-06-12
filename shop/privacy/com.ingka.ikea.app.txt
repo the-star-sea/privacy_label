@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Technical data"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Technical data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal preferences",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Survey responses",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Third party information",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Shopping habits",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Demographics",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "CCTV footage",
+      "optional": false,
+      "purpose": "Monitoring, detection, crime and safety activities",
+      "type": "Sensitive data"
+    },
+    {
+      "data": "Other potentially identifiable information collected during monitoring, detection, crime and safety activities",
+      "optional": false,
+      "purpose": "Monitoring, detection, crime and safety activities",
+      "type": "Sensitive data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption techniques",
+      "description": "IKEA uses encryption techniques to protect your data"
+    },
+    {
+      "practice": "Firewalls and password protection",
+      "description": "IKEA uses firewalls and password protection to safeguard your data"
+    },
+    {
+      "practice": "Service communications",
+      "description": "Stopping marketing messages will not stop service communications (such as order and delivery updates)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+ "sharedData": [
+  {
+   "data": "Personal information",
+   "optional": false,
+   "purpose": "Marketing and advertising, Analytics, Providing customer service, and Communicating with you about your account or transactions",
+   "type": "Personal Info"
+  }
+ ],
+ "collectedData": [
+  {
+   "data": "Contact information",
+   "optional": false,
+   "purpose": "Marketing and advertising, Providing customer service, and Communicating with you about your account or transactions",
+   "type": "Contact Info"
+  },
+  {
+   "data": "Demographic information",
+   "optional": true,
+   "purpose": "Marketing and advertising",
+   "type": "Demographic Info"
+  },
+  {
+   "data": "Device information",
+   "optional": false,
+   "purpose": "Analytics, Providing customer service, and Communicating with you about your account or transactions",
+   "type": "Device Info"
+  },
+  {
+   "data": "Usage data",
+   "optional": false,
+   "purpose": "Analytics, Providing customer service, and Communicating with you about your account or transactions",
+   "type": "Usage Data"
+  }
+ ],
+ "securityPractices": [
+  {
+   "practice": "Encryption",
+   "description": "We use encryption to protect your data in transit."
+  },
+  {
+   "practice": "Secure Storage",
+   "description": "We store your data securely, using industry best practices."
+  },
+  {
+   "practice": "Access Controls",
+   "description": "We limit access to your data to only those who need it to provide you with services."
+  },
+  {
+   "practice": "Data Retention",
+   "description": "We only retain your data for as long as necessary to provide you with services, unless a longer retention period is required by law."
+  }
+ ]
+}

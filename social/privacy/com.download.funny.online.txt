@@ -1,0 +1,46 @@
+{
+  "effectiveDate": "2022-09-06",
+  "electronicCommunications": true,
+  "limitedLicense": true,
+  "prohibitedUses": [
+    "harassing, abusing, or harming another person",
+    "making improper use of support services or submitting false reports of abuse or misconduct",
+    "deleting copyright or other proprietary rights notices from any content",
+    "uploading or transmitting any material that acts as a passive or active information collection or transmission mechanism",
+    "interfering with, disrupting, or creating an undue burden on the Site or the networks or services connected to the Site",
+    "making any unauthorized use of the Site",
+    "using the Site to advertise or offer to sell goods and services"
+  ],
+  "contributions": {
+    "nameOrLikeness": true,
+    "notObjectionable": true,
+    "notViolatingLaws": true,
+    "waiverOfMoralRights": true,
+    "noOwnershipBySite": true
+  },
+  "thirdPartyAccounts": {
+    "accessAndStorageOfContent": true,
+    "submissionAndReceiptOfAdditionalInformation": true,
+    "deactivationOfConnection": true,
+    "submissionOwnershipBySite": true
+  },
+  "terminationAndLegalAction": true,
+  "modificationAndInterruptions": true,
+  "arbitration": {
+    "applicableDisputes": [
+      "Disputes seeking to enforce or protect, or concerning the validity of, any of the intellectual property rights of a Party",
+      "Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use",
+      "Claim for injunctive relief"
+    ],
+    "numberAndSeatOfArbitrators": "Three (3) arbitrators in Hong Kong, Hong Kong",
+    "language": "English or Chinese",
+    "enforcementAndException": "Illegal or unenforceable portions will not be subject to binding arbitration"
+  },
+  "corrections": true,
+  "thirdPartyProductsAndServices": true,
+  "indemnification": true,
+  "userData": {
+    "maintenancePurpose": true,
+    "dataResponsibility": "Solely responsible for all data transmitted or related to any activity undertaken using the Site"
+  }
+}

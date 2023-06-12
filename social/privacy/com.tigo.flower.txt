@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Profile picture and facial-recognition video",
+      "optional": false,
+      "purpose": "Authentication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Aggregated insights",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Providing the Services, Performing services, Aggregated insights",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics, Improving services",
+      "type": "Cookies"
+    },
+    {
+      "data": "Content on public profiles",
+      "optional": false,
+      "purpose": "Sharing with others",
+      "type": "Content"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Appropriate measures for secure international transfers",
+      "description": "Personal information is protected and secured during international transfers"
+    },
+    {
+      "practice": "Verification process for requests",
+      "description": "A verification process is in place for requests regarding Personal Information"
+    }
+  ]
+}

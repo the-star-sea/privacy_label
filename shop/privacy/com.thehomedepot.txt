@@ -1,0 +1,90 @@
+{
+  "sharedData": [
+    {
+      "data": "Account login credentials",
+      "optional": false,
+      "purpose": "Fulfilling orders and processing returns, Registering you for a website or program, Fraud prevention, security, and asset protection, Updating you regarding shipping, product availability, product recalls, warranty information, or rebates, Sending you other transactional or relationship communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Biometrics",
+      "optional": false,
+      "purpose": "Identifying you for security and asset protection purposes",
+      "type": "Sensitive personal info"
+    },
+    {
+      "data": "Race",
+      "optional": false,
+      "purpose": "Identifying customer trends and interests",
+      "type": "Sensitive personal info"
+    },
+    {
+      "data": "Ethnicity",
+      "optional": false,
+      "purpose": "Identifying customer trends and interests",
+      "type": "Sensitive personal info"
+    },
+    {
+      "data": "Government identification numbers",
+      "optional": false,
+      "purpose": "Fulfilling orders and processing returns, Registering you for a website or program, Fraud prevention, security, and asset protection",
+      "type": "Sensitive personal info"
+    },
+    {
+      "data": "Precise geolocation",
+      "optional": false,
+      "purpose": "Identifying your interests based on your interactions with us and information we have received from third parties or publicly available sources, Delivering marketing communications and advertising",
+      "type": "Sensitive personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Account login credentials",
+      "optional": false,
+      "purpose": "Fulfilling orders and processing returns, Registering you for a website or program, Fraud prevention, security, and asset protection, Updating you regarding shipping, product availability, product recalls, warranty information, or rebates, Sending you other transactional or relationship communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Identifying the devices you use to access digital content, Improving our products and services",
+      "type": "Device info"
+    },
+    {
+      "data": "Customer trends and interests",
+      "optional": false,
+      "purpose": "Learning about customer trends and interests, Recommending products and services that may interest you, Identifying your interests based on your interactions with us and information we have received from third parties or publicly available sources",
+      "type": "Usage info"
+    },
+    {
+      "data": "Product inventory information",
+      "optional": false,
+      "purpose": "Updating our product inventories to meet projected demand",
+      "type": "Financial info"
+    },
+    {
+      "data": "Sensitive personal information",
+      "optional": false,
+      "purpose": "For security and asset protection purposes",
+      "type": "Sensitive personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is encrypted at rest",
+      "description": "Your data is stored securely on our servers"
+    },
+    {
+      "practice": "Two-factor authentication",
+      "description": "We use two-factor authentication to verify the identity of users"
+    },
+    {
+      "practice": "Regular security audits",
+      "description": "We perform regular security audits to identify and address potential vulnerabilities"
+    }
+  ]
+}

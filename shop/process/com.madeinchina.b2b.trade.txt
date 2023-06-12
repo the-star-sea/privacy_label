@@ -1,0 +1,70 @@
+Privacy Policy (Buyers Version)
+Update date: Jul 28, 2022
+Effective date: Aug 4, 2022
+Please contact us using the details below if you have any doubt, comment or suggestion about this Policy or
+personal information protection. In general, we will reply within 7 working days. The
+following will list in detail the personal information you voluntarily provide during the product
+and/or service process to realize the basic business functions of the Buyer App and the personal
+information that is collected for the realization of this function. Membership services: to register as a member and use our membership
+services, you need to provide the member name and password to be used, the mailbox address
+and password to create a platform account. During
+the live recording process, we will record and save all the dynamic and static pictures
+you show and display them to other users. Meanwhile, please carefully read the
+privacy policy and user agreement of the third parties in detail. Closing the authority will not affect
+the use of other functions of this software. If any PI about a child is involved, you shall obtain
+the consent of the guardian thereof before releasing such PI. Sharing with authorized partners: in order to provide you with products and services that are
+perfect and of high-quality, certain services of Buyer App will be provided by the partners. We will only share your PI for the lawful,
+legitimate, necessary, specific and explicit purposes stated herein. Our partners will help us process
+information related to advertising coverage and effectiveness, but we will not provide them with
+your identity information, or we will de-identify such information so that it does not identify
+you personally. If you refuse to provide PI that
+is necessary for our partners to provide services, you might not be able to use the services
+provided by the partners through Buyer App. (II) Transfer
+We will not transfer your PI to any company, organization, or individual except
+under the following circumstances:
+1. (III) Public disclosure
+Your PI is an important part of our services for you. After we obtain your explicit consent;
+2. For more information, please visit:
+https://dev.mi.com/console/doc/detail?pId=1822
+TencentXGPush
+Tencent Technology (Shenzhen) Co., Ltd.
+Non-Xiaomi mobile phones receive the push
+Use Bluetooth, read external memory cards, input entries to external memory cards, and
+retrieve running applications. For more information, Please visit:
+https://www.huawei.com/us/privacy-policy
+umeng
+Beijing Ruixun Lintong Technology Co., Ltd.
+Statistical analysis of data. For more information, Please visit:
+https://opensource.fb.com/legal/privacy
+Glide
+GitHub, Inc.open source
+Load images. You may also choose to contact us through the contact information specified in this
+Policy. If you use such third-party social media services or other services (including
+providing any information for such third parties), you shall be bound by the third parties' own
+service terms and information protection statement (not this Policy), and you need to read them
+carefully. This Policy applies only to the PI we collect and does not apply to the services
+provided by any third party or third-party information use rules. (III) Since the Internet is by no means an absolutely secure environment, we strongly
+recommend that you assist us in ensuring your account security by safe means and using complicated
+passwords. If your legitimate rights or interests are damaged due to any
+unauthorized access to, or public disclosure, falsification or destruction of your PI as a result of
+damage to our physical, technical, or managing or protective facilities, we will bear corresponding
+legal liability. (IV) If, unfortunately, any PI security incident occurs, we will, in accordance with the requirements
+of laws and regulations, promptly notify you of: the basic information about and possible impact of
+the incident, measures we have taken or are about to take, suggestions for you on how you should
+prevent and reduce risks by yourself and remedies to be offered to you. V. How You Manage Your PI
+We attach great importance to your attention to PI and make every effort to protect your right to
+inquiry, correct and delete your PI, de-register an account, and withdraw your consent, so that you have
+sufficient capabilities to guarantee your privacy and security. In addition, you can check the activation status of the above authority on a
+case-by-case basis in my account module (usually the push authorization is "Settings -
+Noticification") of Buyer App, and decide to activate or close such authority at any time (we will
+instruct you to complete the settings in your device system). (IV) De-registering your account
+You can contact Live Chat Service or you can ask for help through the contact
+information at the beginning of this article, we will assist you in closing your account. After you voluntarily de-register your account, we will stop providing
+you with products or services, delete your PI according to applicable laws, or anonymize
+it. Where it is related to public security, public health or major public interests;
+3. You understand and agree that, as we provide products or services
+through resources and servers all over the world, subject to applicable laws and regulations on cross-border
+transmission of PI, we may store the PI collected under this Policy on servers in other countries/regions
+outside the Chinese mainland according to its operation requirements, and may provide any or all of your PI
+to foreign affiliates or third parties outside the Chinese mainland that have a cooperative relationship
+with our affiliates.

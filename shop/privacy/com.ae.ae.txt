@@ -1,0 +1,21 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Collection and use by American Eagle Outfitters, Inc.",
+      "type": "Personal Info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "The company provides means to request data deletion",
+      "description": "You can request that your data be deleted by contacting the company at the provided phone number"
+    }
+  ]
+}

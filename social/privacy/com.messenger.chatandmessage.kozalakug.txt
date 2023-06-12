@@ -1,0 +1,44 @@
+{
+  "sharedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "To provide the Service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Browser cookies",
+      "optional": true,
+      "purpose": "To improve user experience",
+      "type": "Cookies"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "To enable access to the Service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage data",
+      "optional": true,
+      "purpose": "To analyze how the Service is used",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Reasonable efforts to protect personal data",
+      "description": "We take reasonable measures to safeguard your personal data from unauthorized access."
+    },
+    {
+      "practice": "Response to intellectual property infringement claims",
+      "description": "We will respond to claims of intellectual property infringement as required by law."
+    },
+    {
+      "practice": "Not directed at children under 13",
+      "description": "We do not knowingly collect personally identifiable information from children under 13."
+    }
+  ]
+}

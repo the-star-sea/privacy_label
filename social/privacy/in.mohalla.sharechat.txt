@@ -1,0 +1,62 @@
+{
+    "sharedData": [
+        {
+            "data": "Information voluntarily shared on the platform, such as quotes, images, political opinions, and religious views",
+            "optional": false,
+            "purpose": "Providing a good user experience and improving the platform",
+            "type": "Personal info"
+        },
+        {
+            "data": "Log-in data including information made available to other users on the platform",
+            "optional": false,
+            "purpose": "Verifying identity and maintaining account security, providing access to previous searches",
+            "type": "Personal info"
+        },
+        {
+            "data": "Device data, including device attributes and network and connections information",
+            "optional": false,
+            "purpose": "Providing a good user experience and improving the platform",
+            "type": "Device or other IDs"
+        }
+    ],
+    "collectedData": [
+        {
+            "data": "Log-in data including information made available to other users on the platform",
+            "optional": false,
+            "purpose": "Verifying identity and maintaining account security",
+            "type": "Personal info"
+        },
+        {
+            "data": "Device data, including device attributes and network and connections information",
+            "optional": false,
+            "purpose": "Providing a good user experience and improving the platform",
+            "type": "Device or other IDs"
+        },
+        {
+            "data": "Aggregate information about users",
+            "optional": false,
+            "purpose": "Providing information to advertisers",
+            "type": "Analytics"
+        },
+        {
+            "data": "Personal information, if required by law enforcement agencies or government bodies",
+            "optional": false,
+            "purpose": "Complying with legal obligations, protecting property or safety of the platform or users",
+            "type": "Personal info"
+        }
+    ],
+    "securityPractices": [
+        {
+            "practice": "Using strict procedures and security features to prevent unauthorized access",
+            "description": "Protecting user information using a secure approach"
+        },
+        {
+            "practice": "Complying with user requests to review, correct and amend collected information",
+            "description": "Following legal requirements to ensure users' data privacy rights"
+        },
+        {
+            "practice": "Providing an email address for processing user grievances",
+            "description": "Offering a contact point for addressing user concerns"
+        }
+    ]
+}

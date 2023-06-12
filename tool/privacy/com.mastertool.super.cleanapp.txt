@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Apps installed on the user's device",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Non-personal privacy information"
+    },
+    {
+      "data": "Manufacturer of the device, version, and model",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Non-personal privacy information"
+    },
+    {
+      "data": "Operating system and language of the device",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Non-personal privacy information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "User activities within the app",
+      "optional": false,
+      "purpose": "App functionality, Performance measurement, App improvement",
+      "type": "Non-personal privacy information"
+    },
+    {
+      "data": "Third-party service provider information such as Google and Facebook",
+      "optional": false,
+      "purpose": "App functionality, Performance measurement, App improvement",
+      "type": "Non-personal privacy information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "We do not collect personally identifiable information",
+      "description": "We do not collect personal information such as user name, contact information, etc."
+    },
+    {
+      "practice": "Third-party service providers may collect user information",
+      "description": "Third-party service providers such as Google and Facebook may collect user information through their links in the app."
+    }
+  ]
+}

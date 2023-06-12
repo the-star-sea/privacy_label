@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "User account setup",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "User identification, Contact list synchronization, Invitations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "User account setup, Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "User identification, Security",
+      "type": "Device info"
+    },
+    {
+      "data": "Profile picture",
+      "optional": true,
+      "purpose": "User identification, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Activity logs and personal info",
+      "optional": false,
+      "purpose": "Combat illegal and harmful conduct and content, Analytics, Personalization, Service improvement",
+      "type": "App activity"
+    },
+    {
+      "data": "Messages and feedback contents",
+      "optional": false,
+      "purpose": "User support, Feedback handling",
+      "type": "App activity"
+    },
+    {
+      "data": "Hash values",
+      "optional": false,
+      "purpose": "Contact list synchronization, Invitation handling",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Cookie information",
+      "optional": false,
+      "purpose": "Analytics, Advertising campaign tracking",
+      "type": "Cookies and usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "User data is encrypted in transit",
+      "description": "All user data is transferred over a secure connection"
+    },
+    {
+      "practice": "User can request data deletion",
+      "description": "Users can request their personal data to be deleted through the Privacy Center"
+    },
+    {
+      "practice": "Third parties have limited access to user data",
+      "description": "Third-party service providers only have access to user data for the purposes described in the Privacy Policy"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Google Advertising ID",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Device type and version",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Browsing activity",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Location",
+      "optional": true,
+      "purpose": "Advertising",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Images and Videos",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Media"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Anonymous data is collected for advertising purposes",
+      "description": "Third-party companies collect anonymous data for advertising purposes"
+    }
+  ]
+}

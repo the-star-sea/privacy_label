@@ -1,0 +1,49 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Device ID",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Device manufacturer and model",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "App version",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Connection times and data usage",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Diagnostic data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "No collection of personal identifying information, traffic data, or browsing activity from individual users",
+      "description": "VPN does not collect any personally identifying information, traffic data, or browsing activity from individual users connected to the VPN service"
+    },
+    {
+      "practice": "Generic analysis and secure storage of data collected for app functionality and analytics",
+      "description": "VPN collects generic usage data to deploy and optimize servers, and ensures secure storage of all data collected"
+    },
+    {
+      "practice": "Third party analytics provider for diagnostic data",
+      "description": "VPN utilizes third party analytics providers to identify connection errors and possible bugs in the application"
+    }
+  ]
+}

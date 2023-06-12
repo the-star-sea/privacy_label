@@ -1,0 +1,82 @@
+{
+  "sharedData": [
+    {
+      "data": "Username",
+      "optional": false,
+      "purpose": "Public display",
+      "type": "Personal info"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Public display",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Marketing",
+      "type": "Contact info"
+    },
+    {
+      "data": "Geo-location data",
+      "optional": false,
+      "purpose": "Improving service",
+      "type": "Location"
+    },
+    {
+      "data": "User submissions",
+      "optional": false,
+      "purpose": "Public display",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Username",
+      "optional": false,
+      "purpose": "Account management, Improving service, Investigating policy violations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Marketing, Legal compliance",
+      "type": "Contact info"
+    },
+    {
+      "data": "Geo-location data",
+      "optional": false,
+      "purpose": "Improving service, Legal compliance",
+      "type": "Location"
+    },
+    {
+      "data": "User submissions",
+      "optional": false,
+      "purpose": "App functionality, Investigating policy violations",
+      "type": "App activity"
+    },
+    {
+      "data": "Device identifiers",
+      "optional": false,
+      "purpose": "Legal compliance, Improving service, Investigating policy violations",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "Your data is encrypted in transit"
+    },
+    {
+      "practice": "Data security measures in place",
+      "description": "We have implemented security measures to protect your data"
+    }
+  ]
+}

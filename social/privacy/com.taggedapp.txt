@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Location",
+      "optional": true,
+      "purpose": "Customizing user experience",
+      "type": "Location"
+    },
+    {
+      "data": "Personal info",
+      "optional": false,
+      "purpose": "Executing transactions, legitimate business interests, meeting legal requirements",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Customizing user experience",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies and usage data",
+      "optional": false,
+      "purpose": "Advertising, analytics, improving user experience",
+      "type": "Cookies and usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Location",
+      "optional": true,
+      "purpose": "Customizing user experience",
+      "type": "Location"
+    },
+    {
+      "data": "Personal info",
+      "optional": false,
+      "purpose": "Executing transactions, legitimate business interests, meeting legal requirements",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Customizing user experience",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies and usage data",
+      "optional": false,
+      "purpose": "Advertising, analytics, improving user experience",
+      "type": "Cookies and usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Verifying personal information requests",
+      "description": "Requests for personal information are verified before being fulfilled"
+    }
+  ]
+}

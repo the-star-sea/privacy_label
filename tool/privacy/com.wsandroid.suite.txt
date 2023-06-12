@@ -1,0 +1,25 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact information (name, address, phone number, and email address), identity-related information (date of birth, driver's license number, and social security number), and financial information (credit card number)",
+      "optional": false,
+      "purpose": "Identity Protection Services",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Internet or similar network activity (browsing history, search history, interaction with websites, applications, or advertisements)",
+      "optional": false,
+      "purpose": "Services functionality, Analytics, Advertising or marketing",
+      "type": "Internet or similar network activity"
+    },
+    {
+      "data": "Data from every device on user's network",
+      "optional": false,
+      "purpose": "Services functionality",
+      "type": "Device data"
+    }
+  ],
+  "securityPractices": [
+    {

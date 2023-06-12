@@ -1,0 +1,35 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Service maintenance and improvement",
+      "type": "App activity"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Service communication",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "No Log network",
+      "description": "FlyProxy network is a No Log network that does not store user information about their activities."
+    },
+    {
+      "practice": "Protection of user data",
+      "description": "Physical security measures in place to guard against unauthorized access to systems where personal information is stored and processed."
+    },
+    {
+      "practice": "Limited third-party disclosure",
+      "description": "Personal information is only disclosed to website hosting partners and other trusted third parties if necessary, and only for the purpose of conducting business."
+    },
+    {
+      "practice": "Revision of privacy policy",
+      "description": "Privacy policy may be revised from time to time, with the most current version governing the use of user information."
+    }
+  ]
+}

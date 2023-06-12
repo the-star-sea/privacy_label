@@ -1,0 +1,43 @@
+{
+  "sharedData": [
+    {
+      "data": "Technical Information",
+      "optional": false,
+      "purpose": "Product improvement, App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Product improvement, App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Non-personal information",
+      "optional": false,
+      "purpose": "Product improvement, App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Non-personal information"
+    },
+    {
+      "data": "Support related information",
+      "optional": false,
+      "purpose": "Customer support, App functionality, Legal compliance",
+      "type": "Email address and email content"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Third-party privacy policies are provided",
+      "description": "Links to third-party privacy policies are provided for users to understand their data usage"
+    }
+  ]
+}

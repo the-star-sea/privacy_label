@@ -1,0 +1,100 @@
+{
+  "sharedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "To improve Google services, personalization, and ads.",
+      "type": "Device information"
+    },
+    {
+      "data": "Log information",
+      "optional": false,
+      "purpose": "To improve Google services, personalization, and ads.",
+      "type": "Log information"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "To improve Google services, personalization, and ads.",
+      "type": "Location information"
+    },
+    {
+      "data": "Unique application numbers",
+      "optional": false,
+      "purpose": "To improve Google services, personalization, and ads.",
+      "type": "Unique application numbers"
+    },
+    {
+      "data": "Cookies and similar technologies",
+      "optional": false,
+      "purpose": "To improve Google services, personalization, and ads.",
+      "type": "Cookies and similar technologies"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name, email address, phone number, or payment information",
+      "optional": true,
+      "purpose": "To use Google services or to create a Google Account",
+      "type": "Personal Information"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "To improve Google services, personalization, and ads.",
+      "type": "Device information"
+    },
+    {
+      "data": "Log information",
+      "optional": false,
+      "purpose": "To improve Google services, personalization, and ads.",
+      "type": "Log information"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "To improve Google services, personalization, and ads.",
+      "type": "Location information"
+    },
+    {
+      "data": "Local storage",
+      "optional": true,
+      "purpose": "To improve Google services, personalization, and ads.",
+      "type": "Local storage"
+    },
+    {
+      "data": "Cookies and similar technologies",
+      "optional": false,
+      "purpose": "To improve Google services, personalization, and ads.",
+      "type": "Cookies and similar technologies"
+    },
+    {
+      "data": "Information from partners",
+      "optional": false,
+      "purpose": "To deliver ads and services",
+      "type": "Information from partners"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Secure transmissions",
+      "description": "Google uses HTTPS to encrypt data in transit."
+    },
+    {
+      "practice": "Strong data storage protection",
+      "description": "Google encrypts many services using industry-leading methods."
+    },
+    {
+      "practice": "Account protection",
+      "description": "Protects your Google Account with security measures."
+    },
+    {
+      "practice": "Strong breach response and recovery",
+      "description": "Google provides transparency and user notification in case of data breaches."
+    },
+    {
+      "practice": "Third-party audits and certifications",
+      "description": "Google undergoes independent audits and certifications to provide assurance of security and privacy of user data."
+    }
+  ]
+}

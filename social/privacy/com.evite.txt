@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address and device information",
+      "optional": false,
+      "purpose": "Browsing and device information",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Email address and phone number provided by another user",
+      "optional": true,
+      "purpose": "Event hosting",
+      "type": "Contact details"
+    },
+    {
+      "data": "Full name, mailing address, email address, images, telephone number, and financial information such as payment method",
+      "optional": false,
+      "purpose": "Event hosting and business transactions",
+      "type": "Personal info and financial info"
+    },
+    {
+      "data": "Online activity on the Services, such as web pages visited, emails opened, links clicked, and searches conducted",
+      "optional": false,
+      "purpose": "Analytics, advertising, and reporting",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information about other people provided by the user",
+      "optional": false,
+      "purpose": "Event hosting",
+      "type": "Contact details"
+    },
+    {
+      "data": "Non-personal and/or hashed information combined with additional information collected from other sources",
+      "optional": false,
+      "purpose": "Analytics and reporting",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Reasonable security measures implemented",
+      "description": "Physical, electronic, and procedural measures are taken to safeguard personal information"
+    },
+    {
+      "practice": "Data may be transferred to the United States where servers and central database are located",
+      "description": "By using the Services, users agree to transfer of their information to United States where servers are located"
+    },
+    {
+      "practice": "Policy revised with notification to users",
+      "description": "When revised, the new Policy is posted on the Services with the date of last update"
+    }
+  ]
+}

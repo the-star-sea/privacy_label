@@ -1,0 +1,96 @@
+{
+  "sharedData": [
+    {
+      "data": "Access times",
+      "optional": false,
+      "purpose": "Service improvement",
+      "type": "App activity"
+    },
+    {
+      "data": "Pages viewed",
+      "optional": false,
+      "purpose": "Service improvement",
+      "type": "App activity"
+    },
+    {
+      "data": "Links clicked",
+      "optional": false,
+      "purpose": "Service improvement",
+      "type": "App activity"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Service improvement, Fraud prevention, security, and compliance",
+      "type": "Internet or other electronic network activity information"
+    },
+    {
+      "data": "Mobile network information",
+      "optional": false,
+      "purpose": "Service improvement, Fraud prevention, security, and compliance",
+      "type": "Internet or other electronic network activity information"
+    },
+    {
+      "data": "Conversion information",
+      "optional": false,
+      "purpose": "Service improvement",
+      "type": "Internet or other electronic network activity information"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "Service improvement, Personalization",
+      "type": "Geolocation data"
+    },
+    {
+      "data": "Push notifications",
+      "optional": true,
+      "purpose": "Service improvement, Personalization",
+      "type": "Mobile Push Notifications"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Service performance, Shipping and delivery, Payment processing, Fraud prevention, Customer support, Marketing and advertising",
+      "type": "Identifiers, Commercial information, Professional or employment-related information"
+    },
+    {
+      "data": "User activity",
+      "optional": false,
+      "purpose": "Service performance, Web hosting, Fraud prevention, Marketing and advertising, Personalization",
+      "type": "Internet or other electronic network activity information"
+    },
+    {
+      "data": "Data analytics",
+      "optional": false,
+      "purpose": "Service performance, Fraud prevention, Marketing and advertising, Personalization",
+      "type": "Inferences drawn about you"
+    },
+    {
+      "data": "Third-party data sources",
+      "optional": false,
+      "purpose": "Service performance, Fraud prevention, Marketing and advertising, Personalization",
+      "type": "Internet or other electronic network activity information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is stored securely",
+      "description": "Your data is stored on secure servers"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "You may make requests to have your personal information deleted from the system"
+    },
+    {
+      "practice": "CCPA Compliance",
+      "description": "Compliance with California Consumer Privacy Act (CCPA) and related requests"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact information (such as name, address, phone number, and email address)",
+      "optional": false,
+      "purpose": "Service provision, billing and collection, and customer service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment information (such as credit/debit card number or bank account information)",
+      "optional": false,
+      "purpose": "Service provision, billing and collection",
+      "type": "Financial info"
+    },
+    {
+      "data": "Account login credentials",
+      "optional": false,
+      "purpose": "Service provision and account management",
+      "type": "Login info"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "Service provision and customer service",
+      "type": "Location"
+    },
+    {
+      "data": "Device information (such as type, model, and operating system)",
+      "optional": false,
+      "purpose": "Service provision and customer service",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Website usage information (such as browsing history and search terms)",
+      "optional": false,
+      "purpose": "Analytics and personalization",
+      "type": "Web browsing"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Service usage information (such as the services you subscribe to and your usage patterns)",
+      "optional": false,
+      "purpose": "Service provision and customer service",
+      "type": "Service usage"
+    },
+    {
+      "data": "Demographic information (such as age, gender, and income)",
+      "optional": true,
+      "purpose": "Analytics and personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Marketing and communication preferences",
+      "optional": true,
+      "purpose": "Marketing and personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Customer feedback and survey data",
+      "optional": true,
+      "purpose": "Customer service and personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Social media profile information (such as name and email address)",
+      "optional": true,
+      "purpose": "Marketing and personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Audio and video call recordings",
+      "optional": false,
+      "purpose": "Customer service",
+      "type": "Phone or call"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is encrypted at rest",
+      "description": "Your data is stored securely"
+    },
+    {
+      "practice": "Regular security testing and monitoring",
+      "description": "The developer conducts regular security testing and monitoring to ensure your data is protected"
+    }
+  ]
+}

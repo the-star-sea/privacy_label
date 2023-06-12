@@ -1,0 +1,47 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Internet Protocol (IP) addresses",
+      "optional": false,
+      "purpose": "Analyzing trends, administering the app, tracking user movement on the app, gathering demographic information",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Browser type",
+      "optional": false,
+      "purpose": "Analyzing trends, administering the app, tracking user movement on the app, gathering demographic information",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Internet Service Provider (ISP)",
+      "optional": false,
+      "purpose": "Analyzing trends, administering the app, tracking user movement on the app, gathering demographic information",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Date and time stamp",
+      "optional": false,
+      "purpose": "Analyzing trends, administering the app, tracking user movement on the app, gathering demographic information",
+      "type": "Timestamps"
+    },
+    {
+      "data": "Referring/exit pages",
+      "optional": false,
+      "purpose": "Analyzing trends, administering the app, tracking user movement on the app, gathering demographic information",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Number of clicks",
+      "optional": false,
+      "purpose": "Analyzing trends, administering the app, tracking user movement on the app, gathering demographic information",
+      "type": "Online identifiers"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    }
+  ]
+}

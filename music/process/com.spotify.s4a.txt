@@ -1,0 +1,57 @@
+Skip to content
+Spotify
+Premium
+Support
+Download
+Sign up
+Log in
+Menu
+LegalTerms and Conditions of UseCopyright PolicyPrivacy PolicyUser GuidelinesPremium Offer TermsSpotify Privacy Policy
+Effective as of 22 February 2023
+1. These include Spotify websites, Customer Service and the Community Site
+From now on, we'll collectively call these the 'Spotify Service'. However, you might want to take a look at our other privacy resources and controls:
+Privacy Center: A user-friendly hub with summaries of key topics and helpful videos. On the 'Social' setting, you can:
+start a Private session
+choose whether to share what you listen to on Spotify with your followers
+choose whether to show your recently played artists on your public profile
+On the 'Explicit Content' setting you can control whether explicit-rated content can be played on your Spotify account. Be informed
+Be informed of the personal data we process about you and how we process it. For example, if theres an unresolved issue relating to your account
+There are several ways you can delete personal data from Spotify:
+to remove audio content from your profile select the relevant content and choose to remove it. This data includes your User Data, Usage Data and other data listed in Section 3 Personal data we collect about you
+you can also contact us to request erasure or reach out to customer support via our chat bot
+Right to Limit
+Under California law, request that we limit the processing of sensitive personal data if we are using or disclosing it for purposes other than those specified in Section 7027(m) of the CCPA Regulations. You can exercise your right to restriction by contacting us. Before accepting such a request from an agent, we will require the agent to provide proof you have authorized it to act on your behalf, and we may need you to verify your identity directly with us. An example of tailored advertising is when an advertising partner has information suggesting you like cars. You can also control tailored advertising for some podcasts using the link in the episode's show description. For more information about how we collect and use this data, see Your general (non-precise) location in the Usage Data category. Purpose for processing your data
+Legal basis that permits the purpose
+Categories of personal data used for the purpose
+To provide the Spotify Service in accordance with our contract with you. User Data
+Street Address Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+Survey and Research Data
+To fulfill contractual obligations with third parties. Legitimate InterestOur legitimate interests here include:
+maintaining our relationships with artists so that we can provide the Spotify Service
+maintaining our relationships with other third parties for the same reason
+User Data
+Usage Data
+Voice Data
+Payment and Purchase Data
+To take appropriate action with reports of intellectual property infringement and inappropriate content. Publicly available information
+The following personal data will always be publicly available on the Spotify Service (except to any user you have blocked):
+your profile name
+your profile photo
+your public playlists
+other content you post on the Spotify Service, and any associated titles, descriptions and images
+who you follow on the Spotify Service
+who follows you on the Spotify Service
+You or another user can share certain information on third party services, like social media or messaging platforms. For example, under Social settings you can choose to share your recently played artists and your playlists on your profile. Youll always have the option to change your mind and withdraw your consent at any time. We and our partners may use this information to present you with offers, promotions, or other marketing that we think youll find relevant. Hosting Platforms
+Usage Data
+Hosting platforms host podcasts so that they can deliver them to you. Criteria used to determine the retention periods include:
+What is the appropriate retention period to carry out our purpose? Do we need to keep data to ensure the service that users expect? Where users are able to see and update the personal data themselves, we keep the information for as long as the user chooses. Conversely, we will remove unlawful content if the law requires us to do so. They may process your data in countries whose data protection laws are not considered to be as strong as EU laws or the laws which apply where you live. Whenever we transfer personal data internationally, we use tools to:
+make sure the data transfer complies with applicable law
+help to give your data the same level of protection as it has in the EU
+To ensure each data transfer complies with applicable EU legislation, we use the following legal mechanisms:
+Standard Contractual Clauses ('SCCs'). For example, we use:
+technical protections, such as encryption and pseudonymization
+policies and processes to challenge disproportionate or unlawful government authority requests
+8. If you're under the Age Limit, do not use the Spotify Service, and do not provide any personal data to us. If we learn that we've collected the personal data of a child under the applicable Age Limit, we'll take reasonable steps to delete the personal data. When we make material changes to this Policy, we'll provide you with prominent notice as appropriate under the circumstances.

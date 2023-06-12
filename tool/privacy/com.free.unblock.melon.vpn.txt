@@ -1,0 +1,44 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Communicate with the user about VPN services or respond to user communications",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Apps and App versions activated",
+      "optional": false,
+      "purpose": "Fulfill contractual obligations, optimize network speeds, and identify problems related to specific apps, VPN servers, or ISPs",
+      "type": "App activity"
+    },
+    {
+      "data": "Minimal usage statistics and anonymized analytics",
+      "optional": false,
+      "purpose": "Network diagnostics",
+      "type": "Analytics"
+    },
+    {
+      "data": "Crash reports",
+      "optional": false,
+      "purpose": "Network diagnostics",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Physical, procedural, and technical security measures to prevent loss, misuse, unauthorized access, disclosure, or modification of information",
+      "description": "Access to user information is restricted to staff who require such access to perform their job functions. Servers are housed with strong security practices."
+    },
+    {
+      "practice": "Protection of information when transferred to other countries",
+      "description": "Innovative will protect personal information when transferred to other countries as described in the Privacy Policy."
+    },
+    {
+      "practice": "No collection of website data or data stored on or transmitted from user's device",
+      "description": "Innovative does not collect any information regarding the websites the user visits or any data stored on or transmitted from the user's device."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information related to the use of Mercari's mobile application and website C2C marketplace service",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial information, such as bank account and/or credit card numbers",
+      "optional": false,
+      "purpose": "Service provision, Fraud prevention and risk management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Information about government-issued identification",
+      "optional": false,
+      "purpose": "Identity verification, Fraud prevention and risk management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Browser-based mobile version and website cookies",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Cookies"
+    },
+    {
+      "data": "Account information managed by a third party",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information collected for targeted advertising purposes",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial information",
+      "optional": false,
+      "purpose": "Service provision, Fraud prevention and risk management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Information related to government-issued identification",
+      "optional": false,
+      "purpose": "Identity verification, Fraud prevention and risk management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Browser-based mobile version and website cookies",
+      "optional": false,
+      "purpose": "Service provision, Analytics",
+      "type": "Cookies"
+    },
+    {
+      "data": "Account information managed by a third party",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information collected for targeted advertising purposes",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Use of computer safeguards and secured files and buildings",
+      "description": "Mercari employs measures to protect personal information"
+    }
+  ]
+}

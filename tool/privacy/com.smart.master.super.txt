@@ -1,0 +1,47 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Account registration",
+      "type": "Personal info"
+    },
+    {
+      "data": "Aggregated analytical data",
+      "optional": false,
+      "purpose": "App optimization",
+      "type": "Analytics info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is stored securely",
+      "description": "Personal data is stored on secure servers or databases"
+    },
+    {
+      "practice": "Sensitive data is not shared with third parties",
+      "description": "Personal data is not shared with third-party analytical tools except for billing purposes"
+    },
+    {
+      "practice": "Automated analysis for personalized services and ads",
+      "description": "Personalized services and ads may be provided through automated analysis of user information"
+    },
+    {
+      "practice": "Data may be transferred and processed outside of user's country",
+      "description": "User data may be transferred, processed, and stored on servers located outside of the country or jurisdiction where the user is located"
+    },
+    {
+      "practice": "Data is stored only as long as necessary",
+      "description": "Personal data is stored only as long as necessary for the purpose for which it was collected"
+    },
+    {
+      "practice": "User may request deletion of their data",
+      "description": "Users may request the deletion of their personal data by contacting Smart Clean"
+    },
+    {
+      "practice": "Limited access to sensitive data",
+      "description": "Smart Clean does not have access to user passwords"
+    }
+  ]
+}

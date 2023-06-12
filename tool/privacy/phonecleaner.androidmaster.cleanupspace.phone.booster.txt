@@ -1,0 +1,136 @@
+{
+  "sharedData": [
+    {
+      "data": "App net status",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Firebase_device_id",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Android advertising identifier",
+      "optional": false,
+      "purpose": "Advertising or marketing, Analytics",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Package name",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "First open time timestamp",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "App model",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "System language",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Google Advertising ID",
+      "optional": false,
+      "purpose": "Advertising or marketing, Analytics, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Demographic data",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data to fight against fraud",
+      "optional": false,
+      "purpose": "Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Analytics"
+    },
+    {
+      "data": "Data associated with your device",
+      "optional": false,
+      "purpose": "Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Data to do advertising, marketing, and analysis",
+      "optional": false,
+      "purpose": "Advertising or marketing, Analytics",
+      "type": "Analytics"
+    },
+    {
+      "data": "Advertisers cookies",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Cookies and tracking"
+    },
+    {
+      "data": "Third-party SDK's data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Various"
+    },
+    {
+      "data": "Permission for storage access",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Permission for device ID & call information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Permission for Wi-Fi connection information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Permission for photos/media/files access",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Permission for camera access",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Permission for phone access",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Permission for accessibility access",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },

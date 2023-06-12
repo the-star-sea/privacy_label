@@ -1,0 +1,65 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Customer support, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Message content",
+      "optional": false,
+      "purpose": "Customer support, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Calendar events",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Camera",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Storage",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Sensitive data access is limited",
+      "description": "Access to customer information is restricted to staff who require such permission to perform their work functions."
+    },
+    {
+      "practice": "Data deletion policies",
+      "description": "When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not feasible, then we will securely store your personal information and isolate it from any further processing until deletion is possible."
+    },
+    {
+      "practice": "Third-party service precautions",
+      "description": "We are not responsible for the privacy practices or content of third-party sites or services. Customers should read the privacy policy of any site or service before submitting personal information."
+    }
+  ]
+}

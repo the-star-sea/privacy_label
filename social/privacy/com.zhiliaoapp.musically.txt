@@ -1,0 +1,94 @@
+{
+  "sharedData": [
+    {
+      "data": "User-generated content",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Analytics, Personalization, Fraud prevention, security, and compliance",
+      "type": "Various"
+    },
+    {
+      "data": "Phone contacts",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Contacts"
+    },
+    {
+      "data": "Proof of identity or age",
+      "optional": false,
+      "purpose": "Account verification",
+      "type": "Personal info"
+    },
+    {
+      "data": "Survey responses",
+      "optional": false,
+      "purpose": "Marketing, Analytics",
+      "type": "Various"
+    },
+    {
+      "data": "Device ID and user ID",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "Device info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Public profile information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email and contact list",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Contact info"
+    },
+    {
+      "data": "User content metadata",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization, Fraud prevention, security, and compliance",
+      "type": "Various"
+    },
+    {
+      "data": "Information from other users",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "Various"
+    },
+    {
+      "data": "Log-in information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Automatically collected information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization, Advertising or marketing, Security, fraud prevention, and compliance",
+      "type": "Various"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "User content is reviewed for policy violations",
+      "description": "The developer monitors user content to ensure it complies with their policies."
+    },
+    {
+      "practice": "Cookies are used for advertising and analytics",
+      "description": "The developer uses cookies to track user activity for advertising and analytics purposes."
+    },
+    {
+      "practice": "Users can request access to and deletion of their data",
+      "description": "The developer provides users with a way to access and delete their personal data."
+    },
+    {
+      "practice": "The developer retains data for legal and business purposes",
+      "description": "The developer retains data for legal and business purposes, such as improving and developing the Platform."
+    },
+    {
+      "practice": "Data may be shared with entities outside of the U.S.",
+      "description": "The developer may share user data with entities outside of the U.S., but will still protect the data in accordance with their Privacy Policy."
+    }
+  ]
+}

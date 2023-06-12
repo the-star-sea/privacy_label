@@ -1,0 +1,28 @@
+{
+  "sharedData": [
+    {
+      "data": "None",
+      "optional": false,
+      "purpose": "N/A",
+      "type": "N/A"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is protected using commercially acceptable means",
+      "description": "The developer is striving to use commercially acceptable means of protecting user data"
+    },
+    {
+      "practice": "Method of transmission over the internet and electronic storage is not guaranteed to be 100% secure",
+      "description": "The developer cannot guarantee the absolute security of user data transmitted over the internet and electronic storage"
+    }
+  ]
+}

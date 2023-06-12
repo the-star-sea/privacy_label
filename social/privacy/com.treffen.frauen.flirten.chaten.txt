@@ -1,0 +1,58 @@
+{
+  "sharedData": [
+    {
+      "data": "Correspondence data (email, messages)",
+      "optional": false,
+      "purpose": "Correspondence with user",
+      "type": "Communication"
+    },
+    {
+      "data": "Advertising data (such as preferences and clicks)",
+      "optional": false,
+      "purpose": "Advertising, marketing",
+      "type": "Preferences"
+    },
+    {
+      "data": "Usage data (such as device information, IP address)",
+      "optional": false,
+      "purpose": "App functionality, quality, and optimization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Correspondence data (email, messages)",
+      "optional": false,
+      "purpose": "Correspondence with user",
+      "type": "Communication"
+    },
+    {
+      "data": "Personal information (such as name and age)",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Advertising data (such as preferences and clicks)",
+      "optional": false,
+      "purpose": "Advertising, marketing",
+      "type": "Preferences"
+    },
+    {
+      "data": "Usage data (such as device information, IP address)",
+      "optional": false,
+      "purpose": "App functionality, quality, and optimization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection."
+    },
+    {
+      "practice": "Regular security updates and maintenance",
+      "description": "We regularly update and maintain our security practices to ensure the safety of your data."
+    }
+  ]
+}

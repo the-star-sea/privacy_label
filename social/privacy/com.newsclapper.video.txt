@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing and advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "App usage data",
+      "optional": false,
+      "purpose": "Analytics, Advertising and marketing",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing and advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "App usage data",
+      "optional": false,
+      "purpose": "Analytics, Advertising and marketing",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "SSL encryption",
+      "description": "Your data is encrypted and transferred over a secure connection"
+    }
+  ]
+}

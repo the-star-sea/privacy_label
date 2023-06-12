@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account creation, Service-related communications, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Profile information",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies & Similar Tracking Information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Installed application list",
+      "optional": false,
+      "purpose": "Security and privacy protection",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Profile information",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies & Similar Tracking Information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Installed application list",
+      "optional": false,
+      "purpose": "Security and privacy protection",
+      "type": "App activity"
+    },
+    {
+      "data": "Marketing preferences",
+      "optional": true,
+      "purpose": "Marketing",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal information is processed to enforce terms, agreements or policies, ensure your safety and adherence to terms, agreements or policies, and maintain legal and regulatory compliance",
+      "description": "Personal information may be processed to ensure adherence to terms, agreements, or policies, actively monitor, investigate, prevent and mitigate any alleged or actual prohibited, illicit or illegal activities on the Services, enforce our agreements with third parties and partners, and maintain legal and regulatory compliance"
+    },
+    {
+      "practice": "Opt-out options available for marketing communications",
+      "description": "Users can opt-out of marketing activities at any time"
+    },
+    {
+      "practice": "Changes to Privacy Policy are communicated to users",
+      "description": "Users are notified of any changes to the Privacy Policy via email or within the Services"
+    }
+  ]
+}

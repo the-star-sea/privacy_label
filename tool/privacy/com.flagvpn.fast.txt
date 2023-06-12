@@ -1,0 +1,78 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Mailing address",
+      "optional": true,
+      "purpose": "Account management, Billing, Shipping",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics, Product development",
+      "type": "App activity"
+    },
+    {
+      "data": "Support data",
+      "optional": false,
+      "purpose": "Customer support, Product development",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics, Product development",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics, Website functionality",
+      "type": "Other"
+    },
+    {
+      "data": "Local storage objects",
+      "optional": false,
+      "purpose": "Personalization, Website functionality",
+      "type": "Other"
+    },
+    {
+      "data": "Aggregate or de-identified information",
+      "optional": false,
+      "purpose": "Analytics, Marketing",
+      "type": "Other"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Secure transmission of data",
+      "description": "Data is transferred over a secure connection"
+    },
+    {
+      "practice": "Retention of data",
+      "description": "Data may be retained even after discontinuing use of Services or updating account information"
+    },
+    {
+      "practice": "Third-party services",
+      "description": "Links to third-party websites are provided, and user information may be shared with third-party vendors"
+    },
+    {
+      "practice": "Children's privacy",
+      "description": "Appropriate steps will be taken to delete Personally Identifiable Information of children under thirteen (13) years of age"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "sharedData": [
+    {
+      "data": "User name",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Account info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "User name",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Account info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Newsletter",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Marketing and operations",
+      "type": "Financial info"
+    },
+    {
+      "data": "Frequency and analysis of auction participation",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal data is stored securely",
+      "description": "DealDash takes reasonable steps to protect personal data"
+    },
+    {
+      "practice": "You have the right to revoke consent and delete your account",
+      "description": "DealDash provides the option to revoke consent and delete personal data"
+    }
+  ]
+}

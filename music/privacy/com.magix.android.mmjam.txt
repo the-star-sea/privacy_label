@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Facebook account information",
+      "optional": false,
+      "purpose": "Social networking",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Analytics data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Facebook account information",
+      "optional": false,
+      "purpose": "Social networking",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Analytics data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Personal data is deleted after the retention period",
+      "description": "Once the retention period expires, Personal Data shall be deleted"
+    },
+    {
+      "practice": "Data encryption",
+      "description": "Data is encrypted in transit"
+    },
+    {
+      "practice": "Notification of privacy policy changes",
+      "description": "The Owner notifies its Users on this page and/or via any contact information available to the Owner"
+    }
+  ]
+}

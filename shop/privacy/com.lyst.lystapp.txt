@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account creation and management, Communication and marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "Recommendation of relevant products, personalized experience",
+      "type": "Location"
+    },
+    {
+      "data": "Website activity data",
+      "optional": false,
+      "purpose": "Advertising and marketing, Analytics",
+      "type": "Web browsing"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information (name, password)",
+      "optional": false,
+      "purpose": "Account creation and management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Limited access to personal information",
+      "description": "Only authorized personnel have access to your personal information"
+    },
+    {
+      "practice": "Data retention policy",
+      "description": "Data is stored for as long as necessary to provide the Services to you or until you request its deletion"
+    }
+  ]
+}

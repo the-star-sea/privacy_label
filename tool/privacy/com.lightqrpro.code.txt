@@ -1,0 +1,34 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-personal information such as installed application name and version, frequency of use, country, equipment and channel",
+      "optional": false,
+      "purpose": "Understanding user behavior, product and service improvement",
+      "type": "Non-personal information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Providing and improving the service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Non-personal information such as installed application name and version, frequency of use, country, equipment and channel",
+      "optional": false,
+      "purpose": "Understanding user behavior, product and service improvement",
+      "type": "Non-personal information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable security measures are used",
+      "description": "The developer strives to use commercially acceptable means of protecting user data"
+    },
+    {
+      "practice": "No guarantees on absolute security",
+      "description": "No method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and the developer cannot guarantee its absolute security"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+It also explains what rights you have to access or change your personal data. You may have the right, in accordance with applicable law in your country/region of residence, to request access to, deletion, correction, and portability of your information that we have collected or information that you have provided to us through the use of the App. 3.1.1We will collect any information that you provide to us when you:
+(a)access certain features or functions in our App that require personal information;
+(b)choose to link your accounts described in paragraph 3.1.2 (a) for purposes of saving your data and transferring it, accessing it between devices, and using certain features of our App,
+(c)make an inquiry, provide feedback, or make a complaint via email or our customer support site; and
+(d)submit correspondence to us via post, email, or our customer support site. To provide customer service and support, deal with inquiries or complaints about our App, and to share your information with our App developers, IT support provider, and payment services provider as necessary to provide customer support;
+(f)To send push notifications or questionnaires. Please consult the terms, conditions, and privacy notice of the relevant third-party site to find out how that site collects and uses your information and to establish whether and for what purpose it uses cookies. 10.2Please note that we may need to retain certain information for our own record-keeping and research purposes. We do not control these third-party websites, plug-ins, and apps and are not responsible for their privacy practices. (h)Dtection et prvention dactivit frauduleuse et illgale : pour protger, enquter et prvenir les activits frauduleuses, non autorises ou illgales, comprenant lusurpation didentit ; pour protger les droits et la proprit de Pokmon, nos mandataires, nos clients et dautres personnes, y compris pour appliquer nos conditions, politiques, rgles et accords ; pour protger la scurit et la sret de toute personne ; et/ou pour protger la scurit et la sret des services, sites Internet et applications de Pokmon et de nos partenaires. 13.6Outre les fins auxquelles vos informations  caractre personnel sont partages avec d'autres tiers (y compris des conseillers professionnels), dcrites dans les sections 5.1(h) et 6 ci-dessus, il faut compter le partage  des fins commerciales ncessitant l'accs  nos systmes sur lesquels se trouvent vos informations  caractre personnel (fourniture d'un stockage de donnes cloud, entretien de la scurit de nos systmes et assurance de l'assistance client). 13.7Le paragraphe 1798.83 du Code civil californien permet aux clients rsidant en Californie de demander certaines informations concernant la divulgation d'informations  caractre personnel  des tiers  des fins de marketing direct qui leurs sont propres. 3.1.2Le informazioni che ci fornite quando utilizzate la nostra App comprendono (a seconda delle circostanze):
+(a)Account di altri servizi collegati alla nostra App. 9.2Ogniqualvolta trasferiamo i vostri dati personali dall'interno all'esterno del SEE o del Regno Unito, il trasferimento sar basato su almeno una delle seguenti soluzioni:
+(a)Quando ci avvaliamo di determinati fornitori di servizi, possiamo utilizzare contratti specifici approvati dalla Commissione europea che conferiscono ai dati personali un'adeguata protezione. 13.4 possibile esercitare i diritti di cui sopra contattandoci utilizzando i recapiti di cui al paragrafo 2 della presente Informativa sulla privacy. 3.1.1Wir erfassen alle Informationen, die Sie uns zur Verfgung stellen, wenn Sie Folgendes tun:
+(a)Sie
+greifen in unserer App auf bestimmte Features oder Funktionen zu , fr die personenbezogene Informationen erforderlich sind. 5.WEM WIR IHRE INFORMATIONEN MITTEILEN KNNEN
+5.1Im Zusammenhang mit den oben angefhrten Zwecken und auf Basis der vorgenannten Rechtsgrundlagen teilen wir Ihre persnlichen Daten im erforderlichen Fall mit Dritten, beispielsweise folgenden:
+(a)App-Benutzer, mit denen Sie spielen. [Werbe-SDKs] Adjust KK und Tochtergesellschaften wie beschrieben in Abschnitt 5 (g) (Adjust SDK). [Push-Benachrichtigungen] Google LLC (Google Firebase)
+[Absturzdaten via Nintendo Switch] Nintendo Co., Ltd.
+7.COOKIES UND NACHVERFOLGUNG
+7.1Wir und andere Parteien verwenden Cookies, Web Beacons, Gerte-IDs und andere Nachverfolgungsmechanismen, um sicherzustellen, dass Sie unsere App optimal nutzen, und um Informationen ber Ihre Nutzung der App zu erhalten. (e)Die Kategorien personenbezogener Informationen, die zu geschftlichen Zwecken ber Sie offengelegt werden
+13.3Sie haben auch das Recht, von uns zu verlangen, unter bestimmten Umstnden personenbezogene Daten vorbehaltlich einiger Ausnahmen zu lschen. (b)Escoja vincular una de las cuentas descritas en el apartado 3.1.2 (a), con el objetivo de almacenar sus datos de juego y acceder a ellos o transferirlos entre dispositivos, as como usar ciertas funcionalidades de nuestra aplicacin. 3.1.2La informacin que nos facilite al usar nuestra Aplicacin incluir (segn las circunstancias):
+(a)La cuenta de otros servicios vinculados a nuestra Aplicacin. (i)Cumplir con polticas, procedimientos y leyes. 8.CMO CUIDAMOS DE SU INFORMACIN Y DURANTE CUNTO TIEMPO LA CONSERVAMOS
+8.1Aplicamos las medidas de seguridad tecnolgicas y operativas apropiadas para proteger su informacin contra un acceso no autorizado o un uso ilegtimo. 9.3Contacte con nosotros usando los datos de contacto indicados en el apartado 2 de esta Poltica de privacidad si desea obtener ms informacin sobre el mecanismo concreto que empleamos cuando transferimos sus datos personales fuera del EEE o del Reino Unido. 13.2Si es usted un consumidor de California cuya informacin personal se recopila a travs de la Aplicacin (cliente), la ley de privacidad del consumidor de California (California Consumer Privacy Act, CCPA por sus siglas en ingls) le reconoce ciertos derechos en relacin con dicha informacin personal. 2.1The Pokmon Company
+2.2
+(a)
+The Pokmon Company
+Pokmon HOME
+6-10-1HillsTower 8F
+https://app-ph.pokemon-support.com
+(b)
+Pokmon Korea, Inc.
+Pokmon HOME
+4F 801,Sinsu-ro,Suji-gu,Yongin-si, Gyeonggi-do, Korea
+mobilemaster@pokemonkorea.co.kr
+(c)
+The Pokmon Company International, Inc.
+Pokmon HOME
+10400 NE 4th Street, Suite 2800 Bellevue, WA 98004 USA
+privacyquestions@pokemon.com
+3. 3.1
+3.1.13.1.23.2
+(a)
+(b)3.1.2a
+(c)
+(d)
+3.1.2
+(a)Nintendo Account
+(b)
+(c)ID
+ID
+3.2
+(a)
+(b)
+(c)IDAPPIDIDIP/ HTTP/CookieCookie7
+(d)APP
+4. 9.1EEA
+9.2EEAEEA
+(a)European Commission European Commission: Model contracts for the transfer of personal data to third countries 
+(b)
+(c)
+9.3EEA2
+10.EU
+10.1EU
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)UK Information Commissionerhttps://ico.org.uk//
+10.22
+11. 12.1Children's Online Privacy Protection Act COPPA
+12.23COPPA
+13. 4.14.2
+(a)
+(b)
+(c)
+(d)
+4.2
+(a)
+(b)
+(c)
+(d)
+(e)IT
+(f)
+(g)
+(h)
+(i)
+4.3EU10EU
+5. ,    (  )  , ,   ,  , ,      ,   , ,         ,       , /     ,        .

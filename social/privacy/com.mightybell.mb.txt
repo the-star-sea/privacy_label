@@ -1,0 +1,48 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Profile picture",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Website or ad visited before Mighty Networks",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Pages visited on Mighty Networks",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Data",
+      "optional": false,
+      "purpose": "Creating and accessing Mighty Networks accounts; Tailoring your experience on Mighty Networks",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Other"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Appropriate technical and organizational measures including encryption, aggregation, and pseudonymization",
+      "description": "Protecting Personal Data from loss, misuse, and unauthorized access or use, disclosure, alteration, or destruction"
+    }
+  ]
+}

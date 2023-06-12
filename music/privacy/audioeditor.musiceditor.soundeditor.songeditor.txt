@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-Personal Information",
+      "optional": false,
+      "purpose": "Improving services provided",
+      "type": "Service usage"
+    },
+    {
+      "data": "Session and Available Data",
+      "optional": false,
+      "purpose": "Connection requests, server communication and data sharing",
+      "type": "Connection Data"
+    },
+    {
+      "data": "Aggregate information through Google Analytics and Facebook Analytics",
+      "optional": false,
+      "purpose": "Copyright royalty calculation, marketing event implementation, and tailored service provision for users in specific territory",
+      "type": "Analytics"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Session and Available Data",
+      "optional": false,
+      "purpose": "Connection requests, server communication and data sharing",
+      "type": "Connection Data"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Improving services provided",
+      "type": "Service usage"
+    },
+    {
+      "data": "Financial transaction data",
+      "optional": false,
+      "purpose": "Transaction processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Personal data in advertisements shown",
+      "optional": false,
+      "purpose": "Supporting and maintaining services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage data for monitoring and analysis",
+      "optional": false,
+      "purpose": "Improving services provided",
+      "type": "Service usage"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Use of commercially acceptable means of protecting data",
+      "description": "Striving to use secure methods of protecting user's information"
+    },
+    {
+      "practice": "No guarantee of absolute security",
+      "description": "Although protection methods are utilized, there is no absolute guarantee of security"
+    },
+    {
+      "practice": "Restrictions on child usage under 13 years old",
+      "description": "Service not meant for individuals under the age of 13"
+    }
+  ]
+}

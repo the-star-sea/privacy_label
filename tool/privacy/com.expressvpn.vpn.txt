@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal Data including name, email address and payment information",
+      "optional": false,
+      "purpose": "Providing Services, Email communication, Payment processing, Support",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage Statistics Data",
+      "optional": false,
+      "purpose": "Customer support and quality of service",
+      "type": "App activity"
+    },
+    {
+      "data": "IP addresses authorized to use MediaStreamer Services",
+      "optional": false,
+      "purpose": "Providing Services, Email communication, Payment processing, Support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Optimizing and improving user experience",
+      "type": "Device info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Remembering user actions or preferences",
+      "type": "Cookies"
+    },
+    {
+      "data": "Interactions with third-party products",
+      "optional": false,
+      "purpose": "Accessing external websites, mobile software applications, products, or services",
+      "type": "Interaction history"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "No collection of connection logs",
+      "description": "No logs of IP address, outgoing VPN IP address, connection timestamp, or session duration are stored"
+    },
+    {
+      "practice": "Best-in-class physical, procedural, and technical security measures",
+      "description": "Implemented to prevent any loss, misuse, or unauthorized access, disclosure or modification of your Personal Data"
+    }
+  ]
+}

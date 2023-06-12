@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Credit eligibility",
+      "optional": false,
+      "purpose": "Loan application",
+      "type": "Financial info"
+    },
+    {
+      "data": "Purchase amount",
+      "optional": false,
+      "purpose": "Loan application",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Loan application, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Loan application, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": true,
+      "purpose": "Loan application, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "Loan application, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Savings account",
+      "optional": false,
+      "purpose": "Loan application, Account management, Financial services",
+      "type": "Financial info"
+    },
+    {
+      "data": "Loan activity",
+      "optional": false,
+      "purpose": "Loan management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Affirm Card activity",
+      "optional": false,
+      "purpose": "Card management, Purchasing activity",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Financial data is stored with FDIC member banks",
+      "description": "Affirm savings accounts are held with Cross River Bank, and The Affirm Card is issued by Evolve Bank & Trust, both of which are FDIC members"
+    },
+    {
+      "practice": "Compliance with California financing regulations",
+      "description": "Affirm Loan Services, LLC is licensed by the California Department of Financial Protection and Innovation and loans are made or arranged pursuant to California Financing Law license 60DBO-111681"
+    }
+  ]
+}

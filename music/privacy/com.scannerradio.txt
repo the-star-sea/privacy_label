@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "Push notifications",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics, Advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Unique device identifiers for advertising",
+      "optional": false,
+      "purpose": "Analytics, Advertising",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Usage Data",
+      "optional": false,
+      "purpose": "Analytics, Advertising, App functionality, Content performance and features testing, Support and contact requests, Hosting and backend infrastructure",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Unique device identifiers for advertising",
+      "optional": false,
+      "purpose": "Analytics, Advertising",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Usage Data",
+      "optional": false,
+      "purpose": "Analytics, Advertising, App functionality, Content performance and features testing, Support and contact requests, Hosting and backend infrastructure",
+      "type": "App activity"
+    },
+    {
+      "data": "Tracker",
+      "optional": false,
+      "purpose": "Advertising, App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Various types of Data as specified in the privacy policy of the service",
+      "optional": false,
+      "purpose": "Hosting and backend infrastructure, Support and contact requests",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "User's data is securely transferred over the network"
+    },
+    {
+      "practice": "Personal Data shall be deleted after the retention period expires",
+      "description": "Once the retention period for Personal Data expires, it shall be deleted"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Purchases, Marketing communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address, Browser type, Operating system",
+      "optional": false,
+      "purpose": "App functionality, Security",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Purchases, Marketing communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment data",
+      "optional": false,
+      "purpose": "Purchases",
+      "type": "Financial info"
+    },
+    {
+      "data": "IP address, Browser type, Operating system",
+      "optional": false,
+      "purpose": "App functionality, Security",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is secured (technical, physical, administrative)",
+      "description": "All necessary steps are taken to secure user data"
+    }
+  ]
+}

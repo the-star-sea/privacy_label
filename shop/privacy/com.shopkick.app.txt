@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number(s)",
+      "optional": true,
+      "purpose": "App functionality, Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "App functionality, Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Home address",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment card numbers, third-party account information",
+      "optional": true,
+      "purpose": "App functionality, Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Transaction details",
+      "optional": true,
+      "purpose": "App functionality, Payment processing",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Personalization, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Demographic or psychographic information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information from third parties",
+      "optional": false,
+      "purpose": "App functionality, Payment processing, Personalization, Communication",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Administrative and electronic measures are in place to safeguard and protect your information from unauthorized access and disclosure",
+      "description": "We employ measures designed to protect your information"
+    }
+  ]
+}

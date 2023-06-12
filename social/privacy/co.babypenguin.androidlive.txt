@@ -1,0 +1,92 @@
+{
+  "sharedData": [
+    {
+      "data": "First and last name",
+      "optional": true,
+      "purpose": "Account creation",
+      "type": "Personal info"
+    },
+    {
+      "data": "Username",
+      "optional": true,
+      "purpose": "Account creation",
+      "type": "Personal info"
+    },
+    {
+      "data": "Profile Information",
+      "optional": true,
+      "purpose": "Account customization, Social sharing",
+      "type": "Personal info and media"
+    },
+    {
+      "data": "Message Information",
+      "optional": true,
+      "purpose": "Communication, Social sharing",
+      "type": "Personal info and media"
+    },
+    {
+      "data": "IP addresses",
+      "optional": false,
+      "purpose": "Service functioning, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "Service functioning, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Aggregated user data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Service functioning, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Contact information from mobile address book",
+      "optional": true,
+      "purpose": "Find friends",
+      "type": "Contact info"
+    },
+    {
+      "data": "Facial tracking and mapping information",
+      "optional": false,
+      "purpose": "Facial effect features",
+      "type": "Media"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Chat history",
+      "optional": false,
+      "purpose": "Communication",
+      "type": "Personal info and media"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Reasonable and appropriate safeguards to protect user information",
+      "description": "imo is committed to protecting user information against foreseeable risks"
+    },
+    {
+      "practice": "Notification to imo of unauthorized access or use",
+      "description": "Users are encouraged to alert imo of any unauthorized access or use of their personal information"
+    },
+    {
+      "practice": "Privacy settings and options for users",
+      "description": "imo provides users with options to edit, update, delete, or retrieve their account information"
+    }
+  ]
+}

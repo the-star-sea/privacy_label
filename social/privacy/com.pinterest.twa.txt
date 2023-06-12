@@ -1,0 +1,77 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Personalization, Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Device info"
+    },
+    {
+      "data": "Offsite interests",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Account information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Personalization, Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Device info"
+    },
+    {
+      "data": "Offsite interests",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Account information",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Standard contractual clauses are used when transferring data outside the EEA",
+      "description": "Your data is transferred to countries outside of the EEA using appropriate safeguards"
+    }
+  ],
+  "additionalInfo": "Children under 13 are not allowed to use Pinterest. Users have options to control their information by accessing their account settings and requesting corrections, deletions, or more information."
+}

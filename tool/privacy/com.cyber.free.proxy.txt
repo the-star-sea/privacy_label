@@ -1,0 +1,44 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Payment processing, Refund requests",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Registration, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment data",
+      "optional": false,
+      "purpose": "Payment processing, Refund requests",
+      "type": "Financial info"
+    },
+    {
+      "data": "Server load information",
+      "optional": false,
+      "purpose": "Improving functionality and usability",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is not stored",
+      "description": "Connection time stamps, session information, used bandwidth, traffic logs, and IP addresses are not stored"
+    },
+    {
+      "practice": "Personal data is processed under legal basis",
+      "description": "Personal data is processed for the purpose of providing Cyber Proxy services under the legal basis of performance of the contract between user and Cyber Proxy"
+    },
+    {
+      "practice": "Data protection rights given to users",
+      "description": "Users have the right to request information, changes, corrections, objection, copy, transmission, erasure, and discontinuation of personal data processing"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "sharedData": [
+    {
+      "data": "Transactional information such as product details, purchase price and location",
+      "optional": false,
+      "purpose": "Providing products or services, supporting business functions and operations, communication, research, data-driven business decisions",
+      "type": "Financial info, Location"
+    },
+    {
+      "data": "Precise location of device",
+      "optional": true,
+      "purpose": "Providing products or services, communication, research, data-driven business decisions, personalization",
+      "type": "Location"
+    },
+    {
+      "data": "IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, conversion information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Identifiers and internet or other electronic network activity information",
+      "optional": false,
+      "purpose": "Providing products or services, communication, research, data-driven business decisions, advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Personal information (such as name, email address, phone number), purchase preferences and history",
+      "optional": false,
+      "purpose": "Financial incentive programs",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data retention is limited to necessary and lawful purposes",
+      "description": "Personal information is only kept for as long as necessary for the purposes described in the Privacy Policy"
+    },
+    {
+      "practice": "Users are able to opt out of certain types of data collection",
+      "description": "Users have the ability to opt out of behavioral advertising through device settings"
+    },
+    {
+      "practice": "SMS privacy policy is provided",
+      "description": "Details about SMS policies and opt-out procedures are provided"
+    },
+    {
+      "practice": "User requests for deletion of personal information are processed as deemed necessary and appropriate",
+      "description": "PetSmart provides information about the deletion of personal information, including a table of statistics regarding requests, reasons for being unable to complete requests, and contact details for making such requests"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Android ID",
+      "optional": false,
+      "purpose": "Advertising, Analytics",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Google Advertising ID",
+      "optional": false,
+      "purpose": "Advertising, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Demographic data",
+      "optional": false,
+      "purpose": "Advertising, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data to fight against fraud",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Financial info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Advertising, Analytics",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is collected by third-party SDKs",
+      "description": "The developer has no control over how third-party SDKs collect and use data"
+    },
+    {
+      "practice": "Personal information is not connected to persistent device identifier",
+      "description": "Personally identifiable information or sensitive data is not associated with any persistent device identifier"
+    }
+  ]
+}

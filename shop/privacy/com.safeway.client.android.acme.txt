@@ -1,0 +1,104 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Grocery and pharmacy services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Grocery and pharmacy services, customer support",
+      "type": "Contact info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Grocery and pharmacy services, customer support",
+      "type": "Contact info"
+    },
+    {
+      "data": "Home address",
+      "optional": false,
+      "purpose": "Grocery and pharmacy services",
+      "type": "Location info"
+    },
+    {
+      "data": "Billing information",
+      "optional": false,
+      "purpose": "Grocery and pharmacy services",
+      "type": "Financial info"
+    },
+    {
+      "data": "Prescription information",
+      "optional": false,
+      "purpose": "Pharmacy services",
+      "type": "Health info"
+    },
+    {
+      "data": "Shopping history",
+      "optional": false,
+      "purpose": "Business decisions, personalized deals",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Grocery and pharmacy services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Grocery and pharmacy services, customer support",
+      "type": "Contact info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Grocery and pharmacy services, customer support",
+      "type": "Contact info"
+    },
+    {
+      "data": "Home address",
+      "optional": false,
+      "purpose": "Grocery and pharmacy services, delivery services",
+      "type": "Location info"
+    },
+    {
+      "data": "Billing information",
+      "optional": false,
+      "purpose": "Grocery and pharmacy services",
+      "type": "Financial info"
+    },
+    {
+      "data": "Prescription information",
+      "optional": false,
+      "purpose": "Pharmacy services",
+      "type": "Health info"
+    },
+    {
+      "data": "Shopping history",
+      "optional": false,
+      "purpose": "Business decisions, personalized deals",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Appropriate retention period is determined",
+      "description": "Retention period is determined based on legal requirements, amount, nature, and sensitivity of the Personal Data"
+    },
+    {
+      "practice": "Consumer's consent is required for data requests by authorized agents",
+      "description": "Authorized agents requesting data need to provide proof of consumer's consent and identity verification information"
+    }
+  ]
+}

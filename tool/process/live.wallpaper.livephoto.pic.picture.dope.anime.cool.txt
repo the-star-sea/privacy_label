@@ -1,0 +1,16 @@
+Privacy Policy
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You. We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. For simplicity, we refer to all of these as our "app" in this Privacy Policy. It goes without saying, we can't help you have an awesome user experience without some information about you. We collect information generated as you use our app. Your information may be kept in an identifiable format, or in an aggregate format which means that you cannot reasonably be identified from it. Information you give us
+You choose to give us certain information when using our app. This includes:
+Usage Information:
+We collect information about your activity on our app, for instance how you use them (e.g., date and time you logged in, time spent in the app, features you've been using, advertising that you click on). Device information:
+Geolocation data, which is any information that indicates the geographical position of your device and which may include the time and the location. Some apps may collect this data when the app is not open or actively in use. This may help us or third parties to customize information, content, or offers to you, for instance. We collect information from and about the device(s) you use to access our app, including:
+Device type, app crashes, app version, advertising IDs (such as Google's AdvertisingID and Apple's IDFA, both of which are randomly generated numbers that you can reset by going into your device's settings), version and language, operating system. Android Advertising ID
+We use your Android advertising identifier in order to provide you with customized advertisement experience
+Full network access
+Load data from network to performance our service
+Storage
+We use this permission to storage wallpaper files you want to download
+Modify settings
+We use this permission to set wallpaper to your device
+If you have any questions regarding this Privacy Policy, you may contact us at jellydeve1399@outlook.com. Disclaimer:
+Some dope backgrounds used in this application are copyright to their respective owners and usage falls within the "Fair Usage" guidelines. The wallpapers are collected from free to use sources. If you believe you are the copyright owner of the wallpaper and if you need to be credited or if you want the wallpaper to be removed then feel free to contact us.

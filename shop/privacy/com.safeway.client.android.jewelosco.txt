@@ -1,0 +1,85 @@
+{
+  "lastUpdated": "January 1, 2023",
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Prescription Pick-up",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Online orders, Customer support center",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "Online orders, Customer support center",
+      "type": "Personal info"
+    },
+    {
+      "data": "Home address",
+      "optional": true,
+      "purpose": "Online orders, Delivery services, Customer support center",
+      "type": "Personal info"
+    },
+    {
+      "data": "Billing information",
+      "optional": true,
+      "purpose": "Online orders, Delivery services, Customer support center",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal info",
+      "optional": false,
+      "purpose": "Understanding shoppers, Personalized deals, Business decisions, Customer support center",
+      "type": "Shopper data"
+    },
+    {
+      "data": "Health data",
+      "optional": true,
+      "purpose": "Maximizing app, Earning rewards, Health and wellness path",
+      "type": "Sensitive personal info"
+    },
+    {
+      "data": "Activity data",
+      "optional": true,
+      "purpose": "Maximizing app, Earning rewards, Health and wellness path",
+      "type": "Sensitive personal info"
+    },
+    {
+      "data": "Lifestyle information",
+      "optional": true,
+      "purpose": "Maximizing app, Earning rewards, Health and wellness path",
+      "type": "Sensitive personal info"
+    },
+    {
+      "data": "Information about others",
+      "optional": true,
+      "purpose": "Prescription pick-up, Sharing content, Sending information",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data encryption",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data retention policy",
+      "description": "We have an appropriate retention period for Personal Data"
+    },
+    {
+      "practice": "Consumer data requests",
+      "description": "We have a process in place for consumer data requests"
+    },
+    {
+      "practice": "Data sharing",
+      "description": "We do share some of your Personal Data in order to provide our services"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Job application, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Telephone number",
+      "optional": false,
+      "purpose": "Job application",
+      "type": "Personal info"
+    },
+    {
+      "data": "Current employer",
+      "optional": true,
+      "purpose": "Job application",
+      "type": "Professional or employment-related info"
+    },
+    {
+      "data": "Social media account links",
+      "optional": true,
+      "purpose": "Job application",
+      "type": "Professional or employment-related info"
+    },
+    {
+      "data": "Access and use of the Services",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Identifiers and geolocation information",
+      "optional": false,
+      "purpose": "Advertising or marketing, CCPA sale of data",
+      "type": "Device or other IDs, Location"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data may be shared with third party service providers",
+      "description": "Personal information collected may be processed by partners in providing related services to the Service"
+    },
+    {
+      "practice": "Encryption is not guaranteed",
+      "description": "We cannot guarantee the privacy practices, content, or information contained in third-party websites or apps"
+    },
+    {
+      "practice": "Complaints will be investigated",
+      "description": "We will investigate all complaints and take reasonable steps to resolve the issue"
+    },
+    {
+      "practice": "Users have rights to access and delete information",
+      "description": "Users have the right to access, delete, and opt-out of the sale of their personal information"
+    }
+  ]
+}

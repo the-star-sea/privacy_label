@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Information provided by users",
+      "optional": false,
+      "purpose": "Platform services such as account management, customer support, and communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information collected automatically",
+      "optional": false,
+      "purpose": "Platform optimization and security purposes",
+      "type": "App activity"
+    },
+    {
+      "data": "Information received from third parties",
+      "optional": false,
+      "purpose": "Verification services and payment processing",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Basic public profile information from social media platforms",
+      "optional": false,
+      "purpose": "Account creation and verification",
+      "type": "Personal info"
+    },
+    {
+      "data": "Session cookies and other tracking technologies",
+      "optional": false,
+      "purpose": "Platform optimization and personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Payment and transaction data",
+      "optional": false,
+      "purpose": "Completing transactions on the platform",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Personal data is transferred over a secure connection"
+    },
+    {
+      "practice": "Standard contractual clauses and other measures",
+      "description": "Appropriate measures are taken to ensure data protection during international transfers"
+    },
+    {
+      "practice": "Data retention policy",
+      "description": "Certain data is retained for a period of time after account deletion or termination to comply with applicable laws"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Technical data",
+      "optional": false,
+      "purpose": "Website functionality, User experience, Analytics",
+      "type": "Technical info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal data provided by the user (e.g. contact details, purchase history)",
+      "optional": false,
+      "purpose": "Account management, Order fulfillment, Marketing communications, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Technical data (e.g. device details, browser type, location)",
+      "optional": false,
+      "purpose": "Website functionality, User experience, Analytics",
+      "type": "Technical info"
+    },
+    {
+      "data": "Identity data (e.g. name, address)",
+      "optional": false,
+      "purpose": "Order fulfillment, Fraud prevention",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial data (e.g. payment information)",
+      "optional": true,
+      "purpose": "Order fulfillment",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "We will notify you of any personal data breach",
+      "description": "If a personal data breach occurs, we will notify you and any applicable regulator"
+    },
+    {
+      "practice": "We use a variety of measures to protect your personal data",
+      "description": "We use security measures to protect your personal data from unauthorized access, use or disclosure"
+    },
+    {
+      "practice": "You can request access to your personal data",
+      "description": "You have the right to obtain a copy of the personal data we hold about you and certain information relating to our processing of your personal data"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+Privacy Policy
+Gif Sticker (or we, our, us) collects information from you in order to provide better service and give you a better user experience. How We Collect and Use Your Personal data
+Why We Collect Your Personal data
+How We Share, Transfer, and Publicly Disclose Your Personal data
+Your Rights
+How We Store and Protect Your Personal data
+To California Residents
+To EU Users
+Children Under 13
+Contact Us
+Changes to This Privacy Policy
+1. When you save the photo, we also need the storage permission to save photo and change the save path; This permission is only for editing and saving photos. We will not obtain any video or photo from your device, nor will we modify or delete the content in your local media storage. ANALYTICS: We may use third-party analytics tools such as Google Firebase Analytics to help us analyze usage trends for the services. These tools will track the information on how you use our App. We may collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user. Please understand that this information is automatically collected by us. ADs: We may allow the third-party online advertising network such as Google ads and Facebook ads to collect information about your use of our App over time for playing or displaying ads that may be of interest to you. How We Share, Transfer, and Publicly Disclose Your Personal data
+- How We Share
+We promise to keep your personal data confidential. Except for the scenarios stipulated in this policy, we only share your necessary information with third parties in the following situations:
+1Have obtained your explicit consent or authorization;
+2When it is required to be provided in response to instructions from state agencies, authority, or administrative or judicial requirements;
+3When achieving the purposes described in the section "How We Collect and Use Your Personal data";
+4Share with advertising service and technical support partners. In order to provide you with more complete and high-quality products and services, we may share some of your personal data with our partners. Once we discover any violation of dealing with the personal data, we will terminate the partnership immediately and pursue legal responsibility. Directory of third-party SDKs that may be accessed
+Category
+Function
+Types of information collected
+Remark
+Firebase SDK
+Data statistical analysis service
+Application software list
+https://policies.google.com/privacy
+Admob Ads SDK
+Get and display ads
+Unique device identification code (Android ID
+https://policies.google.com/privacy
+- How we transfer
+Except for the requirements of laws and regulations, mandatory administrative law enforcement, judicial or regulatory requirements, we will not transfer your personal data to any company, organization or individual. Your Rights
+Under applicable laws of your jurisdiction, you may have one or more of the rights to your personal data. You may revoke any permissions you have granted to us before, such as permission to access your camera or camera roll. You have the right to opt out of receiving personalized ads. If you are not interested in personalized display, you may turn off the display of personalized content through our App services or the setting on your mobile device. Please note that you may still see ads after turning off this option, but the relevance of ads will be reduced. If you are a California resident, please refer to the To California Residents section. If you are within European Union, please refer to the To EU Users section. How We Store and Protect Your Personal data
+- We wont store your personal data. - We will work hard to provide protection for users' information security to prevent information loss, improper use, being hacked or disclosure. For example, anonymize your personal data. Children Under 13
+Our Service does not address anyone under the age of 13 (or the prescribed age in your country/region). We do not knowingly collect personally identifiable information from anyone under the age of 13 (or the prescribed age in your country/region).If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us. Contact Us
+It should be noted that whether or not to send us your feedback or bug report is a completely voluntary initiative upon your own decision. If you have a concern about your personal data being misused, or if you want further information about our privacy policy and what it means, please feel free to email us at fotogrid.apps@gmail.com, we will endeavor to provide clear answers to your questions in a timely manner. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Please note that your use or continued use of the products and/or services we provide means that you fully understand and agree to the entire content of this privacy policy (including updated versions).

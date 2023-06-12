@@ -1,0 +1,88 @@
+{
+  "sharedData": [
+    {
+      "data": "Customer data",
+      "optional": false,
+      "purpose": "Order processing, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Shopping cart contents",
+      "optional": false,
+      "purpose": "Order processing",
+      "type": "Shopping cart"
+    },
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Recent searches",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Metadata"
+    },
+    {
+      "data": "Personal Information (e.g. name, email address)",
+      "optional": false,
+      "purpose": "Various purposes including customer support, marketing, and analytics",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage information (e.g. device type, browser type, access times)",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Metadata"
+    },
+    {
+      "data": "Page visit records",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Metadata"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Metadata"
+    },
+    {
+      "data": "Aggregate site usage information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Metadata"
+    },
+    {
+      "data": "Third-party information (e.g. from Google Analytics)",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Metadata"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Use of Secure Sockets Layer (SSL) technology",
+      "description": "Orders and sensitive customer information is transmitted securely over the Internet"
+    },
+    {
+      "practice": "Usage of third-party companies to tailor advertising",
+      "description": "Personalized ads are displayed to users based on their use of the Site"
+    },
+    {
+      "practice": "No response to Do Not Track Signals",
+      "description": "The Site may continue to track user behavior even if Do Not Track Signals are enabled"
+    },
+    {
+      "practice": "The transfer to, and processing, usage, sharing and storage of your information in the United States",
+      "description": "User information may be stored and processed in the United States"
+    },
+    {
+      "practice": "Option for users to request deletion of information",
+      "description": "Users can request their information to be deleted or opt-out of marketing communications"
+    }
+  ]
+}

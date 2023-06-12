@@ -1,0 +1,84 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment card and billing information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Communication and identity verification",
+      "type": "Personal info"
+    },
+    {
+      "data": "Technical information that identifies a device",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Location",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device location"
+    },
+    {
+      "data": "Information about marketing preferences",
+      "optional": false,
+      "purpose": "Marketing",
+      "type": "Marketing preferences"
+    },
+    {
+      "data": "Log files and information about your device",
+      "optional": false,
+      "purpose": "Analytics and personalized user experience",
+      "type": "Device and user activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can access and update your personal information",
+      "description": "You have the right to access, update, and delete your personal information, subject to certain exceptions"
+    },
+    {
+      "practice": "Data is retained for legitimate business purposes",
+      "description": "We may retain your information for legitimate business purposes or as required by law"
+    },
+    {
+      "practice": "We may share your information as disclosed in the Privacy Policy",
+      "description": "We may share your information with your consent or as otherwise disclosed at the time of data collection or sharing"
+    }
+  ]
+}
