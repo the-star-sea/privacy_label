@@ -1,0 +1,137 @@
+Home
+Our offers
+How it works
+Sign up
+Log in
+Get the app
+Privacy Policy
+Capitalized terms used but not defined in this Privacy Policy shall have the definitions ascribed to such terms in the Terms and Conditions, as applicable.
+When you use our services, you entrust us with some of your personal information. This privacy policy explains how we process your personal data when you use the Shopmium website and smartphone app (referred to individually as a "Site" and collectively as "Sites"). This Privacy Policy sets out how our group companies, Quotient Technology Ltd, Shopmium SAS and Shopmium SRL, collect, share and use personal data, and how you can exercise your rights.
+Quotient Technology Limited, Shopmium SAS and Shopmium SRL are referred to collectively in this Privacy Policy as "Shopmium", "our", "we" or "us". This Privacy Policy applies only to information collected online by Shopmium sites and does not apply to Shopmium Activate services. Information about how your personal information is processed when using Shopmium Activate services is available in the privacy policy of Shopmium Activate's service partners. If you have any questions, comments or concerns regarding this Privacy Policy or associated actions, please get in touch using the contact details provided at the end of this document.
+1. Personal Information collected by Shopmium and legal basis for processing personal information
+A. Information that we collect
+Personal data that you share with us:
+This includes your first name, surname, gender, telephone number, date of birth, email address, company, bank account information, PayPal account details, postal address, loyalty card numbers, comments and reviews, as well as any other information you choose to provide.
+We collect photos of receipts that you send us and the information contained in these receipts, such as items that you purchased, their price, the total cost of purchases and the store where the receipt was issued. We also collect information about Shopmium offers that you interact with and add to your Shopmium selection.
+Personal data that we collect automatically:
+We record usage data when you visit the Sites, using cookies and other trackers. We also collect technical data about your internet connection, browser and devices, location data, device number, mobile advertising identifier and IP address.
+Although some location data are collected automatically, you will be asked to share this information with us when you use a browser or device with a GPS connection. You can enable or disable this option in your device or browser settings at any time.
+B. How we use the information we collect
+We use your data for the following purposes:
+1. Processing is necessary for the performance of a contract
+We use your data to provide services, such as:
+Setting up and managing your account;
+Sending you push notifications and emails regarding your use of our services;
+Making transfers to your PayPal or bank account;
+Responding to queries sent to our customer services team;
+Processing and displaying product ratings and reviews;
+Displaying your loyalty cards;
+Allowing you to receive cashback for referral and be part of the Shopmium Club;
+Allowing us to verify your proof of purchase.
+2. Processing is necessary for the purposes of Shopmium's legitimate interest
+We use your data in our legitimate interest, including for:
+Compiling marketing statistics and analyses, in order to understand how you use our services;
+Measuring the performance of promotional campaigns on our Sites;
+Measuring the performance of Shopmium promotional campaigns on third-party sites;
+Offering you personalised content and improving your user experience;
+Conducting surveys (e.g. customer satisfaction, feedback). These data allow us to get to know you better and provide valuable insight that can help us offer solutions that meet your needs and expectations. You may receive emails from our trusted partners, offering you the chance to participate in a survey;
+Fighting fraud;
+The purpose of collecting and keep evidence;
+Offering you the chance to enter in-app competitions;
+Creating a user profile (profiling). To do this, we analyse data that you share with us or generate when you use our range of services, in order to build profiles (also known as segments, personas, etc.) that align with your preferences and interests.
+When leaving a product review on a Site, your name and username may be published on the Sites along with your review. If you allow your comments to be shared with our partners, they may reuse your comments on their platforms, and we may be required to share personal data with these partners so that they can establish the authenticity of comments;
+Use the information contained in the receipts for market studies.
+3. Shopmium relies on your consent
+We use your data with your consent in order to:
+Send you communications regarding our services and promotions in accordance with your communication preferences. You can unsubscribe from our marketing newsletter service by clicking on the unsubscribe link indicated at the bottom of each newsletter, as well as in your account. You can also disable Push notifications in your account and on your device;
+Allow you to find stores near you based on your location data;
+Allow us (via data processors including Yahoo and Unify) and our partners to personalise ads that are displayed on third-party sites, so that you do not see ads that are not relevant to you. You can give and withdraw your consent at any time in your account.
+When you log into our Sites via a social media account, we may collect data relating to your account or profile. You can choose to enable or log into services via Facebook Connect or Apple Connect ("Social Media"). When you log in using Social Media, we may collect personal data that you have shared on your Social Media account. For example, when you log in using your Facebook credentials, we may, with your consent, collect personal data such as your email address from your Facebook profile, insofar as this is permitted under Facebook's terms of use. If you do not want to share these data with us, you will need to adjust your privacy settings in your Social Media account. For more detailed information, please refer to your Social Media account terms and conditions, which govern how account data are collected and shared with us.
+4. Statutory obligations
+We may process your data in order to fulfil our statutory obligations. In some cases, we may use your personal data to process and resolve legal disputes, for regulatory investigations or compliance with applicable law, to enforce our terms of use or to comply with requests from authorities.
+2. Information that we share with third parties
+Data that we collect may be accessed by our service partners, operating as subcontractors, who provide administrative and technical services involved in achieving the aforementioned purposes (e.g. web hosting, payment services, ad tech, etc.).
+We may disclose your personal information to law enforcement agencies, regulatory bodies, government departments and agencies, courts and other third parties, where we consider such disclosure necessary (i) under applicable law or regulations, (ii) to exercise, establish or defend our legal rights, and/or (iii) to protect your or any other person's vital interests;
+Shopmium will disclose your personal information to a potential buyer (and its staff and advisers) in connection with any proposed purchase, merger or acquisition of a portion of our business, on the condition that we notify the buyer that it must only use your personal information for the purposes indicated in this Privacy Policy;
+Some of our partners may, as data controllers, collect data with your consent. These include the following advertising service providers:
+Criteo SA (https://www.criteo.com/privacy/);
+LiveRamp, Inc (https://liveramp.com/privacy/service-privacy-policy/);
+Nielsen Marketing Cloud (https://www.nielsen.com/us/en/legal/privacy-statement/nielsen-marketing-cloud-privacy-notice/);
+Yahoo EMEA Limited (https://legal.yahoo.com/ie/en/yahoo/privacy/index.html) ;
+Xandr, Inc (https://www.xandr.com/privacy/platform-privacy-policy/ )
+We may share personal data that we collect from you with these companies. Items of data include your email address (in hashed, de-identified form), age and gender, IP address, mobile advertising identifier, browser or operating system information, data obtained from using our service (frequency of visits, categories of posts viewed, interaction with our offers and type of loyalty card). Please refer to their privacy policies (indicated above) for more information.
+These partners may use your data to provide you with advertising based on your interests (or online behavioral advertising). These relevant advertisements may be served based on your activity on websites and apps you have recently visited and these partners may use third-party cookies to provide a more targeted advertising experience both on and off those websites or apps. Please see the Network Advertising Initiative website (www.networkadvertising.org) and the Digital Advertising Alliance website (www.abou tads.info) for more information.
+When you use our mobile app, we may share with our partner LiveRamp and its group companies personal data about you, including your email address (in hashed, de-identified form), IP address, mobile device ID and timestamp. LiveRamp may use this information to create a link between your mobile and other information (demographic or interest-based information) that LiveRamp or its clients and partners may have collected about you in order to provide you with personalized content or advertising throughout your online experience. You have the right to exercise your rights under GDPR including object to the processing of your personal information at any time by clicking on this link: https://your-rights.liveramp.uk/home.
+We can share, based on legitimate interest, photos of receipts and proof of purchases with our partner ABOUTGOODS COMPANY which it will process these receipts as independent data controller. Its privacy policy is available by following this link - https://legal.kweeri.io/CharteConfidentialite.html#b-utilisation-des-information-recueillies.
+3. International data transfers
+We may use and store personal information that we collect from you in countries outside the European Economic Area (including the United States of America, India and Madagascar). Please note that countries outside the European Economic Area are unable to offer the same level of data protection as the European Union.
+Specifically, our Web servers are located in the United States and the European Union, and our group companies and third-party service providers and partners operate across the world. This means that when we collect your personal information, we can process them in one of these countries.
+However, we have implemented appropriate security measures to ensure that your personal information remains protected in accordance with this Privacy Policy. This includes the application of Standard Contractual Clauses approved by the European Commission for personal data transfers outside of the EEA, which require companies to protect personal data that they process from the EEA in accordance with EU Data Protection Law and Regulations.
+Our standard contractual clauses are available on request. We have put similar appropriate security measures in place with our third-party service providers and partners, and further details are available on request.
+4. Your data protection rights
+You have the following rights over your data:
+Right of access: You may contact us to find out what information we hold about you.
+Right of rectification and erasure: You may correct your data and ask for it to be erased.
+Right to restrict processing. You may object to our carrying out of certain processing actions.
+Right of portability: You may ask us to forward items of your personal data in electronic format to you.
+It should be noted, however, that the exercise of these rights is not absolute and may be restricted on legal grounds, or on the grounds of legitimate interest (e.g. customer disputes).
+If you would like to access, correct, update or request the erasure of your personal information, you can do so at any time in your personal account space.
+You can also object to the processing of your personal data, ask us to restrict the processing of your personal data, or exercise the right of portability over your personal data. You can exercise these rights by getting in touch using the contact details given via the "Contact Us" link below.
+You may decide to stop receiving marketing communications from us at any time. You can exercise this right by clicking on the "unsubscribe" or "opt-out" link in marketing emails that we send you.
+Equally, if we have collected and processed your personal data with your consent, you can withdraw this consent at any time. Withdrawing your consent shall not affect the legality of all processing activity carried out before this date and any processing activity carried out on grounds of legitimate interest other than consent.
+You have the right to contact the relevant data protection authority regarding our collection and use of your personal data.
+If you live in France, you can also instruct us as to how we can continue to store, erase and share your information after you die and, where applicable, nominate an individual to exercise these rights after you die.
+We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection law.
+5. Automated decision-making
+In some instances, the use of your personal information may involve automated decisions being made (including profiling) that affect you legally or otherwise significantly. Automated decisions mean that decisions about you are made automatically, based on the outcome of computer system processing (using algorithms), with no human input. For example, we use automated decisions to select offers that are most likely to interest you. We have put measures in place to protect the rights and interests of individuals whose personal information is used in automated decision-making.
+When we make an automated decision about you, you have the right to contest the decision, state your position and demand a review of the decision by a physical person. You may exercise this right via the "Contact Us" link below.
+6.
+Data retention
+We keep personal information that we collect where we have a legitimate commercial interest in doing so (e.g. to provide a service that you requested or to comply with applicable legal, tax or accounting requirements).
+When we no longer need to process or retain your personal information, we will delete or anonymise this information, or, where that is not possible (e.g. because they were stored in backups), we will store them securely and place them beyond the scope of subsequent processing activity until it is possible to delete them.
+7. Privacy Of Children On Our Sites
+Shopmium will at no time collect personal information from children aged under 16 (sixteen). Sites and their content are targeted at individuals aged 16 (sixteen) or over. If you are under 16 (sixteen), you may not use our Sites unless you have the consent of a parent or guardian and are supervised.
+8. Updates to Privacy Policy
+While we continue to offer our visitors new types of content and services, the Sites may make changes to how we collect, use and/or share information. Should there be a major change to the way we collect, use and/or share information, this shall only apply to information collected subsequently, and we will take appropriate measures to notify you, based on the extent of the changes we intend to make.
+9. Security Statement
+We take all appropriate technical and organisational measures to protect your personal data as best we can. The measures we take are intended to provide a level of security commensurate with the risk from processing your personal information. We operate secure data networks that are firewall-protected in accordance with industry standards, and password-protected against loss, misuse and modification of information under our control.
+10. Contact Us
+If you have any questions, comments or concerns regarding our privacy practices, please contact us using the following contact details depending on your geographic location:
+If you are accessing our Sites or using our Services from the United Kingdom:
+Email us at help-uk@shopmium.com
+Write to us at Shopmium, Unit F, 120 Weston Street, SE1 4GS London, United Kingdom
+If you are accessing our Sites or using our Services from Belgium:
+Email us at contact.be@shopmium.com
+Write to us at Shopmium, 46 rue de l'Arbre Sec, 75001 Paris, France
+If you are accessing our Sites or using our Services from France:
+Email us at help-fr@shopmium.com
+Write to us at Shopmium, 46 rue de l'Arbre Sec, 75001 Paris, France
+11 February 2022
+USER HELP
++
+How does it work
+Payment questions
+Referral program
+Help Centre
+ADVERTISERS
++
+Our media & data solutions
+Who are we
+Business Inquiries
+ABOUT SHOPMIUM
++
+Our history
+Become an affiliate
+Media Contact
+Career
+United Kingdom
+France
+United States
+Belgique (Français)
+België (Vlaams)
+© Copyright 2023 Quotient Technology Inc. - Shopmium and Coupons.com are Quotient Brands
+B2B Brand Solutions
+Privacy Policy
+Terms & Conditions
+Cookie notice
+Manage cookies

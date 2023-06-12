@@ -1,0 +1,18 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.flyvpn.com/privacy"
+}

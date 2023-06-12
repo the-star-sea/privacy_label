@@ -1,0 +1,31 @@
+Privacy Policy
+This privacy agreement is provided by Marvel Studios and applies to tool applications, including mobile applications, and games related products and services. Our software and services may include various functions and content provided and transmitted by us and third parties, such as advertisements.
+We have been working hard to ensure that our data is safe and used in a correct and legal manner.
+You can learn from this privacy agreement how we collect, apply and share data, including with whom we share data.
+Any changes to this policy should be posted in this document. You can check our latest privacy agreement regularly. Continuing to use the mobile application means that you agree to our revised privacy policy.
+1. What data do we collect?
+When you use software and services, the team may collect and store the following information about you:
+1. Technical Information
+Some technical information of your device, the use of software, services and Internet applications from third parties of the device; the type, name and version of the operating system and other software and services; ISP (Internet Service Provider), GPS (Global Positioning System) ), IP (Internet Protocol), anonymous user identifier, device configuration, IDFA (advertiser identifier in iOS), advertiser ID (advertiser identifier in Android, etc.), software and service version, configuration and settings, etc. ；
+2. Usage information
+Information about the use and interaction of the device, including software, services and other software; for example: when and how to use the software, services and other software; the applications you own and how often you use them; the advertisements you read and their responses.
+3. Non-personal information
+Non-personal information refers to data that is not allowed to directly connect to any specific individual, such as your Android ID, CPN model, memory size, mobile phone IMEI number, mobile phone model, ROM, screen resolution, installed application name and software packaging , Mobile phone operator, location, installation, uninstallation and frequency of use, etc.
+We collect and use non-personal information to better understand user behavior, solve problems in products and services, and improve our products, services, and advertising. For example: by understanding your screen resolution, we will improve the screen adaptability of our products.
+4. Support related information
+If you contact us via email for relevant support, we may collect your email address and the information contained in the email. Such information is only used to provide you with support and services.
+1. Check and update to ensure that you will get the latest features of the app in time.
+2. Notify you of software and service updates.
+3. Provide you with support and handle your feedback and complaints.
+4. Take measures to prevent opposition to software and services.
+5. To provide you with personalized content, including advertisements based on interest to us or our partners.
+6. Find any problems and improve software and services in time.
+7. Maintain and improve the service quality and operation of the software, and provide customized content.
+8. Protect software and functions from malicious use.
+9. Ensure that the product complies with laws and regulations and other applicable policies and regulations.
+We recommend that you read its terms, conditions and privacy policies before using or accessing any third-party content and services.
+You can learn how third parties use your data through the following links:
+Google:
+https://policies.google.com/technologies/partner-sites
+Facebook:
+https://www.facebook.com/about/privacy/update

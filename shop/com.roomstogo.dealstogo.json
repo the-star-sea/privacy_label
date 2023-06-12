@@ -1,0 +1,101 @@
+{
+  "sharedData": [
+    {
+      "data": "User payment info",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Financial info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Precise location",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Analytics, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Emails",
+      "optional": true,
+      "purpose": "App functionality, Advertising or marketing, Personalization, Account management",
+      "type": "Messages"
+    },
+    {
+      "data": "SMS or MMS",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Messages"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": false,
+      "purpose": "App functionality, Personalization, Account management",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://legal.roomstogo.com/rtg-online#contract-fxauo3tp2"
+}

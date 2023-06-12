@@ -1,0 +1,216 @@
+Privacy Policy
+Privacy Policy
+1. USER INFORMATION
+Who is the controller of your personal data?
+Red Sky Labs, S.L.
+is the CONTROLLER of the USER’s personal data and informs him/her that these data shall be
+processed in accordance with the provisions of Regulation (EU) 2016/679 of 27 April (GDPR) and the Organic Law
+3/2018 of 5 December (LOPDGDD)
+Why do process your personal data?
+To maintain a commercial relationship with the user. The planned processing operations are:
+Sending commercial advertising communications by email, fax, SMS, MMS, social networks or by any
+other electronic or physical means, present or future, that make it possible to carry out commercial
+communications. These communications will be made by the CONTROLLER and will be related to their
+products and services, or those of their partners or suppliers with whom they have reached a promotion
+agreement. In this case, the third parties will never have access to personal data.
+Conduct market research and statistical analysis.
+Processing orders, requests, respond to queries or any type of request made by the USER through any of the
+contact methods available at the CONTROLLER’s website.
+Send the online newsletter on news, offers and promotions in our activity
+Specific processing:
+The controller will be able to access any piece of data that is necessary to carry out the functions of the specific
+service of every app within the device. In particular, depending on the purpose, each app will be able to access the
+following information:
+Content of the user: Camara, facial recognition, gallery, SMS (to save filters, wallpapers and others)
+Health and Fitness: Data regarding health and exercise (for diets and exercise routines)
+Location: Precise location of the user. In in the foreground and background (to find colleagues and nearby
+leisure)
+Contacts and call log (to identify spam)
+Identifiers: IDFA and identifiers that create the apps with backend.
+Data usage: Interactions with the products
+Shopping: Follow the user´s shopping experience to improve or personalize it.
+Diagnose data: Time, level of battery.
+Other information: Technical information of the device
+Access to the device´s identifier and location to be able to target advertising as well as possible.
+The information gathered is anonymized for its analysis and optimization of advertisement, and in no.scenario the
+user is identified. In any case, permission will be requested to access this data. The user will be able to refuse the data
+processes previously mentioned, and the app won´t offer the functionalities that depend on them.
+Why can we process your personal data?
+Because the processing is legitimised by article 6 of the GDPR as follows:
+With the USER’s consent: sending commercial communications and the newsletter.
+In the legitimate interest of the CONTROLLER: conduct market research, statistical analysis, etc. and
+process orders, requests, etc. at the request of the USER.
+For how long will we keep your personal data?
+Data shall be stored for no longer than is necessary to maintain the purpose of the processing or for as long as there
+are legal prescriptions dictating their custody, and when such purpose is no longer necessary the data shall be erased
+with appropriate security measures to ensure the anonymization of the data or their complete destruction.
+¿To whom do we disclose your personal data?
+No communication of personal data to third parties is foreseen except, if necessary for the development and execution
+of the purposes of the processing, to our suppliers of services related to communications, with which the
+CONTROLLER has signed the confidentiality and data processor contracts required by current privacy regulations.
+What are your rights?
+The rights of the USER are:
+Right to withdraw consent at any time.
+Right of access, rectification, portability and erasure of your data and the limitation or objection to their
+processing.
+The right to file a claim with the Spanish Supervisory Authority (www.aepd.es) if you consider that the
+processing does not comply with the current legislation.
+Minors and Incapable Person
+The acceptance of this Privacy Policy ("Policy") will occur when the user or, when necessary, the respective father, mother, or tutor accesses the App
+and agrees with the use of his or her personal data to each purpose described herein. In case you do not agree with this Policy, please, do not continue
+interacting with the App. However, we would like to know the reason of your disagreement so that we can improve our products. Please contact us at mailto: admin@redsky-labs.com
+Red Sky Labs takes it very seriously when it comes to the personal data of minors and incables people as app users.
+Due to this reason, no personal data of users will be collected, stored, or otherwise processed for any purpose other than those expressed herein, except in case of a legal
+obligation to be observed by Red Sky Labs.
+What are Personal Data?
+Personal Data are all information that may identify or make identifiable any person (“Personal Data”), such as, for instance, IP adresss, name and email adress.
+What will Red Sky Labs do to your Personal Data?
+When using the App, users may voluntarily provide their Personal Data, when making a purchase in the app, for instance.
+In addition, users may have their Personal Data collected indirectly by tools that mange statistical analyses on the App usability and information
+on errors to guarantee the stability of our product. No other user data is collected by the App ore collected. We do not collect any user level data.
+Nonetheless, in case the user is willing to obtain more detailed information about the processed commented above, contact Red Sky Labs using our contact at admin@redsky-labs.com.
+Red Sky Labs will work diligently to answer your inquiry, provided it does not conflict with the intellectual property rights of Red Sky Labs.
+Contact information for exercising rights:
+Red Sky Labs, S.L. Avenida Alcalde Díaz Saavedra Navarro, 31, 2ª planta, CP: 35001, Las Palmas de Gran Canarias, Las Palmas.
+Email: admin@redsky-labs.com
+Contact details of the data protection officer: Avenida Alcalde Díaz Saavedra Navarro, 31, 2ª planta, CP: 35001, Las Palmas de Gran Canarias, Las Palmas.
+2. COMPULSORY OR OPTIONAL NATURE OF THE INFORMATION PROVIDED BY THE USER
+The USERS, by marking the corresponding boxes and entering data in the fields, marked with an asterisk (*) in the
+contact form or download forms, accept expressly and in a free and unequivocal way that their data are necessary for
+the supplier to meet their request, voluntarily providing their data in the remaining fields. The USER ensures that the
+personal data provided to the CONTROLLER are true and is responsible for communicating any changes to them.
+The CONTROLLER informs that all data requested through the website are mandatory, as they are necessary for the
+provision of an optimal service to the USER. In the event that not all of the data is provided, there is no guarantee that
+the information and services provided will be completely adapted to the User’s needs
+3. SECURITY MEASURES
+That in accordance with the provisions of the current regulations on the protection of personal data, the
+CONTROLLER is complying with all the provisions of the GDPR and LOPDGDD regulations for processing the
+personal data for which they are responsible, and is manifestly complying with the principles described in Article 5 of
+the GDPR, by which they are processed in a lawful, fair and transparent manner in relation to the data subject and
+appropriate, relevant and limited to what is necessary in relation to the purposes for which they are processed.
+The CONTROLLER guarantees that all appropriate technical and organisational policies have been implemented to
+apply the security measures established by the GDPR and LOPDGDD in order to protect the rights and freedoms of
+USERS and has communicated the appropriate information for them to be able to exercise them.
+For more information about privacy guarantees, you can contact the CONTROLLER through Red Sky Labs, S.L. Avenida Alcalde Díaz Saavedra Navarro, 31, 2ª planta, CP: 35001, Las Palmas de Gran Canarias, Las Palmas.
+Email: admin@redsky-labs.com
+Contact details of the data protection officer: AAvenida Alcalde Díaz Saavedra Navarro, 31, 2ª planta, CP: 35001, Las Palmas de Gran Canarias, Las Palmas.
+COOKIES POLICY
+COOKIES POLICY
+INFORMATION ABOUT COOOKIES
+Due to the coming into force of the amendment to the «Law on Services of the Information Society» (LSSICE) established
+by Spanish Royal Decree 13/2012, it is mandatory to obtain the express consent of the user of all web pages that use nonessential cookies before browsing them.
+WHAT ARE COOKIES?
+Cookies and other similar technologies such as local shared objects, flash cookies or pixels, are tools used by Web servers
+to store and retrieve information about their visitors, as well as to enable the proper functioning of the site.
+Through using these devices, the Web server is able to remember some data concerning the user, such as their
+preferences for viewing the server’s pages, their name and password, products that interest them most, etc.
+COOKIES AFFECTED BY, AND COOKIES EXEMPT FROM REGULATIONS
+According to the EU directive, the cookies that require the user’s informed consent are analysis, advertising and affiliation
+cookies, while technical cookies and those that are necessary for the operation of the website or the provision of services
+expressly requested by the user are exempt.
+TYPES OF COOKIES
+DEPENDING ON THE PURPOSE
+Technical and functional cookies:
+allow the user to navigate through a website, platform or application and the
+use of different options or services available in it.
+Analysis cookies:allow the controller to monitor and analyse the behaviour of the users of the websites they are
+linked to. The information collected by this type of cookie is used to measure the activity of the websites, application
+or platform and to carry out browsing profiling of the users of said sites, applications and platforms, with the purpose
+of introducing improvements in the analysis of the user data carried out by service users.
+Advertising cookies:
+allow management, in the most efficient way possible, of advertising spaces which, if
+applicable, the editor has included in a website, application or platform from where requested service is provided
+based on data such as the edited content or frequency with which advertisements are made.
+Behavioural advertising cookies:
+collect information on the user’s personal preferences and choices (retargeting)
+in order to allow management, in the most efficient way possible, of the advertising spaces which, if applicable, the
+editor has included in a website, application or platform from where the requested service is provided.
+Social cookies: established by the social network platforms in the services to allow content to be shared with
+friends and networks. The social media platforms have the ability to track activity online outside the Services. This
+may affect the content and messages seen in other services used.
+Affiliate cookies:
+allow you to track visits through links from other websites, with which the website establishes
+affiliate agreements (affiliate companies).
+Security cookies:
+store encrypted information to avoid the stored data in them being vulnerable to malicious
+attacks by third parties
+ACCORDING TO THE PROPERTY
+Own cookies: are sent to the user’s terminal team from a team or power managed by the own editor and from
+where the requested service is provided by the user.
+Third party cookies: are sent to the user’s terminal team from a team or power which is not managed by the editor,
+but by another body which processes data obtained through the cookies.
+DEPENDING ON THE STORAGE PERIOD
+Session cookies: are a type of cookie designed to collect and store data as long as the user accesses a website.
+Permanent cookies:
+are a type of cookies where data continues to be stored in the terminal and may be accessed
+and processed for a period of time defined by the cookie controller, and that can range from a few minutes to
+several years.
+INFORMATION ABOUT COOOKIES
+Red Sky Labs, S.L. is the Controller of the personal data of the Data Subject and informs them that these data will be
+processed in accordance with the provisions of Regulation (EU) 2016/679, of 27 April 2016 (GDPR), and therefore the
+following information on the processing is provided:
+Purposes of the data processing: as specified in the cookies section which are used on this website.
+Legitimisation of the processing: by consent of the data subject (art. 6.1 GDPR).
+Data storage criteria: as specified in the cookies section used on the website.
+Data communication: data will not be disclosed to third parties, except in cookies owned by third parties or under legal
+obligation.
+Rights of the Data Subject:
+- Right to withdraw consent at any time.
+- Right of access, rectification, portability and erasure of data and the limitation or objection to their processing.
+The right to file a claim with the Spanish Supervisory Authority (www.aepd.es) if you consider that the processing does not
+comply with current legislation
+Contact information to exercise their rights:
+Red Sky Labs, S.L. Avenida Alcalde Díaz Saavedra Navarro, 31, 2ª planta, CP: 35001, Las Palmas de Gran Canarias, Las Palmas.
+Email: admin@redsky-labs.com
+Contact details of the data protection officer: Avenida Alcalde Díaz Saavedra Navarro, 31, 2ª planta, CP: 35001, Las Palmas de Gran Canarias, Las Palmas.
+COOKIER USED ON THIS WEBSITE
+COOKIES CONTROLLED BY THE EDITOR
+Technical and functional
+Property
+Cookie
+Purpose
+Term
+redsky-labs.com
+ASP.NET_Session Id
+General purpose platform session cookie, used by sites
+written with Miscrosoft .NET based technologies. Usually used
+to maintain an anonymised user session by the server.
+Session
+THIRD PARTY COOKIES
+Third-party services are beyond the control of the editor. Suppliers may at any time modify their service conditions, the
+purpose and use of cookies, etc.
+External suppliers of this website:
+Microsoft
+Property
+Cookie
+redsky-labs.com
+https://account.microsoft.com/privacy
+COOKIES CONFIGURATUON PANEL
+From this panel the user will be able to configure the cookies that the website can install in their browser, except for the
+technical or functional cookies that are necessary for browsing and using the different options or services that are offered.
+Cookie panel
+HOW TO MANAGE COOKIES FROM YOUR BROWSER
+Delete cookies from your device
+Cookies that are already on a device can be deleted by clearing the browser history, thus
+deleting the cookies from all websites visited.
+However, some of the saved information (e.g. login data or website preferences) may also
+be lost
+Manage site specific cookies
+For more precise control of site specific cookies, users can adjust their privacy settings
+and cookies in their browser
+Manage site specific cookies
+While most modern browsers can be configured to prevent cookies from being installed
+on a device, this may require the manual adjustment of certain preferences each time a
+site or page is visited. In addition, some services and features may not work properly (for
+example, profile logins).
+HOW TO DELETE COOKIES FROM MOST COMMON BROWSERS
+Chrome
+http://support.google.com/chrome/answer/95647?hl=es
+Internet Explorer. Version 11
+https://support.microsoft.com/es-es/help/278835/how-to-delete-cookie-files-in-internet-explorer
+Firefox. Version 65.0.1
+https://www.mozilla.org/es-ES/privacy/websites/#cookies
+Safari Version 5.1
+https://support.apple.com/es-es/guide/safari/sfri11471/mac
+Opera
+https://help.opera.com/en/latest/security-and-privacy/#clearBrowsingData

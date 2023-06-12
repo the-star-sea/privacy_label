@@ -1,0 +1,77 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Messages"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": true,
+      "purpose": "Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Messages"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Developer communications",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "http://www.t-mobile.com/company/website/privacypolicy.aspx"
+}

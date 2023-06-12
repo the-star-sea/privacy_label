@@ -1,0 +1,44 @@
+Menu
+Portfolio
+About
+Articles
+Metronome Beats Privacy Policy
+This is the Privacy Policy for the ‘Metronome Beats’ Android app developed by Stonekick Ltd.
+There is a separate Privacy Policy for Metronome Beats Pro.
+Personal data is collected by this app for the following purposes:
+to display personalised advertising. We keep a free version of this app by displaying adverts and partner with Google and Amazon to do this.
+as required for the in-app purchase to upgrade to the pro version.
+This app processes in-app purchases through the Google Payments In-app Billing Service.
+See below for more information.
+Advertising
+We keep this app free by displaying adverts. We partner with Amazon and Google to show ads. Amazon, Google and their partners will collect a unique identifier and other data about your use of this app and combine it with information from other sources to show adverts that are (hopefully) more relevant to you.
+Further information on how Amazon and its partners use your data can be found here.
+Further information on how Google and its partners use your data can be found here.
+A full list of advertising providers that may be used in the app can be found
+here.
+Stonekick Limited holds no data relating to advertising on its own servers, all data collection and processing is handled by Amazon, Google, and their partners in accordance with their privacy policy.
+In-app Billing
+In-app Billing services enable this Application to process payments through the Google Payments In-app Billing Service.
+Google Payments is a payment service provided by Google Inc., which allows users to make online payments using their Google credentials.
+Various types of Personal Data are collected as specified in the Google Payments Privacy Policy.
+Stonekick Limited holds no information about in-app purchases on its own servers, all data collection and processing is handled by Google and its partners in accordance with their privacy policy.
+Place of processing: US.
+Contact Information
+The owner and data controller of this app is Stonekick Limited:
+c/o The Accountancy Partnership
+Suite1, 5th Floor City Reach
+5 Greenwich View Place
+London
+E14 9NN
+Contact Email: [email protected]
+Stonekick Ltd Privacy Policy
+Contact us
+[email protected]
+London, UK
+About Stonekick
+Stonekick are passionate about developing good quality, accurate, well designed apps
+Stonekick Privacy Policy
+Our Apps
+Stonekick on Google Play
+FAQs
+Copyright © Stonekick 2023

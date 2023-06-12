@@ -1,0 +1,191 @@
+{
+  "sharedData": [
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": false,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Messages"
+    },
+    {
+      "data": "Photos",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Music files",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Files and docs",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Files and docs"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Developer communications, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Messages"
+    },
+    {
+      "data": "Photos",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Music files",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Files and docs",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Files and docs"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Web browsing history",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.reddit.com/help/privacypolicy"
+}

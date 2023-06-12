@@ -1,0 +1,137 @@
+{
+  "sharedData": [
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": true,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Photos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Files and docs",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Files and docs"
+    },
+    {
+      "data": "App interactions",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Web browsing history",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": true,
+      "purpose": "Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "http://www.avg.com/privacy"
+}

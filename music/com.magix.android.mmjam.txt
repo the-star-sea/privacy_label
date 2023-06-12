@@ -1,0 +1,470 @@
+Privacy Policy of Loudly GmbH
+Loudly GmbH collects some Personal Data from its Users.
+Users may be subject to different protection standards and broader standards may therefore apply to some. In order to learn more about the protection criteria, Users can refer to the applicability section.
+This document can be printed for reference by using the print command in the settings of any browser.
+Owner and Data Controller
+Loudly GmbH
+Quedlinburger Str. 1
+10589 Berlin
+030 293920
+Owner contact email: privacy@loudly.com
+Types of Data collected
+Among the types of Personal Data that Loudly GmbH collects, by itself or through third parties, there are:
+Cookies; Usage Data; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); email address; User ID; username; Camera permission; Microphone permission; Storage permission; geographic position.
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using Loudly GmbH.Unless specified otherwise, all Data requested by Loudly GmbH is mandatory and failure to provide this Data may make it impossible for Loudly GmbH to provide its services. In cases where Loudly GmbH specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.Any use of Cookies – or of other tracking tools — by Loudly GmbH or by the owners of third-party services used by Loudly GmbH serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
+Users are responsible for any third-party Personal Data obtained, published or shared through Loudly GmbH and confirm that they have the third party's consent to provide the Data to the Owner.
+Mode and place of processing the Data
+Methods of processing
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of Loudly GmbH (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
+Legal basis of processing
+The Owner may process Personal Data relating to Users if one of the following applies:
+Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
+provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
+processing is necessary for compliance with a legal obligation to which the Owner is subject;
+processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
+processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+Place
+The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
+Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
+If broader protection standards are applicable, Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
+Retention time
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
+Therefore:
+Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of
+this document or by contacting the Owner.
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right of access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+The purposes of processing
+The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following:
+Access to third-party accounts, Analytics, Contacting the User, Content commenting, Content performance and features testing (A/B testing), Device permissions for Personal Data access, Managing contacts and sending messages, Handling payments, Hosting and backend infrastructure, Infrastructure monitoring, Interaction with data collection platforms and other third parties, Interaction with external social networks and platforms, Interaction with support and feedback platforms, Managing support and contact requests, Platform services and hosting, Registration and authentication, Social features, SPAM protection, Tag Management and User database management.
+For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
+Facebook permissions asked by Loudly GmbH
+Loudly GmbH may ask for some Facebook permissions allowing it to perform actions with the User's Facebook account and to retrieve information, including Personal Data, from it. This service allows Loudly GmbH to connect with the User's account on the Facebook social network, provided by Facebook Inc.
+For more information about the following permissions, refer to the Facebook permissions documentation and to the Facebook privacy policy.
+The permissions asked are the following:
+Basic information
+By default, this includes certain User’s Data such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the User has made more of their Data public, more information will be available.
+About Me
+Provides access to the 'About Me' section of the profile.
+Access Friend Lists
+Provides access to any friend lists the User created.
+Email
+Provides access to the User's primary email address.
+Device permissions for Personal Data access
+Depending on the User's specific device, Loudly GmbH may request certain
+permissions that allow it to access the User's device Data as described below.
+By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.The exact procedure for controlling app permissions may be dependent on the User's device and software.
+Please note that the revoking of such permissions might impact the proper functioning of Loudly GmbH.
+If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by Loudly GmbH.
+Camera permission
+Used for accessing the camera or capturing images and video from the device.
+Microphone permission
+Used for accessing and recording microphone audio from the User's device.
+Storage permission
+Used for accessing shared external storage, including the reading and adding of any items.
+Detailed information on the processing of Personal Data
+Personal Data is collected for the following purposes and using the following services:
+Access to third-party accounts
+This type of service allows Loudly GmbH to access Data from your account on a third-party service and perform actions with it.
+These services are not activated automatically, but require explicit authorization by the User.
+Facebook account access (Facebook, Inc.)
+This service allows Loudly GmbH to connect with the User's account on the Facebook social network, provided by Facebook, Inc.
+Permissions asked: About Me; Access Friend Lists; Email.
+Place of processing:
+United States –
+Privacy Policy.
+Analytics
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+Google Ads conversion tracking (Google Inc.)
+Google Ads conversion tracking is an analytics service provided by Google Inc. that connects data from the Google Ads advertising network with actions performed on Loudly GmbH.
+Personal Data processed: Cookies; Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Facebook Analytics for Apps (Facebook, Inc.)
+Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.
+Personal Data processed: Usage Data; various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Flurry Analytics (Flurry, Inc.)
+Flurry Analytics is an analytics service provided by Yahoo! Inc.
+This service is designed for mobile apps analytics and can collect various information about your phone, highlighted in the Flurry Analytics privacy policy.
+If the User chooses to opt-out, Flurry will stop tracking data for the device identified by the provided MAC address and/or device identifier going forward. The analytics service tracking will stop across all applications within the Flurry network.
+Personal Data processed: Cookies; Usage Data; various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy – Opt Out.
+Google Analytics (Google Inc.)
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of Loudly GmbH, to prepare reports on its activities and share them with other Google services.
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+Personal Data processed: Cookies; Usage Data.
+Place of processing:
+United States –
+Privacy Policy – Opt Out.
+Google Analytics for Firebase (Google LLC)
+Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google LLC.
+In order to understand Google's use of Data, consult Google's partner policy.
+Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner.
+Loudly GmbH uses identifiers for mobile devices and technologies similar to cookies to run the Firebase Analytics service.
+Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if available.
+Personal Data processed: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Google Analytics with anonymized IP (Google Inc.)
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of Loudly GmbH, to prepare reports on its activities and share them with other Google services.
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+This integration of Google Analytics anonymizes your IP address. It works by shortening Users' IP addresses within member states of the European Union or in other contracting states to the Agreement on the European Economic Area. Only in exceptional cases will the complete IP address be sent to a Google server and shortened within the US.
+Personal Data processed: Cookies; Usage Data.
+Place of processing:
+United States –
+Privacy Policy – Opt Out.
+User ID extension for Google Analytics (Google Inc.)
+Google Analytics on Loudly GmbH makes use of a feature called User ID. This setup allows for a more accurate tracking of Users by associating that User with the same ID over various sessions and devices. It is set up in a way that doesn’t allow Google to personally identify an individual or permanently identify a particular device.
+The User ID extension might make it possible to connect Data from Google Analytics with other Data about the User collected by Loudly GmbH.
+The opt-out link below will only opt you out for the device you are on, but not from tracking performed independently by the Owner. Contact the Owner via the email address provided in this privacy policy to object to the aforementioned tracking as well.
+Personal Data processed: Cookies.
+Place of processing:
+United States –
+Privacy Policy – Opt Out.
+Wordpress Stats (Automattic Inc.)
+Wordpress Stats is an analytics service provided by Automattic Inc.
+Personal Data processed: Cookies; Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Contacting the User
+Mailing list or newsletter (Loudly GmbH)
+By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning Loudly GmbH. Your email address might also be added to this list as a result of signing up to Loudly GmbH or after making a purchase.
+Personal Data processed: Cookies; email address; Usage Data.
+Contact form (Loudly GmbH)
+By filling in the contact form with their Data, the User authorizes Loudly GmbH to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
+Personal Data processed: email address; User ID.
+Content commenting
+Content commenting services allow Users to make and publish their comments on the contents of Loudly GmbH.
+Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.
+If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.
+Comment system managed directly (Loudly GmbH)
+Loudly GmbH has its own internal content comment system.
+Personal Data processed: username.
+Content performance and features testing (A/B testing)
+The services contained in this section allow the Owner to track and analyze the User response concerning web traffic or behavior regarding changes to the structure, text or any other component of Loudly GmbH.
+Firebase Remote Config (Google LLC)
+Firebase Remote Config is an A/B testing and configuration service provided by Google LLC.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Device permissions for Personal Data access
+Loudly GmbH requests certain permissions from Users that allow it to access the User's device Data as described below.
+Device permissions for Personal Data access (Loudly GmbH)
+Loudly GmbH requests certain permissions from Users that allow it to access the User's device Data as summarized here and described within this document.
+Personal Data processed: Camera permission; Microphone permission; Storage permission.
+Handling payments
+Payment processing services enable Loudly GmbH to process payments by credit card, bank transfer or other means. To ensure greater security, Loudly GmbH shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction.
+Some of these services may also enable the sending of timed messages to the User, such as emails containing invoices or notifications concerning the payment.
+PayPal (PayPal Inc.)
+PayPal is a payment service provided by PayPal Inc., which allows Users to make online payments.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Auto Renewable Subscription
+Optional auto-renewing "Music Maker PRO" subscription is available to be paid monthly (price varies by territory). Payments will be charged to your iTunes Account after confirmation. Subscription automatically renewed unless auto-renew is turned off at least 24 hours before the end of the subscription period. The account will be charged for renewal within 24 hours prior to the end of the current period. Subscriptions may be managed in your iTunes Account’s Settings after purchasing.
+Hosting and backend infrastructure
+This type of service has the purpose of hosting Data and files that enable Loudly GmbH to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of Loudly GmbH.
+Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+Amazon Web Services (AWS) (Amazon Web Services, Inc.)
+Amazon Web Services (AWS) is a hosting and backend service provided by Amazon Web Services, Inc.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Google Cloud Storage (Google LLC)
+Google Cloud Storage is a hosting service provided by Google LLC.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Infrastructure monitoring
+This type of service allows Loudly GmbH to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.
+Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of Loudly GmbH.
+Firebase Crash Reporting (Google Inc.)
+Firebase Crash Reporting is a monitoring service provided by Google, Inc.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Crashlytics (Google Inc.)
+Crashlytics is a monitoring service provided by Google Inc.
+Personal Data processed: geographic position; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Firebase Performance Monitoring (Google LLC)
+Firebase Performance Monitoring is a monitoring service provided by Google LLC.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+New Relic (New Relic)
+New Relic is a monitoring service provided by New Relic Inc.
+The way New Relic is integrated means that it filters all traffic of Loudly GmbH, i.e., communication between the Application and the User's browser or device, while also allowing analytical data on Loudly GmbH to be collected.
+Personal Data processed: Cookies; Usage Data; various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Interaction with data collection platforms and other third parties
+This type of service allows Users to interact with data collection platforms or other services directly from the pages of Loudly GmbH for the purpose of saving and reusing data.
+If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service.
+Mailchimp widget (The Rocket Science Group LLC)
+The Mailchimp widget is a service for interacting with the Mailchimp email address management and message sending service provided by The Rocket Science Group LLC.
+Personal Data processed: Cookies; email address; Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Interaction with external social networks and platforms
+This type of service allows interaction with social networks or other external platforms directly from the pages of Loudly GmbH.
+The interaction and information obtained through Loudly GmbH are always subject to the User’s privacy settings for each social network.
+This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.
+It is recommended to log out from the respective services in order to make sure that the processed data on Loudly GmbH isn’t being connected back to the User’s profile.
+Facebook Like button and social widgets (Facebook, Inc.)
+The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
+Personal Data processed: Cookies; Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Google+ +1 button and social widgets (Google Inc.)
+The Google+ +1 button and social widgets are services allowing interaction with the Google+ social network provided by Google Inc.
+Personal Data processed: Cookies; Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Pinterest “Pin it” button and social widgets (Pinterest)
+The Pinterest “Pin it” button and social widgets are services allowing interaction with the Pinterest platform provided by Pinterest Inc.
+Personal Data processed: Cookies; Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Reddit button and widgets (reddit inc.)
+The reddit button and widgets are services allowing interaction with the reddit platform provided by reddit inc.
+Personal Data processed: Cookies; Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Twitter Tweet button and social widgets (Twitter, Inc.)
+The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
+Personal Data processed: Cookies; Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+YouTube button and social widgets (Google Inc.)
+The YouTube button and social widgets are services allowing interaction with the YouTube social network provided by Google Inc.
+Personal Data processed: Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Interaction with support and feedback platforms
+This type of service allows Users to interact with third-party support and feedback platforms directly from the pages of Loudly GmbH.
+If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service.
+Zendesk Widget (Zendesk)
+The Zendesk Widget is a service for interacting with the Zendesk support and feedback platform provided by Zendesk Inc.
+Personal Data processed: Cookies; Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Managing contacts and sending messages
+This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.
+These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
+Firebase Notifications (Google LLC)
+Firebase Notifications is a message sending service provided by Google LLC. Firebase Notifications can be integrated with Firebase Analytics to target analytics-based audiences and track opening and conversion events.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Firebase Cloud Messaging (Google Inc.)
+Firebase Cloud Messaging is a message sending service provided by Google, Inc. Firebase Cloud Messaging allows the Owner to send messages and notifications to Users across platforms such as Android, iOS, and the web. Messages can be sent to single devices, groups of devices, or specific topics or User segments.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+SendinBlue Email (SendinBlue SAS)
+SendinBlue is an email address management and message sending service provided by SendinBlue SAS.
+Personal Data processed: Cookies; email address; Usage Data.
+Place of processing:
+France –
+Privacy Policy.
+Mailchimp (The Rocket Science Group, LLC.)
+Mailchimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
+Personal Data processed: email address.
+Place of processing:
+United States –
+Privacy Policy.
+Managing support and contact requests
+This type of service allows Loudly GmbH to manage support and contact requests received via email or by other means, such as the contact form.
+The Personal Data processed depend on the information provided by the User in the messages and the means used for communication (e.g. email address).
+Zendesk (Zendesk)
+Zendesk is a support and contact request management service provided by Zendesk Inc.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Platform services and hosting
+These services have the purpose of hosting and running key components of Loudly GmbH, therefore allowing the provision of Loudly GmbH from within a unified platform. Such platforms provide a wide range of tools to the Owner
+–
+e.g. analytics, user registration, commenting, database management, e-commerce, payment processing – that imply the collection and handling of Personal Data.
+Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+WordPress.com (Automattic Inc.)
+WordPress.com is a platform provided by Automattic Inc. that allows the Owner to build, run and host Loudly GmbH.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Tumblr (Tumblr Inc.)
+Tumblr is a platform provided by Tumblr Inc. that allows the Owner to build, run and host Loudly GmbH.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Shopify (Shopify Inc.)
+Shopify is a platform provided by Shopify Inc. that allows the Owner to build, run and host an e-commerce website.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+Canada –
+Privacy Policy.
+Apple App Store (Apple Inc.)
+Loudly GmbH is distributed on Apple's App Store, a platform for the distribution of mobile apps, provided by Apple Inc.
+By virtue of being distributed via this app store, Apple collects basic analytics and provides reporting features that enables the Owner to view usage analytics data and measure the performance of Loudly GmbH. Much of this information is processed on an opt-in basis.
+Users may opt-out of this analytics feature directly through their device settings. More information on how to manage analysis settings can be found on this page.
+Personal Data processed: Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Registration and authentication
+By registering or authenticating, Users allow Loudly GmbH to identify them and give them access to dedicated services.
+Depending on what is described below, third parties may provide registration and authentication services. In this case, Loudly GmbH will be able to access some Data, stored by these third-party services, for registration or identification purposes.
+Facebook Authentication (Facebook, Inc.)
+Facebook Authentication is a registration and authentication service provided by Facebook, Inc. and is connected to the Facebook social network.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+Social features
+Firebase Dynamic Links (Google LLC)
+Firebase Dynamic Links is a social feature provided by Google LLC.
+Dynamic Links are tracked within Firebase or Google Analytics for Firebase, which informs the Owner about the details of the User journey to and within Loudly GmbH.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:
+United States –
+Privacy Policy.
+SPAM protection
+This type of service analyzes the traffic of Loudly GmbH, potentially containing Users' Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.
+Google reCAPTCHA (Google Inc.)
+Google reCAPTCHA is a SPAM protection service provided by Google Inc.
+The use of reCAPTCHA is subject to the Google privacy policy and terms of use.
+Personal Data processed: Cookies; Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+Tag Management
+This type of service helps the Owner to manage the tags or scripts needed on Loudly GmbH in a centralized fashion.
+This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data.
+Google Tag Manager (Google LLC)
+Google Tag Manager is a tag management service provided by Google LLC.
+Personal Data processed: Usage Data.
+Place of processing:
+United States –
+Privacy Policy.
+User database management
+This type of service allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to Loudly GmbH, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving Loudly GmbH.
+Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on Loudly GmbH.
+SendinBlue Marketing Automation (SendinBlue SAS)
+SendinBlue is a User database management service provided by SendinBlue SAS.
+Personal Data processed: Cookies; email address; Usage Data.
+Place of processing:
+France –
+Privacy Policy.
+Information on opting out of interest-based advertising
+In addition to any opt-out feature provided by
+any of the services listed in this document,
+Users may learn more on
+how to generally opt out of interest-based advertising within the
+dedicated section of the Cookie Policy.
+Further information about the processing of Personal Data
+Push notifications
+Loudly GmbH may send push notifications to the User.
+Selling goods and services online
+The Personal Data collected are used to provide the User with services or to sell goods, including payment and possible delivery.
+The Personal Data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged. The kind of Data collected by Loudly GmbH depends on the payment system used.
+Unique device identification
+Loudly GmbH may track Users by storing a unique identifier of their device, for analytics purposes or for storing Users' preferences.
+User identification via a universally unique identifier (UUID)
+Loudly GmbH may track Users by storing a so-called universally unique identifier (or short UUID) for analytics purposes or for storing Users' preferences. This identifier is generated upon installation of this Application, it persists between Application launches and updates, but it is lost when the User deletes the Application. A reinstall generates a new UUID.
+The rights of Users
+Users may exercise certain rights regarding their Data processed by the Owner.
+Users entitled to broader protection standards may exercise any of the rights described below. In all other cases, Users may inquire with the Owner to find out which rights apply to them.
+In particular, Users have the right to do the following, to the extent permitted by law:
+Withdraw their consent at any time. Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+Object to processing of their Data. Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+Access their Data. Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+Verify and seek rectification. Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+Restrict the processing of their Data. Users have the right to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+Have their Personal Data deleted or otherwise removed. Users have the right to obtain the erasure of their Data from the Owner.
+Receive their Data and have it transferred to another controller. Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance.
+Lodge a complaint. Users have the right to bring a claim before their competent data protection authority.
+Details about the right to object to processing
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time, free of charge and without providing any justification. Where the User objects to processing for direct marketing purposes, the Personal Data will no longer be processed for such purposes. To learn whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
+How to exercise these rights
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be answered by the Owner as early as possible and always within one month, providing Users with the information required by law. Any rectification or erasure of Personal Data or restriction of processing will be communicated by the Owner to each recipient, if any, to whom the Personal Data has been disclosed unless this proves impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.
+Applicability of broader protection standards
+While most provisions of this document concern all Users, some provisions expressly only apply if the processing of Personal Data is subject to broader protection standards.
+Such broader protection standards apply when the processing:
+is performed by an Owner based within the EU;
+concerns the Personal Data of Users who are in the EU and is related to the offering of paid or unpaid goods or services, to such Users;
+concerns the Personal Data of Users who are in the EU and allows the Owner to monitor such Users’ behavior taking place in the EU.
+Cookie Policy
+Loudly GmbH uses Trackers. To learn more, the User may consult the Cookie Policy.
+Additional information about Data collection and processing
+Legal action
+The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of Loudly GmbH or the related Services.The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
+Additional information about User's Personal Data
+In addition to the information contained in this privacy policy, Loudly GmbH may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
+System logs and maintenance
+For operation and maintenance purposes, Loudly GmbH and any third-party services may collect files that record interaction with Loudly GmbH (System logs) or use other Personal Data (such as the IP Address) for this purpose.
+Information not contained in this policy
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
+How “Do Not Track” requests are handled
+Loudly GmbH does not support “Do Not Track” requests.To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+Changes to this privacy policy
+The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within Loudly GmbH and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
+Definitions and legal references
+Personal Data (or Data)
+Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
+Usage Data
+Information collected automatically through Loudly GmbH (or third-party services employed in Loudly GmbH), which can include: the IP addresses or domain names of the computers utilized by the Users who use Loudly GmbH, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+User
+The individual using Loudly GmbH who, unless otherwise specified, coincides with the Data Subject.
+Data Subject
+The natural person to whom the Personal Data refers.
+Data Processor (or Data Supervisor)
+The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
+Data Controller (or Owner)
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of Loudly GmbH. The Data Controller, unless otherwise specified, is the Owner of Loudly GmbH.
+Loudly GmbH (or this Application)
+The means by which the Personal Data of the User is collected and processed.
+Service
+The service provided by Loudly GmbH as described in the relative terms (if available) and on this site/application.
+European Union (or EU)
+Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
+Cookie
+Cookies are Trackers consisting of small sets of data stored in the User's browser.
+Tracker
+Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User’s device.
+Legal information
+This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).
+This privacy policy relates solely to Loudly GmbH, if not stated otherwise within this document.
+Latest update: June 13, 2022
+iubenda hosts this content and only collects the Personal Data strictly necessary for it to be provided.

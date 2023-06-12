@@ -1,0 +1,99 @@
+Sofeh Sunrise
+Combining Art and Technology
+Menu
+Skip to content
+Home
+Music Studio (Windows)
+Video tutorials
+Quick Guide for Script
+Version history
+Professional Features
+ORG 24 (Android, iOS)
+Quick Guide
+Version history
+Privacy Policy
+Skin Editor
+Skin Editor Guide
+Download Music files
+by Genre
+by Type
+by Creator
+Become a creator
+Other Apps
+Skin Editor (Windows, Mac OS)
+Java to Swift Helper (Windows, Mac OS)
+Baby Paint (Windows, Mac OS)
+Telescope (Windows)
+Search for:
+ORG – Privacy Policy
+We respect your privacy rights and strive to ensure this during your time in our applications. The explanations regarding the security of your personal information are explained below and presented for your information.
+App permissions
+Direct access to Files ¹ ²
+Files are required to be accessed for loading, saving, or downloading sets, rhythms, instruments, skins, etc.
+Microphone
+The microphone access is required to record voice when you press the “MIC” button or “Record to Audio file” item from the “REC./PLAY > Record” menu.
+Location ¹ and Bluetooth
+For connecting to MIDI devices over Bluetooth.
+Information Collection and Use
+The app does use third-party services that may collect information used to identify you.
+Link to the privacy policy of third party service providers used by the app:
+Google Play Services ¹
+AdMob ¹
+Google Analytics for Firebase
+AppBrain ¹
+Security
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Links to Other Services
+This service may contain links to other services. If you click on a third-party link, you will be directed to that service. Note that these external services are not operated by us.
+Children’s Privacy
+These services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age.
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@sofeh.com.
+¹ Only in the Android version      ² Not in the Android 11 and above
+support@sofeh.com
+youtube.com/c/sofehsunrise
+instagram.com/rmn_jafari
+facebook.com/sofehsunrise
+linkedin.com/in/sofehsunrise
+twitter.com/rmn_jafariNews
+Dangdut Set by Syukur Channel
+(from Indonesia)
+May 1, 2023
+ORG 24 v2024.1.0.5 Android
+April 24, 2023
+ORG 24 v2024.1.0.5 iOS
+April 24, 2023
+Music Studio v9.0.5
+April 23, 2023
+Dangdut SET by Ratu Juna (from Indonesia)
+March 25, 2023
+Pop Set v2.52 by Joni Ardi (from Indonesia)
+March 15, 2023
+Yamaha Montage Skin by D’CRABZ STUDIOS (from Indonesia)
+March 5, 2023
+Pop Set by Joni Ardi (from Indonesia)
+February 26, 2023
+2 Hobi Buat Styles by Joni Ardi (from Indonesia)
+February 21, 2023
+Yamaha PSR SX900 Skin by Shalim Gavit (from India)
+February 21, 2023
+Skin Editor v4.1.0
+February 12, 2023
+Public Angga Set 2 by Erlangga Saputra (from Indonesia)
+February 12, 2023
+Public Angga Set by Erlangga Saputra (from Indonesia)
+January 22, 2023
+Technics KN1600 Skin by Erlangga Saputra (from Indonesia)
+December 23, 2022
+Hindi Yamaha Set by Shalim Gavit (from India)
+December 20, 2022
+MEDELI AKX10 Skin v2 by Erlangga Saputra (from Indonesia)
+December 5, 2022
+Some useful websites
+musictheory.net
+looperman.com
+musicradar.com
+korgforums.com
+Proudly powered by WordPress

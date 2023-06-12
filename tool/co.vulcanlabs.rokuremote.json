@@ -1,0 +1,71 @@
+{
+  "sharedData": [
+    {
+      "data": "Photos",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Music files",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Developer communications, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": true,
+      "purpose": "Analytics, Developer communications, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://vulcanlabs.co/privacy-policy/"
+}

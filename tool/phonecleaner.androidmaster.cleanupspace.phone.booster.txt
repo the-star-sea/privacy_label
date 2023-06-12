@@ -1,0 +1,114 @@
+Privacy Policy
+Privacy Policy
+Your privacy and data security are extremely important to us. We are committed to the responsible management, protection, and use of your personal information.
+This Privacy Policy (the “Policy”) serves to explain what information Games Tree (Cleaner app, etc.) and its affiliates and subsidiaries (collectively, “we”, “us”, or “our”) collect, and how we use and protect your information when you use any mobile applications that we develop and are available for download in the Google Play Store.
+1. What Information Do We Collect?
+i. Device information. When you start using this Application, we will receive and record information about the mobile device you use according to your operations in the Application based on your permissions granted during the installation and use of this Application, such as hardware device identifier GAID (Google Advertising ID), Android ID information, phone model, operating system version, system language, country or region setting of the phone (including the country or region information of your authorized phone and network access method), application store version, screen size and resolution of the phone, CPU, and display device-related information, APK name of the applications installed and the version information, and the device environment hardware and software characteristics information.
+ii. Log information: We will automatically collect details of your use of our services and store them as service logs during your use of this Application, including service access time, access frequencies, usage time, event information (errors, crashes, restarts, upgrades), and other log information generated when using the device.
+2. Data about your use of the Services
+Number of clicks, landing pages, pages viewed and order of those pages, the amount of time spent on particular pages, the date and time of your request, number of the app opened, and some viewed pages.
+Permissions status.
+Whether the function is running normally, such as whether a virus is detected.
+A number of apps are installed by users.
+Package name
+First open time timestamp
+App net status
+Firebase_device_id
+App model
+System language etc
+Advertisers may store or read cookies
+3. Monetization and Analytical Information from Other Sources
+Third-party SDKs integrated with our app may access your information, including:
+Google Advertising ID
+Demographic data (e.g. determination of your IP address)
+Data to fight against fraud (e.g. click fraud in advertising)
+Data associated with your device (e.g. device type, technological information, country)
+Data to do advertising, marketing, and analysis
+Advertisers may store or read cookies
+The information collected by third-party SDKs is governed by the providers of these SDKs and we have no control over such third parties. The third parties include monetization partners, such as Google Admob, Facebook Audience Network, Trutlook, etc., and also analytical tools partners, such as Firebase, Firebase Analytics, and our self-built data statistics system (ECS).
+4. Third-party Partner’s Privacy Policy:
+Here we list the links to the third-party partners’ privacy policies. Please note that these policies are governed by third parties and we have no control over them. Check the following links to get details about how user data is collected, used, and shared.
+i. Google Admob & Firebase
+https://policies.google.com/privacy?hl=en
+ii. Trustlook
+Trustlook SDK provides security service and it will record certain information that included the user’s installed application. Because it will analyze the app collection, app static & behavior analysis to give the app risk report.
+https://www.trustlook.com/privacy.html
+iii. AdMob
+https://policies.google.com/privacy?hl=en
+5. Android Advertising ID
+We use your Android advertising identifier in order to provide you with a customized advertisement experience. It is used exclusively for advertising and analytics. Please note that the advertising identifier does not contain any user-sensitive information that can be used to identify you as a user or your device. It is not connected to personally-identifiable information or associated with any persistent device identifier (for example SSAID, MAC address, IMEI, etc.).
+6. To provide you with virus checking and antivirus service
+In order to provide you with the virus checking and antivirus service, in addition to the afore-mentioned device information we need to collect, we will also collect information about you for the following purposes: In order to classify the virus data of your device and optimize the virus checking function, we will collect hardware information of your device and basic system information. We will collect basic application information to compare the virus database of antivirus service providers with the white list in order to locate malicious applications. If you refuse to provide such information, you will not be able to use the virus checking and antivirus service.
+7. To provide you with security services
+To improve the security of your use of our services, to protect you, other users, or public safety and property from harm, and to better prevent security risks such as phishing sites, fraud, network vulnerabilities, computer viruses, network attacks, network intrusions, and to more accurately identify violations of laws and regulations or our relevant agreement rules, we may use or integrate information about your device, as well as information about the applications you have installed, the information about running processes, the overall operation of the application, the usage frequency of the application, crash data, overall installation and usage, performance data and information about the source of the application, to help you conduct security risk detection, prevent security risks, and take the necessary recording, auditing, analysis, and disposal measures in accordance with the law.
+8. How Do We Use the Information
+i. To improve and optimize the Services
+To provide better Services to you, we have a legitimate interest to collect and process necessary data to:
+Update and develop the Services
+Develop and improve your experience
+Manage the relationship with you
+Customize your service experience
+Respond to your comments and questions and provide support to you
+Provide offers in the Services as well as on other websites and services
+Send related information (e.g. updates, security alerts, support messages) to you
+ii. To carry out activities related to advertisements and marketing
+To send you personalized advertising and marketing materials, we may use the information collected from you such as ad identifiers, age, country, region, gender, language, games played by you, information related to your interaction of you with the Services and with other users, and so forth.
+We may also use various third-party advertising and marketing partners to assist us on our behalf and may share information collected from you with such third parties for this purpose.
+Hence, we have a legitimate interest to process the necessary data to:
+Track the content you access in connection with the Services and your online behavior
+Deliver, target, and improve our advertising and marketing materials
+Pass the information collected from you to third-party advertising and marketing partners
+By accepting this Privacy Policy and downloading or continuing to use the Services, you consent to us and our advertising and marketing partners collecting and using information about you to personalize advertising and marketing materials and to improve your experience unless you opt out of receiving this service. We encourage you to review the privacy policies of our third-party advertising and marketing partners so that you can understand how these third parties collect, use and share your information. We are not responsible for the privacy policies of any third party whether accessed through the Services or otherwise.
+9. What Information Do We Share
+As mentioned above, your personal information may be shared with our third-party partners. We may disclose your personal information to our business partners, including advertisers, publishers, and data-tracking companies. These business partners may use your personal information to show you ads, measure your ad/site interaction, and better understand site and app traffic usage or user behavior to improve their services. are Such partners' use of the information we disclose to them will be governed by their privacy policies.
+10. What Are the Important Permissions We Request?
+Depending on the context of your interactions with us, we may ask you to provide certain permissions in order to let our app perform properly. You may choose to opt-out anytime, but please note that not giving us these permissions can result in the malfunctioning of our app. The permissions we ask for are listed below:
+Storage
+Read the contents of your USB storage
+Modify or delete the contents of your USB storage
+All files
+access
+Device ID & call information
+read phone status and identity
+Wi-Fi connection information
+View Wi-Fi connections
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Camera
+take pictures and videos
+Phone
+read phone status and identity
+Accessibility
+in order to better optimize memory usage and reduce repetitive operations, we need Accessibility API to automatically force stop apps.
+Other
+bind to an accessibility service
+update component usage statistics
+receive data from the Internet
+notifications
+full network access
+close other apps
+control vibration
+measure app storage space
+install shortcuts
+view network connections
+reorder running apps
+draw over other apps
+prevent the device from sleeping
+uninstall shortcuts
+run at startup
+connect and disconnect from Wi-Fi
+11. Legal Basis of Your Personal Data
+We process Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process personal data includes processing that is: necessary for the performance of the contract with you (for example, to provide you with the services you request and to identify and authenticate you); necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for our legitimate interests (for example, to manage our relationship with you, to ensure the security of our services, to communicate with you about our products and services); and based on consent by our customers (for example, to place certain cookies and to share your information with third parties for advertising purposes).
+In some instances, you may be required to provide us with Personal Data for processing as described above, in order for us to be able to provide you with all of our services, and for you to use all the features of our apps. of our app.
+12. Your Rights
+We provide you with the rights described below when you use our Services. Please contact us at gamestreee@gmail.com if you would like to exercise your rights under applicable law. When we receive an individual rights request from you, please make sure you are ready to verify your identity. Please be advised that there are limitations to your individual rights. We may limit your individual rights in the following ways:
+Where denial of access is required or authorized by law.
+When granting access would have a negative impact on others' privacy.
+To protect our rights and properties; and Where the request is frivolous or burdensome.
+13. Children's Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+14. Changes to the Policy
+Any information that is collected is subject to the Policy in effect at the time such information is collected. We may, however, modify the Policy from time to time. If such change has been made, we will provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of our app or services following the change of the Policy will mean you accept those changes.
+15. Contact Us
+If you have any questions or concerns about the Policy, you may contact us at gamestreee@gmail.com

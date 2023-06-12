@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Voice or sound recordings",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Music files",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Other audio files",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://sites.google.com/view/mobiletranslatorapps/home"
+}

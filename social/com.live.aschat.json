@@ -1,0 +1,52 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Photos",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "http://h5.aschat.xyz/"
+}

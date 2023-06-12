@@ -1,0 +1,34 @@
+Privacy Policy
+Last Updated: 08.12.2022
+Developer: ZDevs
+=== Data Collection and Use
+ZArchiver does not collect, transfer, sell personal information such as your name, email address, phone number, credit card, information about usage app or any other data.
+ZArchiver store archive passwords for some time to access encrypted files. Saved password are stored encrypted, but a hack-proof confidentiality is not guaranteed.
+=== Permissions with explanation
+READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE (Android pre 11) or MANAGE_EXTERNAL_STORAGE (Android 11+) - to read and write files on external storage (SD card, USB flash);
+WAKE_LOCK - to proper work of long-lasting operations;
+INSTALL_PACKAGES - to install APK files in Android 8+;
+FOREGROUND_SERVICE - to run of file operations;
+POST_NOTIFICATIONS - to show progress notification of a background process.
+=== Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
+=== Contact Us
+If you have any concerns, questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@zdevs.ru.
+______________________________________________________________
+* Below is an automatic translation into Chinese. It is better to use the English version for more details.
+隐私政策
+最后更新: 08.12.2022
+开发者: ZDevs
+===数据收集和使用
+ZArchiver不会收集、转让、出售个人信息，如您的姓名、电子邮件地址、电话号码、信用卡、使用应用程序的信息或任何其他数据。
+ZArchiver会在一段时间内存储存档密码，以便访问加密文件。保存的密码是加密存储的，但不保证有防黑客的保密性。
+===权限解释
+READ_EXTERNAL_STORAGE 和 WRITE_EXTERNAL_STORAGE (Android 11以前) 或 MANAGE_EXTERNAL_STORAGE (Android 11以上) - 读取和写入外部存储器（SD卡，USB闪存）上的文件。
+WAKE_LOCK - 适当工作的长期操作。
+INSTALL_PACKAGES - 在安卓8以上系统中安装APK文件。
+FOREGROUND_SERVICE - 运行文件操作。
+POST_NOTIFICATIONS - 显示一个后台进程的进度通知。
+=== 本隐私政策的变更
+我们可能会不时地更新我们的隐私政策。因此，建议你定期查看本页面的任何变化。
+=== 联系我们
+如果你对我们的隐私政策有任何顾虑、问题或建议，请不要犹豫，与我们联系：support@zdevs.ru。

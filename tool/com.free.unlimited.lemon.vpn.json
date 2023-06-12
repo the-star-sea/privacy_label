@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://storage.googleapis.com/colorvpn/privacy-policy.html"
+}

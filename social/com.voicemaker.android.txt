@@ -1,0 +1,121 @@
+SUGO's Privacy Policy
+Date of Last Revision:August 3,2022
+Welcome to SUGO(the “Platform” or “SUGO”). The Platform is provided and controlled by Mobile Alpha Limited(“we” or “us”). We are committed to protecting and respecting your privacy. This Privacy Policy covers the experience we provide for users age 18 and over on our Platform.
+The Privacy Policy was written in English (US). To the extent any translated version of this agreement conflicts with the English version, the English version controls.
+The full legal bit
+We know that other people’s use of your personal data is a big concern for social network users, so we have developed this privacy policy (the "Policy") to let you know how we use personal information ('personal data' or 'personal information').
+Our Policy applies to your use of the SUGO. We suggest you read it in conjunction with our Terms and Conditions of Use (the “Terms”). When you access or use SUGO, you agree to our Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy.
+SUGO reserves the right to change our Policy at any time, so be sure to check this Policy regularly to understand how we use your information.
+By installing, using, registering to or otherwise accessing the services, you agree to this Policy and give an explicit and informed consent to the processing of your personal data in accordance with this Policy.
+IF YOU DO NOT ACCEPT AND AGREE WITH OUR PRIVACY POLICY THEN YOU MUST NOT ACCESS OR USE THE SITE.
+The Summary
+If you clicked through to here from our Terms and Conditions of Use. You should read this Policy because it will tell you exactly how your personal data is being looked after by SUGO and that’s a pretty important thing for you to know. Here are the topics that we cover:
+I.	What information do we collect
+II.	How we use your information
+III.	How we share your information
+IV.	Your rights
+V.	Data storage
+VI.	Security
+VII.	Cookies and other technologies
+VIII.	Children
+IX.	Disclaimer
+X.	Contact
+I. What information do we collect
+We collect information when you create an account and use the Platform. We also collect information you share with us from third-party social network providers, and technical and behavioral information about your use of the Platform. We also collect information contained in the messages you send through our Platform and information from your phone book, if you grant us access to your phone book on your mobile device.
+More information about the categories and sources of information is provided below.
+Information you choose to provide
+For certain activities, such as when you register, upload content to the Platform, make broadcast or contact us directly, you may provide some or all of the following information:
+• Registration information, such as age, username and password, language, email or phone number,and social media account
+• Profile information, such as name, social media account information(including your nickname as its appears on your social media profile, your user ID and your profile image),and profile image
+• User-generated content, including comments, photographs, videos, and virtual item videos that you choose to upload or broadcast on the Platform (“User Content”)
+• Payment information, such as PayPal or other third-party payment information (where required for the purpose of payment,we will not retain and collect your credit card name，number or security number)
+• Transaction information, such as such as transaction records and history, date, items, amounts
+• Your phone and social network contacts, with your permission. If you choose to find other users through your phone contacts, we will access and collect the names and phone numbers and match that information against existing users of the Platform. If you choose to find other users through your social network contacts, we will collect your public profile information as well as names and profiles of your social contacts
+• Your opt-in choices and communication preferences
+• Information to verify an account
+• Information in correspondence you send to us
+• Information you share through surveys or your participation in challenges, sweepstakes, or contests such as your gender, age, likeness, and preferences.
+For safety and security and to ensure you have the best possible user experience, we require users to verify their accounts (because we want to make sure you are not a robot!) and might ask for your phone number or Facebook Account. Don’t worry! This is only to make sure you are real and breathing! We won't use your phone number for marketing purposes.
+Information we collect when you use
+Once you have created a Profile and used SUGO, you may choose to edit your gender, birthday and other information,however, please note that these are not required and you have a choice.We may collect information related to when and how you used our Services. The collected information includes your IP, device information(model, system,MCC), timezone. And we also collect infomation about mobile operators, network information (5G\4G\3G\WIFI). That information helps us identify your physical location so that it can be displayed and shared with other users choosing to view "nearby" users and moments. We may from time to time allow our employees to use the product for testing and user engagement purposes.
+When you use our Service, your position, microphone and phone camera shall be used upon your explicit authorization, the certain log file information shall be uploaded by yourself. All such information allows for more accurate reporting and improvement of the Service.
+If you contact our Customer Support team via contact@sugochat.com, we will receive your email address, and may track your IP address as well as the information you send to us to help resolve your query. We will keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you).
+Information we obtain from other sources
+We may receive the information described in this Policy from other sources, such as:
+Social Media.
+if you choose to link or sign up using your social network (such as Facebook, Twitter, Instagram, or Google), we may collect information from these social media services, including your contact lists for these services and information relating to your use of the Platform in relation to these services,if you authorize and consent us to do so.
+Third-Party Services.
+We may collect information about you from third-party services, such as advertising partners, payment partners and analytics providers.However, please note that this Policy does not and will not extend, which shall be subject to the respective third-party’s privacy policies.
+II. How we use your information
+We will use your information to fulfill and enforce our Terms and Conditions of Use, to improve our Platform and customize your ad experience, we may use your information that we received to:
+1. help you efficiently access your information after you sign in;
+2. remember information so you will not have to re-enter it during your visit or the next time you visit the Service;
+3. provide personalized content and information to you and others, which could include customized content , online ads or other forms of marketing;
+4. provide, improve, test, and monitor the effectiveness of our Service;
+5. develop and test new products and features;
+6. monitor metrics such as total number of visitors, traffic, and demographic patterns;
+7. diagnose or fix technology problems, to fulfill requests for products, services, Platform functionality, support and information for internal operations, including troubleshooting, data analysis, testing, research, statistical, and survey purposes and to solicit your feedback;
+8. automatically update the SUGO application on your device SUGO or other Users may run contests, special offers or other events or activities ("Events") on the Service. If you do not want to participate in an Event, do not use the particular Metadata (i.e. hashtag or geotag) associated with that Event.
+9. help us detect abuse, fraud, and illegal activity on the Platform.
+10. ensure that you are old enough to use the Platform (as required by law)
+11. may use material that you post on the open access areas of SUGO in advertising and promotional materials on our partner sites and partner products;
+12.combine all the information we collect or receive about you for any of the foregoing purposes.
+13.for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
+III. How we share your information
+We are committed to maintaining your trust and personal information safety, we will not provide, disclose or share your personal information to or with any third parties unless we have obtained your consent or such provision, disclosure or sharing of personal information is permitted under applicable laws.
+Service Providers and Business Partners
+In cases where you use the services of our business partner or services provided by service providers,we may share the categories of personal information listed above with service providers and business partners to help us perform business operations and for business purposes, including research, payment processing and transaction fulfillment, database maintenance, administering contests and special offers, technology services, deliveries, email deployment, advertising, analytics, measurement, data storage and hosting, disaster recovery, search engine optimization, marketing, and data processing.
+In particular, in relation to targeted advertising, we use third-party advertising companies to serve ads when you use our app. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+Within Our Corporate Group
+We may share your information with a parent, subsidiary, or other affiliate of our corporate group for better service.We will take measures to have our group companies with which the personal information is shared comply with this Policy.
+Succession of business
+If there is any transaction between companies pertaining to our business to which this Policy is applicable, such as acquisition, merger or change of business entity, personal information may also be transferred to the successor of the business to the extent permitted under applicable laws.
+For Legal Reasons
+SUGO also wishes to maintain a healthy community, and we will cooperate with all third parties to enforce their intellectual property or other rights.
+We may disclose your information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims, or government inquiries, and to protect and defend the rights, interests, safety, and security of SUGO, the Platform, our affiliates, users, or the public. We may also share your information to enforce any terms applicable to the Platform, to exercise or defend any legal claims, and comply with any applicable law in our discretion.
+We will also cooperate with law enforcement enquiries from within or outside your country of residence. When we have a good faith belief that disclosure is required by law or when we, in our discretion, believe that disclosure is necessary to protect our legal rights, or those of third parties and/or to comply with a judicial proceeding, court order, or legal process served on us. In such cases, we may raise or waive any legal objection or right available to us.
+With Your Consent
+We may share information for other purposes pursuant to your consent or with your further direction.
+If you access third-party services, such as Apple, Facebook, Google, or Twitter, to login to the Platform or to share information about your usage on the Platform with others, these third-party services may be able to collect information about you, including information about your activity on the Platform, and they may notify your connections on the third-party services about your use of the Platform, in accordance with their privacy policies.
+We may share aggregated information with such parties as Facebook that includes your personal information (but which doesn’t identify you directly), together with other information including log data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.
+To ensure you get to meet as many people as possible on SUGO, other users will have chance to check your information you post on Profile, including photos if you select the Public' access setting. If you choose to engage in public activities on the Platform, You should be cautious to disclose personal information while engaging. We are not responsible for the information you choose to submit. Any information you choose to provide should reflect how much you want other SUGO users to know about you. And you should be aware that any information you share may be read, collected, or used by other users. But you can also choose to restrict visibility scope of your information in the "Settings" page.
+IV. Your Rights
+To the extent permitted under applicable laws, regarding your personal information that we process, you have the right to access, the right to rectification, the right to erasure, the right to restriction of processing, the right to withdrawal of your consent, the right to data portability, the right to confirm if we process any personal information of yours, and the right to request a review of any automated decisions that may be made as a result of the processing. And, we will not discriminate against you for exercising any rights.However, please note that you just have one chance to change your gender information if you provided it.
+If you wish to exercise your right against us to process your personal information, correct or delete your personal information that is contrary to facts, notify you of the purpose of use of your personal information, or other rights permitted under applicable laws, you may contact us via contact@sugochat.com.
+After verification of your identity, we will respond to your request within a reasonable period of time, and in accordance with relevant laws.If, however, permitted under applicable laws, we may not be able to respond to your request when any of the following applies:
+• is likely to harm the life,body,property,or other rights or interests of yours or another individual/user;
+• is likely yo seriously impede the proper execution of our business;
+• is likely to violate other laws and regulations;
+• when you failed to verify your identity; or
+• we are otherwise permitted under applicable laws to refuse your request.
+If you no longer wish to use SUGO or if you withdraw your consent to SUGO's processing of your personal information which is necessary for us to provide SUGO, you may choose to delete your entire SUGO's account by the following steps：
+• Open SUGO
+• Tap Settings>Account and Safety>Delete account
+• Click “Request deletion” or “Think again”
+【Note：Please review the“Notice to users”before you click. You will have 7 days to withdraw your account deletion once you click the “Request deletion” and “Delete accont”, if you log in again within this time period it is considered that you have canceled your application of deletion. After this your account will be permanently deleted and cannot be recovered.To delete your
+account means that it will delete your content access to idrentify and account information,all gold coins and diamonds, transaction history,friends/chat heat/chat history on SUGO.】
+However, the withdrawal of your consent will not in any way affect the lawfulness of our processing of your Personal Data based on your consent that was given before the foregoing withdrawal.
+V. Data Storage
+SUGO is a global social app operating through servers located in a number of countries around the world, including the United States.In providing our services, we may store your personal information outside the country or region where you reside. When that happens, we will take measures to ensure your personal information is processing and storage according to the applicable laws.
+VI. Security
+How does SUGO protect my personal information?
+SUGO has implemented reasonable and appropriate security measures to protect and prevent the loss, misuse, and alteration of the information under our control, including your personal information. SUGO uses reasonable security measures to safeguard the confidentiality of your personal information such as secured servers using firewalls. Our technical experts at SUGO work hard to ensure your secure use of our site.
+While we take reasonable precautions against possible security breaches of our website, member database and records no website or Internet transmission is completely secure and we cannot guarantee that unauthorised access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal information safe (including your password) and to log out of your account after use.
+We cannot guarantee the security of your personal data while it is being transmitted to our site and any transmission is at your own risk. Once we have received your information we have procedures and security features in place to try to prevent unauthorised access.
+How do you help keep your information secure?
+You may not disclose your password to any third parties or share it with any third parties. If you lose your password or give it out, your personal information may be compromised. If that happens, please report it to Support via Feedback. You must change your password immediately via your “Settings” page. SUGO cannot be held responsible for your failure to keep your password secure and failure to do so may violate our Terms and Conditions of Use.
+VII. Cookies and other technologies
+The Platform otherwise is not directed at children under the age of 18. If we become aware that personal information has been collected on the Platform from a person under the age of 18 we will delete this information and terminate the person’s account. If you believe that we have collected information from a child under the age of 18 on the Platform, please contact us at contact@sugochat.com
+VIII. Disclaimer
+Cookies and other technologies
+To make the application work effectively, we sometimes place small data files called cookies on your device. Most application’s developer do this. A cookies is a small text file that website saves when you visit the site. It enable the website to remember your actions and preferences, designed to improved use experience.
+You can control whether or not to accept cookies based on settings or by using other tools. If,however, you deactivate cookies or limit the ability to set cookies, you may not be able to obtain the full benefit of our services or access all of its functions, which may limit your overall user experience.
+Other technologies
+We may install modules of other companies in the SUGO to analyze how the service and product have been used or provided. With regard to your personal information that is processed by a third-party through a module provided by such third party,the privacy policy of such third party will aplly and we also encourage you review it(if any).
+VIII. Children
+You represent and warrant that you have the right capacity and legal capacity required for using SUGO. The Platform otherwise is not directed at children under the age of 18. If we become aware that personal information has been collected on the Platform from a person under the age of 18 we will delete this information and terminate the person’s account. If you believe that we have collected information from a child under the age of 18 on the Platform, please contact us at contact@sugochat.com.We will deactivate the relevant Account(s) and will take reasonable measures to promptly delete such Personal Data from our records.
+IX. Disclaimer
+You can use our instant message function, which allows you to communicate with other users of SUGO. But we recommend and encourage you (and all our users) to consider carefully about the disclosed information of other users . We also do not recommend that you put email addresses, URLs, instant messaging details, phone numbers, full names , addresses, credit card details, national identity numbers or drivers’licence details and other sensitive information in your Profile ,which is open to abuse and misuse.
+Moreover，please be careful to post sensitive details about yourself on you Profile such as your religious denomination and health details. While you may voluntarily provide this information to us when you create your Profile, including your sexual preferences and ethnic background, there is no obligation to do so. Please remember that any photographs or video clips that you post on SUGO may reveal these kinds of sensitive personal data. When you upload and post these sensitive information about yourself, you are explicitly consenting to our processing of your information. And you will at your own risk to do this, if you post anything which is inconsistent with our Terms and Conditions of Use, we reserve the right to disable your account.
+X. Contact
+Questions, comments and requests regarding this policy should be addressed to contact@sugochat.com

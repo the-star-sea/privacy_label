@@ -1,0 +1,226 @@
+CashBird Privacy Policy
+Welcome to CashBird (the ��Platform��). The Platform is
+provided or controlled by CashBird Entertainment Ltd. (��we��
+or ��us��). We are controller of your personal data in the
+sense of Art. 4 (7) of the General Data Protection Regulation
+(��GDPR��) and other data protection or data privacy laws in
+the Member State of the European Union and other Guidelines with a data
+protection nature regarding the Platform and as such, we are committed
+to protecting and respecting your privacy.
+To provide our services to you, we offer you a website and a free app
+that you can download onto your mobile phone. This policy sets out the
+basis on which any Personal Data from you will be processed, collected,
+used, and disclosed by us when you access or use our website,
+applications, products and content (collectively, the
+��Services��).
+Please read the following carefully to understand our views and
+practices regarding your Personal Data and how we will treat it.
+Capitalized terms that are not defined in this policy have the meaning
+given to them in the Terms of Service.
+1. The Personal Data We Process Within Our Service
+(1) Registration and contact information, such as email address, phone number, user name, authorized link for social network account registration, age, and other information you choose to provide when creating a profile or submitting a request, including alias, gender, nationality, country or region code, profile images;
+(2) Network and device information, such as user ID, password, token, digital certificate, IP address, device ID or characteristics, cookies, advertising identifiers, WiFi/WLAN Bluetooth, mobile network information, app and file names, phone book and/or contact information (subject to your consent);
+(3) Network browsing data, such as choices you make when using or interacting with cashbird Applications, our community, and/or advertisements (if available), your account preference settings, follow history, followers, likes or participation records in challenges, surveys, contests or other platform activities provided through cashbird Applications, and your account social network contact/friend list (subject to your consent);
+(4) Financial information, such as a Virtual Item, voucher code, card and account number, third party payment details, records regarding transactions, transfers, orders, withdrawals, rewards, tipping and/or other ID information necessary to identify users/accounts (subject to your consent);
+(5) Location data, such as information you provide to the platform relating to your address or location and geolocation information derived from your device information based on your SIM card, IP address, GPS (subject to your consent) and/or WiFi/WLAN information on an ongoing basis;
+(6) User generated content, such as the content you provide to us when using cashbird Applications or interacting with the platform community through browsing, watching, creating, composing, forwarding, sending, receiving, searching, applying special effects to, downloading or uploading texts, symbols, images, audios, videos, broadcasts, live streams (where applicable), chats, messages, comments, music, films, as well as all the data you provide to us during your communication with customer services, in respect of any question, comment, inquiry, request, dispute, complaint, verification, which may include all attachments uploaded, descriptions and information necessary to verify user identity on an as-needed basis;
+(7) Other data inferred from or associated with any of the above, such as any metadata accompanying user generated content, audio-visual clips segmentation, annotation, frame or text extraction, object and image recognition symbolling, aggregated classification tagging and other non-personally identifying information inferred from the data you provide to us or we collect about you in connection with your use across cashbird Applications. We may collect the above information locally in order to enable special video effects,such as effects and filters, and the information is only used to provide the mentioned features. We do not collect, share or store any face data,the above information could not be used to identify any individual. We will neither use the information of other purposes, nor upload,share, store the data.
+The categories and scope of Data we collect about you may vary from time to time, depending on your choice of and interaction with cashbird Applications, as well as the country or region where you use cashbird Applications.
+Where app features are available, you may choose to browse certain content in the platform without logging in or registering, in which case we may still collect certain data, such as the content you browse, your interactions with the platform, location information (subject to your consent), and associated device information such as device ID, WiFi information and IP address.
+We may collect Data from you and about you from the following sources:
+(1) From you: We collect information that you voluntarily submit or provide to us, including (without limitation) when you download our app, create an account, interact with cashbird Applications, or otherwise contact us with a question, comment, or request.
+(2) From your devices: We and our service providers may automatically collect certain network and device information from your computers or mobile devices once you activate cashbird Applications, such as your IP address, your geographic location, battery level, browser type, language and version, operating system, app and file names and types, error and service access logs, clipboard information, model of your device, time zone settings, device ID, network type, advertising identifiers, network operator, Wi-Fi information, and user action logs on the platform.
+This information allows us to recognize you and personalize your experience if you return to cashbird Applications. We and our service providers may collect this information using ��cookies��. More information about our use of cookies can be found in the ��Cookies�� section below. We may collect such information over time and across different websites or services or across different devices from which you surf on cashbird Applications.
+(3) From third parties: We may obtain information about you or your use of cashbird Applications from third parties and other sources, such as other users of cashbird Applications and vendors, including creator agencies, webhosting providers, analytics providers, attribution providers, advertising or other business partners and/or other public resources. To the extent we allow for third party social media integrations in cashbird Applications, the information we may obtain from third party services depends on your account/privacy settings with those third parties and the third parties�� privacy policies. If you access cashbird Applications through third party-platforms, you are authorizing us to collect, store and use such information and content in accordance with this Policy. Any information provided to us by a third party may also be subject to such third party��s privacy policy.
+2. How We Use Your Personal Data
+We may use your Data for a number of purposes associated with operating our business and providing cashbird Applications to you, including:
+(1) Identification and authentication: We use your Data to verify your identity or eligibility across cashbird Applications when you access and use our Services, such as receiving rewards or prizes, or otherwise engaging with us, and to protect the security of your Data. In some instances, we use your Data to verify your age in order to provide certain Services to you, such as live streaming (where applicable), or to verify your identity in order to fulfill your request in relation to your Data.
+(2) Service provision: We process your Data to provide Services that you request, to respond to your queries, or to contact you about changes to cashbird Applications and the platform. This may also include managing the content ecosystem across cashbird Applications, enabling app features or special effects, facilitating third party partnerships or integrations across cashbird Applications, monitoring and testing cashbird Applications, troubleshooting, or allowing you and other users to connect with each other.
+(3) Payment processing: We may use your Data for billing and payment processing purposes or to distribute awards to you. This may also include enabling payment through third-party payment systems.
+(4) Optimizing your experience: We may use your Data to improve your experience across cashbird Applications, such as by providing interactive or personalized elements on the Services, simplifying the operations process when you launch a certain function, recommending to you accounts that you may be interested in, providing you with content based on your interests, enabling you to find friends and social contacts, or making our Services more personalized subject to your permission to provide you with location-based services. In order to improve the efficiency of uploading audio-visual content generated by users, you may enable the preload feature to pre-upload your videos before publication. We may also use information stored on your clipboard (subject to your consent) to enable you to share it on cashbird Applications or with third parties.
+(5) Service and algorithm enhancement, development, and research: We inspect and analyze usage information and statistics to maintain and improve cashbird Applications and algorithm. We may also use your Data to support customer services and user feedback, conduct survey or research and develop new products and services.
+(6) Communications: Communications may include, for example, providing information about our products and services, changes to the terms of service, updates regarding our services, user information reports on users who are minors, or responses to your questions, comments or requests.
+(7) Content moderation: We may process your Data to identify the images and audio in the content you create or upload to cashbird Applications to detect improper contents.
+(8)  Marketing, advertising and sales: We may use your Data to build a profile about you, to analyze and understand your preferences, to help determine which marketing materials would be of interest to you, to display advertising, to send you marketing communications, to conduct award activities, to measure the effectiveness of advertising and promotion, and to facilitate sales, purchases and delivery (where applicable). We may also process your Data in the course of giving awards or conducting sweepstakes, contests or other promotions. We may use your Data for direct marketing purposes upon obtaining appropriate consent under applicable laws.
+(9) Exercising our rights: We may use your Data to exercise our rights where it is necessary to do so, for example to detect, prevent, investigate and respond to security incidents or breaches, data scrapping, fraud, abuse, intellectual property infringement claims, financial crimes, other violations of law,
+(10) Complying with our obligations: We may process your Data to comply with legal or regulatory obligations, including without limitation our legal obligation to prevent users under the Minimum Age from accessing the platform, to respond to lawsuits, damages or investigations, within or outside of your country or region or in any instance of mergers, acquisitions, sales and asset transfers, insolvency proceedings, corporate restructuring, winding up or liquidation. We may also aggregate and/or de-identify your Data and may use such aggregate or deidentified information for any other purposes.
+3. How We Share Your Personal Data
+We may share your personal data with selected third parties in or
+outside your country, including:
+our business partners so that we can make you special offers via
+the Platform;
+with respect to on-screen advertisements, advertisers and
+advertising networks that require the data to select and serve
+advertisements to you and others. We will not share your contact
+details with our business parties so they will not contact you
+directly, but we will share other information so that they can
+make offers tailored to your requirements;
+our suppliers and subcontractors who help us run the Platform;
+analytics and search engine providers that assist us in the
+improvement and optimisation of the Platform.
+We may share your information with any member or affiliate of our
+group, which includes our subsidiaries, our ultimate holding company
+and its subsidiaries, and companies that we control, are controlled
+or under common control, and our service providers and strategic
+business partners, and their respective subsidiaries, in each case
+in or outside your country, for the purposes set out above
+(��How We Use Your Personal Data��). For the purposes of
+developing and maintaining the product, we share your personal data
+with our group company CashBird Entertainment Ltd.
+We may share your information with law enforcement agencies, public
+or tax authorities or other organizations if legally required to do
+so, or if we have a good faith belief that such use is reasonably
+necessary to:
+comply with a legal obligation, process or request (including
+tax and related reporting requirements);
+enforce our Terms of Service and other agreements, policies, and
+standards, including investigation of any potential violation
+thereof;
+detect, prevent or otherwise address security, fraud or
+technical issues;
+protect the rights, property or safety of us, our users, a third
+party or the public as required or permitted by law (including
+exchanging information with other companies and organizations
+for the purposes of fraud protection and credit risk reduction).
+We may also disclose your information to third parties:
+in the event that we sell or buy any business or assets, in
+which case we may disclose your data to the prospective seller
+or buyer of such business or assets;
+if we sell, buy, merge, are acquired by, or partner with other
+companies or businesses, or sell some or all of our assets. In
+such transactions, user information may be among the transferred
+assets.
+4. Where We Store And Retent Your Personal Data
+(1) We store your Data on our servers located in Singapore. We also have support, engineering, content moderation, and other functional teams located around the world to support cashbird Applications provided to you. We have rigorous internal control measures in place to strictly limit data access to designated personnel only.
+(2) We will retain your Data for as long as necessary: (i) to achieve the purposes as set out in this Policy; (ii) as required by applicable laws and regulations, including any requirements to retain data for a certain period of time, taking into account the statute of limitations under applicable laws and regulations; (iii) for our legitimate and lawful purposes, including for our business, and provision of cashbird Applications; and/or (iv) to defend against any actual, threatened or potential claims or disputes.
+(3) We will not retain your Data for longer than necessary or beyond the end of the purposes for which you provided your Data to us, unless we are required to do so under applicable laws. In addition, we reserve the right to delete, destroy, or de-identify your Data that is no longer necessary or current for the purposes for which it was obtained, such as Data about user accounts that have been inactive for 6 consecutive months, or where the specific time period required under applicable laws have lapsed.
+5. The Security of Your Personal Data
+(1) We will take appropriate technical and organizational measures to help protect and secure your Data. We will endeavor to protect your Data against unauthorized or unlawful processing, accidental loss, destruction, or damage through these measures, including:
+(i) using encryption techniques;
+(ii) establishing specialized systems and procedures, such as strictly limiting the scope of personnel with access to your Data, and requiring those who have such access to comply with relevant confidentiality obligations; and
+(iii) forming a specialized department in charge of information security. In the event of incidents such as information leakage or data or security breach, we will take timely measures to handle such incidents, and we will notify you promptly in an appropriate manner, including through messages or announcements.
+(2) We will endeavor to ensure that, by default, we only collect and process your Data needed to provide cashbird Applications. We also apply this principle to our data privacy and protection controls into our processing activities. This means that we will neither publish nor share your Data by default.
+(3) While we are committed to protecting your Data, no electronic data transmission or storage of information can be completely secure. Therefore, although we take appropriate technical and organizational measures to secure your Data, we do not guarantee, and you should not expect, that your Data will always remain secure. If you do not agree to these risks and conditions, you must discontinue your use of cashbird Applications.
+6. To Whom We May Disclose or Transfer Your Data
+(1) We will not share or transfer any of your Data to any third parties except as explicitly provided in this Policy. We will only share your Data with third parties in the following circumstances:
+(i) when approved or authorized by you or subject to the ��Parental and Guardian Consent�� section below, your parent or legal guardian;
+(ii) as required for administrative or judicial purposes, including any requirements of competent authorities, courts and regulatory bodies;
+(iii) in any legal proceedings (including arbitrations) against you in which we aim to protect our legal rights;
+(v) in order to protect the interests of the Company, you or the public against harm; or
+(vi) pursuant to the agreements made by you with any other third parties.
+(2) We may share your Data with our corporate affiliates, group members, and the following third parties , who will only use your Data in accordance with this Policy to facilitate the provision of cashbird Applications to you or for other purposes as indicated below.
+a) Social media platforms: To facilitate the provision of cashbird Applications to you, we may share your Data with social media platforms of your choice: If you access cashbird Applications through third party social media platforms (such as Facebook, Google, Twitter, Apple), we share certain information about you (such as account ID, access token and referring URL) with your selected platform. If you allow third party social media integrations with cashbird Applications or share the content of Services on third party platforms (such as YouTube, Instagram, Facebook, Twitter, WhatsApp), depending on the content you choose to share, we may share certain information about you (such as account ID, user ID, photo ID and share URL) with your selected platform.
+b) In the context of a transaction including mergers, acquisitions or asset sales: We may transfer your Data to another legal entity for the purposes of a collaboration, joint venture, corporate reorganization, change of legal form or other similar event. In order to develop our business, we may engage in transaction such as mergers, acquisitions, sales and asset transfers. In these circumstances, we will inform you of the related transactions, and will continue to protect or require the successor to protect your Data in accordance with applicable laws and regulations and this Policy.
+c) Third parties in support of cashbird Applications: We may engage or cooperate with third parties to perform functions or provide services. We share your Data with these service providers for purposes such as hosting or operating our Services, payment and transaction processing, rewards, vouchers and commercial goods delivery (where applicable), cloud services, e-mail communication, research, survey, marketing and data analysis services. We may also share your Data with professional agencies and individuals that we engage to provide professional services to us, including advisors, auditors, lawyers and accountants. We will only share your Data on a need-to-know basis with third parties in order for them to perform corresponding functions and services, and we will request such parties to maintain appropriate security measures to protect such Data from unauthorized access or processing.
+d) Legal, regulatory or government authorities: We may in limited cases transfer your Data to local (where you reside) or overseas authorities such as legal, regulatory, law enforcement, government and tax authorities, to satisfy our obligations or those of third parties (when they receive a request from an authority empowered by law to do so), pursuant to applicable laws and regulations.
+e) Promotions: If you choose to register for a promotion, such as a competition, sweepstakes, lucky draw, contest, reward program for user or creators, your Data may be disclosed to third parties for the purposes of administering such promotion.
+f) Advertisers and measurement service providers: Where advertising services are available to users, we share aggregate information, which no longer contains personal data, with advertisers and third-party measurement service providers to show the amounts and groups of users of our platforms who have viewed or clicked on an advertisement. We share your advertising ID and other device information such as your IP address with advertisers and measurement service providers so that we may connect your activities on our platforms with your activities on other apps or websites to recommend advertising content which may be of interest to you.
+g) Other business partners: Where shopping features are available, our business partners may offer goods or services to you through cashbird Applications. When you interact with or order such goods and/or services, we will share your Data such as your user ID with such business partners to facilitate your transactions and to show you the status of orders made through cashbird Applications. Where you choose to log in to any of our business partners�� services with your cashbird Applications account, such business partners will be able to access your account information, such as your username and profile image, subject to your authorization.
+(3) You may submit certain information through cashbird Applications (e.g., upload short videos). Any such information that is meant to be shown to the public on our app will be disclosed publicly. This Policy does not apply to uses of any such information by third parties after it is uploaded and displayed on cashbird Applications.
+(4) Except as otherwise provided in this Policy, we will not disclose any of the Data collected from your use of cashbird Applications to the public. If public disclosure is required by applicable laws and regulations, we will inform you of the purpose of the disclosure and the type of information disclosed.
+7. International Data Transfer
+We may transfer your Data to other countries or regions solely for the purposes set out in this Policy, in accordance with this Policy and applicable laws and regulations.Data disclosure as referred to in this Policy may involve a transfer of your Data to countries and regions that provide different levels of data protection. Applicable legal and regulatory requirements are taken into consideration before any cross-border transfer of your Data takes place and our policies are as follows:
+(1) We may share your Data with our other group entities in other jurisdictions for internal, business and operational purposes in order to provide cashbird Applications. We will ensure, by way of appropriate contractual guarantees which will also be in compliance with applicable laws and regulations, that all such entities with which we share your Data maintain appropriate security measures to protect your Data from unauthorized access or processing and will not share this your Data with any third party unless you expressly agree otherwise.
+(2) In order to provide cashbird Applications to you, we may need to transfer your Data internationally to non-affiliated entities, which will only occur pursuant to the international transfer mechanisms available under applicable laws and regulations. If the country or region to which your Data is being transferred does not provide an adequate level of protection to your personal data as required by applicable laws and regulations, your Data may be transferred internationally based upon your prior consent, our exercise of a legal right, our compliance with a legal obligation, or the performance of a contract with you, among other mechanisms available under applicable laws and regulations.
+8. Data Access and Management
+(1) Once you have completed your Account registration and put in place reasonable and necessary authentication measures, you can review, modify, and delete the Data you have submitted to us by using the contact information provided in ��Contact Information�� of this Policy. In general, you can browse, modify, and delete your own information at any time, but you may not be able to modify certain initial registration information and verification information provided at the time of registration for security and identification purposes.
+(2) You may have the following rights to the extent applicable under local laws and regulations which you can exercise by using the contact information provided in this Policy:
+(i)  You have the right to be informed in a concise, transparent, intelligible and easily accessible form of the way in which your Data is processed. You also have the right to obtain confirmation as to whether or not Data concerning you is being processed, and, where that is the case, to access such Data and obtain a copy thereof.
+(ii) You have the right to request rectification of your Data. You also have the right to have incomplete Data completed.
+(iii) Where you have provided your consent, you may withdraw your consent. If you withdraw your consent, we may continue processing your Data to the extent permitted by applicable laws and/or set out in this Policy.
+(iv) You may also have other rights as described under the "Country / Region Specific Terms" section below or otherwise under the local laws.
+(3) We will verify your identity first before we can fulfill your request. We will respond to your request within the timeframe as required by local laws.
+(4) You can change your privacy settings on our app, such as making your account private, disabling the downloading of your posts, and disabling the reading of your clipboard, and managing the sync of your phone contacts or social network contacts/friends list.
+(5) You may also be able to change your cookie settings as described in the section below to manage the data we collect using cookies.
+(6) You can prevent us from obtaining your Data by suspending certain functions provided by our Services.
+(7) You can ask us to delete your Account, which is an irreversible process as you will not be able to access your Account upon deletion, and all data in relation to the Account will be deleted or de-identified, subject to any statutory retention requirements under applicable laws and regulations. If you wish to have your account deleted, you can contact us by using the contact information provided in ��Contact Information�� of this Policy or through the in-app setting ��Account Protection �C Account Deletion��.
+9. Information Relating to Children
+The Platform is not directed at children under the age of 13. Users
+under the relevant age are not allowed to use the Platform or
+register an account on the Platform without the consent of their
+parent of guardian. If we become aware that personal data has been
+collected from a person under such age in the relevant jurisdiction
+and parental or guardian consent has not been provided, we will
+delete this information and terminate the person��s account. If
+you believe that we may have personal data about or collected from a
+child under the specified age in the relevant jurisdiction without
+the consent of their parent or guardian, please contact us at
+support@cashbird.online.
+10. Your Rights
+You have the right to access your Personal Data that we hold about
+you and to correct, update, amend, suppress, delete or otherwise
+modify any Personal Data where it is inaccurate, or has been
+processed in violation of the applicable data protection
+regulations, unless we have to keep the Personal Data for legitimate
+business or legal purposes. Prior to the fulfilment of your request
+concerning your Personal Data, we may ask you to verify your
+identity before we can act upon your request. You may object to the
+use or processing of your Personal Data or withdraw consent to use
+your Personal Data at any time.
+You have the following rights:
+The right to require free of charge (i) information whether your
+Personal Data is retained and (ii) access to and/or (iii)
+duplicates of the Personal Data retained. However, if the
+request affects the rights and freedoms of others or is
+manifestly unfounded or excessive, we reserve the right to
+charge a reasonable fee (taking into account the administrative
+costs of providing the information or communication or taking
+the action requested) or refuse to act on the request;
+The right to request proper rectification, removal or
+restriction of your Personal Data;
+Where processing of your Personal Data is either based on your
+consent or necessary for the performance of a contract with you
+and processing is carried out by automated means, the right to
+receive the Personal Data concerning you in a structured,
+commonly used and machine-readable format or to have your
+Personal Data transmitted directly to another company, where
+technically feasible (data portability);
+Where the processing of your Personal Data is based on your
+consent, the right to withdraw your consent at any time without
+impact to data processing activities that have taken place
+before such withdrawal or to any other existing legal
+justification of the processing activity in question;
+The right not to be subject to any automatic individual
+decisions which produces legal effects on you or similarly
+significantly affects you;
+The right to take legal actions in relation to any breach of
+your rights regarding the processing of the Personal Data, as
+well as to lodge complaints before the competent data protection
+regulators.
+As far as we process your Personal Information on the basis of our
+legitimate interests (Art. 6(1) lit. f) GDPR), you may object to
+processing (Art. 21(1) GDPR) at any time. You may find a detailed
+description of our processing activities and the legal basis in the
+section before. If you object to such processing, we ask you to
+state the grounds of you objection in order for us to examine the
+processing of your personal data and decide whether to adjust the
+processing accordingly.
+Please note that the processing of your personal data may involve
+direct marketing activities as described above. If you do not want
+to have your activity on CashBird��s Services processed for
+direct marketing activities, you can object to any data processing
+free of charge at any time via e-mail (Art. 21(2) GDPR) (for the
+other Contact Details see above).
+Please send an e-mail to us if you would like to exercise any of
+your rights (support@cashbird.online).
+11. Complaints
+In the event that you wish to make a complaint about how we process
+your Personal Data, please contact us in the first instance at
+support@cashbird.online. and we will endeavour to deal with your
+request as soon as possible. This is without prejudice to your right
+to launch a claim with your data protection authority or follow the
+dispute resolution process provided in the Terms of Service.
+12. Changes
+We will use commercially reasonable efforts to generally notify all
+users of any material changes to this Policy, such as through a
+notice on our Platform, however, you should look at this Policy
+regularly to check for such changes. We will also update the
+��Last Updated�� date at the top of this Policy, which
+reflects the effective date of such Policy. Your continued access to
+or use of the Services after the date of the updated Policy
+constitutes your acceptance of the updated Policy. If you do not
+agree to the updated Policy, you must stop accessing or using the
+Services.
+13. Contact
+Questions, comments and requests regarding this Policy are welcomed
+and should be addressed to support@cashbird.online.

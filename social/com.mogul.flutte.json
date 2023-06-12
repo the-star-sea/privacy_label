@@ -1,0 +1,64 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.mogugaming.com/MoguAgreement_ZH.html"
+}

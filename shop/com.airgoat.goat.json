@@ -1,0 +1,58 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": true,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.goat.com/privacy"
+}

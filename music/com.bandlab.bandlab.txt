@@ -1,0 +1,140 @@
+BandLab Blog
+From the Team
+Tutorials
+Guides
+Community
+Contests
+Inspiration
+Back to bandlab.com
+From the Team
+Tutorials
+Guides
+Community
+Contests
+Inspiration
+Follow BandLab
+Instagram
+Facebook
+Twitter
+Privacy Policy
+Privacy Policy
+This Privacy Policy is current as of 20 April 2023.
+1. BandLab – Our Privacy Policy
+1.1
+This Privacy Policy explains how we collect, use, share and store personal data relating to the BandLab website, any BandLab mobile and desktop app, and any related players, widgets, tools, applications, data, software, APIs and platforms (collectively, the “Services”).
+1.2.
+Personal data (“Information”) in this Privacy Policy refers to data that can be used to directly or indirectly identify an individual.
+1.3.
+Our Privacy Policy applies to those who use or access our Services.
+1.4.
+This Privacy Policy contains the following sections:
+Information we collect
+How we use your Information
+Sharing your Information
+How we store your Information
+Children’s Privacy
+Other Websites
+Contacting us about your Information
+Changes to this Privacy Policy
+2. Information we collect
+A. The following is Information which you provide to us directly:
+2.1. Registration Information
+2.1.1. When you register an account on the Services, we may collect Information such as your name, password, email address, and social network ID (if you have signed up using a social network account (e.g. Facebook or Google)).
+2.1.2. Once your account has been registered, your name, username and profile picture (if you have signed up using your Social Network ID) will automatically be displayed on your profile page and will be available to other users through the Services. This allows other users to identify you, find you, and refer to you properly.
+2.2. Profile Information
+2.2.1. In addition to your name and username, which are automatically displayed on your profile page, you may provide additional Information on your profile page such as your profile picture (if not already available via your sign up using your Social Network ID), date of birth, gender, location and other information about yourself and your interests.
+2.2.2. Any such Information which you add to your profile page (except for date of birth and gender) on the Services becomes publicly available. Please exercise personal discretion in how much Information you choose to share.
+2.3. Content which you upload to the Services, which allows others to identify you (e.g. photos of you, audio recordings or text containing your name, voice, status updates, comments on content which refer to you).
+2.4. Communications between you and us (e.g. your reply to our service updates, emails to you, and support tickets).
+B. The following is Information which other users provide about you:
+2.5.
+Content which others upload to the Services which allows you to be identified (e.g. photos of you, audio recordings or text containing your name, status updates, comments on content which refer to you).
+C. Other Information which we receive when running the Services:
+2.6. Information
+2.6.1. We use third-party analytics tools to help us measure traffic and usage trends for the Services. These tools collect information sent by your device including the web pages you visit, add-ons, and other information that assists us in improving the Services. We collect and use this analytics information with analytics information from other users so that it cannot reasonably be used to identify any particular individual user.
+2.7. Cookies and similar technologies
+2.7.1. The Services may contain “cookies”, clear gifs (also known as “web beacons” or “web bugs”), or similar technology. A cookie is a piece of data that is sent to your Internet browser, which will store the cookie on your computer if your browser is enabled to accept cookies, or where you are a resident of the European Economic Area, if you have provided your consent to the use of cookies.
+2.7.2. The Services use cookies, clear gifs, frames, server log analysis and other technologies as they are developed to customise your experience with our website and Services. Most Internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions or “Help” screen to learn more about how to manage cookies. Please note, however, that if you block cookies, some services and portions of this website may not function properly.
+2.8. Log file information
+2.8.1. Log file information is automatically reported by your browser each time you make a request to access (i.e., visit) a web page or app. It can also be provided when the content of a web page or app is downloaded to your browser or device.
+2.8.2. When you use the Services, our servers automatically record certain log file information, including your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Services, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our users which then helps us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Services.
+2.9. Device identifiers
+2.9.1. When you use a mobile device like a tablet or phone to access the Services, we may access, collect, monitor, store on your device, and/or remotely store one or more “device identifiers.” Device identifiers are small data files or similar data structures stored on or associated with your mobile device, that uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by us.
+2.9.2. A device identifier may deliver information to us or to a third party partner about how you browse and use the Services and may help us or others provide reports or personalised content and ads. Some features of the Services may not function properly if use or availability of device identifiers is impaired or disabled.
+3. How we use your Information
+3.1. How we use (or ‘process’) your Information will depend on the nature of your interaction with the Services and with us. Under data protection law we must have a specific lawful basis for the processing of your Information. We rely on several lawful bases for different activities as follows:
+3.1.1 Some processing is necessary for the performance of the contract (i.e. our Terms of Use) between you and us and / or taking steps, at your request, to enter into such a contract. For example, when you register with us and set up an account, this allows us to provide you with the Services.
+3.1.2 Some processing is necessary for our legitimate interests. We have a legitimate interest in ensuring you follow our Terms of Use, administering and protecting our business, managing our relationship with you and communicating to you about your account registration, the status of the Services and how to set up your account, improving our products and the Services, providing personalised content to you, collecting statistical information about your use of the Services, providing advertising (including personalised advertising where you consent to this, on the basis of the information advertising partners provide us) and preventing abuse or illegal activity on our platform.
+3.1.3 Some processing is required where we are legally obliged to do so, or if the processing is in the public interest.
+3.1.4 Sometimes we will process your Information based on your consent.
+3.2 Generally, we collect and use Information for the following purposes:
+a) To allow you, and those whom you have given permissions to, to access content and Information which you have uploaded;
+b) To identify you with content which you have uploaded;
+c) To remember Information so that you do not have to re-enter it each time you use the Services;
+d) To provide personalised content to you and others such as Followers and Band Members or other interest segment updates, personalised online advertisements and offers or other forms of marketing like emails about products, services and other information you might be interested in. We may also contact you for market research purposes (where required by law, we will collect your consent to do so);
+e) To test, improve and monitor the Services, including diagnosing and fixing technology problems, and including use as part of our API;
+f) To provide you with BandLab features and other updates, respond to your feedback, answer your queries and to otherwise communicate with you;
+g) To allow other users (including Band Members) to communicate with you to the extent that enable this feature (e.g. by activating Chat in BandLab or by opting in to a Band Member’s updates);
+h) To monitor metrics such as site traffic, usage and demographic patterns;
+i) To automatically update the BandLab application on your device;
+j) To serve or display promotions on other users’ profiles and their posts that are likely to be of interest to you;
+k) To track the effectiveness of our advertising and promotions (such as measuring how many people view or click on an advertisement, or users’ profile or post) and for their attribution, analytics and reporting;
+l) To make music programming decisions and to comply with copyright reporting obligations;
+m) To process payments made by or to you;
+n) To make any of your content available to the public if you choose to do so; and
+o) To comply with applicable rules, laws, regulations, codes of practice or guidelines issued by any legal or regulatory bodies which are binding on us.
+4. Sharing of your Information
+4.1.
+We may share your Information with the following parties:
+a) Related Entities: These are businesses that are legally part of the same group of companies that we are part of, or that become part of that group.
+b) Service Providers: These are our third party contractors. We engage them to assist us in providing and managing aspects of the Services, such as developing the Services’ features and functionality, marketing, processing payments, processing data or statistics, hosting content, providing server space, reviewing content for compliance with our Terms of Use, and legal advice.
+c) Third Party Advertisers: We may provide Information to third party advertisers so that they can notify you of events or products which may be of interest to you. For instance, you may be notified of an upcoming concert or product release.
+d) Analytics Services: We may use third party analytics providers and products to obtain, compile and analyse Information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data), and may provide such Information to these analytics providers for the purpose of obtaining statistics and other information about how users are using and interacting with the Services. One of our analytics providers is Google Analytics and more information on their privacy policy is available at www.google.com/policies/privacy/partners.
+e) We may remove parts of data that can identify you and share anonymised data with other parties. We may also combine your Information with other information in a way that it is no longer associated with you and share that aggregated information.
+f) We may share your contact details with other user(s) whose updates you opt to follow via our Fan Reach Service. You can unfollow such other user(s) and unsubscribe from such updates at any time.
+g) If your Information is included in any of your content and this is then broadcast to the public by us, such Information will be shared with anyone who listens to the content throughout the world.
+4.2.
+We require that all parties with whom we share Information to implement adequate levels of protection in order to protect such Information.
+4.3.
+If you delete Information or content which you have uploaded or posted on the Services, copies may remain viewable in cached and archived pages of the Services, unless you contact us to request permanent deletion as per Section 8.3 below.
+4.4. We may also share your Information with third parties in the following circumstances:
+(a) Change of control: If the ownership of our business changes or we undertake a reorganisation of our business, we may transfer your Information and content to the new owners so they can continue to operate the Services. The new owners may subsequently make changes to this Privacy Policy;
+(b) If permitted or required by law: We may disclose Information if we believe that such disclosure is required or permitted by law (e.g. by responding to requests from government authorities, or disclosure pursuant to court orders or other legal demands); and
+(c) To protect interests: We may disclose Information if we determine it is necessary to enforce or protect our rights or the property or personal safety of the users of the Service (e.g. to enforce this Privacy Policy or our Terms of Use, or to prevent or take action against illegal activities, suspected fraud, or potential threats or breaches).
+5. How we store your Information
+5.1. We (or others on our behalf) may transfer your Information to other countries in which our facilities or businesses are located, to be stored or processed. We will ensure that where we transfer your personal data outside of Singapore, the United Kingdom or the European Economic Area, we will put in place all necessary safeguards to protect that personal data, in accordance with applicable data protection laws. This includes the entities’ making of reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying, modification, disposal or similar risk to your Information, and removing the Information as soon as it is reasonable to assume that its retention is no longer necessary.
+5.2. Currently, the countries to which Information is transferred for the purpose of storage on cloud servers are Singapore and the United States of America. We may update this list periodically to reflect any new locations where your Information may be stored.
+5.3. On your part, you should maintain the secrecy of your account password at all times.
+6. Children’s Privacy
+6.1. We do not knowingly collect Information from children under the age of 13 without parental consent. If you are a child under 13 years of age, you are not permitted to use the Services and should not send any Information about yourself to us through the Services.
+6.2. In the event that we become aware that we have collected Information from any child, we will delete that Information. If you are a parent or guardian and you believe that your child under the age of 13 years has provided us with Information without your consent, please email us at privacy@bandlab.com and we will take reasonable steps to ensure that such Information is deleted from our systems.
+7. Other websites and services
+7.1. If you use a link to go from the Services to other websites, applications or platforms, this Privacy Policy does not apply to those websites, applications or platforms. They have their own privacy policies and you should familiarise yourself with them before you permit them to access and process your content or Information.
+7.2. We are not responsible for and do not have control over any other third party websites, applications or platforms which you authorise to access or process your content or Information. If you are using a third-party website, application or platform and you allow them to access or process your content or Information, you do so at your own risk.
+8. Contacting us about your Information
+8.1.
+If you have any questions or feedback regarding this Privacy Policy, you may contact our Data Protection Officer:
+Ivan Chen, privacy@bandlab.com
+8.2. If you (i) wish to update or correct your Information, (ii) wish to request for information from us on what Information of yours we have and how we have used and shared your Information during the last one year before the date of your request, (iii) wish to restrict or withdraw your consent to our processing of your Information, (iv) wish us to delete your Information, or (v) have any questions, concerns or feedback on this Privacy Policy, please contact our Data Protection Officer in writing via email to privacy@bandlab.com.
+8.3. If you are using the Services in the United Kingdom or European Economic Area, you have the following rights. Some of these rights apply generally, while others will only apply in certain circumstances::
+a) Right to be informed: This right means that when we ask you to provide us with your Information, we will give you details such as what we are using it for, how and with whom it will be shared, and how you may contact us if you have any queries;
+b) Right to access: This right allows you to ask us for details of the Information we hold on you, e.g. what Information is being processed and for what reason, what Information is being transferred and to whom, what rights you have etc;
+c) Right to rectification: This right allows you to ask us to correct anything that you think is wrong with the Information we have about you;
+d) Right to erasure also known as the “right to be forgotten”: This right means you can ask us to delete your Information from our system;
+e) Right to restrict processing: This right allows you to ask us to only process your Information for those certain purposes that you specify;
+f) Right to data portability: This is the right to ask us to send you your Information electronically. You may also ask us to transmit such Information to another party;
+g) Right to object: This is your right to tell us to stop processing your Information;
+h) Right not to be subject to automatic decision-making, including profiling: We sometimes use computers to study and analyse Information. We might do this so we can understand how you, and other visitors, are using the Services. This allows us to improve the Services for better customer experience e.g. by providing personalised content and marketing to you. For situations that may significantly impact you, you have the right to ask us not to do this; and
+i) Right to complain, right to judicial remedy: If you feel your rights are breached, these rights allow you to make a complaint to the relevant authorities or to sue us in court.
+8.4. You may exercise the above rights by writing to our Data Protection Officer at privacy@bandlab.com.
+9. Changes to this Privacy Policy
+We may, at our sole and absolute discretion, change or update portions of this Privacy Policy at any time and without prior notice to you. We will notify you when changes are made via the email address associated with your account. We also recommend that you review this Privacy Policy from time to time so you are aware of any changes or updates. We will indicate the effective date of the notice. If you do not wish to continue using the Services under the modified Privacy Policy, you should terminate your account.
+Share this:
+Follow us on Instagram
+Follow us on Facebook
+Follow us on Twitter
+Follow us on TikTok
+Follow us on Discord
+Follow us on Reddit
+Follow us on YouTube
+© 2023 BandLab Technologies

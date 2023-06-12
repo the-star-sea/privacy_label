@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Photos",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "http://tekrunch.com/privacy/"
+}

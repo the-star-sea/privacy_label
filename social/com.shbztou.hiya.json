@@ -1,0 +1,64 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Photos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": true,
+      "purpose": "App functionality, Account management",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://api.hihiyala.com/page/hiyala_privacy_policy"
+}

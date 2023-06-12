@@ -1,0 +1,215 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": false,
+      "purpose": "Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": false,
+      "purpose": "Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User payment info",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Credit score",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Other financial info",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": false,
+      "purpose": "Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": false,
+      "purpose": "Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User payment info",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Credit score",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Other financial info",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Web browsing history",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.fingerhut.com/content/PrivacyOnline#collection-personal-information"
+}

@@ -1,0 +1,161 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User payment info",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Photos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.opensooq.com/en/termOfUse"
+}

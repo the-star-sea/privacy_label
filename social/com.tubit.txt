@@ -1,0 +1,414 @@
+Terms & Conditions
+Privacy & Security
+Contact us
+Privacy & Security
+The website tubit.com (the “Website”), the application Tubit (the
+“App”) and any related features (hereinafter, the “Services”,
+“Tubit”, or “We”) value the privacy of all of our users. We have
+established this Privacy Policy to show commitment to these rights
+and to safeguard your privacy. If you use our website, application
+or services, we urge you to read this Privacy Policy and become
+fully informed about how it affects your personal privacy. Please
+refer to this Privacy Policy to find out how to contact us if you
+have any questions about the content.
+Privacy Policy
+Types of personal data collected
+The use of the personal data
+The grounds for the processing the personal data
+The sharing of the personal data
+Age restriction
+Retention time and deletion of personal data
+Data Subject rights
+Push Messages, Promotional emails
+Security
+Right to lodge a complaint
+Changes to this privacy policy
+Data controller contact information
+Privacy Policy
+This Privacy Policy (“Policy”) was designed to help you
+understand the information we collect, store, use and share.
+It applies whenever you visit our Website, our App, or
+otherwise use or access our Services.
+You are not legally required to provide us with any Personal
+Information, but we need it to provide you with the full range
+of the best experience of using our Services.
+You should always understand the privacy policies of any
+website when supplying information during your use.
+Types of personal data collected
+We collect personal data when you use or register on Tubit. It
+is possible to browse our website without registering, but you
+must register to use certain features and services we offer.
+Registration information
+Providing your Name, Surname, date of birth and email address
+is a prerequisite for concluding the contract; otherwise, we
+cannot offer you access to the Service. By registering for our
+Service, you will provide and share your personal data with
+other users. Anyone can see something public. For example,
+your name, status “live”, photo, number of followers, and
+number of diamonds earned.
+This personal data is available to the public to help connect
+you with other website users.
+During registration via Apple (“Sign in with Apple”)
+If you register or sign in with your Apple ID, you give Apple
+permission to share your Apple login, name (you can edit
+that), surname and email. This email address will be linked to
+your Tubit account and used to retrieve your Tubit account.
+During registration via Google
+When you sign in with your Google account, you will permit
+Google to share your name, surname, photo, email, birthday and
+gender with us. This email address will be linked to your
+Tubit account and used to retrieve your Tubit account.
+During registration via Facebook
+When you sign in to our Service using your Facebook account,
+you permit Facebook to share your name, surname, email,
+birthday, gender and profile picture with us.
+We will use personal data to form your Tubit account. If you
+remove the Tubit app from your Facebook settings or your Apple
+ID, we will no longer have access to this data. However, we
+will still have the personal data we received when you first
+set up your Tubit account using your Facebook or Apple ID (you
+must delete your Tubit account entirely for us to no longer
+have access to this data).
+Personal data you provide us when you use our services or
+register for an account with us:
+we collect data about you when you register an account,
+create or change your profile, set preferences, register or
+make purchases through the Services. This personal data
+could include the following: name, photo, date of birth and
+other information to your profile information, your contact
+and transaction data.
+we collect and store content you post, send, receive and
+share. This content includes any information about you that
+you may have: photos, user-to-user communications, chats, or
+feedback you provide or when you participate in any
+interactive features, surveys, contests or promotions.
+we collect data about you when you provide through our
+support channels: information regarding a problem you are
+experiencing with a Service and any other documentation,
+screenshots or information that would help resolve the
+issue.
+we collect transaction data: payment card details, coins,
+method of coins replenishment, transaction date, transaction
+ID, provider payment ID, transaction status and other
+information.
+Personal data we collect automatically and generate when you
+use our services or register for an account with us:
+we collect data about your visit and your interaction with
+our services. This information includes the features you
+use, how you interact with other users, status, registration
+date, coins bought, date of last payment and use of
+services, and other information.
+we collect data about the devices you use to access the
+Services. This device information includes your connection
+type and settings when installing, accessing, updating, or
+using our Services. We also collect information through your
+device about your operating system, browser type, IP
+address, URLs of referring/exit pages, device identifiers,
+device model, manufacturer, User agent, platform, Software
+Development Kit version, User ID, time stamp Developer Key,
+application version, in-app events, and network status
+(WiFi/3G), Login source, application use, if the profile is
+linked to Apple/Google, crash data, and others information.
+We use your IP address, GPS, Bluetooth, or WiFi signals
+and/or country preference in order your location. How much
+of this information we collect depends on the type and
+settings of the device you use to access the Services.
+we use cookies and other tracking technologies (e.g., device
+identifiers and pixels) to provide functionality and to
+recognise you. For more information, please see the Cookies
+Policy, which includes controlling or opting out of these
+cookies and tracking technologies.
+Personal data we collect from the third party:
+We receive information about you from service providers, which
+include financial services vendors (provide data for
+contesting transactions), marketing providers (give tags on
+the company and advertising activity), third-party
+communication applications (provide your public profile data
+in their apps), third party social network or login service
+(such as Google, Apple, Facebook).
+We receive information about you from other users when they
+provide us with information about you, including through user
+support or in connection with claims or disputes.
+In addition, you may provide us with your Avatar/Photo,
+a personalized graphical illustration that represents you.
+Please note that this information is optional; you may choose
+not to provide
+The use of the personal data
+We use your personal data to provide you with our services to
+comply with our legal obligations. This includes:
+provision to use our Website, App or Service;
+verification, moderation, confirmation, and control of your
+accounts and your activities on the Website or App;
+provision of customer support to contact you regarding your
+account, resolve any dispute and respond to your questions
+and enquiries;
+solutions technical issues, improvements existing and
+developing new product features;
+promotion of our Website, App or Service;
+personalise the user experience and allow us to deliver the
+type of content and product offerings in which you are most
+interested;
+Solution of security issues;
+ordering virtual goods;
+process your payments and chargebacks;
+provision of marketing information and special offers, and
+different kinds of notifications;
+analytics, monitor and measure the performance of our
+marketing and advertising campaigns.
+“push messages” from us within the app, even when you are
+not currently using the app. These will either contain
+messages that we send you as part of our Service, or they
+may contain advertising information.
+The grounds for the processing the personal data
+Our legal basis for collecting and using your personal data,
+as described in this Privacy Policy, depends on the data we
+collect and the specific context in which we collect it. Under
+Data protection laws, we must tell you our lawful basis for
+using your data. Please see that in the table below.
+Purpose of processing
+Data
+Source
+Legal basis
+To provide you with the Tubit service
+Name, Surname and email address
+You provide your name and email address, or we receive
+from Facebook, Google or Apple
+To perform a contract
+To facilitate networking opportunities
+Photo (optional, you may choose not to provide)
+You provide to us or via Facebook, Google, Apple
+Legitimate interest - to facilitate networking
+opportunities
+For age verification
+Date of birth
+You provide us, or via Facebook, Google, Apple
+Legitimate interest - to verify that You are not a
+child, minor or anyone under 18
+For identity verification and authentification purposes,
+prevent fraud and ensure the safety and security of
+Users
+Email, password or third-party social media
+authentication
+You provide us, or via Facebook, Google, Apple
+Legitimate interests - it is in our legitimate interests
+to ensure that accounts are not set up fraudulently and
+to safeguard site users.
+To take payments from you for services
+Payment card details
+You provide us
+To perform a contract
+To allow our Advertising Partners to serve targeted
+advertisements
+Advertising identifier associated with your device
+(Device ID), age and IP address
+We obtain your age from you or via Facebook, Google, or
+Apple, and the Device ID and the IP address from the
+device that you use to access the service
+Consent - as indicated by you in your Cookie Settings
+preferences and via your browser or device privacy
+preferences
+To serve advertisements to our Service users on
+third-party networks and measure the effectiveness of
+such ads
+Data about your visit to our Service and action took on
+those
+We obtain information from the device or browser that
+you use to access the Service
+Consent - as indicated by you in your Cookie Settings
+preferences and via your browser or device privacy
+preferences
+To send you marketing information about our events,
+offers and services
+Name, email address
+You provide us
+Consent (including soft-in)
+To respond to correspondence and queries that you submit
+to us
+Email address, IP address
+You provide us
+Legitimate interests - our legitimate interest is to
+respond to your requests to ensure quality user service
+and fix problems.
+To investigate and block Users for reported
+infringements of our Terms of Use
+User registration detail and device data
+You provide us, and we obtain information from the
+device or browser you use to access the Service.
+Legitimate interests - it is in our legitimate interests
+to prevent unauthorised behaviour to maintain the safety
+and integrity of our services.
+To block payment transactions as part of our anti-fraud
+procedures
+Name, IP address, email address, cardholder name,
+payments received, type of payment, user ID, country
+You provide your name, email address, and card details
+to us. We obtain your IP address from the device that
+you use to contact us. We obtain your payment
+information from your interactions with our Service.
+Legitimate interests - it is in our legitimate interests
+to prevent fraudulent transactions and to maintain the
+security of our services
+To defend legal claims, protect legal rights and protect
+people from harm
+This could include any information that is relevant to
+the issue
+This information may be obtained directly from you, from
+your device or third parties,
+Legitimate interests - it is in our legitimate interests
+to protect our legal rights, defend
+depending on the information involved
+legal claims and to protect our Users and third parties
+from harm
+The sharing of the personal data
+We may share the personal data you provide to us with other
+users. Your personal data may be transferred if we are
+involved in a merger, acquisition or asset sale.
+We may share the personal data that we collect with:
+Affiliate;
+our group of companies;
+Systems and IT/IS solutions providers;
+Hosting providers;
+Payment processors;
+Fraud prevention partners;
+Marketing partners;
+Companies through which we purchase and deliver gifts;
+Lawyers.
+Under certain circumstances, we may be required to disclose
+your personal data if required to do so by law or in response
+to valid requests by public authorities (e.g. a court or a
+government agency), or it is necessary to detect, prevent and
+address fraud and other illegal activity, to protect
+ourselves, you and others, including as part of
+investigations.
+We may share personal data internally within our group of
+companies or with third parties for purposes described in this
+Privacy Policy. Personal data collected within the European
+Economic Area (“EEA”) may, for example, be transferred to
+countries outside the EEA. We utilise standard contract
+clauses approved by the European Commission to legitimise data
+transfers from the EEA to the United States and other
+countries.
+Data collected by Advertising Partners and other Service
+Providers may also be held outside the European Economic Area.
+We ensure that the data is adequately protected by ensuring
+that valid legal mechanisms are in place. If you want more
+information about the nature of the safeguards we have in
+place, please email
+dpo@tubit.com.
+Age restriction
+Children under 18 years of age are not allowed to use our
+website, and our services are not targeted at children under
+the age of 18. Tubit does not knowingly collect information
+about or market to children, minors or anyone under 18. If we
+become aware that a child, minor or anyone under 18 has
+registered with us and provided us with personal data, we will
+terminate that person’s registration and delete their Profile
+information from Tubit. If we delete a Profile because
+violated our no children rules, we may retain your email and
+IP address to ensure you do not try to get around our rules by
+creating a new Profile.
+Retention time and deletion of personal data
+Personal data is retained if you are a contract or consent
+duration party. In addition, we will retain and use your
+information to the extent necessary to comply with our legal
+obligations (for example, if we are required to retain your
+data to comply with applicable laws), resolve disputes, and
+enforce our legal agreements and policies.
+You may request the deletion of your account at any time
+through the My profile > Delete > Yes, I understand,
+let’s proceed > Delete Account > Yes, delete. Following
+such request with appropriate review by us, we will delete the
+data that it is not required to retain for purposes of
+regulatory, tax, insurance, litigation, or other legal
+requirements. For example, we retain location, device, and
+usage data for these purposes for a reasonable period as may
+be necessary; while it retains such data, it may also use it
+for purposes of safety, security, fraud prevention and
+detection, and research and development. In certain
+circumstances, we may be unable to delete your account, such
+as if there’s a balance on the account or an unresolved claim
+or dispute. Upon resolution of the issue preventing deletion,
+we will delete the account as described above.
+Data Subject rights
+Under Data protection laws, you have the following rights:
+Right to be informed: what personal data an organization
+processes and why.
+Right of access: you can request a copy of your data.
+Right of rectification: if the data held is inaccurate, you
+have the right to have it corrected.
+Right to erasure: You can delete your data in certain
+circumstances.
+Right to restrict processing: in limited circumstances, you
+have the right to request that processing is stopped but the
+data retained.
+Right to data portability: you can request a copy of your
+data in a machine-readable form that can be transferred to
+another provider.
+Right to object: in certain circumstances (including where
+data is processed based on legitimate interests or for the
+purposes of marketing), you may object to that processing.
+Rights related to automated decision-making, including
+profiling: there are several rights in this area where
+processing carried out solely automatically results in a
+decision that has legal or significant effects on the
+individual. In these circumstances, your rights include the
+right to ensure that there is human intervention in the
+decision-making process.
+Push Messages, Promotional emails
+You may receive “push messages” from us within the app, even
+when you are not currently using the app. These will either
+contain messages that we send you as part of our Service, or
+they may contain advertising information. You can stop
+receiving push messages or adjust your settings at any time by
+changing the configuration settings of your mobile device or
+in the Tubit app.
+When you register, you enter your email address, or we receive
+your email address from Apple/ Facebook/Google (if you
+register via a third-party login). Unless you opt-out, we will
+use this email address to send you different types of
+notifications, some of which may qualify as promotional
+emails. We send you information about the promotions and
+offers we have available by direct marketing or other modes of
+communication - if you’ve signed up for our communications or
+otherwise told us it’s ok. You can click the unsubscribe link
+at the bottom of each email you receive or email your request
+to us at
+support@tubit.com
+or by changing the settings in your profile.
+Security
+Tubit has implemented appropriate security measures to protect
+and prevent the loss, misuse, unauthorised access or
+disclosure and alteration of the information under our
+control, including your personal data. We use reasonable
+security measures to safeguard the confidentiality of your
+personal information. Tubit technical experts work hard to
+ensure your secure use of our site.
+Right to lodge a complaint
+You have the right to lodge a complaint with a supervisory
+authority, in particular in the Member State of your habitual
+residence, place of work or place of the alleged infringement,
+if you have an unresolved personal data collection, use, or
+disclosure concern we have not addressed satisfactorily. Data
+Protection Authority may decide to further investigate the
+matter. Tubit will always fully cooperate with any regulatory
+request.
+Changes to this privacy policy
+We reserve the right to replace, modify or amend this Privacy
+Policy at our own discretion. Changes to this Privacy Policy
+are effective when posted on this page. Please note the latest
+modification date at the bottom of the Privacy Policy.
+Data controller contact information
+The data controller of the website is Reilin Technologies
+Limited, located at Aglantzias, 62, EKATERINI NICOSIA BUSINESS
+CENTER, Flat/Office 109, Aglantzia, 2108, Nicosia, Cyprus.
+Data Controller has appointed an internal Data Protection
+Officer to contact you if you have any questions about this
+policy or data processing practices. Please direct your query
+to the data protection officer if you want to exercise your
+privacy rights. Data Protection Officer’s contact information
+is as follows:
+dpo@tubit.com.
+If you have any questions regarding this privacy policy,
+contact us via email at
+support@tubit.com.
+Last updated April 14th, 2023

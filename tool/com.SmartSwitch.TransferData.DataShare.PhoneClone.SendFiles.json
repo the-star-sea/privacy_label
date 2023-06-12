@@ -1,0 +1,83 @@
+{
+  "sharedData": [
+    {
+      "data": "Voice or sound recordings",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Music files",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Other audio files",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Contacts",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Contacts"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Developer communications, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Photos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Files and docs",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Files and docs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://sites.google.com/view/smart-switch-transfer-all-data/home"
+}

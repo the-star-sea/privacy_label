@@ -1,0 +1,444 @@
+Home
+About Us
+Privacy Policy
+User Agreement
+About Us
+Privacy Policy
+User Agreement
+Privacy Policy
+Last updated date:
+Contact us:
+This
+Privacy Policy explains how
+(“
+”, “we”, or ”us”) process any personal data we collect from visitors and
+users of
+and any applications, services provided in relation to the website
+(collectively, the “
+Services”).
+We value the privacy of users, subscribers, publishers, members, and
+others who visit and use the
+Services (collectively or individually, “you” or “users”) and want you
+to be familiar with how we collect, use, and disclose personal
+information from and about you.
+You may share personal information when using the
+Services. One example is when you provide information about yourself as
+part of the account creation process. Another is when you take certain
+actions on the
+Services that are public or intended to be public in nature, such as
+when you broadcast content, post profile information, follow a channel,
+or subscribe to a broadcast channel. Given the social nature of some of
+the
+Services, that information may be collected, used, or disclosed by
+others who are part of that social interaction. In addition, some
+features of the
+Services are designed to provide others with information about user
+activity, such as identifying the user who created a particular Clip or
+the subscription status of users for a given channel. We encourage you
+to be mindful of this when considering your activity on the
+Services.
+Table of content
+What Information Do We Collect
+How We Use Your Information
+How We Share Your Information
+International Data Transfers
+Links to Other Websites or Application
+Data Security
+Your Choices
+Your Rights
+Children
+Retention of Your information
+Changes and Updates to This Privacy Policy
+What Information Do We Collect
+We obtain information about you through the means discussed below when
+we provide the
+Services. Please note that we need certain types of information so that
+we can provide the
+Services to you.
+i. User-provided Information
+ii. Automatically Collected Information for Legitimate Interests
+User-provided Information
+You consent to provide some or all of the following Personal Information
+when you create an account on the App or use
+Services, such as uploading contents on the App or contact us for
+technical support:
+Registration information, such as your date of birth, phone number (or
+email, if applicable), password, user identifier and language;
+Profile information, such as your alias, profile images, gender,
+hometown, self-introduction, social media information, education, and
+career;
+User-generated contents (“UGC”), such as comments, texts, messages,
+pictures, images, videos, sounds, code or other data or materials that
+you upload, distribute or stream on the App when you use
+Services;
+Facial data, such as when you use some features provided by us to create
+special effects or emojis for your streaming section or pictures that
+you uploaded on
+Services, but such data will only be processed offline to fulfill the
+special effects or emojis and we will not use it for other purposes
+unless we have obtained your explicit consent or turn this into
+de-identified data; further, we will not use your facial data for
+marketing or advertising, nor will we share such data with any third
+party. In addition, if you utilize Real-Person Profile Picture
+Authentication, we collect your profile picture and facial-recognition
+video for Real-Person Profile Picture Authentication on the premise of
+your approval by comparing your profile picture with face-recognition
+video. This authentication can protect you from impersonators and fake
+accounts, or develop the authenticity of
+Services. We do not retain your face recognition video in our servers,
+such video is merely for verifying.
+Payment information, such as bank account number, Paypal or other
+payment information where required for payment;
+Transaction information such as the transaction serial number and
+transaction historical records after you purchased Paid Services;
+Your social network contacts with your permission, when you activate the
+“Discover Friends” function and allow us to access your contacts;
+Your Global Positioning System (GPS) information, after you permit us to
+do so but you may change the access to your GPS information via the
+settings on your mobile device;
+Your opt-in choices and correspondence with us, such as information used
+to verify with your account or to resolve your feedback or complaints;
+and
+Information you provide when participating in in-app surveys and
+activities.
+nformation you provide from social media when you create a
+account by connecting with a third-party social media, such as Facebook,
+Instagram, Twitter, Google, or if you link a
+account with a third-party social media account;
+Automatically Collected Information for Legitimate Interests
+We may collect some or all of the following Personal Information about
+you when you use
+Services for legitimate interests:
+Network activity information, such as your browsing history, search
+history, the videos or pages you visited, the date and time of your
+visits, other users’ accounts that you subscribed to, and information
+regarding your interaction with other users;
+Information from Other Sources: We may obtain additional information
+from third parties and sources other than the
+Services. For example, we may obtain additional information from games
+or services you use, or social media networks (such as Facebook) for
+which you have approved our access. When you access the
+Services through social media networks or when you connect the
+Services to social media networks, you are authorizing
+to collect, store, and use such additional information and content in
+accordance with this Privacy Policy
+Device identifiers, such as your operating system, browser type, brand,
+model and serial number of your mobile device, Internet Protocol (IP)
+address, mobile carrier, screen resolution, language setting, IMEI
+number, IMSI number, and media access control address;
+Information regarding your access to and use of other apps;
+Other location information, such as the information based on your SIM
+card;
+Mobile advertising identifiers, which are used by mobile operating
+systems and made available to advertising providers to gather metrics on
+mobile apps (Apple’s IDFA or Google’s AAID) to help us and advertisers
+provide ads that may be more relevant to your interests;
+Metadata, associating with the UGC you provided us, which describes
+other data and provides information about how, when, and by whom the
+piece of UGC was collected and how that UGC was formatted, such as
+hashtags used to label the keywords to the video and captions; and
+Cookies, small pieces of data to enable us to provide certain features,
+which are collected by us or our business partners to measure and
+understand the web pages you click on and how you use
+Services, enhance your experience using
+Services.
+We may also collect, use and share your information to produce and share
+aggregated insights that do not identify you. Aggregated data may be
+derived from your Personal Information but is not considered Personal
+Information as this data does not directly or indirectly reveal your
+identity. For example, we may aggregate your usage data to calculate the
+percentage of users accessing a specific website feature, to generate
+statistics about our users, to calculate the percentage of users
+accessing a specific website feature, or to calculate ad impressions
+served or clicked on.
+Storage and access to cookies that are set in connection with the
+Services are governed by the
+Cookie Policy (“Cookie Policy”).
+How We Use Your Information
+We will only use your Personal Information when the applicable laws
+allow us to. In general, we use your Personal Information for the
+following purposes:
+Provision of services: to present
+Services and its contents to you, including any interactive features on
+Services, and to provide you with information, products or services that
+you allow us to; we also collect and use Personal Information to verify
+your eligibility and deliver prizes in connection with promotion
+activities and sweepstakes;
+Improvement of services: to improve and personalize our services by
+presenting new services, information, recommendations, and feedback;
+Customer management: to manage a registered user’s account, to provide
+customer support and notices to the registered user about his account or
+subscription, and notices about changes to
+Services or any other product or service we offer or provide through it;
+Communication: to communicate and interact with you directly, for an
+example, we may send notifications regarding upcoming changes, promotion
+activities or improvements on
+Services;
+Content review: to review pictures, images and contents posted or
+generated on
+Services to ensure that we comply with any applicable content
+regulations in any relevant jurisdiction;
+Customization of content: to perform research and analysis about your
+use of, or interest in contents, products, advertising, or services
+available on
+Services in order to develop and display content tailored to your
+interests on our Website and App;
+Performance Analysis: to determine whether users of
+Services are unique, or whether the same user is using
+Services on multiple occasions, and to monitor aggregate metrics such as
+total number of visitors, number of videos viewed, demographic patterns;
+Functionality and security: to identify users not meeting the age limit,
+to diagnose or fix technology problems, and to detect, prevent, and
+respond to actual or potential fraud, illegal activities, or
+intellectual property infringement;ƒ
+Compliance: to enforce our terms of use and to comply with our legal
+obligations;
+Aggregation: to aggregate information we collect about you to which one
+or more purposes described above.
+Cookie: We and our vendors and service providers use cookies and other
+similar technologies (e.g., web beacons, flash cookies, etc.)
+(“Cookies”) to automatically collect information, measure and analyze
+which web pages you click on and how you use the Platform, enhance your
+experience using the Platform and improve our services. Cookies are
+small files which, when placed on your device, enable the Platform to
+provide certain features and functionality. Web beacons are very small
+images or small pieces of data embedded in images, also known as “pixel
+tags” or “clear GIFs,” that can recognize Cookies, the time and date a
+page is viewed, a description of the page where the pixel tag is placed,
+and similar information from your computer or device. By using the
+Platform, you consent to our use of Cookies.
+Additionally, We link your contact or subscriber information with your
+activity on our Platform across all your devices, using your email or
+other log-in or device information. We are not responsible for the
+privacy practices of these third parties, and the information practices
+of these third parties are not covered by this Privacy Policy.
+You may be able to refuse or disable Cookies by adjusting your browser
+settings. Because each browser is different, please consult the
+instructions provided by your browser. Please note that you may need to
+take additional steps to refuse or disable certain types of Cookies. In
+addition, your opt-out selection is specific to the particular browser
+or device that you are using when you opt out, so you may need to
+opt-out separately for each of browser or device. If you choose to
+refuse, disable, or delete Cookies, some of the functionality of the
+Platform may no longer be available to you.
+Note that we may process your Personal Information for more than one
+lawful ground depending on the specific purpose for which we use your
+Personal Information.
+How We Share Your Information
+Please note that if your profile is public, your content will be visible
+to anyone on the Platform and may also be accessed or shared by your
+friends and followers as well as third parties such as search engines,
+content aggregators and news sites. You can change who can see a video
+or a picture each time you upload a video
+We may also share your information with other members, subsidiaries, or
+affiliates of our corporate group, to improve, optimize the Platform and
+to prevent illegal use.
+We may share your Personal Information outside of
+Services when we have your consent, either express or implied.
+We may disclose your Personal Information to members of our corporate
+group (that is, entities that control, are controlled by, or are under
+common control with us) to the extent this is necessary for services,
+customer management, customization of content, advertising, analytics,
+verifications, functionality and security, and compliance.
+We may disclose your Personal Information to our authorized service
+providers that perform certain services on our behalf. These services
+may include fulfilling orders, processing credit card payments,
+customization of content, analytics, security, map navigation, data
+storage and cloud services, supporting our functionality, and other
+features offered through
+Services. These service providers may have access to Personal
+Information needed to perform their functions but are not permitted to
+share or use such information for any other purposes. However, if you
+connect to a third-party service through
+Services or otherwise links your
+account with a third-party service, you are requesting and authorizing
+us to share or grant access to information on your behalf with such
+third party. We may also send information about the content that you
+watched or your activities on
+Services to such third party in order to upgrade your experience on
+Services.
+We may disclose or share your Personal Information to a buyer or other
+successor in the event of a merger, divestiture, restructuring,
+reorganization, dissolution or other sale or transfer of some or all of
+our assets, whether as a going concern or as part of bankruptcy,
+liquidation or similar proceeding, in which Personal Information held by
+us about our users is among the assets transferred. If such a sale or
+transfer occur, we will use reasonable efforts to try to ensure that the
+entity to which we transfer your Personal Information uses information
+in a manner that is consistent with this privacy policy.
+We access, preserve and share your Personal Information with regulators,
+law enforcement or others where we reasonably believe such disclosure is
+needed to (a) comply with any applicable law, regulation, legal process,
+or governmental request, (b) enforce applicable terms of use, including
+investigation of potential violations thereof, (c) detect, prevent, or
+otherwise address illegal or suspected illegal activities, security or
+technical issues, (d) protect against harm to the rights, property or
+safety of our company, our users, our employees, or other third parties;
+or (e) to maintain and protect the security and integrity of
+Services or infrastructure.
+We may disclose aggregated information about our users. We also may
+share aggregated information with third parties for conducting general
+business analysis. This information does not contain any Personal
+Information and may be used to develop content and services that we hope
+you and other users will find of interest.
+International Data Transfers
+Your Personal Information may be processed by us, our trusted third
+party suppliers outside of the country (s) in which you reside,
+including in countries where data protection and privacy laws or
+regulations may be equivalent to, or as protective as, the data
+protection laws and regulations in your country. In accordance with
+applicable data protection and privacy laws and regulations, we will
+implement appropriate measures to ensure that your personal information
+remains protected and secure when it is transferred outside of your
+country to a jurisdiction that has a less adequate level of protection
+of personal data. These measures include (where applicable) transferring
+pursuant to data transfer agreements implementing standard data
+protection clauses.
+We may also transfer your personal information outside of your country
+as permitted by applicable data protection and privacy laws and
+regulations. Examples include where we need to transfer your personal
+information: (a) to perform a contract with you (or to take steps before
+the contract at your request); (b) perform a contract in your interests;
+or (c) in relation to legal claims.
+Links to Other Websites or Application
+When you click on a link to any other website, mobile application or
+third-party content through
+Services, you will go to another website or other mobile application and
+another entity may collect information from or about you. We have no
+control over, do not review, and cannot be responsible for, these
+third-party websites or mobile applications or their contents. Please be
+aware that the terms of this privacy policy do not apply to these
+third-party websites or mobile applications or content, or to any
+collection of information after you click on links to these third-party
+websites, mobile applications or content.
+Data Security
+We take appropriate administrative, technical and physical security
+measures to safeguard your Personal Information from unauthorized access
+and disclosure. For example, only authorized employees are permitted to
+access Personal Information, and they may do so only for permitted
+business functions. In addition, we use encryption in the transmission
+of certain your Personal Information between your system and ours, and
+we use firewalls to help prevent unauthorized persons from gaining
+access to your Personal Information. Please be advised, however, that we
+cannot fully eliminate security risks associated with the storage and
+transmission of your Personal Information. You should use caution
+whenever submitting information through
+Services and take special care in deciding which information you provide
+us with.
+You are responsible for maintaining the secrecy of your password and
+account information at all times.
+Your Choices
+ou can set your browser to refuse all or some browser cookies or to
+alert you when cookies are being sent. Please note that your choice to
+disable cookies will be specific to the particular browser or device
+that you are using when you disable cookies, so you may need to
+separately disable cookies for each type of browser or device. If you
+disable or refuse cookies, please note that some parts of the Website
+may then be inaccessible or not function properly.
+You can at any time request to opt out from allowing us to send you push
+notifications by adjusting the permissions in your mobile device.
+You can switch off GPS location, Microphone, Camera or other similar
+functions on your mobile device if you do not wish to share them. You
+can also hide your location, videos uploaded, recent active time and
+other information by adjusting “Privacy” setting.
+You can choose not to provide us with Personal Information, but that may
+result in you being unable to use certain features of
+Services because such information may be required for you to register as
+a user, purchase Paid Services, participate in a promotion, survey,
+sweepstakes or make complaints.
+You can change the mobile advertising identifiers in your mobile device
+or limit advertising tracking through your mobile device’s privacy
+settings. For more information on how to change the advertising
+identifier privacy settings on your device, please visit
+http://www.networkadvertising.org/mobile-choice
+or
+http://youradchoices.com/appchoices
+.
+You can make changes to your information, including accessing your
+information, correcting or updating your information or deleting your
+information by editing your profile in the App.
+Your Rights
+You may submit a request to access, modify or delete the Personal
+Information we collect about you by (a) using Help or Feedback function
+on
+Services or (b) by sending your request to us via email at
+. We will respond to your request consistent with the applicable laws as
+soon as practicable after proper verification procedures.
+If you are a California resident, you may request us to disclose the
+categories and specific pieces of Personal Information about you that we
+collect or share to any third party for commercial uses. You will need
+to send an email to
+if you wish to make such request, and format the subject line as
+Identification of Personal Information+Californian+Your
+ID. We may ask you to go through a verification process, such as using
+your phone number and an instant pin, before we respond to your request.
+Please note that we will not be able to handle this kind of request if
+submitted through postal mail, telephone, or facsimile.
+If you are a California resident, you may also request us to delete
+Personal Information that we have collected about you. You will need to
+send an email to
+if you wish to make such request, and format the subject line as
+Deletion of Personal Information+Californian+Your
+ID. You need to describe in your email what Personal Information you
+wish us to delete, and provide any supplementary information that helps
+us to locate such piece of Personal Information, such as the date you
+provided us with such piece of Personal Information and the specific
+content of such piece of Personal Information. We may ask you to go
+through a verification process, such as using your phone number and an
+instant pin, before we respond to your request. Please note that we will
+not be able to handle this kind of request if submitted through postal
+mail, telephone, or facsimile or if you fail to provide information in
+sufficient details to permit us to locate the Personal Information
+concerned. Further, we do not guarantee complete deletion of the
+Personal Information concerned given that it may already be shared or
+reposted by other users or third parties.
+Users domiciled in California are encouraged to designate an authorized
+agent to exercise their rights of privacy on their behalf. To designate
+an authorized agent, you will need to execute a valid, legally
+enforceable power of attorney (“POA”) with your agent and submit this
+POA together with your request to us. We will contact your agent once we
+confirm that your request and the POA are valid in accordance with this
+privacy policy and the applicable laws.
+Children
+We do not knowingly collect or maintain personal information from
+persons under 18 years-of-age. If we learn that Personal Information of
+persons under 18 has been collected on or through the
+Services, we will take appropriate steps to delete this information.
+If you believe that we have inappropriately collected Personal
+Information from a Young User, please contact us at
+.
+Retention of Your information
+We will retain your Personal Information and other information for as
+long as you maintain your
+account.
+You may request deletion of your account at any time through the Me >
+Settings > Account > Delete Account menus in the app, or through sending
+email to
+. Following such request with appropriate review by us, we will delete
+the data that it is not required to retain for purposes of regulatory,
+tax, insurance, litigation, or other legal requirements. For example, we
+retains location, device, and usage data for these purposes for a
+reasonable period as may be necessary; while it retains such data, it
+may also use it for purposes of safety, security, fraud prevention and
+detection, and research and development. In certain circumstances, we
+may be unable to delete your account, such as if there’s a balance on
+the account or an unresolved claim or dispute. Upon resolution of the
+issue preventing deletion, we will delete the account as described
+above.
+We may also retain certain information if necessary for purposes of
+safety, security, and fraud prevention. For example, if we deactivate a
+user’s account because of unsafe behavior or security incidents, we may
+retain certain information about that account to prevent that user from
+opening a new
+account in the future.
+Changes and Updates to This Privacy Policy
+We may modify or revise our privacy policy from time to time. Although
+we may attempt to notify you when major changes are made to this privacy
+policy, you are expected to periodically review the most up-to-date
+version found at
+Services so you are aware of any changes, as they are binding on you.
+If we change anything in our privacy policy, the date of change will be
+reflected in the “last updated date”. By continuing to access or use the
+Services after those changes become effective, you agree to be bound by
+the revised Privacy Policy.
+Copyright © 2022

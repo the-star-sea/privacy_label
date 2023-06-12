@@ -1,0 +1,163 @@
+Home
+Community Guidelines
+Safety tips
+Terms and conditions
+Privacy Policy
+Documents
+Aditional Info
+Application
+Useful Link
+113 Fulton Street, Suite 721
+New York, NY 10010
+youremail@yourdomain.com
++88 (0) 101 0000 000
+Purchase
+Privacy Policy
+Last Updated: March 09, 2020
+We respect your privacy and are committed to protecting your personal information. This privacy policy describes how we collect, use and share your personal information and your choices regarding this information. Please read this privacy policy carefully before using our Services.
+In this privacy policy:
+Services mean the Tradet mobile application, the website at tradet.co and any other products, services, content, features, technologies, or functions, and all related websites, applications, and services offered to you by us.
+Platform means the websites, mobile apps, mobile sites, or other online properties through which we offer our Services.
+CONTENTS
+1. Who we are
+2. The personal information we collect about you and where it comes from
+3. The purposes for collecting your personal information
+4. Sharing your personal information
+5. Communication and marketing
+6. Your rights
+7. How long we store your data
+8. Technical and organizational measures and processing security
+9. Links to third-party websites
+10. User-submitted content
+11. State privacy rights
+12. Changes to the privacy policy
+13. Contact details
+1. Who we are
+Tradet is incorporated in Delaware as Tradet co. (“Tradet”, “we” or “us”). We are the data controller and responsible for your personal information collected through our Services.
+2. The personal information we collect about you and where it comes from
+We collect information, including personal information, to provide the Services and operate our Platform. We also use the information we collect to improve our Services. The information we collect and how we collect it is set out below.
+2.1 Information you provide to us through direct interactions with our Platform
+Depending on the choices you make when registering for, or during the process of using our Services, you may be asked for and opt to provide the following personal information:
+e-mail address;
+mobile telephone number;
+geographic location;
+profile picture;
+user ID;
+Facebook or Google account details;
+driver’s license or other government ID; and
+any other information you choose to provide in connection with your account.
+Please note that your user name and your profile picture will be made available to other users and the public when you use some of our Services. For example, when you post a product some of your information will be available to Platform users, so you should exercise discretion when using the Services to post personal information.
+While we protect the information you share with Tradet, we are not responsible for protecting such information that you choose to share with third parties through our Services and Platform (e.g., sending your telephone number to another user through the Services).
+2.2 Information we collect from you automatically when you use our Services
+When you interact with our Platform or use our Services, we automatically collect the following information about you:
+Device Information. We collect device-specific information such as operating system version, your device make and model, and the name of the mobile network that you are using. We assign an internal identifier to your device and associate all of this information with your Tradet account.
+Location information. Depending on your device permissions, if you post an item on our Platform, we automatically collect and process information about your actual location. We use various technologies to determine location, including IP address, GPS, Wi-Fi access points, and mobile towers. Your location data allows you to see user items near you and helps you in posting items within your location.
+Client and Log data. Technical details, including the Internet Protocol (IP) address of your device, time zone, and operating system. We will also store your login information (registration date, date of last password change, date of last successful login), type and version of your browser.
+Usage Information. We collect information about your activity on our Platform which includes a date and time stamp of each visit, advertisement banners or content that you clicked, your interaction with such advertisements, clickstream information, duration of your visit, and the order in which you visit the content on our Platform.
+Cookies. If you access the Services through a web browser, we use cookies to manage our users’ sessions, to store your preferences and language selection, and to deliver you relevant advertisements. 'Cookies' are small text files transferred by a web server to the hard drive of your device. Cookies may be used to collect the date and time of your visit, your browsing history, your preferences, and your username. You can set your browser to refuse all or some cookies or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of our Services/Platform may become inaccessible or not function properly.
+Most web browsers are set to accept cookies by default. You can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Platforms. Please note that not all tracking will stop even if you delete cookies.
+Analytics. We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about the use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps, and online resources. You can learn about Google’s practices by going to their website. You can opt-out of certain Google Analytics data collection practices by downloading the Google Analytics Browser Disabling Add-on, available here.
+2.3 Information from third party sources
+We may also collect personal information from third parties. For example, we use third party machine learning software to analyze all communications through our chat feature for fraud prevention and to promote safety by blocking spam or abusive messages that may have been sent to you by any other user. This software compares attributes of the message, user or profile against its proprietary database to assess the probability that a message is spam or abusive.
+2.4 Information we collect from Postings and Chat Messages
+Anything you write in a chat message to another user is stored in our systems as a chat message. This may include your name, your address, the name of a meetup location and any other information you choose to voluntarily share with another user or with the Tradet community.
+We do not mine user chat messages for information or pull any such information (such as if you provide another user your address) and store it separately. For example, if you chat with another user about your age or education history, we do not store this data or use it for any purpose, except that we store your chat history as described in this Policy.
+3. The purposes for collecting your personal information
+We will only use your personal information as set out in this privacy policy. We have set out below a description of the ways we use your personal information. We will not collect additional categories of personal information or use the personal information we collect for materially different, unrelated, or incompatible purposes without providing you notice.
+3.1 Providing access and delivering Services through our Platform
+We use the information you provide to provide the Services. For example:
+If you log in using your email id, we use your user ID or your e-mail address to identify you as a user and provide access to our Platform (such as your settings and your history, etc.).
+If you log in using your Google or Facebook account, we use your first name and last name from your Google or Facebook profile and the e-mail address to identify you as a user on our Platform and to provide you access to our Platform.
+We use your e-mail address to make suggestions and recommendations to you about our Services that may be of interest to you.
+3.2. Improving your experience on the Platform
+We use the information you provide to improve your experience on the Platform. For example:
+We use clickstream data to:
+offer you tailored content, such as giving you more relevant search results when using our Services.
+to determine how much time you spend on our Platform and in what manner you navigate through our Platform in order to understand your interests and to improve our Services based on this data. For example, we may provide you with suggestions on content that you can visit based on the contents you have clicked.
+to monitor and report the effectiveness of the campaign delivery to our business partners and for internal business analysis.
+to prevent repeatedly displaying the same items to the same user.
+We use your location data for the following purposes:
+to compile anonymous and aggregated information about the characteristics and behavior of Tradet users, including for the purposes of business analysis, segmentation, and development of anonymous profiles.
+to enhance the performance of our Services and to personalize the content we direct towards you. For example, with the help of location data, we display ad listings that are in your vicinity to improve your buying experience.
+to measure and monitor your interaction with the third-party advertisements banners we place on our Platform.
+3.3 Providing you a safe and secure Platform
+We use the information you provide to provide you a safe and secure Platform. For example
+We use your email address and unique device identifiers to administer and protect our Platform (including troubleshooting, data analysis, testing, fraud prevention, system maintenance, support, reporting, and hosting of data).
+We use third-party machine learning software to analyze all communications through our chat feature for fraud prevention and to promote safety by blocking spam or abusive messages that may have been sent to you by any other user.
+If you provide us with your telephone number, we may use that information to SMS verify your telephone number and increase the trust and safety of our Platform.
+In addition, we may aggregate and/or de-identify data about visitors to our Platforms and use it for any purpose, including product and service development and improvement activities.
+4. Sharing your personal information
+We may share your personal information with the parties set out below for the purposes set out above.
+Corporate affiliates: We may share your data with other Tradet corporate affiliates (companies in the same ownership group) which are located within as well as outside the U.S.A. We have employees based in different countries around the world that perform different functions for the Company. Employees around the Company frequently analyze data for different purposes and to improve the Services.
+Third-Party Vendors and Service Providers: We share your data with third-party vendors and other service providers that help us deliver certain aspects of our Services. For example, we use cloud storage facilities to store our data, we use customer support software providers to administer and respond to user inquiries and we use third-party software to monitor for fraud within the Platform. We need to share your data with these third parties otherwise we would not be able to provide the Service.
+Advertisers: We partner with demand-side platforms who buy our ad placements through auctions such as Criteo, DoubleClick, etc. We share your information with them in a de-identified and aggregated form for monitoring and reporting the effectiveness of the campaign delivery to our business partners and for internal business analysis.
+Analytics Providers: In order to improve our Services, we will sometimes share your non-identifiable information with analytics providers that help us analyze how people are using our Services. For example, we use common industry-wide analytics software to understand how people use our app so we can improve the Services and increase engagement.
+Law enforcement authorities, regulators, grand juries, courts and tribunals, governmental or public bodies, and others: We may disclose your data, including your personal information, to law enforcement authorities, regulators, grand juries, courts and tribunals, governmental or public bodies and other relevant third parties as we believe necessary or appropriate to protect people or property, to protect our services, rights or property, to comply with legal or regulatory requirements and to respond to legal process, law enforcement requests and requests from other public and government authorities.
+Business Transfer or Reorganization: We reserve the right to transfer the information we maintain in the event we sell or transfer all or a portion of our business or assets. If we engage in such a sale or transfer, we will make reasonable efforts to direct the recipient to use your personal information in a manner that is consistent with this privacy policy. After such a sale or transfer, you may contact the recipient with any inquiries concerning the recipient’s privacy practices.
+Publicly available information: When you use certain aspects of our Services, the information is visible to other Tradet users (all Tradet users, in the case of a posted item, and the user you are chatting with in the case of a chat message). This includes any information you post or chat, such as your name, your email address, your location, and your contact number. Please note, any information you provide to other users can always be shared by them with others so please exercise discretion in this respect.
+5. Communication and marketing
+We may communicate with you by email or in-app notification in connection with our Services/Platform to confirm your registration, to inform you in case your product listing has become live/expired and for other transactional messages in relation to our Services.
+We (or our service providers and advertising partners) may send you direct marketing communications and information about our Services that we consider may be of interest to you. We will provide an option to unsubscribe or opt-out of further communication on any electronic marketing communication sent to you or you may opt-out by contacting us as set out in the “contact details” section below.
+If you opt-out of receiving marketing or commercial communications, we retain the right to send you non-marketing communications such as correspondence about your relationship with us, information about transactions, or notifying you of updates to our Privacy Notices or Terms of Use. Please note that we also carry out digital advertising campaigns from time to time that do not rely on your personal information.
+6. Your rights
+This section describes your rights and explains how to exercise those rights.
+You may have rights under local data protection laws in relation to your personal information. For example, the California Consumer Privacy Act (“CCPA”) provides consumers (California residents) with specific rights regarding their personal information. As a part of our commitment to our users, we are extending the following rights, including certain CCPA rights, as described below, to all of our users.
+These rights are not absolute and are subject to certain exceptions. For instance, we cannot disclose or permit access to specific pieces of personal information if the disclosure or access would present a certain level of risk to the security of the personal information, your account with us or the security of the business’s systems of networks.
+6.1 Access to Specific Information and Data Portability Rights
+You have the right to request that Tradet disclose certain information to you about our collection and usage of your personal information over the last 12 months. You can receive a copy of the personal information we hold about you by logging into your account settings on www.tradet.co and requesting such information.
+Once we receive and confirm your verifiable consumer request (see Exercising Access and Deletion Rights below), we will disclose to you:
+The categories of personal information we collected about you.
+The sources for the personal information we collected about you.
+Our business or commercial purpose for collecting or selling that personal information.
+The categories of third parties with whom we share personal information.
+The specific pieces of personal information we collected about you (also called a data portability request).
+If we sold or disclosed your personal information for a business purpose, identifying the personal information categories that each category recipient received.
+6.2 Deletion Request Rights
+You have the right to request that we delete personal information that we have collected from you, subject to certain exceptions. You can request to delete your personal information by logging into your account settings on www.tradet.co and submitting a delete request.
+Once we receive and confirm your verifiable consumer request (see Exercising Access and Deletion Rights below), we will delete your personal information from our records. Under certain circumstances, as allowed by law, we may delay or deny your request. Tradet reserves the right to retain portions of your personal information for a limited time, as permitted by law. For example, for Trust and Safety purposes or to respond to a law enforcement request.
+6.3 Exercising Access and Deletion Rights
+In addition to the methods described above for exercising your delete and access rights, you may also submit a verifiable consumer request to us by sending an email inquiry to info@tradet.co.
+We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. We reserve the right to verify your identity in connection with any requests regarding personal information to help ensure that we provide the information we maintain to the individual to whom it pertains, and allow only that individual or their authorized representatives to exercise rights with respect to that information.
+Making a verifiable consumer request does not require you to create an account with us. However, we do consider requests made through your password-protected account sufficiently verified when the request relates to the personal information associated with that specific account.
+We will only use personal information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request. If you designate an authorized agent to make a request on your behalf, you may have to submit information confirming such designation.
+For instructions on exercising sale opt-out rights, see Personal Information Sales Opt-Out Rights below.
+6.4 Response Timing and Format
+We endeavor to respond promptly to verifiable consumer requests, and in any case no longer than forty-five (45) days from the date of such request. If we require more time, we will inform you of the reason and extension period in writing.
+Any disclosures we provide will only cover the 12-month period preceding the verifiable consumer request's receipt. The response we provide will also explain, if applicable, any reasons we are not able to comply with all or any portion of such request. For personal information access requests, we endeavor to provide the information in a portable format that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance, specifically in “.csv” files.
+We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+6.5 Right to request correction
+You have the right to request the correction of any of the personal information we have about you, although we may need to verify the accuracy of the new data you provide to us. In order to request the correction of your personal information, please email info@tradet.co.
+6.6 Personal Information Sales Opt-Out Rights
+The CCPA defines the term “sale” much more broadly than the common interpretation of the term. For example, sharing user IP addresses with advertising platforms in order to show relevant advertising, is now considered a “sale” under CCPA. As part of our commitment to our users, we are extending the CCPA’s Do Not Sell My Personal Information rights to all of our users.
+In order to exercise your right to opt-out of the “sale” of your personal information as defined by the CCPA, please email info@tradet.co.
+You do not need to create an account with us to exercise your opt-out rights. We will only use personal information provided in an opt-out request to review and comply with the request.
+7. How long do we store your data?
+We will only retain your personal information for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. Please note that we often need to retain certain data for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion.
+8. Technical and organizational measures and processing security
+We maintain administrative, technical, and physical safeguards designed to protect personal information against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure, or use. For example, all information you provide to us is stored on our secure servers behind firewalls.
+The safety and security of your information also depend on you. Where you have a password to access certain parts of our Services, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+Please note, despite the measures we have implemented to protect your data, the transfer of data through the Internet or other open networks is never completely secure and there is a risk that your personal information may be accessed by unauthorized third parties.
+9. Links to third-party websites
+Our Platform may contain links to third-party websites or apps. If you click on one of these links, please note that each one will have its own privacy policy. We do not control these websites/apps and are not responsible for those policies. When you leave our Platform, we encourage you to read the privacy policy of every website you visit.
+10. User-Submitted content
+Some features of the Services allow you to post content on our Platform or social media pages, such as photos. We do not have control over how other users who have access to the Platform will use any content you post publicly or send to them privately. We urge you to exercise discretion when sharing personal information with other users.
+We may also use any ad you post on Tradet, including the uploaded photo or image of the product as well as other data (including user name and location) associated with the ad, for our own advertising purposes, including social media, Facebook ads, newsletters and ads for any media.
+To help protect your privacy, we allow only limited access to other users’ contact information as necessary to fulfill your transactions and collect payments. However, when users are involved in a transaction, they may have access to each other’s name, user ID, email address, and other contact information.
+11. Information for California Residents. This section provides additional disclosures required by the California Consumer Privacy Act (“CCPA”), which applies to the personal information we collect about California residents.
+In the preceding 12 months, we have collected the following categories of personal information: identifiers (such as name, contact information, device identifiers, and state-issued ID numbers); internet or other electronic network activity information (such as usage data); demographic information (such as age); commercial information (such as products purchased or sold); geolocation data; inferences (such as approximate location); visual or similar information (such as photographs of yourself); and other information that relates to or is reasonably capable of being associated with you and that does not fit neatly into one of the other categories (such as personal information contained in reviews, comments, and communications with us). For more details about the personal information we collect, including the categories of sources, please see the Collection of Information section above.
+We collect personal information for the business and commercial purposes listed in the Use of Information section above. We share the personal information we collect with the categories of third parties listed in the Sharing of Information section above.
+Subject to certain limitations, the CCPA provides California residents with the right to:
+request to know about the personal information that we have collected about you in the 12 months preceding your request (including the categories of information collected, the source of that information, the business purpose of that collection, the categories of third parties with whom that information is shared, and the specific pieces of personal information collected about you);
+request to delete any personal information about you that we have collected;
+opt-out of “sales” of personal information to third parties, if applicable; and
+not to be discriminated against for exercising these rights.
+We do not “sell” the personal information we collect (and will not sell it in the future without providing a right to opt-out).
+To submit a request to know or a request to delete, please send an email to info@tradet.co. In both cases, we will verify your request by asking you to provide information that matches the information we have on file about you. You may designate another person as your authorized agent to act on your behalf with regard to CCPA requests. If you have designated an authorized agent to submit requests on your behalf, we will require proof that the person is authorized to act on your behalf and may also still ask you to verify your identity with us directly.
+Copyrights 2018 ©
+Contact info
+Diamond Street, New York
+info@tradet.co
+Support & Downloads
+Download Tradet marketplace and start selling your stuff locally
+Get it onGoogle Play
+Download onApp Store

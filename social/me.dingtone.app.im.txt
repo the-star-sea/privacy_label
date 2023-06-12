@@ -1,0 +1,98 @@
+Blog|twitterEnglish English简体中文Españolру́сский язы́кPortuguêsहिन्दीFrançaisDeutschاللغةالعربيةPhone NumberFree Calls & TextsRate & PlanDownloadAdd CreditsPrivacy PolicyThe dingtone.me website (the Website or Dingtone Website) and Dingtone mobile
+applications (the Software or Dingtone Software) are owned and
+operated by Dingtone, Inc. ("Dingtone", "us" or "we"). Our Privacy
+Policy explains how we, and some of the companies we work with,
+collect, use, share and protect information in relation to our
+websites and Dingtone Software (collectively, the "Service").
+Information We Collect(1) Contacts InformationYou need to allow Dingtone to access your address book on your mobile device. By authorizing the access you can easily send messages and make calls, forward messages and files, share contacts information, or initiate a conference call to your friends and family. A simplified copy of the address book with information such as the name, phone number, and ringtone of each contact will be stored and used to display the identity of the caller who's in the user's contact book(the caller will also be automatically added to the user's Dingtone friend list) in the push notification. We create a cryptographic hash value of the transmitted information to prevent any misuse. The information will not be shared with any third parties and will be removed permanently once the user disables the app.(2) Personal InformationWhen you install Dingtone Software on your mobile device, you are required to provide a mobile phone number to receive an access code via SMS. The phone number will be saved on the Dingtone servers. The phone number is also used to discover other Dingtone users who have your phone number in their address book.When you create a Dingtone account, we may ask for personal information, like your name or email address. We may also collect demographic information, such as age, gender, or preferences. We might also ask you to create a publicly-visible profile, which may include your name and photo. These information might be used to provide personalized content and information to you and others, which could include online ads or other forms of marketing.If you register with a third-party account, we may collect the information such as age, gender, address or portrait from your third-party account and use it to complete your profile on Dingtone.(3) Location InformationCertain Dingtone features require access to the location information on your mobile phone. Some features, such as "Find Nearby Friends" also store your location information in our servers, and share your location information with other Dingtone users. If you are concerned about the privacy of your location information, we recommend you do not use those features.(4) Device InformationWhen you install Dingtone on your device, we may automatically collect certain information from your device, including an Android, Apple iOS, or other ID, device maker and model, mobile web browser type and version, IP address, MAC address, the operating system’s maker and version, location information, MCC (Mobile Country Code) information, the mobile application name and other technical data about your device and use them as identifying information to detect, investigate, prevent, or address technical issues or illegal activity.A list of specific mobile applications installed on your device will also be collected to provide certain features, such as signing in from a third-party service or sharing messages on other third-party apps and services.(5) Usage InformationWe automatically collect usage information that does not identify an individual user. For example, when you install Dingtone on your device, we automatically collect information such as your device type, operating system version and type, IP address, certain unique device identifiers (such as Android ID, MAC address, and IDFA) and carrier and other information for your device. We use this information to enhance the services we offer and to help us understand how people use the Service.(6) Analytic InformationWe use third-party analytic tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, Dingtone software screens you access, and other information that assists us in improving the Service. We collect and use this analytic information with analytic information from other users so that it cannot reasonably be used to identify any particular individual user.(7) Cookie and TrackingA cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Dingtone uses cookies to help Dingtone identify and track visitors, their usage of the Dingtone website, and their website access preferences. Dingtone visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Dingtone' websites, with the drawback that certain features of Dingtone's websites may not function properly without the aid of cookies.We use analytic tools provided by Google, AppsFlyer and others which use other visitor identification technology that help Dingtone identify users and track usage of our Service.(8) CacheWhen you use Dingtone to send a multimedia message (such as sharing a picture, or sharing a video clip), the multimedia content will be cached in Dingtone servers for enhancing the responding speed of our service and increasing the effectiveness of performance. The cached content will be removed after a certain period of months. Dingtone does not provide any means for you to delete the cached content manually.(9) Share DataShare Data is the data that you provide for use with Dingtone, such as text, audio, photos and videos you make available through the app or contacts you add or import for use with Dingtone, which might be used to ensure our services are working as intended and aid in more efficient delivery of our services, and also may be made available to third parties by your actions when using Dingtone.How We Use Information
+In addition to some of the specific uses of information we
+describe in this Privacy Policy, we may use information that we
+receive to:
+(1) Allow us to keep you posted on Dingtone's latest product
+announcements, application updates, and upcoming events.
+(2) Help us develop, deliver, test and improve our products, and
+services.
+(3) Provide personalized content and information to you and others,
+which could include online ads or other forms of marketing.
+(4) Provide, improve, test, and monitor the effectiveness of our
+Service.
+(5) Monitor metrics such as total number of visitors, traffic, and
+demographic patterns.
+(6) Diagnose or fix technology problems.Information Sharing and Disclosure
+• We may share your information with businesses that are legally
+part of the same group of companies that Dingtone is part of, or
+that become part of that group ("Affiliates"). Affiliates may use
+this information to help provide, understand, and improve the
+Service (including by providing analytics) and Affiliates' own
+services (including by providing you with better and more relevant
+experiences).
+• We also may share your information with third-party
+organizations that help us provide the Service to you ("Service
+Providers"). Our Service Providers will be given access to your
+information as is reasonably necessary to provide the Service
+under reasonable confidentiality terms.
+• We may also share certain information with third-party
+advertising partners. This information would allow third-party ad
+networks to, among other things, deliver targeted advertisements
+that they believe will be of most interest to you.
+• We share the information we collect with third-party business
+partners who commit to comply with applicable laws concerning
+their usage of the information. Our third-party business partners
+may share anonymized information with their own third party
+business partners and use the information either for themselves or
+on behalf of their own business partners to operate and improve
+their services; provide you with advertisements and information
+for products and services in Dingtone Software or on other mobile
+apps or websites based on variables such as your location, and
+assess your level of engagement with them; and carry out other
+purposes that are disclosed to you and to which you consent.
+• We may remove parts of data that can identify you and share
+anonymized data with other parties. We may also combine your
+information with other information in a way that it is no longer
+associated with you and share that aggregated information.
+• We may disclose your information to law enforcement,
+governmental agencies, or authorized third-parties, in response to
+a subpoena, court order or other governmental request, or when
+Dingtone believes in good faith that disclosure is reasonably
+necessary to protect the property or rights of Dingtone, third
+parties or the public at large.
+Link to Ads and Other Service
+The Service may contain services, products, and/or links to other
+services, products, and websites, that are not owned or controlled
+by us. Please be aware that we are not responsible for the content
+nor for the privacy practices of these other websites, products,
+and services. We encourage you to be aware when you access a third
+party’s website or service and to read the privacy statements of
+each and every website and service you visit.
+Some of our advertisers and/or advertising partners may display
+ads on Dingtone’s products or services that directly solicit
+information, or contain technology to collect information about
+our users. This information is collected and used by our
+advertisers and/or advertising partners, and is outside of our
+control. If you have any questions about a particular
+advertisement, you should contact the responsible advertiser
+directly.
+Do Not Track NoticeCurrently, we do not respond to “Do Not Track” requests.Children's Personal Information
+All Dingtone services and websites are not intended for children
+under the age of 13. Children under the age of 13 should not use
+them at any time. Dingtone does not knowingly collect any
+information from children under the age of 13. In the event that
+we learn that we have collected personal information from a child
+under age 13 without parental consent, Dingtone will promptly
+delete such personal information in a secure manner.
+Business Transfer
+If Dingtone, or substantially all of its assets were acquired, or
+in the unlikely event that Dingtone goes out of business or enters
+bankruptcy, user information would be one of the assets that would
+be transferred or acquired by a third party. You acknowledge that
+such transfers may occur, and that any acquirer of Dingtone may
+continue to use your personal information as set forth in this
+policy.
+Information Notice for California Residents & Privacy RightsThe CCPA (California Consumer Privacy Act) provides California residents with specific rights regarding their personal information. The following sections include the collection, use, and disclosure of your personal information, as well as the rights you may have.Collection of Personal InformationUse and Disclosure of Personal InformationIn this Privacy Policy, we describe our specific procedures and policies on how we collect, use, and disclose your personal information.The sources for that information are provided in the "Information We Collect" section above.The uses of that information are described in the "How We Use Information" section above. The disclosure of that information is listed in the "Information Sharing and Disclosure" section above.The following is a list of categories of personal information collected, the purpose use of it, and categories of third parties to which it was disclosed.Category of personal information collectedThe purpose use of the collectionCategories of third parties to which it was disclosedContacts Informationsuch as address book#2 in the “How We Use Information” section above.Personal Informationsuch as age, gender#1,#3,#5 in the “How We Use Information” section above.Affiliates; marketing and advertising services; providers of technical servicesLocation Informationsuch as your city and state based on IP address#2,#3,#4,#5 in the “How We Use Information” section above.Affiliates; marketing and advertising services; providers of technical servicesDevice Informationsuch as device model, the operating system and version#2,#4,#6 in the “How We Use Information” section above.Affiliates; providers of technical servicesUsage Informationsuch as Android ID, MAC address, and mobile network carrier#2,#4,#6 in the “How We Use Information” section above.Affiliates; providers of technical servicesAnalytic Informationsuch as the web pages you visit, software screens you access#4,#5 in the “How We Use Information” section above.Affiliates; providers of technical servicesCookie and Cache#2,#4 in the “How We Use Information” section above.Share Datasuch as text, audio, photos you make available through the app#2,#4 in the “How We Use Information” section above.Affiliates; providers of technical servicesSale of Personal InformationWe do not sell your personal information to anyone.California Data Access and Deletion RightsIf you are a California resident, under the CCPA, you have certain rights to request that we:• Disclose to you the categories of personal information we collect or disclose about you; the categories of sources of such information; the business or commercial purpose for collecting your personal information; and the categories of third parties with whom we share/disclose personal information.• Provide you with access to and/or a copy of personal information we hold about you.• Delete personal information we collected from youWe will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not:• Deny you goods or services.• Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing · penalties.• Provide you with a different level or quality of goods or services.• Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.For once in a year, California customers may request us to disclose the identity of any third parties with whom we have shared personal information for the third party's direct marketing purposes within the previous calendar year, along with the type of personal information disclosed. If you are a California resident, you can submit a request for exercising any of these rights at  info@dingtone.me.When you make a request, you'll be asked to verify your identity by providing your full name, email address, and the phone number registered to our Services to confirm your account ownership. A receipt is also needed as proof of purchase.You can also authorize an agent to make an access or deletion request on your behalf. We may ask you to provide written authorization or a copy of a power of attorney, signed by you, for the agent to act on behalf of you. Still, You need to verify your identity directly with us.Shine the Light Disclosure The California “Shine the Light” law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information(as defined in the Shine the Light law) with third parties for their direct marketing purposes. We do not share your personal information with third parties for their own direct marketing purposes.Privacy Policy Change
+Dingtone may change its Privacy Policy from time to time, and at
+Dingtone's sole discretion. Dingtone encourages visitors or users
+to frequently check this page for any changes to its Privacy
+Policy. Your continued access to the Website or use of the
+Software after any change in this Privacy Policy will constitute
+your acceptance of such a change.
+Cheap international phone calls to United States, India, Bangladesh, Pakistan, Mexico, Philippines, Jamaica, Nepal, Nigeria, Saudi Arabia, Egypt, China, Brazil, United Kingdom, United Arab Emirates…ABOUT USContactFAQSupportOur UsersBrand AmbassadorLocal NumbersFOLLOW USBlogTwitter© 2022 DingtonePrivacy Policy|Terms of Service|Site MapPhone NumberFree Calls & TextsBlogSupportBrand AmbassadorLocal NumbersGet the redeem code  Privacy PolicyTerms of ServiceSite MapCopyright © 2021 Dingtone

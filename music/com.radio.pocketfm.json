@@ -1,0 +1,89 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Account management",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "App functionality, Developer communications, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "App functionality, Developer communications, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Account management",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.pocketfm.in/privacy-policy/"
+}

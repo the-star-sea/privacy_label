@@ -1,0 +1,122 @@
+Privacy Policy
+Last updated: December 24, 2021
+Effective Date: December 24, 2021
+XBooster ( “our app” or “us”) collects information from you in order to provide better service and give you a better user experience. We always put your privacy as the first consideration and Privacy Policy explains how we collect, use, and protect your information.
+1.	How We Collect and Use Your Personal data
+2.	Why We Collect Your Personal data
+3.	How We Share, Transfer, and Publicly Disclose Your Personal data
+4.	Your Rights
+5.	How We Store and Protect Your Personal Data
+6.	To California Residents
+7.	To EU Users
+8.	Children Under 13
+9.	Contact Us
+10.	Changes to This Privacy Policy
+1. How We Collect and Use Your Personal data
+NOTIFICATION PERMISSION: If you want our app show the information of the music that is playing, such as the title of the song, singer and album cover, or switch the next song in our app, we may need access to your music player. This permission is only for showing music information. We will not obtain any other information from your device.
+MICROPHONE PERMISSION: If you want our app show music spectrum, we will ask a microphone permission to enable the music spectrum. This permission is only for showing music spectrum. We will not obtain any other information from your device.
+CAMERA PERMISSION: If you want to take some photos when you are typing feedback, we may need camera permission to get camera access to your device.
+STORAGE PERMISSION: If you want to add some photos chosen from gallery when you are giving a feedback, we will ask a storage permission to select photos. This permission is only for choosing photos. We will not obtain any video or photo from your device, nor will we modify or delete the content in your local media storage.
+ANALYTICS: We may use third-party analytics tools such as Google Firebase Analytics to help us analyze usage trends for the services. These tools will track the information on how you use our App. We may collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
+LOG FILE: If you email us your feedback or to provide us with a bug report, we will collect your name, email address, device information, location information and your survey response. Please understand that this information is automatically collected by us.
+ADs: We work with many third-party to promote our service or for other business purposes. The third-party which are providing us ad services are Admob, Smatto, Facebook, and Mytarget VK respectively. We may allow them to collect information about your use of our App over time for playing or displaying ads that may be of interest to you.
+2. Why We Collect Your Personal data
+●	To provide our product and services to you;
+●	To better understand how you access and use application to improve our product and services;
+●	To communicate with you;
+●	For other purpose related to our business;
+●	To comply with law.
+3. How We Share, Transfer, and Publicly Disclose Your Personal Data
+●	How We Share We promise to keep your personal data confidential. Except for the scenarios stipulated in this policy, we only share your necessary information with third parties in the following situations:
+1）Have obtained your explicit consent or authorization;
+2）When it is required to be provided in response to instructions from state agencies, authority, or administrative or judicial requirements;
+3）When achieving the purposes described in the section "How We Collect and Use Your Personal data";
+4）Share with advertising service and technical support partners.
+In order to provide you with more complete and high-quality products and services, we may share some of your personal data with our partners. Please note that we will only share your personal data for legal, legitimate, necessary, specific and clear purposes. At the same time, we require third parties to deal with shared information with confidentiality and security measures no less than those required by this policy. Once we discover any violation of dealing with the personal data, we will terminate the partnership immediately and pursue legal responsibility.
+Directory of third-party SDKs that may be accessed
+Category
+Function
+Types of information collected
+Remark
+Firebase SDK
+Data statistical analysis service
+Application software list
+https://policies.google.com/privacy
+Admob Ads SDK
+Get and display ads
+Unique device identification code (Android ID）
+https://policies.google.com/privacy
+Smatto SDK
+Get and display ads
+Network status, unique device identification code (Android ID）
+https://www.smaato.com/privacy/
+Facebook Ads SDK
+Get and display ads
+Unique device identification code（Android ID）
+https://www.facebook.com/about/privacy
+Mytarget (VK) SDK
+Get and display ads
+Network status, unique device identification code (Android ID）
+https://legal.my.com/us/mytar-get/privacy/
+●
+How we transfer Except for the requirements of laws and regulations, mandatory administrative law enforcement, judicial or regulatory requirements, we will not transfer your personal data to any company, organization or individual.
+●
+How we disclose
+1) According to your needs, disclose your designated personal data in a method that you explicitly agree to;
+2) According to the requirements of laws, regulations, mandatory administrative law enforcement, judicial or regulatory agencies, where it is necessary to provide your personal data, we may publicly disclose your personal data based on the type of personal data requested and the method of disclosure.
+4. Your Rights
+Under applicable laws of your jurisdiction, you may have one or more of the rights to your personal data. These rights may include (if relevant):
+●
+Provide you with information we collect about you;
+●
+Device permissions.
+You may revoke any permissions you have granted to us before, such as permission to access your camera or camera roll.
+●
+Delete;
+●
+Opt out.You have the right to ‘opt out’ of receiving personalized ads.If you are not interested in personalized display, you may turn off the display of personalized content through our App services or the setting on your mobile device. Please note that you may still see ads after turning off this option, but the relevance of ads will be reduced.
+You can exercise your rights above by emailing us at xboosterfeedback@gmail.com or you may do it by yourself through our App services or the setting on your mobile device. If you are a California resident, please refer to the “To California Residents” section. If you are within European Union, please refer to the “To EU Users” section.
+5. How We Store and Protect Your Personal data
+●
+We won’t store your personal data.
+●
+We will work hard to provide protection for users' information security to prevent information loss, improper use, being hacked or disclosure. And use various security protection measures within a reasonable security level to ensure the security of information. For example, anonymize your personal data.
+●
+The security of your personal data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security.
+6. To California Residents
+Under this Privacy Policy, and by law if you are a resident of California, you have the following rights:
+●
+The right to know about the personal data a business collects about you how it is used and shared;
+●
+The right to delete the information collected from you;
+●
+The right to opt-out of receiving personalized ads; and
+●
+The right to non-discrimination for exercising your CCPA rights.
+7. To EU Users
+Under this Privacy Policy, and by law if you are within the EU, you have the following rights:
+●
+The right to obtain certain information about our processing, including: the purposes of processing the data; the categories of personal data processed; the recipients who receive your personal data; how long we store your personal data;
+●
+The right to receive a copy of any personal data which we process about you, in a commonly used and machine-readable format;
+●
+The right to delete;
+●
+The right to restrict data processing of your personal data;
+●
+The right to object to the processing of your personal data;
+●
+The right to withdraw your consent you have granted to us;
+●
+The right to raise a complaint with the relevant data protection authority, if you think that any of your rights have been infringed by us;
+●
+The right not to be subject to automated decision-making in relation to your personal data. We can confirm that we do not use automated decision-making;
+●
+The right to be notified in the event of a personal data breach which is likely to result in a high risk to your rights.
+8. Children Under 13
+Our Service does not address anyone under the age of 13 (or the prescribed age in your country/region). We do not knowingly collect personally identifiable information from anyone under the age of 13 (or the prescribed age in your country/region). If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us. If we become aware that we have collected personal data from anyone under the age of 13 (or the prescribed age in your country/region) without verification of parental consent, we take steps to remove that information.
+9. Contact Us
+It should be noted that whether or not to send us your feedback or bug report is a completely voluntary initiative upon your own decision. If you have a concern about your personal data being misused, or if you want further information about our privacy policy and what it means, please feel free to email us at xboosterfeedback@gmail.com, we will endeavor to provide clear answers to your questions in a timely manner.
+10.
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. When there are major changes to the terms of this policy, for example, changes of the purpose, method, and scope of personal information collection, we will remind you by means of pop-up notifications so that you can keep abreast of any changes made to this policy. Please note that your use or continued use of the products and/or services we provide means that you fully understand and agree to the entire content of this privacy policy (including updated versions).

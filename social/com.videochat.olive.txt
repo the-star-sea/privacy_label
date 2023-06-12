@@ -1,0 +1,198 @@
+Investors
+Privacy Policy
+Effective Date: April 24, 2019
+1. Introduction
+Welcome to OliveApp.net and Olive's mobile (the “App”)
+and web-based applications (the "Service") operated by
+When you use the Service,
+we process your Personal Data and other information. "Personal Data" means any data that allows
+us (regardless, whether we do this or not) to identify you (also "User") as a natural person.
+Your privacy is important to us and we have prepared this Privacy Policy to explain to you:
+What information we collect and why.
+How we use and share that information.
+How you can access and update that information.
+BY USING THE SERVICE, you consent to the collection and use of the Personal Data and other information as outlined in this Privacy Policy & YOU PROMISE US THAT (I) YOU HAVE READ, UNDERSTAND AND AGREE TO THIS PRIVACY POLICY, AND (II) YOU ARE OVER 18 YEARS OF AGE (OR HAVE HAD YOUR PARENT OR GUARDIAN READ AND AGREE TO THIS PRIVACY POLICY FOR YOU). If you do not agree, or are unable to make this promise, you must not use the Service. In such case, you must (a) delete your account using the functionality found in “Settings” in the App, or contact us and request deletion of your data; (b) cancel any subscriptions using the functionality provided by Apple (if you are using iOS) or Google (if you are using Android); and (c) delete the App from your devices.
+This Privacy Policy is incorporated by reference into the Olive's Terms of Service. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us at info@oliveapp.net
+'GDPR' means the General Data Protection Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data.
+2. Сategories of personal data we collect
+We collect data you give us voluntarily (for example, when you send us an email). We also may receive data about you from third parties (for example, when you connect with Facebook). Finally, we collect data automatically (for example, your IP address).
+2.1 Data you provide us
+Information that you provide us with when setting up your profile; including but not limited to registration data, account settings and content that you add to your profile such as your email address, username, telephone number, photos (including those which have been deleted from your profile) and other media files, information about your interests and activities, your gender and age and other personal characteristics and demographic information. When you choose to connect your social media account to your Service profile, we collect certain Personal Data from that social media website. Information may also be provided by corresponding with us (by email or chat, for instance), when you report a problem with the Service etc.
+2.2 Data that we generate from your use of the Service
+For example: data regarding the pages you visit, your interaction with other users, posts you share and data regarding the use of the Service functionality.
+2.3 Data provided by third parties
+When you decide to log in using Facebook, we get personal data from your Facebook account. This includes your profile image, name, gender, age and Facebook ID. Unless you opt out on the Facebook Login screen, we will also collect other data, such as email address or phone number.
+For more information, please refer to the Facebook Permissions Reference (describes the categories of information, which Facebook may share with third parties and the set of requirements) and to the Facebook Data policy. In addition, Facebook lets you control the choices you made when connecting your Facebook profile to the App on their Apps and Websites page.
+2.4 Data we collect automatically
+Data about how you found us
+We collect data about your referring app or URL (that is, the app or place on the Web where you were when you tapped on our ad).
+Device and Location data.
+We collect data from your mobile device. Examples of such data include: language settings, IP address, time zone, type and model of a device, device settings, operating system, Internet service provider, mobile carrier, hardware ID, and Facebook ID.
+Usage data
+We record how you interact with our Service. For example, we log your taps on certain areas of the interface, the features, and content you interact with, how often you use the App, how long you are in the app and your subscription orders.
+Advertising IDs
+We collect your Apple Identifier for Advertising (“IDFA”) or Google Advertising ID (“AAID”) (depending on the operating system of your device). You can typically reset these numbers through the settings of your device’s operating system (but we do not control this).
+Olive may also collect and gather non-personally identifiable information, such as certain profile information including country of residence and preferences. In addition, Olive may collect and store information about your and others’ usage of and interaction with the Service, including matches, numbers of matches made by members, match durations, text messages, usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views, network type and traffic to and from our Service.
+Olive allows you to share text messages, photos, screenshots, videos and other communications in the Olive application with other users, and if you choose to do so your text messages, photos, screenshots, videos and other communications will be stored on our servers. In addition, if you choose to share these items with other Olive users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending and sharing text messages, photos, screenshots, videos or other communications in the Olive application is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). Olive is not responsible for any use or misuse of information you share.
+Olive may also collect and gather user contents (e.g., photos, screenshots, comments, and other materials) that you create on the Service. Your photo can be taken by other users on the Olive, and If they use capturing function provided by the Olive, those photos can be stored and used for Olive and 3rd party’s service (eg, Facebook, etc.). If you do not agree with all the terms of this Privacy Policy, do not use the Service.
+We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and fixing the error.
+3. For what purpose do we use your personal data?
+We collect your Personal Data and other information to give every User of the Service a safe, optimal and personal user experience. We may use information that we collect for the following purposes:
+The publication of your user profile.
+A social platform means that you can make contact with other users. We process your data in a unique user profile that will be visible for other users,
+visitors of the platform and users of some search engines.A User controls the information on his or her profile and can choose whether or not his or
+her profile is included in public search results (via settings).
+The improvements and development of matching results, techniques and other functionalities.
+We are specialized in successful matching. Our results are more accurate and more successful as we have more details on our users.
+The improvement of platform functionality by analysis and interpretation of user statistics.
+We are happy to make use of new techniques to improve and renew our products and services.
+Advertising.
+Advertising allows us to provide you the rich content available on the Service. Some of our ads are based on the content of pages you are viewing
+elsewhere on the internet (i.e. online behavioral advertising). We believe that such tailored ads are more relevant to you and, therefore, more
+desirable.We and our partners, including Facebook and Google, use your personal data to tailor ads and possibly even show them to you at the relevant
+time. For example, if you have installed our App, you might see ads of our products, for example, in your Facebook’s feed.
+How to opt out or influence personalized advertising
+iOS:On your iPhone or iPad, go to “Settings,” then “Privacy” and tap “Advertising” to select “Limit Ad Track”. In addition, you can reset your advertising
+identifier (this also may help you to see less of personalized ads) in the same section.
+Android:To opt-out of ads on an Android device, simply open the Google Settings app on your mobile phone, tap “Ads” and enable “Opt out of interest-based ads”.
+In addition, you can reset your advertising identifier in the same section (this also may help you to see less of personalized ads).
+The detection of, and protection against fraud, errors and/or criminal behavior and breaches of our code of conduct.
+This is necessary in order to be able to offer a secure and a high-performance platform. Although we do not usually read or monitor the messages sent or
+received by you via the Service, we reserve the right to access and view such messages to detect any fraud or other illegal and undesirable user behavior,
+perform background checks on users or take any legally required actions. For instance, that may happenif we receive numerous complaints from the users on
+the content of the messages received from you.
+General member management and carrying out our paid services.
+By this we mean any action necessary to ensure proper service to our users. We use information to personalize the Service for you, such as to select the
+payment processor available to you, determine eligibility for promotions, and show you personalized advertisements.
+Some of the data we receive can, due to their nature, be qualified as "sensitive". Sensitive data is data considering your health, racial or ethnic origin,
+political opinions, religious or philosophical beliefs and sexuality. Users are not required to share sensitive Personal Data on their profiles, but they
+can choose to do so. Sensitive Personal Data will only be processed in function of previous mentioned objectives.
+During the registration process, the User agrees explicitly to the processing of all of his or her personal data.
+To comply with legal obligations.
+We may process, use, or share your data when the law requires it, in particular, if a law enforcement agency requests your data by available legal means.
+4. Is my personal data shared with third parties?
+Other than as set forth in this Privacy Policy, we will not share your Personal Data with third parties unless you have given us permission to do so.
+Notwithstanding anything in this Privacy Policy to the contrary, you understand and agree that Olive may, in good faith, access, preserve, and disclose
+any information we have collected about you or that you have submitted:
+In response to subpoenas, court orders, or legal process, or to establish, protect, or exercise ourlegal rights or defend against legal claims.
+To protect the rights and property of Olive, its affiliates, or the public.
+If we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving
+potential threats to the safety of any person.
+To our parent company, subsidiaries, joint ventures, or other companies under common control with Olive (in which case we will require such
+entities to honor this Privacy Policy).
+If Olive is acquired by or merged with another entity (in which case we will require such entity to assume our obligations under this Privacy Policy).
+Olive may forward any counter notification that you submit pursuant to Terms of Service, and any related communications, to third parties.
+As we develop our business, we may buy or sell assets or business offerings. Customers’ information is generally one of the transferred business
+assets in these types of transactions. We may also share such information with any affiliated entity (e.g. parent company or subsidiary) and may
+transfer such information in the course of a corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or
+asset sale, or in the unlikely event of bankruptcy.
+We share personal data with third parties that we hire to provide services or perform business functions on our behalf, based on our instructions.
+We share your personal information with the followingtypes of service providers:cloud storage providers, data analytics providers, measurement
+partners, marketing partners (in particular, social media networks, marketing agencies, email delivery services).
+We may anonymize or aggregate data collected through the Service and use and disclose it for any purpose.
+5. What are my rights as a data subject?
+Every User can be assured that we will process his or her personal data in a fair and lawful manner. We guarantee the following:
+Your personal data will only be processed for expressly stated and legitimate purposes.
+Processing of personal data will always be sufficient, proportionate and never excessive.
+We will never store your personal data longer than is strictly necessary.
+We have taken sufficient technical and organizational measures to guarantee safe processing of your personal data. These measures are
+consistent with the nature of the personal data and proportionate to the potential severity of the risk.
+Every User has the following rights:
+Right to object: Each User can oppose to the processing of Personal Data when there are sufficient legitimate and serious grounds relating to his or her
+particular situation. The User may at any time, free of charge and without further ado, oppose the proposed processing of Personal Data if the data was
+obtained for the purpose of direct marketing.
+Right to access: Each User has the right of access to all information regarding the processing of his or her Personal Data.
+Right to correct and delete: Each User can, at any time, ask for a correction or deletion of his or her personal data. You may update or correct the profile
+information that you have provided to Olive or deactivate your profile by editing your account settings or by sending an email to support@oliveapp.net. Olive
+may retain certain information *for a reasonable period of time to comply* with our legal obligations or for legitimate business purposes, such as to resolve
+disputes and enforce our legal rights.
+6. Opting out of future communications
+If you have questions or concerns regarding this Privacy Policy, please feel free to contact us or write to us at:
+8401 Collins Ave STE 100-241,
+Sunny Isles Beach,
+Florida 33160,
+United States
+Email:info@oliveapp.net
+7. Public. Social areas
+Your use of areas of the Service that are intended for interaction with other users may reveal your user name and may allow you to publish certain personal
+information about you. By choosing to use these areas, you understand and agree that anyone with access to those areas may access and forward any information
+about you that is contained in or that you post to those areas. As with any social networking service, you should use care when disclosing your personal
+information to strangers.
+Also, the Service may permit interactions between the Service and a third party website or service, suchas enabling you to "like" a product on our Service or
+"share" content to other websites or services. If you choose to "like" or "share" content on the Service or to otherwise post information from or via the Service
+to a third party's website, service, feature or application, that information will become public and the third party may have access to information about you and
+your use of our Service.
+8. Third-party websites
+The Service may contain links to websites operated and maintained by third parties over which we have no control. Privacy policies on such linked websites may be
+different from our Privacy Policy. You accesssuch linked websites at your own risk. Similarly, the Service may be accessed and used from third-party websites that
+we do not control. We have no control over the privacy policies of such third-party websitesand you access such third-party websites at your own risk.
+9. Security. Monitoring
+We incorporate commercially reasonable safeguards to help protect and secure your Personal Data. However, no electronic data transmission or storage of information
+can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Service and
+provide us with your information at your own risk.
+To help protect you and others, we may monitor your use of the Service and use your Personal Data and/or other information we collect in order to: identify fraudulent
+activities and transactions; prevent abuse of and investigate and/or prosecute potential threats to or misuse of the Service; ensure compliance with the Terms of Service
+and this Privacy Policy; investigate violations of or enforce these agreements; and protect the rights and property of you, Olive, its partners and other customers.
+This security monitoring may result in the collection, recording, and analysis of online activity or communications through the Service. If you do not consent to these
+conditions, you must discontinue your use of the Service.
+10. Children & COPPA
+We are a general audience service and do not use the Service to knowingly collect personal information from children under the age of thirteen (13) that requires parental
+notice and consent under the Children's Online Privacy Protection Act ("COPPA") without such parental consent. In fact, if you are under 18 years of age, you are not
+permitted to use the Service and should not send any information about yourself to us through the Service.
+In the event that we become aware that we have collected personal information from any child, we will dispose of that information in accordance with COPPA and other
+applicable laws and regulations. If you are a parent or guardian and you believe that your child under the age of 13 has provided us with personal information without
+COPPA-required consent, please contact us by email at support@oliveapp.net.
+11. Notice to California residents
+California’s Shine the Light law gives California residents the right to ask companies once a year what personal information they share with third parties for those
+third parties' direct marketing purposes. Learn more about what is considered to be
+personal information under the statute.
+To obtain this information from us, please send an email message to support@oliveapp.net which includes “Request for
+California Privacy Information” on the subject line and your state of residence and email address in the body of your message. If you are a California resident,
+we will provide the requested information to you at your email address in response.
+Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included
+in our response.
+12. Data retention
+We will store your personal data for as long as it is reasonably necessary for achieving the purposes set forth in this Privacy Policy (including providing
+the Service to you), which includes (but is not limited to) the period during which you have an account with the App. We will also retain and use your personal
+data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+13. Consent to transfer
+The Service is primarily operated in the United States. In order to provide our products and services to you, we may send and store your Personal Data outside of
+the country where you reside or are located, including to the United States. Accordingly, if you reside or are located outside of the United States, your personal
+information may be transferred outside of the country where you reside or are located, including to countries that may not or do not provide the same level of protection
+for your personal information. We are committed to protecting the privacy and confidentiality of personal information when it is transferred.
+If you reside or are located within the European Economic Area and such transfers occur, we take appropriate steps to provide the same level of protection for the
+processing carried out in any such countries as you would have within the European Economic Area to the extent feasible under applicable law. By using and accessing our
+products and services, users who reside or are located in countries outside of the United States agree and consent to the transfer to and processing of personal information
+on servers located outside of the country where they reside, and that the protection of such information may be different than required under the laws of their residence or
+location.
+14. Miscellaneous
+The Service is primarily operated in the United States. In order to provide our products and services to you, we may send and store your Personal Data outside of the
+country where you reside or are located, including to the United States. Accordingly, if you reside or are located outside of the United States, yourpersonal information
+may be transferred outside of the country where you reside or are located, including to countries that may not or do not provide the same level of protection for your
+personal information. We are committed to protecting the privacy and confidentiality of personal information when it is transferred.
+If you reside or are located within the European Economic Area and such transfers occur, we take appropriate steps to provide the same level of protection for the
+processing carried out in any such countries as you would have within the European Economic Area to the extent feasible under applicable law. By using and accessing
+our products and services, users who reside or are located in countries outside of the United States agree and consent to the transfer to and processing of personal
+information on servers located outside of the country where they reside, and that the protection of such information may be different than required under the laws of
+their residence or location.
+15. Personal data controller
+Olive, a company registered in the United States of America (with registered office at
+Collins AveSTE 100-241, Sunny Isles Beach, Florida 33160)
+will be the controller of your personal data.
+16. Additional questions
+Again, feel free to contact us any time if you have further questions about this Privacy Policy at info@oliveapp.net.
+Our EU Representative for GDPR: gdpr@oliveapp.net
+Privacy Policy
+|
+Billing Terms
+|
+Terms of Service
+|
+Contact Us
+|
+Investors
+Contact Us
+Copyright © 2019 - 2023.
+All Rights Reserved.
+Copyright © 2019 - 2023.
+All Rights Reserved.

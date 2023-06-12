@@ -1,0 +1,83 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Photos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Music files",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Other audio files",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Audio"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://sites.google.com/view/studiosoolter/home"
+}

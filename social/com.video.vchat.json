@@ -1,0 +1,155 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Sexual orientation",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Photos",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Account management",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Sexual orientation",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Photos",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://static.vchatgood.com/#/newPrivacy"
+}

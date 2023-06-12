@@ -1,0 +1,407 @@
+Privacy Policy
+Prompt clause
+The Hiyala team (hereinafter referred to as "we") is well aware of the importance of
+personal information to you and will try our best to protect your personal information safe and
+reliable. We are committed to maintaining your trust in us and abide by the following principles to
+protect your personal information: The principle of unanimity of power and responsibility, the
+principle of clear purpose, the principle of choosing consent, the principle of least enough, the
+principle of ensuring safety, the principle of subject participation, the principle of openness and
+transparency, and so on. At the same time, we promise that we will adopt appropriate security
+protection measures to protect your personal information in accordance with the industry's mature
+security solutions. In view of this, we have formulated this "Hiyala Privacy Policy" (hereinafter
+referred to as "this policy/this privacy policy") and remind you:
+This policy applies to Hiyala products or services. If the products or services provided by
+Hiyala are used in the products or services of our affiliated companies (such as directly logging in
+with a Hiyala account) but there is no independent privacy policy, this policy also applies to that
+part of the products or services.
+It should be noted that this policy does not apply to services provided to you by other
+third parties, nor does it apply to products or services for which Hiyala has independently set a
+privacy policy.
+Before using Hiyala products or services, please read carefully and thoroughly understand
+this policy, and use the relevant products or services after confirming your full understanding and
+consent. Once you start using Hiyala products or services, it means that you have fully understood and
+agreed to this policy. If you have any questions, comments or suggestions about the content of this
+policy, you can contact us through various contact methods provided by Hiyala.
+This privacy policy section will help you understand the following:
+1、How we collect and use your personal information
+2、How we use cookies and similar technologies
+3、How we share, transfer, and publicly disclose your personal information
+4、How we protect your personal information
+5、How do you manage your personal information
+6、How do we deal with the personal information of minors
+7、How your personal information is transferred globally
+8、How to update this privacy policy
+9、How to contact us
+10、How users can request deletion of data
+1、How we collect and use your personal information
+Personal information refers to various information that can be individually or combined
+with other information to identify a specific natural person or reflect the activities of a specific
+natural person. We will collect and use your information for the following purposes described in
+this policy. personal information:
+（一）Help you become our user
+In order to complete the creation of an account so that we can provide you with services,
+you need to provide the following information: your nickname, gender, date of birth, and mobile
+phone number.
+The above information you provide will continue to authorize us to use it during your use
+of this service. When you actively cancel your account, we will make it anonymous or delete your
+personal information as soon as possible in accordance with the requirements of applicable laws and
+regulations.
+（二）How apps use face data
+Facial Information: We will use picture technology to identify the user's face in the
+camera experience based on the user's consent or with permission. We may track your eye, mouth and
+facial movements and use this facial information as necessary to provide the services you request.
+Provides you with augmented reality or beautification through image manipulation. Such
+information may also be used to improve the functions (such as photos, videos, effects, avatars,
+etc.) provided by our services, especially to provide users with more suitable content and to apply
+avatar functions, makeup, filters in appropriate places. We do not use this information to
+personally identify any user. This information is processed in real time only to deliver and improve
+these features, and is discarded when feature usage is complete. We will not share this information
+with third parties, store it on our servers, or process it for any purpose other than the service
+functions described above;
+（三）Provide you with goods or services
+1、Information you provide to us
+When you register an account or use our services, you provide us with relevant personal
+information, such as phone numbers, emails, etc.;
+The shared information you provide to other parties through our services, and the
+information stored when you use our services. Before providing the aforementioned personal
+information of the other party to Hiyala, you need to ensure that you have obtained its authorization
+and consent.
+2、Information we collect during your use of the service
+In order to provide you with page display and search results that are more in line with
+your needs, understand product suitability, and identify abnormal status of your account, we will
+collect information about the services you use and how you use them and associate this information.
+This information includes:
+Device information: We will receive and record information about the device you use (such
+as device model, operating system version, device settings, unique device identifiers and other
+software and hardware characteristics information) based on the specific permissions granted by you
+during software installation and use ,Information about the location of the device (such as Idiv
+address, GdivS location, and sensor information such as Wi-Fi access points, Bluetooth and base
+stations that can provide relevant information, because the services we provide are mobile social
+services based on geographic location.Your confirmation of the successful registration of the "Hiyala"
+account is deemed to be your authorization to extract, disclose and use your geographic location
+information. If you need to stop disclosing its geographic location information to other users, you
+can set it to be invisible at any time).
+Log information: When you use the products or services provided by our website or client,
+we will automatically collect your detailed usage of our services and save them as relevant web
+logs. For example, your search query content, Idiv address, browser type,Telecom operator, language
+used, date and time of visit, record of web pages you visit, etc.
+Please note that separate device information, log information, etc are information that
+cannot identify a specific natural person. If we combine this type of non-personal information with
+other information to identify specific natural persons, or combine it with personal
+information,During the combined use period, this type of non-personal information will be treated as
+personal information. We will anonymize and de-identify this type of personal information unless you
+obtain your authorization or otherwise stipulated by laws and regulations.
+When you contact us, we may save your communication/call records and content or the
+contact information you left in order to contact you or help you solve problems, or record the
+solutions and results of related problems.
+3、We collect your personal information through indirect acquisition
+When you use the above services through our products or services, you authorize us to
+receive, aggregate, and analyze from our affiliated companies based on actual business and
+cooperation needs. We confirm that the source is legal or you authorize and agree to provide us with
+your personal information or Trading Information.
+If you refuse to provide the above information or refuse to authorize, you may not be able
+to use the corresponding products or services of our affiliates, or you may not be able to display
+relevant information, but it will not affect the use of Hiyala's core services such as browsing,
+chatting, and posting dynamics.
+（四）Provide you with security
+In order to improve the security of your use of the services provided by us and our
+affiliates and partners, protect the personal and property safety of you or other users or the
+public from infringement, and better prevent phishing websites, fraud, network vulnerabilities,
+computer viruses, and network attacks ,Network intrusion and other security risks, to more
+accurately identify violations of laws and regulations or Hiyala-related agreement rules, we may use
+or integrate your user information, transaction information, device information, relevant web logs,
+and our affiliates,Partners obtain information authorized by you or shared in accordance with the
+law to comprehensively determine your account and transaction risks, conduct identity verification,
+detect and prevent security incidents, and take necessary recording, auditing, analysis, and
+disposal measures in accordance with the law.
+（五）Other uses
+When we use information for other purposes not specified in this policy, or use
+information collected for a specific purpose for other purposes, we will seek your consent in
+advance.
+（六）Exception with authorization
+According to relevant laws and regulations, the collection of your personal information in
+the following situations does not require your authorization and consent:
+1、Related to national security and national defense security;
+2、Related to public safety, public health, and major public interests;
+3、Related to criminal investigation, prosecution, trial, and execution of judgments;
+4、For the purpose of protecting the life, property and other major legal rights of
+personal information subjects or other individuals, but it is difficult to obtain your own consent;
+5、The personal information collected is disclosed to the public by yourself;
+6、Collect personal information from legally publicly disclosed information, such as legal
+news reports, government information disclosure and other channels;
+7、Necessary for signing a contract according to your requirements;
+8、It is necessary to maintain the safe and stable operation of the provided products or
+services, such as discovering and disposing of product or service failures;
+9、Necessary for legal news reporting;
+10、It is necessary for academic research institutions to conduct statistical or academic
+research based on public interests, and when they provide academic research or description results
+to the outside, they de-identify the personal information contained in the results;
+11、Other circumstances stipulated by laws and regulations.
+If we stop operating Hiyala products or services, we will promptly stop continuing to
+collect your personal information activities, will notify you of the suspension of operations in the
+form of one-by-one delivery or announcement, and delete or anonymize the personal information we
+hold .
+2、How we use cookies and similar technologies
+（一）Cookie
+To ensure the normal operation of the website, to provide you with a more relaxed visit
+experience, and to recommend content that may be of interest to you, we will store small data files
+called cookies on your computer or mobile device. Cookies usually contain identifiers,Site name and
+some numbers and characters. With the help of cookies, websites can store data such as your
+preferences.
+（二）Web beacons and pixel tags
+In addition to cookies, we also use other similar technologies such as web beacons and
+pixel tags on our websites. For example, the email we send you may contain a link to the address of
+our website. If you click on the link,We will track this click to help us understand your product or
+service preferences so that we can proactively improve the customer service experience. A web beacon
+is usually a transparent image embedded in a website or email. With the help of pixel tags in
+emails,We can know if the email is opened. If you do not want your activities to be tracked in this
+way, you can unsubscribe from our mailing list at any time.
+3、How we share, transfer, and publicly disclose your personal information
+（一）Shared
+We will not share your personal information with companies, organizations and individuals
+other than Hiyala service providers, except in the following cases:
+1、Sharing with explicit consent: After obtaining your explicit consent, we will share your
+personal information with other parties.
+2、Sharing under statutory circumstances: We may share your personal information with
+external parties in accordance with laws and regulations, litigation dispute resolution needs, or
+requirements of administrative or judicial authorities in accordance with the law.
+3、Sharing with affiliated companies: In order to facilitate us to provide you with
+services based on affiliated accounts, recommend information that may be of interest to you or
+protect the personal and property safety of Hiyala affiliates or other users or the public from
+infringement,Your personal information may be shared with our affiliated companies. We will only
+share necessary personal information (for example, in order to facilitate your use of Hiyala account
+to use our affiliated company products or services, we will share your necessary account information
+with affiliated companies),If we share your personal sensitive information or the affiliated company
+changes the purpose of using and processing personal information, we will ask for your authorization
+again.
+4、Sharing with authorized partners: Only to achieve the purpose stated in this privacy
+policy, some of our services will be provided by us and authorized partners. We may share some of
+your personal information with our partners,To provide better customer service and user experience.
+For example, arranging partners to provide services. We will only share your personal information
+for legal, legitimate, necessary, specific, and clear purposes, and will only share personal
+information necessary to provide services.Our partners have no right to use the shared personal
+information for other purposes unrelated to products or services.
+Currently, our authorized partners include the following types:
+（1）Authorized partners for advertising and analysis services. Unless we have your
+permission, we will not share your personally identifiable information (referring to information
+that can identify you, such as your name or email address,This information can be used to contact
+you or identify you) and share it with partners who provide advertising and analysis services. We
+will provide these partners with information about the coverage and effectiveness of their
+advertising, but will not provide your personally identifiable information.Or we aggregate this
+information so that it does not personally identify you. For example, only after advertisers agree
+to abide by our advertising guidelines, we may tell advertisers how effective their ads are.Or how
+many people saw their ads or installed apps after seeing them, or provided unidentifiable statistics
+to these partners (for example, "male, 25-29 years old, located in New York") to help them
+understand their Audience or customers.
+（2）Suppliers, service providers and other partners. We send information to suppliers,
+service providers, and other partners that support our business. These supports include providing
+technical infrastructure services, analyzing how our services are used,Measure the effectiveness of
+advertisements and services, provide customer service, facilitate payment, or conduct academic
+research and surveys.
+For companies, organizations and individuals with whom we share personal information, we
+will sign strict data protection agreements with them, requiring them to process personal
+information in accordance with our instructions, this privacy policy, and any other relevant
+confidentiality and security measures.
+（二）Transfer
+We will not transfer your personal information to any company, organization or individual,
+except in the following cases:
+1、Transfer with explicit consent: After obtaining your explicit consent, we will transfer
+your personal information to other parties;
+2、In cases involving mergers, acquisitions or bankruptcy liquidation, or other cases
+involving mergers, acquisitions or bankruptcy liquidation, if personal information transfer is
+involved, we will require new companies and organizations that hold your personal information to
+continue to be bound by this policy.Otherwise, we will require the company, organization and
+individual to re-seek authorization and consent from you.
+（三）Public disclosure
+We will only publicly disclose your personal information under the following
+circumstances:
+1、With your explicit consent or based on your active choice, we may publicly disclose your
+personal information;
+2、If we determine that you have violated laws and regulations or seriously violated the
+rules of Hiyala-related agreements, or to protect the personal and property safety of Hiyala and its
+affiliate users or the public from infringement,We may disclose personal information about you in
+accordance with laws and regulations or Hiyala-related agreements and rules with your consent,
+including related violations and measures that Hiyala has taken against you.
+（四）Exceptions to obtaining prior authorization and consent when sharing, transferring, and
+publicly disclosing personal information
+In the following situations, sharing, transferring, and publicly disclosing your personal
+information does not require your prior authorization and consent:
+1、Related to national security and national defense security;
+2、Related to public safety, public health, and major public interests;
+3、Related to criminal investigation, prosecution, trial, and execution of judgments;
+4、To protect your or other individuals’ life, property, and other major legal rights, but
+it is difficult to obtain your consent;
+5、Your personal information disclosed to the public on your own;
+6、Collect personal information from legally publicly disclosed information, such as legal
+news reports, government information disclosure and other channels.
+According to the law, sharing and transferring personal information that has been
+de-identified, and ensuring that the data recipient cannot restore and re-identify the subject of
+personal information does not belong to the external sharing, transfer, and public disclosure of
+personal information.The storage and processing of such data will not require separate notice to you
+and your consent.
+4、How we protect the security of your personal information
+（一）We have adopted common industry solutions and reasonable and feasible security
+protection measures to protect the personal information you provide, and prevent unauthorized
+access, public disclosure, use, modification, damage or loss of personal information. E.g,The
+exchange of data (such as credit card information) between your browser and the server is encrypted
+and protected by the SSL (Secure Socket Layer) protocol; we will use encryption technology to
+improve the security of personal information; we will use trusted protection mechanisms to prevent
+individualsInformation has been maliciously attacked; we will deploy an access control mechanism to
+ensure that only authorized personnel can access personal information; and we will organize security
+and privacy protection training courses to strengthen employees’ awareness of the importance of
+protecting personal information.
+（二）We have an industry-leading data security management system with data as the core and
+around the data life cycle, which improves the security of the entire system in multiple dimensions
+from organizational construction, system design, personnel management, and product technology.
+（三）We will take reasonable and feasible measures and try our best to avoid collecting
+irrelevant personal information. We will only retain your personal information for the period
+required to achieve the purpose stated in the policy, unless it is necessary to extend the retention
+period or is permitted by law.
+（四）The Internet is not an absolutely secure environment. We strongly recommend that you do
+not use communication methods other than those recommended by Hiyala to send personal information. You
+can establish contact and share with each other through our services. When you create a
+communication through our service,When trading or sharing, you can independently choose the objects
+of communication, transaction or sharing, as a third party who can see your transaction content,
+contact information, exchange information or sharing content and other related information.
+If you find that your personal information, especially your account or password, has been
+leaked, please contact Hiyala customer service immediately so that we can take corresponding measures
+based on your application.
+Please note that the information that you voluntarily share or even publicly share when
+using our services may involve your or others’ personal information or even personal sensitive
+information, such as when you are posting dynamics or in group chats,Choose to upload pictures
+containing personal information in public places such as circles. Please consider more carefully
+whether to share or even publicly share relevant information when using our services.
+Please use a complex password to help us ensure the security of your account. We will do
+our best to ensure the security of any information you send to us.
+At the same time, we will also report the handling of personal information security
+incidents in accordance with the requirements of the regulatory authorities.
+5、How do you manage your personal information
+You can access and manage your personal information in the following ways:
+（一）Access your personal information
+You have the right to access your personal information, except for exceptions provided by
+laws and regulations. You can access your personal information yourself in the following ways:
+Personal Information—If you want to access or edit your personal information such as
+nickname, avatar, hometown, emotional state, date of birth, horoscope, occupation, school, hobbies
+and other information of location and footprint, you can log in to your account through " Personal
+Center"-"My Profile"-"View or Edit Personal Information" to perform such operations.
+Dynamic information-you can log in to your account and access or clear your dynamic
+publishing history through "Personal Center"-"My Activity".
+If you cannot access such personal information through the above-mentioned path, you can
+contact us at any time through Hiyala customer service. We will respond to your access request within
+30 days.
+For other personal information generated during your use of our products or services, we
+will provide you with the relevant arrangements in "(7) Responding to your above request" in this
+article.
+（二）Correct or supplement your personal information
+When you find that the personal information we process about you is wrong, you have the
+right to request us to make corrections or supplements. You can apply for correction or supplement
+through the methods listed in "(1) Access to your personal information" in this article.
+（三）Delete your personal information
+You can delete part of your personal information through the methods listed in "(1) Access
+to your personal information" in this article.
+In the following situations, you can request us to delete personal information:
+1、If our handling of personal information violates laws and regulations;
+2、If we collect and use your personal information without obtaining your explicit consent;
+3、If our handling of personal information seriously violates our agreement with you;
+4、If you no longer use our products or services, or if you voluntarily cancel your
+account;
+5、If we no longer provide you with products or services forever.
+If we decide to respond to your deletion request, we will also notify the subjects who
+have obtained your personal information from us as much as possible at the same time and require
+them to delete it in a timely manner, unless laws and regulations provide otherwise, or these
+subjects obtain your independent authorization.
+When you delete information from our service, we may not immediately delete the
+corresponding information from the backup system, but we will delete the information when the backup
+is updated.
+（四）Change the scope of your authorization
+Each business function requires some basic personal information to be completed (see
+"Article 1" of this privacy policy). In addition, for the collection and use of additional personal
+information, you can contact Hiyala customer service to give or withdraw your authorization and
+consent.
+After you withdraw your consent, we will no longer process the corresponding personal
+information. However, your decision to withdraw your consent will not affect the previous processing
+of personal information based on your authorization.
+（五）The personal information subject cancels the account
+You can submit an account cancellation application on the "Cancel Account" page (for
+example, Hiyala mobile APP "Settings-cancel account").
+After you actively cancel your account, we will stop providing you with products or
+services, delete your personal information, or make it anonymized in accordance with the
+requirements of applicable laws.
+（六）Constraint Information System Automatic Decision
+In some business functions, we may only make decisions based on non-manual automatic
+decision-making mechanisms including information systems and algorithms. If these decisions
+significantly affect your legitimate rights and interests, you have the right to request an
+explanation from us, and we will also provide appeal methods without infringing on Hiyala’s trade
+secrets or other user rights and social public interests.
+（七）Respond to your above request
+To ensure safety, you may need to provide a written request or prove your identity in
+other ways. We may ask you to verify your identity before processing your request.
+We will reply within 30 days. If you are not satisfied, you can also initiate a complaint
+through Hiyala customer service.
+For your reasonable request, we do not charge a fee in principle, but for repeated
+requests that exceed a reasonable limit, we will charge a certain cost as appropriate. For those who
+repeat for no reason and require too much technical means (for example,We may reject requests that
+need to develop new systems or fundamentally change current practices), bring risks to the
+legitimate rights and interests of others, or are very unrealistic.
+In the following situations, we will not be able to respond to your request in accordance
+with the requirements of laws and regulations:
+1、Related to national security and national defense security;
+2、Related to public safety, public health, and major public interests;
+3、Related to criminal investigation, prosecution, trial, and execution of judgments;
+4、There is sufficient evidence to show that the subject of personal information has
+subjective malice or abuse of rights;
+5、Responding to your request will cause serious damage to the legitimate rights and
+interests of you or other individuals or organizations;
+6、Involving trade secrets.
+6、How do we deal with the personal information of minors
+Without the consent of their parents or guardians, minors may not create their own user
+accounts. If you are a minor, it is recommended that you ask your parents or guardians to read this
+privacy policy carefully, and use our services or provide us with information with the consent of
+your parents or guardians.
+In the case of collecting personal information of minors through the use of our products
+or services with the consent of their parents or guardians, we will only use, share, or transfer
+them when permitted by laws and regulations, the parents or guardians have expressly agreed to, or
+are necessary to protect minors Or disclose this information.
+7、How your personal information is transferred globally
+The personal information collected and generated during our operations within the
+territory of the People's Republic of China is stored in the territory of China, except in the
+following circumstances:
+1、There are clear provisions in laws and regulations;
+2、Obtain your explicit authorization;
+3、You conduct personal active actions such as cross-border live broadcasting/posting
+dynamics through the Internet.
+In response to the above circumstances, we will ensure that your personal information is
+adequately protected in accordance with this privacy policy.
+8、How to update this privacy policy
+Our privacy policy may change.
+Without your explicit consent, we will not restrict your rights in accordance with this
+privacy policy. For major changes, we will provide noticeable notifications (including we will
+notify you through Hiyala announcements and even provide you with pop-up prompts).
+The major changes referred to in this policy include but are not limited to:
+1、Our service model has undergone major changes. Such as the purpose of processing
+personal information, the type of personal information processed, the way of using personal
+information, etc;
+2、Significant changes have taken place in our control and other aspects. Such as owner
+changes caused by mergers and acquisitions, etc;
+3、Changes in the main objects of personal information sharing, transfer or public
+disclosure;
+4、Your right to participate in the processing of personal information and how to exercise
+it has undergone major changes;
+5、When our responsible department for handling personal information security, contact
+information and complaint channels change;
+6、When the personal information security impact assessment report shows that there is a
+high risk.
+We will also archive the old version of this privacy policy for your review.
+9、How to contact us
+1、If you have any questions, comments or suggestions about the content of this policy, you
+can contact us through Hiyala customer service and "Settings"-"Feedback" in the Hiyala mobile app;
+2、If you find that your personal information may be leaked, you can make a complaint and
+report by contacting customer service;
+3、We have also set up a dedicated department for personal information protection, through
+which you can contact.
+If you are not satisfied with our response,especially if you believe that our personal
+information processing has harmed your legal rights, you can also seek a solution by filing a
+lawsuit with the court with jurisdiction in the defendant's domicile.
+10、How users can request deletion of data
+There is a settings button in the upper right corner of the APP homepage, click [Settings] - [Account Settings], at the bottom of the account settings interface, there is a "Delete my account" button, click this button, you can delete all the user's data from the server. Once the user deletes his account, the user data generated by the user will be deleted from the server, and the mobile phone number and the bound third-party account will be released.
+Hiyala team

@@ -1,0 +1,71 @@
+{
+  "sharedData": [
+    {
+      "data": "User payment info",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Other actions",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://clapperapp.com/privacy"
+}

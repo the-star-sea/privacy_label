@@ -1,0 +1,137 @@
+{
+  "sharedData": [
+    {
+      "data": "User payment info",
+      "optional": false,
+      "purpose": "App functionality, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Precise location",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Developer communications, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Race and ethnicity",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Sexual orientation",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Photos",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.scruff.com/privacy"
+}

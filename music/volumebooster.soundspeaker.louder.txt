@@ -1,0 +1,85 @@
+Privacy Policy
+Last updated on January 11, 2023
+This privacy policy helps you understand how we collect, use and disclose your personal data to provide a better user experience.
+Please carefully read these terms before you access, enter or use our app or service.
+Our Purpose for Using Your Personal Data
+We attach great values to user experience and information we collect will be helpful in improving features of our service. In general, we may use personal data for the following purposes:
+To assist law enforcement.
+To maintain our service.
+To respond to your feedback: to contact you by email only when you send us a question via
+email, or other equivalent forms of electronic communication.
+To fulfill the contractual obligations: to fulfill and manage purchases, orders, payments, and other transactions related to the application.
+Our Collection of Your Information
+Usage Data
+When you use our service, usage data, the non-personally identifiable information, is collected automatically, which may include information such as your device's internet protocol address, browser type, browser version, the pages of our service that you visit, the time and date of your visit, the time spent on those pages, and unique Device identifiers.
+We may automatically gather some information when you access the service via or through a mobile device, including, without limitation, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use.
+Technical Data
+Additionally, in order to provide a better user experience, we have integrated data statistics tools in the app, they won't collect users’ privacy data and are only used for CRASH targeting and AB-testing for new features and design, such as device information (Screen Size, OEM Name, Model), Device system information (OS Name, OS Version, OS Build, System Language, Carrier Country) and Application information (App Name, App Build, APP Version Number, SDK Name, SDK Version).
+App Permission
+In order to make some features work, we need your app permissions as follows:
+NOTIFICATION PERMISSION: If you want our app to show the information of the music that is playing, such as the title of the song, singer and album cover, or switch the next song in our app, we may need access to your music player. This permission is only for showing music information. We will not obtain any other information from your device.
+MICROPHONE PERMISSION: If you want our app to show music spectrum, we will ask a microphone permission to enable the music spectrum. This permission is only for showing the music spectrum. We will not obtain any other information from your device.
+STORAGE PERMISSION: If you want to add some photos chosen from gallery when you are giving a feedback, we will ask a storage permission to select photos. This permission is only for choosing photos. We will not obtain any video or photo from your device, nor will we modify or delete the content in your local media storage.
+Our Disclosure of Your Personal Data
+Business Transactions
+We may transfer your personal data only if our company is involved in a merger, acquisition or asset sale. And we will provide notice to inform you before the transactions.
+Law enforcement
+We may be required to disclose your personal data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Service Providers
+We may share your personal information with service providers to operate our service, such as marketing assistance or data analysis. You are encouraged to review their privacy policy and we do not transfer your personal information to those service providers.
+Other legal requirements
+We may disclose your personal data in the good faith belief that such action is necessary to comply with a legal obligation, protect and defend the rights or property of us, prevent or investigate possible wrongdoing in connection with the service.
+Our Procession of Your Personal Data
+Your personal information may be given to service providers who work for us but are only permitted to access it to carry out their tasks and are bound to keep it confidential.
+Analytics
+We may use Google Analytics to observe and analyze the use of our service.
+Google Analytics is a Google web analytics service that tracks and reports website traffic. Google uses the data collected to track and observe the use of our service. This data is available to other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+You may opt-out of certain Google Analytics features through Your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=en
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
+Advertising
+We may use the following service providers to advertise and this is helpful for supporting or maintaining our service.
+AdMob by Google
+Google, as a third party vendor, uses cookies to serve ads on our service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our service or other websites on the Internet.
+You can opt-out from the AdMob by Google Service by following the instructions described by Google: https://support.google.com/ads/answer/1660762
+For more information on how Google uses the collected information, please visit the "How Google uses data when You use Our partners' sites or app" page:
+https://policies.google.com/technologies/partner-sites or visit the Privacy Policy of Google: https://policies.google.com/privacy
+Our protection of Your Personal Data
+We do not retain any of your information on our servers.
+We are committed to protecting your personal data, we use administrative, technical, and physical security measures to help protect it. However, please be aware that no system is ever completely secure. While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security.
+Rights of EU Users under the GDPR
+If you are in EU area, you are entitled to the following rights:
+Request access to Your Personal Data. The right to access, update or delete the information we have on you. Please contact us for help if you are unable to perform these actions yourself. Additionally, you are entitled to request a copy of your personal data.
+Request correction of the Personal Data that We hold about You. You have the right to ask for rectification of any incomplete or inaccurate information We hold about You.
+Object to processing of Your Personal Data. This right exists when we rely on a legitimate interest as the legal basis for our processing and something about our particular situation causes you to object to our procession on this basis. You also have the right to directly object when we use your personal data for direct marketing.
+Request deletion of Your Personal Data. You have the right to ask us to delete or remove personal data when it is unjustifiable for us to continue processing it.
+Request the transfer of Your Personal Data. We will provide to you, or to a third-party you have chosen, your personal data in a structured, commonly used, machine-readable format. Please note that this right only applies to automated information which you initially provided consent for us to use or where We used the information to perform a contract with you.
+Withdraw Your consent. You have the right to withdraw your consent on using your personal data. If You withdraw Your consent, we may not be able to provide you with access to certain specific functionalities of the Service.
+If you want to exercise your rights of access, rectification, cancellation and opposition, you could contact us. However, please note that we may ask you to verify your identity before responding to such requests. If you submit a request, we will endeavor to reply to you in a timely manner.
+Rights California Users of under the CCPA
+If you are a resident in california, you are entitled to the following rights:
+The right to notice. You must be properly notified which categories of Personal Data are being collected and the purposes for which the Personal Data is being used.
+The right to access / the right to request. The CCPA permits You to request and obtain from the Company information regarding the disclosure of Your Personal Data that has been collected in the past 12 months by the Company or its subsidiaries to a third-party for the third party's direct marketing purposes.
+The right to say no to the sale of Personal Data. You also have the right to ask the Company not to sell Your Personal Data to third parties. You can submit such a request by visiting Our "Do Not Sell My Personal Information" section or web page.
+The right to know about Your Personal Data. You have the right to request and obtain from the Company information regarding the disclosure of the following:
+The categories of Personal Data collected
+The sources from which the Personal Data was collected
+The business or commercial purpose for collecting or selling the Personal Data
+Categories of third parties with whom We share Personal Data
+The specific pieces of Personal Data We collected about You
+The right to delete Personal Data. You also have the right to request the deletion of Your Personal Data that have been collected in the past 12 months.
+The right not to be discriminated against. You have the right not to be discriminated against for exercising any of Your Consumer's rights, including by:
+Denying goods or services to You
+Charging different prices or rates for goods or services, including the use of discounts or other benefits or imposing penalties
+Providing a different level or quality of goods or services to You
+Suggesting that You will receive a different price or rate for goods or services or a different level or quality of goods or services.
+You may exercise any of your rights under the CCPA by sending emails to us. We will disclose and deliver the required information free of charge after receiving your verifiable request.
+Privacy for Children
+We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are aware of any data we gathered from children under age 13, please contact us, we take steps to remove that information.
+Links to Other Websites / Third Parties
+Our service may contain links to other websites and third parties, they are not affiliated with us. If you click on these links, you will be directed to that third party's site or applications of interest, accordingly the safety of your activity on the third parties could not be guaranteed by our Privacy Policy. We strongly advise You to review the Privacy Policy of every site You visit.
+We are not responsible for and could not control the content, privacy policies or practices of any third party sites or services.
+Our Update to this Privacy Policy
+Our Privacy Policy may be updated from time to time. And we will let you know via email and/or a prominent notice on our service, prior to the change becoming effective and emphasize the "Last updated" date.
+We strongly encourage you to review this Privacy Policy periodically for any changes since any changes to this Privacy Policy become effective when they are posted on this page.
+Contact Us
+If you have any concerns or questions, please feel free to email us at 360tool.ca@gmail.com, we strive to answer your questions as soon as possible.

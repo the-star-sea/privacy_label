@@ -1,0 +1,203 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Analytics, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Developer communications, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User payment info",
+      "optional": false,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Photos",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance, Account management",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "Analytics, Developer communications",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Developer communications, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User payment info",
+      "optional": true,
+      "purpose": "App functionality, Personalization, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "SMS or MMS",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Photos",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Contacts",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Contacts"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.flipkart.com/pages/privacypolicy"
+}

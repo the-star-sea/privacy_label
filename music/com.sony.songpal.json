@@ -1,0 +1,64 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "User IDs",
+      "optional": true,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Files and docs",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Files and docs"
+    },
+    {
+      "data": "App interactions",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "http://policies.songpal.sony.net/pp/pp_index.htm"
+}

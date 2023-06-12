@@ -1,0 +1,71 @@
+Privacy Policy
+Last updated: June 30, 2022
+Hello, we are File recovery - All recovery (“Application” or “We”)! This Privacy Policy is meant to help you understand how we collect and use the personal information you provide when you access our Services through this application.
+What kinds of information do we collect?
+In order to protect your normal use and improve the quality of our services, we may collect the following personal information or ask for the specific permissions from you when you access our Services:
+Device information.
+- The type of mobile device You are using
+- The IP address of Your mobile device
+- The unique ID of Your mobile device
+- Your mobile OS
+- Unique device identifiers
+- The type of Internet browser You use
+- System Language
+- Carrier Country
+- Carrier Name
+Log information
+- Clicks information
+- Browser type
+- Time Zone
+Application information
+-
+Application’s Name
+-
+Application’s Version Number
+-
+Application’s Build
+- SDK Name
+- SDK Version
+Contact information
+- When you send feedback via email or provide us with an error report, we will obtain your username, email address, and email content. We would use your information to respond to you when you contact us.
+Children information
+- Our Services are not directed to anyone under the age of 13, nor do We knowingly collect personally identifiable information from anyone under the age of 13. If you as a parent or guardian contact us to delete the information of your children or we become aware that We have collected Personal information from children under the age of 13 without parental consent, We will take steps to delete all such information from Our servers.
+Storage device permission (for Android 5.1 to 10)
+- When you use our application scanning files on your device, we need permission to
+access your local device to search all the files. Also, when you want to recover files, we need the storage permission of the local device, in order to save the recovered files. This permission is only for scanning files from your device or saving files to your device. We will not obtain or collect any video, photos, audios or other files from your device, nor will we automatically modify or delete the content in your local media storage.
+All files access permission (for Android 11 & above Android version)
+- When you use our application scanning files on your device, we need permission to
+access your local device to search all the files. Also, when you want to recover files, we need the storage permission of the local device, in order to save the recovered files. This permission is only for scanning files from your device or saving files to your device. We will not obtain or collect any video, photos, audios or other files from your device, nor will we automatically modify or delete the content in your local media storage.
+How do we use this information?
+We use and analyze all of the information we have to help us provide and improve our Services.
+Third-party Service Providers would use the information to improve their advertising and measurement systems so they can show you relevant ads on and off our Services, but you can Opt out of Ads Personalizations in the settings.
+Please be assured that We will take all steps reasonably necessary to ensure that Your personal information is handled securely and in accordance with this Privacy Policy. We will not transfer Your Personal information to other organizations or countries unless adequate controls are in place.
+In certain circumstances, We may be required to disclose your Personal information if required by law or in response to a valid request from a public authority (such as a
+court). Except as provided in this Privacy Policy, We will not disclose any of your Personal information to third parties.
+The rights of Users
+Withdraw your consent at any time.
+- You have the right to withdraw consent where you have previously given the consent to the processing of any information or permissions.
+Access or revise your personal information.
+- You have the right to learn the details about what personal information we collect and how we process them.
+Have your personal information deleted.
+- Please note that except
+the contact information you send us for feedback, any of your information will only be stored on your device while you are using our application. If you want to delete your personal information that is stored on your device, please clear the cache of our app in your settings.
+Do not sell your personal information - California Resident
+- We will never sell personal information for any commercial purposes. But the third-party Service Providers We cooperate with (for example, Our advertising partners) may use technology that "sells" Your personal information as defined by the CCPA law. If You don’t want Your personal information to be used for interest-based advertising purposes or these potential sales as defined under CCPA law, You can opt out of it.
+“Do Not Track” Policy - California Resident
+- “Do Not Track" Policy is Required by California Privacy Protection Act (CPPA). Our Service does not track your browsing activity. But some third-party websites may track them. If You are visiting such websites and want to prevent being tracked by these websites, You can modify the settings in Your web browser.
+Third Party Services and Cookies.
+Category
+Function
+Types of information collected
+Remark
+Admob Ads SDK
+Get and display ads
+Unique device identification code （Android ID）
+https://policies.google.cn/privacy
+Google Analytic SDK
+Data statistical analysis service
+Application software list, network status, unique device identification code （Android ID）, device model, application runtime log
+https://policies.google.com/privacy?hl=en
+Contact Us
+Your privacy matters to Us. If you have questions or wish to send us comments about this Privacy Policy, please contact us by emailing to ai.photo.team.ltd@gmail.com. We will try Our best to provide clear answers to Your questions as quickly as possible. Thanks for Your support.

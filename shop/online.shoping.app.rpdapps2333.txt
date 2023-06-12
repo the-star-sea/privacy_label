@@ -1,0 +1,5 @@
+PRIVACY & CONTENT POLICY
+· The app doesn't collect any user personal data as, for example, name, picture or location.
+· Consequently, the app doesn't share any personal information with any other entity or third parties.
+· Images and Videos entered by the user are sent to the app server in order to be retrieved later by the user himself, and so that the app can offer the functionalities according to its description.
+· We allow third-party companies to serve ads and collect certain anonymous information when you visit our app. These companies may use anonymous information such as your Google Advertising ID, your device type and version, browsing activity, location and other technical data relating to your device, in order to provide advertisements.

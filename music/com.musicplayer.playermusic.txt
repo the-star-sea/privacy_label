@@ -1,0 +1,62 @@
+Home (current)
+FAQ
+BLOG
+Terms
+Privacy Policy and Terms of Use
+By using Audify Music Player, you consent to have read, understood, and agree to our “Privacy Policy” and “Terms of Use” provided herein.
+You are a valued user and respecting your privacy is our major concern. We do not collect any personally identifiable information. We do not process your personal information or disseminate it to Third Parties for any reason whatsoever except as provided under Section 5 of this agreement. The information collected by us is mainly to generate logs, error reports, performance log analytics reports, crash reports, etc. which does not identify you personally. This information is needed to let you have the best experience with the Application. We do not sell or trade upon your data.
+Definitions:
+Unless the context provides otherwise:
+1.1. Application shall mean “Audify Music Player”
+1.2. We, Our, Us, and Developer shall mean Audify Music Player
+1.3. User shall mean the person using the Application
+1.4. Storage shall mean your SD card/External Storage and internal storage of your device
+1.5. Audify Cloud mean data which are collected to transmit and store on our server
+2. Our application needs permission to have access to your:
+2.1. Storage: We need access to your Storage to install the Application. Further, we need access to your device storage in order to add the audio files in the playlist available in the Application or created by you in our app. You have options to filter out the unwanted short audio files from the playlist and therefore the Application needs to have access to your storage. This permission is also needed to install the Application in the storage.
+2.2. Network Communication/access and Wi-Fi: We continuously let our users have the best experience while using our Application. We invest a considerable amount of time fixing errors and improving the functionalities of the Applications. Whenever we add a new feature or fix an error, we intimate our users about the updates. We also need network details to optimize the services on slow networks.
+2.3. Audio Settings and Reading the Contents of Your Storage: The Application allows you to edit the info of the audio files such as the name of the audio file, details of the artist and album. You can also delete unwanted files using the Application. Therefore this permission is needed.
+2.4. Device and App Information: In order to detect the crashes and recover the Application to its state we need to know your device status,  operating system, and its version, hardware model, mobile network's unique device identifier etc.
+2.5. Device id, Phone Status: All the user logs, crash reports, performance reports, and analytic logs are mapped under unique user ids. All the users are identified by a unique id which is created using your device id and Phone status.
+2.6. Prevent the phone from sleeping: This is needed to keep the Application functioning as per your need. You can set the sleep timer to play the audio for a certain time duration. If this permission is not allowed the Application would stop once the phone goes to sleeping mode.
+2.7. Internet Protocol (IP) details, Internet Service Provider (ISP) details, operating system and browser details, crash report, performance logs analytics reports, and error reports.
+2.8: Camera Permission: This permission is needed to change the album art on to change album art
+2.9: Contact Permission: To set the ringtone for any person in the contact list, this permission is required.
+2.10: Playlists and Application settings Backup: Audify Music Player collects, transmits and stores details of audio files added to your playlist to restore playlists after reinstallation along with application settings on Audify Cloud. Audify Music Player collects, transmits and stores this by default to provide a better experience.
+3. Cookies: Cookies are small text files designed to identify your preferences and manage your sessions. They are transferred via web servers and are stored in your storage. They help the Application remember the language you have selected or the times you have opened the Application and the user id, date, and time you have visited. We do not seek permission for Third-Party cookies. You can disable and delete the cookies at your convenience. However, disabling the cookies may lead to the Application not functioning correctly.
+4. Personal and Sensitive Data
+4.1. Images - Audify Music Player collects, transmits and stores images when you create Audify Mix and add images for that created mix on Audify Cloud. We do not collect your images by default and it be collected only when you create and add images to the Mix feature in the application.
+4.2. Audios - Audify Music Player collects, transmits and stores audio when you add audio to the Audify Mix feature on Audify Cloud. We do not collect, transmit or store your audio by default and it be collected only when add audio to the Mix feature in the application.
+4.2. Name - Audify Music Player collects, transmits and stores names once you log in or create Audify Mix to provide a more personal experience in the Application on Audify Cloud.
+5. How do we use the information: To let you enjoy our services seamlessly, we are continuously putting efforts to bring forward the best. We may need the log reports, error reports, analytics reports, and performance reports to improve the app and fix the bugs. We need the error reports, analytics, logs, crash reports to understand the issues and provide upgrades. We may also need to know the information to enforce our terms and conditions contained herein. We use the information in order to solve User-specific queries and issues and assist you with technical difficulties. We use third-party companies to facilitate our service, to help us in analyzing our app's performance and generate reports, to enhance our quality of service and advertisement. Here are links to the privacy policy of third party library used by us
+5.1. Facebook Audience Network
+5.2. Firebase
+5.3. AdMob
+6. We reserve the right to change our Privacy Policy. You may receive communication from us regarding the changes. Although we have employed the best data protection practices, please be advised that no practice is 100 % secure. You are advised to keep a check on our Privacy Policy at regular intervals. For Privacy Policy related queries and concerns, kindly write us on feedback@audifyplayer.com
+7. Disclosure: In the event, the information, of whatever nature, is requested by Police or law enforcement agencies to detect fraud, illegality, and concerns related to national security, we reserve the right to disclose the information requested.
+8. Terms of Use
+8.1. By using the Application, you agree not to share, host, display, upload, modify, publish, transmit, update or share any information on the  Application including under the “Theme” section that—
+8.1.1. belongs to another person and to which the user does not have any right to;
+8.1.2. is grossly harmful, harassing, blasphemous defamatory, obscene, pornographic, paedophilic, libellous, invasive of another's privacy, hateful,  or racially, ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner  whatever;
+8.1.3. Harm minors in any way;
+8.1.4. Infringes any patent, trademark, copyright, or other proprietary rights; (e) violates any law for the time being in force;
+8.1.5. Deceives or misleads the addressee about the origin of such messages or communicates any information which is grossly offensive or  menacing in nature;
+8.1.6. Impersonate another person;
+8.1.7. contains software viruses or any other computer code, files, or programs designed to interrupt, destroy or limit the functionality of any  computer resource;
+8.1.8. Threatens the unity, integrity, defence, security or sovereignty of your, friendly relations with foreign states, or public order or causes incitement to the commission of any cognizable offence or prevents investigation of any offence or is insulting any other nation.
+9. Audify Music Player reserves the right to terminate your access to the Application and block your IP in the event we notice any contravention and/or you are found to be in non-compliance with the terms and conditions provided herein.
+GDPR Compliances
+A large part of the data we process qualifies for multiple legal grounds for processing under the General Data Protection Regulation (GDPR) for EU countries. Below given are the bases for which data is processed -
+We have a legitimate interest in performing analytics, measuring usage and conversions, and game telemetry to enhance our services. We and the processing team have considerable steps in place to minimize the privacy effect.
+We have a legitimate interest in holding users’ purchase history to help users in resolving purchase and payment matters.
+We have a legitimate interest in facilitating third-party ads and data collection on our site and applications to help provide a more customized ad experience for our users and site visitors. Our partners are flexible with opt-outs and numerous other privacy efforts to minimize the privacy impact of online ads
+How do we protect your data
+Security Safeguards
+All sorts of administrative, technical, and physical security measures are being taken from our side to confirm a safe and secure user experience. These measures are taken to protect your data from any unauthorized permit.
+Data retention - All your data and information would remain with us only until your account is active and in use. We deliberately identify and de-link all accounts which have not been in use for a considerable amount of time.
+Also, if you ask us to clear your personal data, we will retain your data as required for our fair business interests, along with compliance with legal obligations, resolving disputes, and implementing our contracts.
+Contact
+Name - Ashish Patel
+Email - ashish@audifytech.com
+Address - Audify Tech Private Limited, 8th Floor, Building 3, TEC, Prestige Technostar, Brookfield, Bangalore - 560048, Karnataka, India
+(c) Audify Tech Private Limited

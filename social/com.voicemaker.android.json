@@ -1,0 +1,76 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Personalization, Account management",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Sexual orientation",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Developer communications",
+      "type": "Messages"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "Audio"
+    },
+    {
+      "data": "Files and docs",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Files and docs"
+    },
+    {
+      "data": "Other actions",
+      "optional": true,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.voicemaker.media/privacy.html"
+}

@@ -1,0 +1,65 @@
+Privacy Policy
+Dear User, Thank you for using our application. Protecting your privacy is very important to us. This service is provided free of charge by M-Tech to protect your privacy and to provide you with better service.
+This privacy policy applies to the products, websites, and content of our services. We may occasionally update this Privacy Policy by posting new versions of Linko Technology's Privacy Policy. If we make any material changes, we will notify you by posting a notice on the Service before the changes take effect. Your continued use of the Service after the effective date of this policy will be served and protected by the new Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions unless otherwise defined in this Privacy Policy, accessible from within the Application.
+This Privacy Policy states�/b>
+how we collect your data and why we do so
+How we use your data and what choices you have regarding your data.
+1. About collecting, sharing and using users' information
+Location Information
+We will collect approximate location information from our users for personalization and recommendations, as well as for functionality.
+We will share users' approximate location with third parties for analysis and advertising purposes
+Personal Information
+We do not collect and share users' personal information, such as name, email, ID, address, number, etc.
+Financial Information
+We do not collect and share financial information about our users, such as payment information, transaction history, other financial information, etc.
+Health Information
+Health information and fitness information are not collected and shared.
+Information
+We may collect your email, SMS or MMS, other in-app information, etc. to identify junk files in order to provide cleanup functions, but this operation will not store user information to protect user data security.
+Photos and Videos
+We collect photos, videos, etc. from users to identify junk files in order to provide cleanup functions, but this operation will not store user information to protect user data security.
+Audio files
+We collect user's voice, audio recordings, other audio files, etc. to identify junk files in order to provide cleanup function, but this operation will not store user information, to protect user data security
+Files and Documents
+We do not collect user files or documents
+Calendar Information
+We do not collect and share users' calendar information
+Address Book
+We do not collect information related to sharing a user's contacts
+App activity: app interactions, in-app search history, installed apps, other actions, etc.
+We do not collect and share app interactions, in-app search history, or other actions, etc.
+Web Browsing
+We do not collect and share users' web browsing history
+Application Information and Performance
+We will collect users' crash logs, diagnostics, other application performance data, etc. For the purpose of improving system stability and providing better services to users
+Device ID or other ID: Device ID or other ID
+We will collect user's device ID or other ID information for personalization and analysis
+We will share the user's device ID or other ID with third parties for personalization and analysis
+2. About the protection of your information
+We will handle personal data and sensitive user data securely, including using new encryption technologies (e.g., providing HTTPS) to transfer data, using runtime permission requests whenever possible before accessing data controlled by device permissions, and ensuring that personal data and sensitive user data are not sold. At the same time, ensuring the security of the service implementation while the product is in use is our top priority. We take appropriate security and technical measures to protect your information from unauthorized access, loss, and misuse. To this end, we also require appropriate security measures from vendors who process personal information on our behalf, providing users with a means to request the deletion of their data.
+Notwithstanding our efforts, we cannot guarantee the absolute security of your data or any communication facilities we provide. We advise you to exercise caution when disclosing any information through the Services. In particular, please be aware that any personally identifiable information or personally sensitive data that you communicate or disclose to any user about the Services may be collected and used by others.
+3. About Your Rights
+Rights of Individuals Residing in the European Economic Area, the United Kingdom, and Switzerland. We provide you with the following rights when you use our Services. If you wish to exercise your rights under applicable law, please contact us.
+When we receive your request, please ensure that you are prepared to verify your identity. Please note that your rights are limited. We may limit your rights in the following ways.
+Restricting your account access and operations concerning your account on the Application, subject to all applicable laws, decrees, regulations, and provisions regarding privacy, data security, and data protection
+To access, use or process EU personal information for the purposes to which the relevant party to the EU personal information has consented, after seeking your consent.
+to take appropriate administrative and technical measures to protect your personal information from loss or misuse, unauthorized or unlawful access, disclosure, alteration, and destruction when you access the application using your device; and to provide the same level of protection as the Privacy Shield principles standard.
+In the course of this process users may request that we delete any relevant personal information held by us: it is no longer necessary for the purposes for which it was collected or otherwise processed; your consent will be sought during the processing, but if you withdraw the deletion action, or object to the processing activity, we will cease the action.
+4. Third-Party Partner Privacy Policies
+Our products and services have third-party partners involved in cooperation, and links to the privacy policies of those third-party partners are listed below for you. Please note that these policies are managed by a third party and we have no control over them. The links below provide details on the collection, use, and sharing of user data. The partners below include those we are working with, will be working with, or have worked with.
+Adjust
+https://www.adjust.com/terms/privacy-policy/
+AppLovin
+https://www.applovin.com/privacy/
+Google AdMob and firebase
+https://policies.google.com/privacy?hl=en
+Facebook audience network and Facebook analysis
+https://www.facebook.com/about/privacy
+5. Children's privacy
+The products and services we provide are not intended for persons under the age of 13. We do not knowingly collect personally identifiable information from children under the age of 13. If a child under the age of 13 provides personal information to us, we will immediately remove that information from our servers. If you are a parent or guardian and you are aware that your child has provided personal information to us, please contact us so that we can take the necessary action.
+6. Policy Changes
+Any information collected within our products is subject to the policies that govern the collection of such information and are in effect at the time. Also, we may revise our privacy policy from time to time. In the event of such changes, we will provide you with additional forms of notice of modifications or updates, as appropriate. If you continue to use our applications or services after a change in the policy, this will mean that you accept the change in the policy.
+7. Contact Us
+If you have any questions or concerns about this Policy, you may contact us via email.
+Email to: [email protected]

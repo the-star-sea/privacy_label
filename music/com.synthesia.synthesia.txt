@@ -1,0 +1,31 @@
+Synthesia
+About
+Songs
+Support
+Keyboards
+Privacy Policy
+Last Modified December-13-2011
+Privacy
+The Synthesia website and the Synthesia application limit the collection of personally identifiable user data to purposes including but not limited to the following:
+To enhance your experience.
+Statistical information may be used in a variety of ways to improve the website or the game.
+To solve technical problems.
+Log data may be examined in the course of solving technical problems and in tracking down badly-behaved code or interactions.
+To monitor website conditions.
+We statistically sample raw log data from users' visits and activity to help maintain functionality of the website and related services.
+Release of Personally Identifiable Information
+It is our policy that personally identifiable data collected in the server logs, or through records in the database, or through other non-publicly-available methods, may be released in any of the following situations:
+In response to a valid subpoena or other compulsory request from law enforcement,
+With permission of the affected user,
+When necessary for investigation of abuse complaints,
+Where the information pertains to a technical issue and its dissemination is necessary to illustrate or resolve it,
+Where the user has been behaving in a disruptive way, data may be released to a service provider, carrier, or other third-party entity to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers,
+Where it is reasonably necessary to protect the rights, property or safety of Synthesia LLC, Synthesia, its users or the public.
+Disclaimer
+We believe that maintaining and preserving the privacy of user data is an important value. This Privacy Policy represents a committed effort to safeguard the security of the limited user information that is collected and retained on Synthesia servers. Nevertheless, we cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, we can make no guarantee against unauthorized access to information provided in the course of using the Synthesia website or the online features built into the Synthesia application itself.
+Affiliate Program Disclosure
+Amazon Associates
+Synthesia LLC is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+As an Amazon Associate we earn from qualifying purchases.
+© Synthesia LLC
+@Synthesia

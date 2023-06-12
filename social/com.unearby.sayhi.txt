@@ -1,0 +1,166 @@
+document
+Privacy Policy
+This is the Privacy Policy of Unearby, Inc. and SayHi with its plugins or related applications(including SayHi, Video Chat for SayHi and Contacts Finder) and its various & next versions (“SayHi”, “us”, “we”, or “our”) In this Privacy Policy, we refer to our products and services as the “Service.”
+Please read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.
+Information we collect
+It goes without saying, we can’t help you develop meaningful connections without some information about you, such as basic profile details and the types of people you’d like to meet. We also collect information generated as you use our services, for example access logs, as well as information from third parties, like when you access our services through a social media account. If you want additional info, we go into more detail below.
+Information you give us
+When you install the Service on your device and register with SayHi, personally identifiable information about you may be collected during the download process for the Service (as requested from you during the download process) when you register with us.
+For registration through SayHi, you are required to provide your mobile phone number or your email address, city location, gender, name, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional.
+When you log in using your Facebook account, we may collect additional information you make available to us (see “Your User Profile”) below.
+In addition, when you install the Service on your device and register with SayHi, you may will be asked to allow us access to your address book.
+If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personal information in your address book) and we will store it on our servers and use it to help you use the Service.
+If you do not want SayHi to store this information, you may opt-out through your account settings in the SayHi application at any time. However we may not be able to offer some of the features that require this information.
+SayHi may also collect and gather non-personally identifiable information, such as certain profile information including country of residence and preferences. In addition, SayHi may collect and store information about your and others’ usage of and interaction with the Service, including video chat durations, text messages, usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views, network type and traffic to and from our websites.
+SayHi allows you to share text messages, photos, screenshots, videos and other communications in the SayHi application with other users, and if you choose to do so your text messages, photos, screenshots, videos and other communications will be stored on our servers.
+In addition, if you choose to share these items with other SayHi users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with.
+Sending and sharing text messages, photos, screenshots, videos or other communications in the SayHi application is your decision.
+By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). SayHi is not responsible for any use or misuse of information you share.
+SayHi may also collect and gather user contents (e.g., photos, screenshots, comments, and other materials) that you create on the Service. Your photo can be taken by other users on the SayHi, and If they use capturing function provided by the SayHi, those photos can be stored and used for SayHi and 3rd party’s service(eg, Facebook, etc.). You can change sharing option of 3rd party on the SayHi settings. If you do not agree with all the terms of this Privacy Policy, do not use the Service.
+We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and fixing the error.
+In addition to the information you provide us directly, we receive information about you from others, including:
+Other Users Other users may provide information about you as they use our services. For instance, we may collect information about you from other users if they contact us about you.
+Social Media You may be able to use your social media login (such as Facebook Login) to create and log into your SayHi! account. This saves you from having to remember yet another user name and password and allows you to share some information from your social media account with us.
+Information collected when you use our services
+When you use our services, we collect information about which features you’ve used, how you’ve used them and the devices you use to access our services. See below for more details:
+Usage Information We collect information about your activity on our services, for instance how you use them (e.g., date and time you logged in, features you’ve been using, searches, clicks and pages which have been shown to you, referring webpage address, advertising that you click on) and how you interact with other users (e.g., users you connect and interact with, time and date of your exchanges, number of messages you send and receive).
+Device information We collect information from and about the device(s) you use to access our services, including:
+hardware and software information such as IP address, device ID and type, device-specific and apps settings and characteristics, app crashes, advertising IDs (such as Google’s AAID and Apple's IDFA, both of which are randomly generated numbers that you can reset by going into your device’ settings), browser type, version and language, operating system, time zones, identifiers associated with cookies or other technologies that may uniquely identify your device or browser (e.g., IMEI/UDID and MAC address);
+information on your wireless and mobile network connection, like your service provider and signal strength;
+information on device sensors such as accelerometers, gyroscopes and compasses.
+How We Use Information
+The main reason we use your information is to deliver and improve our services. Additionally, we use your info to help keep you safe and to provide you with advertising that may be of interest to you. Read on for a more detailed explanation of the various reasons we use your information, together with practical examples.
+To administer your account and provide our services to you
+Create and manage your account
+Provide you with customer support and respond to your requests
+Complete your transactions
+Communicate with you about our services, including order management and billing
+To help you connect with other users
+Show users’ profiles to one another
+To ensure a consistent experience across your devices
+Link the various devices you use so that you can enjoy a consistent experience of our services on all of them. We do this by linking devices and browser data, such as when you log into your account on different devices or by using partial or full IP address, browser version and similar data about your devices to help identify and link them.
+To improve our services and develop new ones
+Administer focus groups and surveys
+Conduct research and analysis of users’ behavior to improve our services and content (for instance, we may decide to change the look and feel or even substantially modify a given feature based on users’ behavior)
+Develop new features and services (for example, we may decide to build a new interests-based feature further to requests received from users).
+To prevent, detect and fight fraud or other illegal or unauthorized activities
+Address ongoing or alleged misbehavior on and off-platform
+Perform data analysis to better understand and design countermeasures against these activities
+Retain data related to fraudulent activities to prevent against recurrences
+To ensure legal compliance
+Comply with legal requirements
+Assist law enforcement
+Enforce or exercise our rights, for example our Terms
+To process your information as described above, we rely on the following legal bases:
+Consent: From time to time, we may ask for your consent to use your information for certain specific reasons. You may withdraw your consent at any time by contacting us at support@unearby.com
+How To delete Information
+You may delete your personal data by delete your account with the corresponding functionality directly on the service.
+You may ask us to delete or remove your personal Data by contact us at support@unearby.com
+Sharing of your information
+We will not rent or sell your information to third parties without your consent, except as noted in this Policy.
+Parties with whom we may share your information:
+●
+We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that SayHi is part of, or that become part of that group ("Affiliates"). Affiliates may use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences). But these Affiliates will honor the choices you make about who can see your contents.
+●
+We also may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide the Service to you ("Service Providers"). Our Service Providers will be given access to your information as is reasonably necessary to provide the Service under reasonable confidentiality terms.
+●
+We may also share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of users our app receives. This information does not contain any personal or personally identifiable information, and is used to develop content and services that we hope you will find of interest.
+●
+We may remove parts of data that can identify you and share anonymized data with other parties. We may also combine your information with other information in a way that it is no longer associated with you and share that aggregated information.
+Parties with whom you may choose to share your User Content:
+●
+Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public. With this feature, SayHi can be protected from exhibitionism. Once you have shared User Content or made it public, that User Content may be re-shared by others.
+●
+If you remove information and contents(eg. Screenshots, etc.) that you created on the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users or third parties have copied or saved that information.(eg. Facebook, etc.)
+How we use information we collect
+We use or may disclose your personal information only as follows:
+●
+To verify your identity;
+●
+To connect you with others as enabled by the Service;
+●
+To share your Profile with others on the Service;
+●
+To allow your use of certain features of the Service that may be offered from time to time (such as Premium Services (see our Terms of Use), etc.);
+●
+To show you the names of persons you communicate with and to show your name to persons you communicate with on the Service;
+●
+To deliver to you any administrative notices, alerts and communications relevant to your use of the Service;
+●
+To provide you with relevant content that you requested, using information that you allow us to collect from you or that you provide to a social media provider with which your SayHi account is connected, such as information regarding your and your SayHi contacts' respective locations;
+●
+To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by SayHi (you can opt-out of such emails or SMSs by sending an email to support@unearby.com);
+●
+For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Service, detecting and protecting against error, fraud or other illegal activity;
+●
+When we have a good faith belief that the law, any legal process, law enforcement, national security or issue of public importance requires disclosure;
+●
+To protect and defend our rights or property (including to enforce our Terms of Use and other agreements); or
+●
+In connection with a corporate transaction involving SayHi, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, or other similar event.
+Your User Profile
+The information you enter into your user profile (your “Profile”) may be shared with your SayHi contacts. You control your Profile and you can access and modify your Profile from the SayHi application at any time.
+In addition, if you register with SayHi using your Facebook account (e.g. Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists and birthdays).
+Your Profile is available to other users of the Service who are connected to you on SayHi.
+In addition, unless you opt-out (which you may do at any time in the SayHi application), your Profile is discoverable by other SayHi users, including by way of example in listings of contacts that will include your proximity to other users. You may also “block out” any SayHi user in your contact list from discovering your Profile at any time.
+In addition, SayHi may pre-populate your Profile with certain information such as your name and Facebook profile picture if you or your friends have logged onto the Service using Facebook.
+Data Access and Removal
+You can always control what information you choose to share with us on the Service. To do so, you can change your settings in the Service or in your mobile device. Alternatively, you can remove the Service from your mobile device entirely.
+You can remove your data anytime you want. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers. We do not collect user's information from children under 18 years of age and we will never share user's information with any third party. We may send you rewarded info, friends info nearby by emails. If you do not want to receive emails, please click the "unsubcribe" at the bottom of emails. If you would like to communicate with us about this Privacy Policy or our collection and use of your information please contact us at support@unearby.com
+Any personally identifiable information that (i) you share in text messages, photos, videos or otherwise in or through the SayHi application with other users, or (ii) submit on a blog, bulletin board or chat room on our website or elsewhere, can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. SayHi is not responsible for any use or misuse of your information that might result from your disclosure of information.
+Service Providers
+In certain instances, Unearby inc. and SayHi may have contracts with third parties to provide products and/or services in connection with the Service.
+In those cases, SayHi may share your personal information with SayHi’s third-party service providers, but only in connection with providing the services to you.
+For example, SayHi shares your phone number or email with third party SMS and email providers to deliver the authentication SMS or email to you when you register with SayHi.
+We contractually require that these third parties use your information solely to deliver SMS or email to you and to use appropriate security measures to protect your information. In addition, certain SayHi servers are owned and hosted by third party service providers.
+This Privacy Policy does not apply to the practices of third party service providers.
+Outbound Links
+If you accessed a website, product or service provided by a third party, including through the Service or a SayHi website, such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not apply to any exchange of information between you and any third party.
+Opt-Out – Promotional Communications
+SayHi allows you to choose not to receive promotional email messages from SayHi and its service providers. You may opt-out by following instructions in the message sent by SayHi or its service providers on how to unsubscribe from that particular mailing.
+You may also opt-out by contacting us at support@unearby.com.
+Security
+Protecting user privacy and personal information is a top priority for Unearby inc and SayHi. We make substantial efforts to ensure the privacy of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those Unearby inc and SayHi employees, contractors, agents and third-party service providers who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Unearby inc and SayHi uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.
+In addition, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control against loss, misuse or alteration.
+Data Transfer
+Your information may be stored and processed in any country in which Unearby inc and SayHi maintains facilities, including outside of the South Korea. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Unearby inc and SayHi reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country.
+Age
+The Service is not directed to children under the age of 18 and we do not knowingly collect personally identifiable information from children under the age of 18 as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 18 as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of 18 as part of the Service.
+Notification of Changes
+We reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Unearby inc and SayHi web site, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy. We reserve the right to modify this policy from time to time, so please review it frequently.
+If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications.
+You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.
+Contact Information
+If you have any questions about this Privacy Policy, please contact us at support@unearby.com. Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
+Date
+This privacy policy was posted on October 10, 2013.
+Terms of Use
+Hello, welcome to Sayhi!. In order to create a safe chatting environment, you should read and agreed these terms and conditions in full because they apply every time you visit Sayhi!. Any violation of this term will result in permant ban.
+1. Age Limitation.
+If you are under the age of 18 then unfortunately you can’t use Sayhi! yet because it’s a dating place for adults only.
+2.Password.
+You are responsible for safeguarding the password that you use to access the Services and for any activities or actions under your password. Sayhi! cannot and will not be liable for any loss or damage arising from your failure to comply with the above.
+3.Content Prohibited.
+Contains nudity, excessive violence, or offensive subject matter or contains a link to an adult website.
+Constitutes or promotes information that you know is false or misleading or promotes illegal activities or conduct that is abusive, threatening, obscene, defamatory or libelous.
+Constitutes or promotes an illegal or unauthorized copy of another person's copyrighted work.
+Includes a photograph or video of another person that you have posted without that person's consent; or violates the privacy rights, publicity rights, copyrights, trademark rights, contract rights or any other rights of any person.
+Any other objectionable content.
+4.Content Posted.
+Sayhi! may reject, refuse to post or delete any Content for any or no reason, including Content that in the sole judgment of Sayhi! violates this Agreement or which may be offensive, illegal or violate the rights of any person or entity. Once content posted, you are solely responsible for the Content that you post on or through any of the Sayhi! Services, and any material or information that you transmit to other Members and for your interactions with other Users.
+5.Activity Prohibited.
+Criminal or tortious activity.
+Impersonating or attempting to impersonate another Member, person or entity.
+Using the account, username, or password of another Member at any time or disclosing your password to any third party or permitting any third party to access your account.
+6.Member Disputes.
+You are solely responsible for your interactions with other Sayhi! Members. Sayhi! reserves the right, but has no obligation, to become involved in any way with disputes between you and other Members.
+7.Consent to Use of Data.
+You agree that Sayhi! may collect and use technical data and related information, including but not limited to technical information about Your device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to You (if any) related to the Licensed Application. Sayhi! may use this information, as long as it is in a form that does not personally identify You, to improve its products or to provide services or technologies to You.
+8.Services: Third Party Materials
+Sayhi! may enable access to Sayhi!’s and third party services and web sites (collectively and individually, "Services"). Use of the Services may require Internet access and that You accept additional terms of service.
+Certain Services may display, include or make available content, data, information, applications or materials from third parties (“Third Party Materials”) or provide links to certain third party web sites. By using the Services, You acknowledge and agree that the Sayhi! is not responsible for examining or evaluating the content, accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect of such Third Party Materials or web sites. The Sayhi! does not warrant or endorse and does not assume and will not have any liability or responsibility to You or any other person for any third-party Services, Third Party Materials or web sites, or for any other materials, products, or services of third parties. Third Party Materials and links to other web sites are provided solely as a convenience to You. Financial information displayed by any Services is for general informational purposes only and is not intended to be relied upon as investment advice. Before executing any securities transaction based upon information obtained through the Services, You should consult with a financial professional. Location data provided by any Services is for basic navigational purposes only and is not intended to be relied upon in situations where precise location information is needed or where erroneous, inaccurate or incomplete location data may lead to death, personal injury, property or environmental damage. Neither the Sayhi!, nor any of its content providers, guarantees the availability, accuracy, completeness, reliability, or timeliness of stock information or location data displayed by any Services.
+You agree that any Services contain proprietary content, information and material that is protected by applicable intellectual property and other laws, including but not limited to copyright, and that You will not use such proprietary content, information or materials in any way whatsoever except for permitted use of the Services. No portion of the Services may be reproduced in any form or by any means. You agree not to modify, rent, lease, loan, sell, distribute, or create derivative works based on the Services, in any manner, and You shall not exploit the Services in any unauthorized way whatsoever, including but not limited to, by trespass or burdening network capacity. You further agree not to use the Services in any manner to harass, abuse, stalk, threaten, defame or otherwise infringe or violate the rights of any other party, and that the Sayhi! is not in any way responsible for any such use by You, nor for any harassing, threatening, defamatory, offensive or illegal messages or transmissions that You may receive as a result of using any of the Services.
+You agree that any Services contain proprietary content, information and material that is protected by applicable intellectual property and other laws, including but not limited to copyright, and that You will not use such proprietary content, information or materials in any way whatsoever except for permitted use of the Services. No portion of the Services may be reproduced in any form or by any means. You agree not to modify, rent, lease, loan, sell, distribute, or create derivative works based on the Services, in any manner, and You shall not exploit the Services in any unauthorized way whatsoever, including but not limited to, by trespass or burdening network capacity. You further agree not to use the Services in any manner to harass, abuse, stalk, threaten, defame or otherwise infringe or violate the rights of any other party, and that the Sayhi! is not in any way responsible for any such use by You, nor for any harassing, threatening, defamatory, offensive or illegal messages or transmissions that You may receive as a result of using any of the Services.
+In addition, third party Services and Third Party Materials that may be accessed from, displayed on or linked to from the iPhone or iPod touch are not available in all languages or in all countries. The Sayhi! makes no representation that such Services and Materials are appropriate or available for use in any particular location. To the extent You choose to access such Services or Materials, You do so at Your own initiative and are responsible for compliance with any applicable laws, including but not limited to applicable local laws. The Sayhi!, and its licensors, reserve the right to change, suspend, remove, or disable access to any Services at any time without notice. In no event will the Sayhi! be liable for the removal of or disabling of access to any such Services. The Sayhi! may also impose limits on the use of or access to certain Services, in any case and without notice or liability.
+9.Limitation on Liability.
+IN NO EVENT SHALL Sayhi! BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING, WITHOUT LIMITATION, LOST PROFIT DAMAGES ARISING FROM YOUR USE OF THE Sayhi! SERVICES, EVEN IF Sayhi! HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, Sayhi!'S LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO MEET FOR THE Sayhi! SERVICES DURING THE TERM OF MEMBERSHIP.

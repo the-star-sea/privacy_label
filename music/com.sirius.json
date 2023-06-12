@@ -1,0 +1,149 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": true,
+      "purpose": "Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "http://www.siriusxm.com/pdf/siriusxm_privacypolicy_eng.pdf"
+}

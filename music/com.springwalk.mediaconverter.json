@@ -1,0 +1,47 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Precise location",
+      "optional": true,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "http://www.springwalk.com/privacy.html"
+}

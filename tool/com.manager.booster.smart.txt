@@ -1,0 +1,65 @@
+Privacy Policy
+The protection of your data is very important to us, and we understand our responsibilities to handle your data with care, to keep it secure and to comply with legal requirements.
+The purpose of this privacy policy is to provide a clear explanation of when, why and how we collect and use personal data ("Policy").
+if you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The personal information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+General
+1. This privacy policy ("Privacy Policy") applies to all products/software, services, and websites of the File Manager Team. (File Manager Team, "our", "we" or "us") (collectively, the "Services"). You ("you" or "your") consent to this Privacy Policy for collecting, using, disclosing, and handling of your information (personal and device information) in connection with your access to, and use of, the Services.
+2. File Manager provides free services for users. To pay for the "Free" Service, personalized advertisements are placed before you. Your information is used to personalize the advertisements.
+3. The Services are not intended for use by anyone who is not able to enter into a legally binding contract. In any event, if you are under 13 years old or if you are not able to legally form binding contracts, you may not use any of the Services or submit information about yourself to Us. If you have objections to this Privacy Policy, you should not access, sign up for, or use any of the Services.
+4. File Manager reserves the right to modify these policies at any time. We invite you to periodically consult this section for possible updates and changes. Notification of any major changes may be sent to you by email or a system message to your account.
+Acceptance
+Please read the policy carefully before you use or access our Services. By accepting this Privacy Policy, you agree with our collection, storage, use, and disclosure of your information as described in the following sections. Please note that if you disagree with anything in this Privacy Policy, you must not use the Service.
+What Information do We Collect?
+5. Personal Information: When you sign up for a user account for any of the Services, We collect personal information, such as your phone number.
+6. Device Information: When you access our website or use our software, the information we collect includes IP Addresses, location data, Device ID, Advertiser ID, browser type and settings, device type and settings, and operating system (such as iOS and Android).
+7. Information collected by Third-Party Analytical Tools: Our app integrates SDKs from several analytical service providers for app optimization purposes. These third-party SDKs may also collect your information such as GAID (Google Advertising ID on Android devices) or IDFA (Identifier for Advertising on iOS devices), region (defined as the location where a given language is used), location information, and IP address. This Policy does not govern our third-party analytical tools. You can find their privacy policy on their websites. The partners we select to work with include but are not limited to Apple Annie (Apple Annie Inc.) and Firebase (analytical platform of Google LLC), etc. The information they provide to us is aggregated analytical data.
+How and Why We use this information?
+8. We use your information to communicate with you, to ensure our services are working as intended, to make improvements to our services, to develop our business, and to protect against fraud and spam.
+9. We provide the information we collect to third parties, such as advertisers, to provide you with commercial advertisements. The provision of such information generates revenue to pay in part or whole for the Services. We do not provide personal information to third parties except for billing purposes.
+10. We may use different technologies to process your information for these purposes. We may use automated systems to analyze your information to provide you with personalized services and personalized advertisements. And we may analyze your information to help us detect abuse such as spam, malware, and illegal content.
+Security
+We implement industry-standard security measures intended to protect against the loss, misuse, and alteration of the information under our control. Please be aware that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Service and you do so at your own risk.
+Transfers of Your Information
+If you choose to use the Service or provide your information to us, your information may be transferred to, processed, and maintained on servers or databases located outside of the country or jurisdiction where you are located, including the United States. Such countries may have laws that are less protective than the country in which you reside. If you do not want your information transferred to or processed or maintained outside of the country or jurisdiction where you are located, you should not use the Site or Service.
+Disclosure of Your Information
+If you violate laws and regulations (such as sending harassment messages), we will legally disclose your personal information.
+How is your information stored?
+Personal data shall be processed and stored as long as required for the purpose they have been collected for. We have strict policies to control the access and usage of such data. If you would like to have your information deleted, please contact us.
+How is your information shared?
+We never share your information with third parties. All the information we collect is only to optimize our product and is safely stored in our server in an encrypted format. The information will not be disclosed to any third parties.
+What important permissions do we request?
+Here we explain all important permissions that our app requests. These permissions are necessary for our app to perform certain features.
+Access information about networks
+This permission allows Smart Clean to check the user's current network status and perform the corresponding advertising strategy and this permission is required for Data Thieves feature to help users master the use of background data usage.
+Collect battery statistics
+This permission is used to get the battery usage data, to provide power consumption ranking in the Battery Saver feature. on your private apps.
+The clean cache of applications
+This permission is required to clean cache of installed applications on your device in the Junk Clean feature.
+Collect component usage statistics
+This permission is required to identify the applications that need to be locked for the File Manager function and help users to manage apps usage
+Find out the space used by any package
+This permission is used to find out the space used by any package to provide a Junk Clean feature.
+View the running apps
+This permission is used to view the running apps to clean up memory usage.
+Kill background processes
+This permission is used to stop other apps and boost your phone.
+Broadcast after the system finishes booting
+This permission is used to help Smart Clean run automatically when the phone is restarted.
+Create windows shown on top of all other apps
+This permission is used to make sure the super battery saver function can be used normally and show the process of it.
+This permission is used to make sure the File Manager function can be used normally.
+The vibrator
+This permission allows File Manager to provide vibration feedback after wrong password input.
+Keep processor from sleeping or screen from dimming
+This permission is allowed to avoid screen dimming from the process of junk scan.
+Mounting and unmounting file systems
+These permissions are used to detect and delete junk files on your devices and also used to read and store photographs if you use Photo Vault feature.
+Accessibility
+This permission is used to close apps chosen by users which can speed up users' devices and also we need this permission to provide a power-saving mode for users to prolong battery life.
+Precise location (GPS and network-based) and approximate location (network-based)
+These permissions are required to provide more accurate, localized services based on country regions, which serves the goal to improve the user experience.
+Get, authenticate and manage accounts on the device
+Read and write sync settings
+These permissions are used to help users retrieve their passwords through your accounts on their devices. We don't have any access to your password.
+Contact us
+If you have any questions about the privacy aspects of our products or services do not hesitate to contact me at support@filemanagerapp.net

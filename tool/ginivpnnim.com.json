@@ -1,0 +1,28 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://sites.google.com/view/gini-vpnv-free/home"
+}

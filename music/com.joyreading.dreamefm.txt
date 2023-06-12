@@ -1,0 +1,352 @@
+Dreame FM
+About
+Dreame FM Privacy Policy Published on: March 25th, 2022
+We are committed to protecting and respecting your privacy. This
+Privacy Policy (“Policy”) applies to the our apps,
+websites, and related services (collectively, “Dreame FM”
+or “Services”), and explains how we collect, use,
+disclose and keep information that can identify you (“Personal Information”) when you create an account and use the Services.
+The Services are provided and controlled by Globook Pte. Ltd., a
+company operating under the laws of Singapore, located at 9
+Raffles Place #34-01, Republic Plaza, Singapore (048619)
+(collectively, “Globook”, “we”, “us” , or
+“our”). If you have any questions or concerns regarding
+this Policy or the use of your Personal Information, You may
+contact us via email at service@dreamefm.com.
+Please note that this Policy only applies to data collected or
+received by us through your use of Dreame FM. It does not apply
+to, and we are not responsible for, the actions of third party
+individuals or companies, the content of their sites, their use of
+data you provide to them, or any products or services they may
+offer. Any link to those sites does not constitute our sponsorship
+of, endorsement of, or affiliation with, those people or
+companies.
+By creating an account with us, using the Services, or
+submitting any Personal Information via the Services, you are
+consenting to the collection, use and disclosure of your
+Personal Information as described below in this Privacy
+Policy. IF YOU DO NOT CONSENT TO THE USE OF YOUR PERSONAL
+INFORMATION IN THESE WAYS, PLEASE STOP USING THE SERVICES.
+This is important; we hope you will take time to read it
+carefully.
+1.Age Restrictions The Services is not intended for a user under age of 16. We do
+not knowingly collect or solicit Personal Information from a
+user under the age of 16, nor do we knowingly allow a user under
+age of 16 to use our Services. If you are under 16, please do
+not send any information about yourself to us, including your
+name, address, telephone number, or email address.
+If you are between the ages of 16 and the age of majority where
+you reside (each a “Teen”), you must review the Policy
+with your parent or legal guardian to confirm that you and your
+parent or legal guardian understand and agree to the Policy. If
+you or any parent or legal guardian permit a Teen to use the
+Services, you hereby agree to the Policy on behalf of both
+yourself and the Teen. You further agree that you are solely
+responsible for any and all use of the Services by your Teen
+regardless of whether such use was expressly authorized by
+you. If a parent, guardian or anyone becomes aware that his or her
+child has provided us with Personal Information without their
+consent, or anyone believes that we have Personal Information
+about or collected from a child, he or she should contact us
+at service@dreamefm.com. If we discover that a user under 16 years of age has created an
+account, or that a user or visitor under 16 years of age has
+posted Personally Information or other content to the Services,
+we will terminate the account and remove the information or
+other content as soon as commercially practicable. 2.Personal Information Collected The Personal Information we collected depends on how you
+interact with the Services. We collect information about you
+from different sources and in various ways when you use our
+products, including information you provide directly,
+third-party data sources, information collected automatically,
+and data we infer or generate from other data. More information
+about the categories and sources of information is provided
+below. Registration information
+We will collect certain information from you during the
+registration/ sign-up process for the Services. This may include
+information like your username, nickname, email address,
+password and profile photo. Social networks If you choose to register to use the Services with a social
+networking credential, such as with a third-party account (e.g.
+Facebook, Google, Apple), we will ask permission to access basic
+information from that account, such as your name, email address
+and public profile. We will likewise share certain information
+with the relevant social network such as your app ID, access
+token and the referring URL. You can stop sharing that
+information with us at any time by removing our access to that
+account. Payment information We may collect your payment information if you are a paying
+customer. This information is required to complete a commercial
+transaction on Dreame FM. We use this information to enable and
+fulfill your transaction. If you choose to use any third-party’s
+service to finalize and pay for your order, you will provide
+your credit card number directly to the third-party. The privacy
+policy of the third-party will apply to the information you
+provide on its website. Sweepstakes, contests and surveys If you participate in a contest, special programs or survey, we
+may request certain Personal Information from you. The purpose
+of the survey and the identity of the service provider providing
+the survey (if we engaged a service provider), will be notified
+to you prior to you completing the survey. Contact information and other information provided
+voluntarily If you provide feedback or contact us, or otherwise provide
+information voluntarily to us, our employees, or our
+contractors, you contact information, any information you
+voluntarily provide and any associated data will be collected by
+us as well. Identifiers and device information When you use any of our Services, we will automatically collect
+certain information about you, including your browser type (e.g.
+Chrome, Safari) and language, time zone setting, locale settings
+(country and preferred language), the date and time of your
+query, cookie data, device identifiers, including iOS Identifier
+for Advertisers (IDFA), iOS Identifier for Vendors (IDFV),
+Android Advertising ID, and information about your device,
+including the type and model, manufacturer, operating system
+(e.g. iOS or Android), carrier name, screen size, orientation,
+audio, battery, device memory usage, settings, and boot
+time. We also collect information about the interaction of your apps,
+browsers, and devices with Dreame FM, including your Internet
+Protocol address, crash reports, system activity and the date,
+time and referrer URL of your request. Usage data We automatically log your activity on Dreame FM, including data
+relating to different app events (e.g. app activation, clicks,
+purchases, downloads, plays, reads, book ratings, usage
+duration, bookmarks, bookshelf and thoughts management, sharing
+and searches, including searches for books or keywords),
+purchase history, top-up records, bonus information, book
+feedback, analysis and improvement settings, and other details
+about your use of and actions on Dreame FM. Advertisers and advertising networks We may collect information about you from third party
+advertisers and advertising networks. For more information on
+how you can control such information from third party
+advertisers and advertising networks, please refer to Section 4
+and Section 7.
+Non-identifiable information Non-identifiable information refers to data that cannot be used
+to identify an individual. Examples of non-identifiable
+information include statistics on website visits, application
+downloads, and product sales volume. we will collect statistics
+information to understand how users use our Services. By doing
+so, we can improve our Services to better meet your
+requirements. We keep your Personal Information and non-identifiable
+information separate, and use each independently. Circumstances
+may arise where we collect, use, disclose, and transfer
+non-identifiable information for other purposes at our own
+discretion. For example, we may share the non-identifiable
+information with advertisers or publicly to show trends about
+the general use of our Services. 3. Use of Collected Personal Information We use your information to provide the Platform to you and to
+improve and administer it. We generally use each of the categories of information we
+collect for the following purposes:
+to improve our services, which may include Personal
+Information collected to improve our offerings, and establish
+a service environment that users feel safe and easy to use our
+Services, such as auditing or data analysis, or for
+troubleshooting;
+to process transactions, we must collect data such as your
+name, purchase, and payment information;
+to respond to communications, reach out to you about your
+transactions or account, market our Services, provide other
+relevant information, or request information or feedback. From
+time to time, we may use your Personal Information to send
+important notices, such as communications about purchases and
+changes to our terms, conditions, and policies. Because this
+information is important to your interaction with us, you may
+not opt out of receiving these important notices;
+To send you notifications, emails, SMS messages, instant
+messages and inbox message to inform you about the updates of
+our Services, Terms of Service, Privacy Policy as well as any
+other operating rules, policies and procedures, new audio
+books, campaigns, promotions, special offers and any other
+direct marketing information about our products and Services
+based on your prior consent in Dreame FM. However, you may
+withdraw your consent at any time by contacting us through
+service@dreamefm.com.
+to protect individuals, employees, and us and for loss
+prevention and to prevent fraud, including to protect
+individuals, employees, and us for the benefit of all our
+users, and prescreening or scanning uploaded content for
+potentially illegal content, including child sexual
+exploitation material;
+if you choose to personalize your services or communications
+where such options are available, we will use information that
+we collect so that we can offer you those personalized
+services or communications;
+to comply with applicable law, for example, to satisfy tax or
+reporting obligations, or to comply with a lawful governmental
+request;
+to combine all the information we collect or receive about you
+for any of the foregoing purposes;
+for any other purposes disclosed to you at the time we collect
+your information or pursuant to your consent.
+4. Sharing of Personal Information In principle, we do not provide Personal Information to third
+parties without your prior consent. However, We may share your
+Personal Information with third-party service providers, but
+only where it’s necessary to provide any of the Services to you
+(e.g., email providers, server providers, etc.). When we share
+data with third-party services that support our delivery of the
+Services, we require that they protect your Personal Information
+to the same standards we do. We do not and will not release, rent or sell your Personal
+Information, except in the following very limited
+situations: With your consent
+After obtaining your consent, we will share the information that
+you have authorized with specified third parties or categories
+of third parties. Service provider We engage other companies and individuals to provide services
+to us for any of the purposes described in this Policy, such as
+cloud storage providers, payment card processing and
+verification. We require that these service providers provide
+the same or equal protection of user data as stated in this
+Policy, and prohibit them from retaining, using or disclosing
+your information except as necessary to provide services to us.
+Third party plug-ins With third party applications and platforms, such as Facebook,
+Google, that give you the option to post information about your
+activities on our Services to share with others within your
+network. This Policy does not apply to your use of any such
+third party applications and services, and we are not
+responsible for how those third parties collect, use and
+disclose your information. We encourage you to review the
+privacy policies of those third parties before connecting to or
+using their applications or services and to learn more about
+their information and privacy practices. Other users Any information that you include in your publicly-visible
+Globook profile, which may include your profile ID, nickname,
+photo and your personal introduction will be shared on our
+Services to all other users. If you participate in social
+features, such as chat, picture and other electronic information
+you disclose may become publicly available. It may also be read,
+copied, collected, or used by other users.
+Government, public, regulatory, judicial and law enforcement
+bodies or authorities We may release your information as required by law, such as to
+comply with a court order, or when we believe, in good faith,
+that release is appropriate to comply with the law and
+reasonably necessary to, including (a) comply with a legal
+obligation, process or request (including tax and related
+reporting requirements); (b) enforce our Terms of Service,
+Policy and other agreements, policies, and standards, including
+investigation of any potential violation thereof; (c) detect,
+prevent or otherwise address security, fraud or technical
+issues; or (d) protect the rights, property or safety of us, our
+users, a third party or the public as required or permitted by
+law. This includes exchanging information with other companies
+and organizations for the purposes of fraud protection and
+credit risk reduction. Disclosures in the event of merger, sale or asset
+transfer We may share your information in connection with any merger,
+sale of our assets, or a financing or acquisition of all or a
+portion of our business to another company. Under these
+circumstances, we will always require the third parties or
+related companies to comply with this Policy. Affiliates We may share your information with any members, subsidiaries,
+or affiliates of us, to provide our Services including improving
+and optimizing our Services, preventing illegal use and
+supporting users.
+Advertising partners We may allow third party advertisers and advertising networks
+to set technologies and other tracking tools to collect your
+information described in Section 7 to enable the technical
+delivery of personalized advertisements to your device. If you
+do not want to receive advertisements targeted to your interests
+from us, you can choose to disable personalized advertisements
+by going to Me > Settings > Privacy Settings > Personalized Ads,
+and disable personalize advertisements. iOS and Android
+operating systems also provide options to limit tracking and/or
+reset the advertising IDs (For more information about how to
+change these settings go to:
+https://support.google.com/ads/answer/2662922?hl=en,
+https://support.apple.com/en-us/HT202074). However, turning off
+personalized advertisement function will limit our ability to
+deliver relevant advertisement to you but may not necessarily
+reduce the number of advertisements you receive.
+5.Where do we store your Personal Information?
+If you choose to use our Service or provide your information to
+us, your information may be transferred to, processed and
+maintained on servers or databases located outside of the
+country or jurisdiction where your are located. It may also be
+processed by staff operating outside your country who work for
+us, for one of our suppliers or one of our business partners. By
+submitting your information, you agree to this transfer, storing
+or processing. We will take all steps reasonably necessary to
+ensure that your information is treated securely and in
+accordance with this Policy and applicable law.
+6.How do we protect your Personal Information?
+We are continuously implementing and updating physical,
+organizational, contractual and technological security measures,
+such as encryption, to protect your Personal Information from
+loss, theft, unauthorized access, disclosure, copying, use or
+modification. The only employees who are granted access to your
+Personal Information are those with a business “need-to-know” or
+whose duties reasonably require such information. Although we make good faith efforts to store the information
+collected on the Services in a secure operation environment,
+however, we cannot guarantee the absolute security of that
+information during its transmission or its storage on our
+system. We do not warrant or represent that your information
+will be protected against loss, misuse or alteration by third
+parties, since no method of transmission over the internet, or
+method of electronic storage is 100% secure. 7.Your Rights You have the right to rectify and correct your Personal
+Information by logging into your account at any time. With
+respect to correction requests, where we agree that the Personal
+Information is inaccurate or incomplete, we will try to tell any
+third party to whom we have disclosed the relevant Personal
+Information so that they can rectify the Personal Information as
+well. You also have the right to access Personal Information
+we hold about you, how we use it, and who we share it
+with. You also benefit from the
+rights to request the restriction of processing, and the portability of your Personal Information.
+However, we may process your Personal Information if there are
+other valid legal grounds for us to do so (e.g., for the defence
+of legal claims or for other protections). You have the
+right to withdraw consent at any time, and you may
+object to our use of your Personal Information that we
+use on the basis of our legitimate interests (e.g., when we use
+your Personal Information to ensure account security). We will retain your information for as long as your account is
+active or as needed to provide you with our Services. You can
+request deletion of your Personal Information at any
+time. We will evaluate such requests on a case by case basis.
+However, We may keep some of your information for as long as
+reasonably necessary for our legitimate business interests,
+including fraud detection and prevention and to comply with our
+legal obligations including tax, legal reporting, and auditing
+obligations. Sometimes your request will only be satisfied by
+closing your account, and you should understand that upon
+deletion of your account, you will lose the right to access or
+use all or part of Dreame FM. However, we may process your Personal Information if there are
+other valid legal grounds for us to do so (e.g., for the defence
+of legal claims or for other protections). You have the
+right to withdraw consent at any time. You can exercise these rights with us by sending a request to
+the following e-mail address service@dreamefm.com or by mail
+writing to the following address 6 RAFFLES QUAY #14-02 SINGAPORE
+048580.
+8.Advertisement; Third Party Content and Services
+We allow other companies, called third party advertisers and
+advertising networks, to serve advertisements within our
+Services to deliver interest-based advertising to you about
+third party products and services. These third party advertisers
+and advertising networks use technology to send the
+advertisements and links that appear on our Services directly to
+you. When you use our Services, some third party tools (SDKs)
+integrated within our Services may collect and use certain
+information collected from your device for the purpose of
+advertisement display and optimization. Such information
+includes device manufacturer, model, and operating system,
+screen size, orientation, audio, battery, device memory usage,
+carrier name, IDFV, IDFA or Android Advertising ID, time zone
+setting, locale settings (country and preferred language) and IP
+address. They may also use other technologies (such as cookies,
+JavaScript, or Web Beacons) to measure their advertisements’
+effectiveness and personalize the advertising content you see.
+You can exercise choices over how we use your Personal
+Information and update your preferences at any time as described
+in Section 4. You should consult these third party advertisers and
+advertising networks’ respective privacy policies for more
+information on their practices and instructions on how to
+opt-out of certain practices. Our Privacy Policy does not apply
+to, and we cannot control the activities of, such third party
+advertisers, advertising networks or websites. Any data obtained
+by third party advertisers and advertising networks subsequently
+shared with us is maintained and dealt with by us under this
+Privacy Policy. 9.Changes Our Policy may change from time to time. If they do, we’ll let
+you know about any material changes, either by notifying you on
+the Site, app or by sending you an email. We will not reduce
+your rights under any updates to the Policy without your
+explicit consent. Please note that your continued use of the Services after any
+change means that you agree with, and consent to be bound by,
+the new Privacy Policy. If you disagree with any changes in
+the Privacy Policy and do not wish to be subject to the
+revised Privacy Policy, you will need to close your account
+and/or stop using the Services. 10.Contact In the event that you wish to make a complaint about how we
+process your Personal Information, please contact us in the
+first instance at service@dreamefm.com, and we will endeavor to
+deal with your request as soon as possible. This is without
+prejudice to your right to launch a claim with your data
+protection authority or follow the dispute resolution process
+provided in the Privacy Policy. 11.Language This Privacy Policy may be prepared in multiple languages. In
+the event of any inconsistency or different interpretation among
+any language version, the English language shall always prevail.
+All other language versions shall be deemed to be automatically
+amended to conform with and to make the relevant text consistent
+with the English text.

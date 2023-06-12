@@ -1,0 +1,446 @@
+Back
+TruffleLive App. Privacy Policy
+Last revised: June 2023
+INTRODUCTION
+TruffleLive App., including its affiliates (collectively, the
+"Company", "we", "our" or
+"us"), are
+deeply committed to safeguarding the privacy expectations of its users (“User(s)”,
+“you” or “your”). Accordingly, we have put in place this privacy policy ("Policy"), which outlines our data protection
+practices, including how we collect, use, disclose and protect your personal information, as well as your rights with respect
+to your personal
+information.
+We encourage you to read the Policy carefully and use
+it to make informed decisions, as your access to and use of our service, whether by visiting our
+website, mobile apps, other online properties ( together the "Websites"),
+or by creating an account through our service (collectively "Service"),
+signifies that you have read and understand all the terms detailed herein and
+you hereby agree to this Policy and to the collection, use, retention and
+disclosure of your personal information in accordance with these terms. If you
+do not agree to the terms of this Policy, please do not use our
+Services. You are not legally required to provide us with any personal
+information, but without it, we will not be able to provide you with the full
+range or with the best experience of using our Services.
+Personal
+information is defined as any information that identifies an individual or could
+reasonably identify an individual with reasonable effort, including without
+limitation: your name, surname, date of birth, residing address, IP address,
+email address or telephone number, ID documentation, financial documents as
+utility bill or bank statements as well as other non-public information about
+you that is associated with or linked to any foregoing, hereinafter referred to
+as the "Personal Information". Processing activities include,
+among other things, the collection, use, retention and disclosure of such data.
+Your
+Personal Information will be processed by us (including any of our agents
+and/or employees), and (where appropriate) any other company in our company
+group and/or our partners and subcontractors, in accordance with this Policy.
+If you have any questions regarding this Policy or the
+way we use your Personal Information, please refer to our table of contents and
+to the section 12. "HOW TO CONTACT US?" below. The Company is the
+controller of the Personal Information collected, and is responsible for the
+processing of your Personal Information.
+In this
+Policy, you can learn about:
+1.
+WHAT INFORMATION WE
+COLLECT?
+2.
+MINORS
+3.
+PURPOSES AND CONDITIONS FOR
+PROCESSING PERSONAL INFORMATION
+4.
+MARKETING
+5.
+WITH WHOM WE SHARE
+INFORMATION?
+6.
+INTERNATIONAL TRANSFER OF INFORMATION
+7.
+THIRD PARTY TRACKING
+TECHNOLOGIES
+8.
+RETENTION OF PERSONAL
+INFORMATION
+9.
+YOUR RIGHTS
+10.
+CHANGES TO THE PRIVACY
+POLICY
+11.
+LANGUAGE VERSION
+12.
+HOW TO CONTACT US?
+1.  WHAT INFORMATION WE COLLECT?
+We collect Personal Information from our Users and visitors of our Service, which consists
+of the following:
+·
+Registration
+Information: When you open an account and register
+to use our Service, you will be asked to
+provide us with certain details about yourself, such
+as: your email address, username, mobile phone number, contact details or
+similar identifier. Please note that when you wish to update your account
+profile, we also collect Personal Information from you.
+·
+Identification
+documentation: If you intend to receive revenues
+from the Company (subject to our policies), you will be asked to provide a copy
+of your governmental-issued ID. We collect and store uploaded documents, in order to identify
+customers, to process your requests and/or to comply with effective laws and
+regulations. These documents are also used for the purpose of prevention and
+detection of fraud, prevention of money-laundering and terrorist funding.
+·
+Images and
+videos: When you
+access the service and make uploads in the app we also collect images and
+videos information from your device.
+Voluntary information: We also collect information which you provide us
+voluntarily in
+order to personalize your account or for a specific function, which you
+voluntarily provide to us at
+your discretion for a specific function. In addition, we collect your communication when you respond
+to communications from us, provide us with feedback, communicate with us
+via email or share additional information about yourself through your use
+of the Service.
+Device information: We collect specific types of connection details and
+information with regard to your device, software or hardware that could
+identify you, such as: device’s unique identifiers (e.g. UDID, IMEI, MAC
+address), browser fingerprinting, IP address, blockchain address, wallet
+type, and geo-location data.
+Information we collect from third parties: We
+sometimes collect Personal
+Information from third party service providers, such as information which
+is gathered in order to verify your identity and prevent fraudulent or
+illegal activity.
+Log-in history and technical information: To enhance the functionality of the Service and
+to provide you with a better user experience, we collect technical
+information transmitted by your device, including certain software and hardware
+information (e.g. the type of browser and operating system your device
+uses, language preference, access time and the domain name of the website
+from which you linked to the Service; etc.).
+Analytics information: We collect information about your use of the Service,
+such as applications' usage, log files, user activity (e.g. pages viewed,
+user's movements, time spent, online browsing, clicks, actions, etc.),
+time stamps, alerts, etc. This information is collected for amongst other
+things troubleshooting errors and bugs as well as for research and
+analytics purposes about your use of the Service.
+·
+Google
+Advertising ID: The
+Google Advertising ID is an anonymous identifier, provided by Google Play
+services. If your device has an Advertising ID, we will collect and use it for
+advertising and user analytics purposes. By downloading or using our Service
+you explicitly agree that we associate your Advertising ID with your applicable
+persistent device identifier. This will facilitate our ability to improve your
+personalized experience. Further, we use other persistent identifiers for
+non-advertising purposes. If your device does not have Advertising ID, we will
+use other identifiers.
+You acknowledge and agree that any
+personal information that you make available via the Service including, but not
+limited to, your username, your name, email address, geo-location data and the
+content you post (including your User Submission) is available to the public.
+You are responsible for protecting and enforcing your rights in and to your
+User Submission.
+2. MINORS
+The Service are not designed or directed to persons
+under the age of 18 or persons under the age of legal consent with respect to
+the use of the Service of any jurisdiction, whichever is higher (“Legally of Age”).
+We do not   collect Personal Information of a minor.
+If you are not Legally of Age, you are prohibited to download or use the Service nor
+provide any Personal Information to us.
+We reserve the right to access and verify any Personal
+Information collected from you. In the event that we become aware that a user
+who is not Legally of Age has shared any information, we will discard such
+information.
+3. PURPOSES AND CONDITIONS FOR
+PROCESSING PERSONAL INFORMATION
+This section outlines the underlying purposes and legal bases for the processing of your Personal Information:
+Purpose
+Legal basis
+Provision
+of our Service; support and customer relations. We use your Personal Information, such as your
+username and email address for customer services purposes as well as to
+present our Websites and its content to you. This includes, for example,
+managing and updating your account, providing and operating the Service,
+keeping you informed about our last updates or responding to any of your
+inquiries, as well as your request to exercise your User rights.
+The legal
+bases for processing this data are the performance of our contractual
+obligations towards you for example as described under this Policy and/or
+Terms of Use (Art. 6.1(b) GDPR); your consent (for example, when you agree to
+provide Personal Information by accepting our Cookie Notice, Policy and Terms
+of Use) (Art. 6.1(a) GDPR); compliance with our legal obligations (Art.
+6.1(c) GDPR); and our legitimate interests (Art. 6.1(f) GDPR). Our legitimate
+interests in this case are enforcing our policies, protection against fraud
+and misuse of our Service.
+Improving
+our Service. We
+collect and analyze information about you and your usage of our Service to
+improve the usability and effectiveness of our Service based on User's common
+preferences and uses.
+The legal
+bases for processing this data are our legitimate interests (Art. 6.1(f)
+GDPR), in this case – providing and improving our Service.
+Marketing,
+advertising and analytics. We use your
+Personal Information in order to provide you with personalized
+advertisements, including behavioral advertising when you visit our Service,
+to market our Service and to gather aggregate usage information for
+analytics, statistical and research purposes, including notification of
+promotional offers.
+The legal
+basis for processing this data are your consent (when required) and our
+legitimate interests (Art. 6.1(a), 6.1(f) GDPR). Our legitimate interests in
+this case are providing you with tailored services, content and advertisements
+that better fit your interests as well as to promote our Service.
+Dispute
+resolution and protection of our legal claims. We collect your Personal
+Information in order to investigate violation of our policies, enable us to
+resolve disputes in connection with your use of the Service and to establish
+and defend our legal claims.
+The legal
+basis for processing this data is our legitimate interests (Art. 6.1(f)
+GDPR). Our legitimate interests in this case are to establish and defend our
+legal claims.
+Payments. We collect from our third-party
+payment processors certain information about your payment instruments for the
+purpose of connecting your payment instrument to your account on our
+Services.
+The legal
+bases for processing this
+data are the performance of our contractual obligations (Art. 6.1(b) GDPR); the protection of our legitimate
+interests (Art. 6.1(f)
+GDPR), in this case
+enforcing our policies and preventing misuse of our Services; and compliance
+with legal obligations to which we are subject (Art. 6.1(c) GDPR).
+Corporate transactions. We will share your Personal
+Information with a potential purchasers, successors or investors in the
+Company or in the event of a corporate transaction (e.g. sale of a
+substantial part of our business, merger, reorganization, bankruptcy,
+consolidation or asset sale of an asset or transfer in the operation thereof)
+in relation to the Company.
+The legal
+basis for processing this data is our legitimate interests (Art. 6.1(f)
+GDPR).
+Prevention of fraud or violation of
+our policies. We
+process your Personal Information to detect and prevent fraudulent and
+illegal activity or any other type of activity that jeopardizes or negatively
+affect the integrity of the Service, including by identifying risks
+associated with your activity on our Service. We also investigate any
+violations of our policies and enforce them.
+The legal
+basis for processing this data is our legitimate interests (Art. 6.1(f)
+GDPR). Our legitimate interests in this case are to protect our Company and
+other Users against fraud.
+Compliance with applicable
+laws. We process your
+Personal
+Information to comply with our various legal obligations such as adult
+content legislation (where applicable), anti-money laundering, identity verification
+(e.g., suspicion of minor using our Service), prevention of fraud, complying
+with data subject rights etc.
+The legal
+basis for processing this data is to comply with our various legal
+obligations (Art. 6.1(c) GDPR) and our legitimate interests (Art. 6.1(f)
+GDPR).
+Where you have not consented (or have withdrawn your
+consent) to the processing of your Personal Information by us, we will continue
+to process your Personal Information : (a) where processing is required for the
+performance of the contract (i.e. the Terms of Use) between you and us; and/or
+(b) where processing is necessary for compliance with a legal obligation to
+which we are subject; (c) where processing is necessary for the purposes of a
+legitimate interest of the Company and its affiliates (including for
+marketing).
+4. MARKETING
+We will use your Personal
+Information, such as your, email address, collected by ourselves and/or through our
+trusted third party
+subcontractors for the purpose of providing you with promotional materials,
+concerning the Service as well as products, services, websites and applications
+which relate to the Company's business partners and its affiliates
+(collectively: “Marketing Affiliates”), which we believe interest you.
+We also share and disclose Personal
+Information with our Marketing Affiliates for the purpose of providing you
+different marketing offers, which we, or our Marketing Affiliates, believe are
+relevant for you. Our
+Marketing Affiliates may use this Personal Information for different marketing
+techniques, such as, but not limited to, direct email.
+We will use your Personal Information for the purpose
+of providing you with promotional materials solely where we have a legitimate
+interest in doing so, or where we have obtained your affirmative consent.
+You can at any time decline receiving further
+marketing offers from us or from our business partners and marketing affiliates
+by either: following the
+links inserted in the promotional emails (e.g., selecting the opt-out link) or
+contacting our customer support. Please note that even if you unsubscribe from our marketing
+mailing list, we will continue to send you service-related updates and
+notifications.
+5. WITH WHOM WE SHARE INFORMATION
+We do not rent, sell, or share your
+Personal Information with third parties (“Recipients”) except as
+described in this Privacy Policy. The Personal Information will be disclosed to
+Recipients only to the extent required for the specific purpose, as stipulated
+in this Privacy Policy.
+We share Personal Information
+with any of the following recipients:
+Subcontractors and third party
+service providers, as well as their subcontractors, which by way of
+example include (but is not limited to) cloud computing companies,
+marketing affiliates, fraud prevention services, and other data verifiers;
+Payment service providers,
+payment processors and banks;
+Auditors, contractors or
+legal/financial/other advisers of any of our business processes;
+Any third parties who
+investigate, detect or prevent fraudulent or illegal activity or enable us
+to enforce our policies, including in order to ascertain your source of
+income or funds (e.g. governmental authorities, law enforcement bodies,
+banks and other investigatory bodies);
+Governmental and regulatory
+bodies, in accordance with applicable laws and regulations; and
+Potential purchasers, successors
+or investors in any of the companies within our group companies, or in the
+event of a corporate transaction (e.g. sale of a substantial part of our
+business, merger, reorganization, bankruptcy, consolidation or asset sale
+of an asset or transfer in the operation thereof) in relation to any
+company within our group companies (in such event, the acquiring company
+or transferee will assume the rights and obligations as described in this
+Privacy Policy).
+6. INTERNATIONAL TRANSFER OF INFORMATION
+Since we operate globally, it is necessary for the provision of Service and to
+the extent required for the specific purpose, as stipulated in this Policy to transfer your Personal Information
+to countries outside the European Economic Area ("EEA"). The
+data protection and other laws
+of these countries are not as comprehensive as those in the EEA.
+We use best efforts to ensure that your Personal
+Information is protected in accordance with our Policy, through contractual means (such as by using the standard
+contractual clauses approved by the
+relevant European
+Commission for data
+transfer, as available here) or other means (such as ensuring that the European Commission decisions
+determined that such jurisdictions offer an adequate level of protection as available here).
+For more information about the transfer of your Personal
+Information outside of the EEA, our contact details are available under the
+section 12. "HOW TO CONTACT US?"
+7. THIRD PARTY TRACKING TECHNOLOGIES
+We use third-party advertising technology across our
+Websites to serve advertisements when you visit or use
+our Service. We use and authorize third parties to use
+web beacons, cookies, pixels, scripts, tags and other technologies ("Tracking
+Technologies").
+The Tracking Technologies automatically collect
+information about you, your online behavior on the Websites, and your device (for example your
+computer or mobile device), for different purposes, including improving and personalizing your navigation on our Service and enhancing our Service’ performance. Third parties use this information to provide you with targeted content.
+You can set your browser
+to refuse all third party cookies, or to alert you when cookies are being sent,
+also you can opt-out of many third party ad networks, including those operated
+by members of the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA").
+We also allow third parties to collect information
+about you through Tracking Technologies. To learn more please visit our Cookie
+Policy.
+For more information regarding this practice by NAI members
+and DAA members, and your choices regarding having this information used by
+these companies, including how to opt-out of third party ad networks operated
+by NAI and DAA members, please visit their respective websites:
+www.networkadvertising.org/optout_nonppii.asp and www.aboutads.info/choices.
+8. RETENTION OF PERSONAL INFORMATION
+If you have registered with an account through our
+Service, the Company will retain your Personal Information during the period
+your account is active. In addition, the Company will retain your Personal
+Information for additional periods, to enable the Company to meet its legal
+obligations under applicable laws or regulations.
+In addition, the Company shall retain your Personal
+Information for longer periods, provided that retaining such information is only necessary for the Company’s legitimate interests, such
+as fraud prevention and record keeping, resolving or excising claims regarding potential disputes.
+9. YOUR RIGHTS
+You have certain rights regarding the collection and
+processing of Personal Information. To the extent these rights apply to and
+concern you, you can exercise them by contacting us via the contact details
+available under the section below "HOW TO CONTACT US?" and exercise
+the following rights:
+1)
+Rights of access
+– You can obtain a copy of the Personal Information held by the Company at any
+time;
+2)
+Right of data
+portability – You have the right to receive your Personal Information, in a
+structured, commonly used and machine-readable format and to request that your Personal
+Information be transmitted to a third party of your choice;
+3)
+Right of rectification
+– In the event that the data held about you by the Company is inaccurate,
+incomplete or outdated, you have the possibility to request the rectification
+of said data (except in cases where the information is required to be kept in
+its original format under any applicable laws and regulations);
+4)
+Right of erasure
+– You have the possibility at any time to request that the Company erases data
+held about you by sending an email to the Company as outlined in this Policy.
+However, you are advised that with the deletion of your Personal Information,
+you might not be able to use the Service anymore or the account might be
+totally closed;
+5)       Right to restriction of processing,
+objection to processing – At any time, you have the right to request that the
+Company restricts or ceases to conduct certain data processes provided that
+there exists no other lawful basis on which the Company is authorized to
+process said data;
+6)       Right to withdraw your consent – You
+have the right to withdraw your given consent at any time. The withdrawal of
+consent will not affect the lawfulness of processing;
+7)       Right to lodge a complaint – All
+requests, complaints or queries should be addressed to the Company with the
+subject ‘Privacy’. We will consider any requests, complaints or queries and
+provide you with a reply in a timely manner. You can also file a complaint with
+the relevant data protection authority should you not be satisfied with the way
+in which we handle your Personal Information. We take our obligations seriously
+and we ask that any concerns be first brought to our attention, so that we can
+try to resolve this.
+Please note that these rights are not absolute, and can
+be subject to our own legitimate interests and regulatory requirements. You are
+welcome to contact us for any questions, requests or complaints through our
+contact details below.
+We will make an effort to reply within a reasonable
+timeframe. Please feel free to reach out to us at any time. If you are
+unsatisfied with our response, you can lodge a complaint with the competent
+supervisory authority.
+Also, you should be aware that unless you have
+registered and created an account on our Website, we could not be able to
+respond to your request as we do not have sufficient information to identify
+you. We could also rectify,
+replenish or remove incomplete or inaccurate information, at any time and at
+our own discretion, in accordance with our internal policies. Similarly, we will ask you to
+provide us with additional information in order to adequately verify your identity
+upon your request.
+10. CHANGES TO THE PRIVACY POLICY
+We reserve the right to change this
+Privacy Policy at any time, so please re-visit this page frequently. We will
+provide notice of substantial changes of this Privacy Policy on our services
+and/or we will send you an e-mail regarding such changes to the applicable
+e-mail address that you provided to us. Such substantial changes will take
+effect fourteen (14) days after such notice was provided on any of the above
+mentioned methods. Otherwise, all other changes to this Privacy Policy are
+effective as of the stated “Last Revised” date, and your continued use of our
+services after the Last Revised date will constitute acceptance of, and
+agreement to be bound by, those changes.
+11. LANGUAGE VERSION
+The Policy has been drafted in the English language,
+which is the original and controlling version of this Policy. All translations
+of this Policy into other languages shall be solely for convenience and shall
+not control the meaning or application of this Policy. In the event of any
+discrepancy between the meanings of any translated versions of the Policy and
+the English language version, the meaning of the English language version shall
+prevail.
+12.  HOW TO CONTACT US?
+If you have any general questions
+about the Services or the information that we collect about you and how we use
+it, please contact us via email at DPO@trufflelive.com :
+TruffleLive Limited
+Attn: Data Protection Officer
+11/F., Unit B Winbase Centre,
+208 Queen’s Road Central, Sheung Wan, Hong Kong
+You can contact our representative in
+the EU by the following contact details: DPO@trufflelive.com. We will make an effort to reply within a reasonable timeframe. Please
+feel free to reach out to us at any time.

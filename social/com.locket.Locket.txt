@@ -1,0 +1,44 @@
+Privacy Policy
+Last updated: May 25, 2022
+Locket is a mobile app and widget made by Locket Labs, Inc. that lets you share pictures with your friends, right on your Home Screen. When you send a picture using Locket, it will magically appear on your friends' Home Screen, without them having to open the app. Especially because Locket is designed to share intimate moments with your closest friends, we care deeply about keeping your data private and secure.
+Below, we outline what data we collect, how we use and share it, and your rights.
+Data Collection And Use
+Account Data
+When you sign up for an account on Locket, you are asked to enter your phone number and name. This data is used to identify you to other Locket users and makes it easy for your friends to find your account on the service. We may also collect your phone number or email address through our website so you can text yourself a link to download the app or sign up for email updates. This Account Data may also be used to respond to your messages.
+Contacts Data
+After signing up, you have the option to give Locket access to your address book. This makes it easy to add your friends to your Locket. First and foremost, we never save your contacts and never send text messages to your friends without your explicit permission.
+When you add a friend on Locket, we first look up their phone number in our records to see if they already have an account. If they don't, we link their phone number and only their phone number (no name, no profile picture, nothing else) with your account. Linking your friends’ number to your account means that once your friend downloads Locket, they can immediately accept your friend request after signing up. We do not save the phone numbers of any contacts you don't explicitly add as a friend.
+You can invite friends to join Locket by sending them a text message with a link to install the app. We do not automatically message your friends on your behalf. Instead, you have to send the message yourself. This means you're always in control of what messages get sent to your friends.
+Once you add a friend, Locket looks up the name and profile picture you have saved for that person in your Contacts. This information is then used to identify your friend throughout the app. It's important to note that this data never leaves your phone and never gets saved to our databases.
+Photos
+We collect the photos you send on Locket together with the associated metadata such as the time the photo was taken. We do not collect any location metadata from your photos.
+Sending photos to your friends is incredibly personal, so we work hard to keep this data private and secure. When you send a new photo on Locket, it will be sent to all friends you have added on the app. They will be able to see this photo in real-time in their Locket widget. The photo will also appear in your and your friends' histories. In addition to helping you share your photos with friends, we may also use your photos for special features like anniversary video collages.
+Photos you've sent in the past are not visible to new people you add as friends. For example, if you added a photo to your Locket last week and add a new friend today, your new friend won't be able to see that photo you sent last week. They will only see new photos you've added to your Locket since being friends with them.
+Device and App Activity Data
+When you use the app, we automatically collect certain information about your device (such as the type of device, operating system, IP address, and unique identifiers) and how you interact with the app (such as the actions you take and how long you use the app). We use this information to improve the app, create new features, and keep our systems secure.
+How We Share Data
+We do not sell, rent, license, or lease your data to third parties. However, we may share it with the following third parties:
+Service Providers – such as hosting services, customer support services, and analytics services.
+Professional Advisors – such as lawyers and accountants.
+Business Transaction Recipients – including counterparties and others assisting with a merger, acquisition, financing, reorganization, bankruptcy, receivership, dissolution, asset sale, or similar transaction involving our business.
+Legal and Safety – government authorities or regulators or other third parties where required by law or legal process or to protect Locket’s, users’, or other third parties’ rights and safety.
+How You Share Data
+You can use Locket to share photos with your friends. Once you've sent a photo, it isn't possible to delete it from other user's phones, so be careful with what photos you choose to send. Think of sending a Locket like sending a text message — once it has been delivered, you cannot take it back. You can, however, delete photos you have received from your own phone. If you choose to delete a photo, it will remove it from your phone, but your friends will still be able to see the photo.
+Data Retention
+We keep your data until we don’t need it for the purposes described in this policy and we have no legal obligation to keep it.
+Your Rights
+We provide all users with the following rights:
+Deactivate – you can deactivate your account so that you will not be able to send or receive new photos;
+Access – you can download the data we have about you in an easy-to-use format;
+Delete – you can request that we delete the data we have about you, but this right is not absolute. We may need to keep certain information, for example, to comply with our legal requirements;
+Correct – you can ask that we fix any errors or inaccuracies in the data we hold about you;
+Stop processing – you can tell us to stop processing your data;
+Object – you can object to how we process your data; and
+Complain – you can complain to the data protection regulator where you live (if you have one).
+You can exercise these rights by emailing team@locketcamera.com and including the phone number linked to your account in your message. We will not treat you differently if you exercise any of these rights, but we may need additional information to verify your identity. An agent can also make these requests on your behalf, but we may still ask you to verify your identity and that you have authorized the agent to act on your behalf.
+Children
+Locket is not intended for children and we do not believe we have collected any data from children. If we learn that we have collected data from children without proper consent, we will delete that data.
+Changes to this Policy
+We may need to update this policy to account for changes in our business and applicable laws. If we change this policy, we will post the new version here. If the changes are significant we will notify you through the app.
+Contact Us
+Please email us at team@locketcamera.com with any questions.

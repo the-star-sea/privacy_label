@@ -1,0 +1,197 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Political or religious beliefs",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Sexual orientation",
+      "optional": false,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Fitness info",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Health and fitness"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Photos",
+      "optional": false,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": true,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.jaumo.com/privacy/"
+}

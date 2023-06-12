@@ -1,0 +1,227 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Race and ethnicity",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Political or religious beliefs",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Sexual orientation",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Other financial info",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Health info",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Health and fitness"
+    },
+    {
+      "data": "Photos",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Audio"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": true,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "Location"
+    },
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": true,
+      "purpose": "Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Race and ethnicity",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Political or religious beliefs",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Sexual orientation",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Other financial info",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Health info",
+      "optional": true,
+      "purpose": "Analytics",
+      "type": "Health and fitness"
+    },
+    {
+      "data": "Emails",
+      "optional": true,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+      "type": "Messages"
+    },
+    {
+      "data": "Photos",
+      "optional": true,
+      "purpose": "App functionality, Analytics",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": true,
+      "purpose": "App functionality, Analytics",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": true,
+      "purpose": "App functionality, Analytics",
+      "type": "Audio"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": true,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": true,
+      "purpose": "Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://receipthog.com/privacy/"
+}

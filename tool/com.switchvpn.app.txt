@@ -1,0 +1,120 @@
+PRIVACY POLICY
+Welcome to Swing Lite VPN!
+Swing Lite VPN values your privacy and the protection of your personal data. This privacy policy describes what information we collect from you, how we collect it, how we use it, how we obtain your consent, how long we keep it in our databases and, if necessary, with whom we share it.
+By using the platform, you accept the practices described in this Privacy Policy. Your use of the platform is also subject to our Terms and Conditions.
+This Privacy Policy may change from time to time. Your continued use of the platform after we make changes to this privacy policy is considered acceptance of those changes, so please check this policy periodically for updates. This Privacy Policy has been developed and is maintained in accordance with all applicable federal and international laws and regulations and specifically with the California Online Privacy Protection Act (CalOPPA – U.S regulation) and the GDPR (General Data Protection Regulation - European regulation).
+GENERAL INFORMATION
+The personal data of the users that are collected and processed through:
+Swing Lite VPN (Android version - Available on Google Play)
+Will be under responsibility and in charge of:
+Swing Lite VPN
+support@swingvpn.com
+(Hereinafter referred to as “Swing Lite VPN”).
+TYPES OF INFORMATION GATHERED
+The information we collect from our users helps us to effectively provide our platform and to personalize and continually improve the user experience on the platform. These are the types of information we collect:
+Information You Give Us. You provide information when you provide, create, modify, download and share content, use the platform in general and/or communicate with us through our contact information or through our contact forms. As a result of those actions, you might supply us with the following information:
+Usage Data
+device information
+geography/region/country
+In-app purchases
+payment info
+the number of sessions
+session duration
+Application opens
+Application updates
+Payment information
+Any additional information relating to you that you provide to us directly or indirectly through our platform.
+Swing Lite VPN will not collect any personally identifiable information about you, unless you provide it.
+Information Collected Automatically: By downloading and using the platform, you automatically provide us with the following information:
+The device and information you use to access the platform.
+Installed Apps Information
+App Usage Stats
+Universally unique identifier (UUID)
+crash data
+Your IP addresses
+Operating system and device characteristics
+Referrer URLs
+Which parts of the platform you use and how often
+Location (non-continuous): Swing Lite VPN can collect and store the user's information and location when they use the functionalities available on the platform. When using certain functionalities of the platform that allow knowing the user's location, you are granting permission to the GPS function incorporated in the mobile devices of each user. This information is stored to facilitate the correct use of the application and provide specific services based on the user's location. This information is used for the time necessary to provide the services and functionalities of the platform. The information does not identify or individualize the person, it is completely anonymous. The user can request the removal of such information but certain functionalities of the application would not be available. Location information collected through the platform will be treated in accordance with this privacy policy.
+Payment information: Transactions and purchases within the platform will be made through in-app purchases. Your credit/debit card or payment information will be processed by the payment platforms available on Google Play, which will treat and safeguard your data with total security and with the sole purpose of processing transactions and purchases within the platform. Swing Lite VPN reserves the right to contract any payment platform available in the market, which will treat your data with the exclusive purpose of processing transactions and purchases within the platform.
+Please consult Google's privacy policy here:
+https://policies.google.com/privacy
+Social Media: On our platform you will find links and functions linked to different social networks, where you can share your information. The user will also be able to share information from their social networks through the platform or when logging in through their social network accounts.
+It is advisable to consult the privacy policy and data protection of each social media used on our platform.
+Facebook: https://www.facebook.com/privacy/explanation
+Instagram: http://instagram.com/about/legal/privacy/
+Google: https://policies.google.com/privacy
+TikTok: https://tiktok.com/legal/privacy-policy-row?lang=en
+Telegram: https://telegram.org/privacy
+GOOGLE Analytics: We use Google Analytics provided by Google, Inc., USA (“Google”). These tool and technologies collect and analyze certain types of information, including IP addresses, device and software identifiers, referring and exit URLs, feature use metrics and statistics, media access control address (MAC Address), mobile unique device identifiers, and other similar information. The information generated by Google Analytics (including your IP address) may be transmitted to and stored by Google on servers in the United States. We use the GOOGLE Analytics collection of data to enhance the platform and improve our service.
+Please consult Google's privacy policy here:
+https://policies.google.com/privacy
+Advertising: We may collect and use certain information to display relevant advertising within the app as well as to understand and report on the effectiveness of ads served on the app. We collect information such as the number of times certain advertisements have been displayed and the number of clicks the advertisements have received, for advertising purposes only. The information collected is also used to create user profiles, including showing you advertisements based on the products or services you have viewed on our platform. Information collected for advertising purposes is collected by Swing Lite VPN and trusted third party networks.
+LOCATION OF INFORMATION
+The content of the application and the information collected from users will be stored on servers located in UK (London).
+HOW LONG WE KEEP YOUR DATA
+Personal data provided by users through the platform will be retained for the time necessary to provide the platform and the functionalities available on the platform. Swing Lite VPN may be allowed to retain personal data for a longer period whenever the user has given consent to such processing, as long as such consent is not withdrawn. Furthermore, Swing Lite VPN may be obliged to retain personal data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority. Once the retention period expires, personal data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+HOW WE USE YOUR INFORMATION.
+In general, we use the information we collect primarily to provide, maintain, protect and improve our current platform and services. We use personal information collected through our site as described below and described elsewhere in this Policy to:
+Provide the platform (Android version - Available on Google Play).
+Identify you as a user in our system.
+Provide platform functionalities.
+Create a user account via third party accounts.
+Create and modify content through the platform.
+Download the contents created and modified through the platform.
+Share content through the platform.
+Perform advertising reports.
+Understand and enhance your experience using our platform.
+Respond to your comments or questions through our support team.
+Send you related information, including confirmations, invoices, technical notices, updates, security alerts and support and administrative messages.
+Communicate with you about upcoming events, offers and news about content and services offered by Swing Lite VPN and our selected partners.
+Marketing purposes of Swing Lite VPN.
+Link or combine your information with other information we get from third parties to help understand your needs and provide you with better service.
+Protect, investigate and deter against fraudulent, unauthorized or illegal activity.
+HOW DO YOU GET MY CONSENT?
+By downloading the App, using the features available on the App, making in-app purchases, sharing information or content within the Platform, communicating with us through the contact forms or our contact information and by providing us with personal information to communicate with you, you consent to our collection, storage and use of your information on the terms contained in this Privacy Policy. You may withdraw your consent at any time by sending us your request via the contact information or contact page.
+HOW WE SHARE INFORMATION
+The personal information of our users is an important and fundamental part of our platform. Under no circumstances will we sell or share information with third parties that has not been previously authorized by the user or owner of the personal data. We share user information only and exclusively as described below.
+Third-Party Service Providers. Third-Party Service Providers. We use the services of third parties to perform certain functions on the platform. We use the following third-party services:
+Process payments: Google Play Store
+https://policies.google.com/privacy
+Perform data analysis: Google Analytics
+https://policies.google.com/privacy
+Provide functions or links to social media within the platform.
+Facebook: https://www.facebook.com/privacy/explanation
+Instagram: http://instagram.com/about/legal/privacy/
+Show advertising in the app: AdMob (Google Ireland Limited)
+https://policies.google.com/privacy
+Provide advertising services: Google AdSense (Google Ireland Limited)
+https://policies.google.com/privacy
+Provide data analysis services: Facebook Analytics for Apps
+https://www.facebook.com/privacy/explanation
+These third-party services and tools may have access to personal information needed to perform their functions, but may not use that information for other purposes. Information shared with these third-party services will be treated and stored in accordance with their respective privacy policies and our privacy policy.
+Business Transfers: In the event that Swing Lite VPN creates, merges with, or is acquired by another entity, your information will most likely be transferred. Swing Lite VPN will email you or place a prominent notice on our Platform before your information becomes subject to another privacy policy.
+Protection of Swing Lite VPN and others: We release personal information when we believe release is appropriate to comply with the law, enforce or apply our Terms and conditions and other agreements, or protect the rights, property, or safety of Swing Lite VPN, our users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+With Your Consent: Other than as set out above, you will receive notice when personally identifiable information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+Anonymous Information:  Swing Lite VPN uses the anonymous browsing information collected automatically by our servers primarily to help us administer and improve the Platform. We may also use aggregated anonymous information to provide information about the Platform to potential business partners and other unaffiliated entities. This information is not personally identifiable.
+Email Address: The email address that you supply to us for purposes of receiving our email communications will never be rented or sold to a third party.
+PROTECTING YOUR INFORMATION
+Swing Lite VPN will make all reasonable efforts to protect the personal information of users it obtains, and the personal information will be protected by dedicated data security personnel. In order to prevent users' personal information from being illegally accessed, copied, modified, transmitted, lost, destroyed, processed or used in unexpected and unauthorized situations, Swing Lite VPN has and will continue to take the following measures to protect your personal information: 1) The user's personal information is encrypted and stored by adopting encryption technology, and is isolated by isolation technology. 2) When using personal information, such as personal information display and personal information association calculations, we will use a variety of data desensitization technologies including content replacement, encryption desensitization, etc. to enhance the security of personal information in use. 3) Establish a strict data use and access system, adopt strict data access authority control and multiple identity authentication technologies to protect personal information, and prevent data from being used in violation of regulations.
+Other security measures taken to protect personal information 1) Manage and regulate the storage and use of personal information by establishing a data classification and grading system, data security management specifications, and data security development specifications. 2) Data security personnel are responsible for security emergency response to promote and protect personal information security. 3. Notification of personal information security incidents 1) In the event of a security incident caused by personal information, Swing Lite VPN will report the first incident to the corresponding competent authority, and immediately carry out troubleshooting and emergency measures.
+RIGHTS
+Users who provide information through our website, as data subjects and data owners, have the right to access, rectify, download or delete their information, as well as to restrict and object to certain processing of their information. While some of these rights apply generally, others apply only in certain limited circumstances. We describe these rights below:
+Access and portability: to access and know what information is stored in our servers, you can send us your request through our contact information.
+Rectify, Restrict, Limit, Delete: You can also rectify, restrict, limit or delete much of your information.
+Right to be informed: Users of our website will be informed, upon request, about what data we collect, how it is used, how long it is retained and whether it is shared with third parties.
+Object: When we process your information based on our legitimate interests as explained above, or in the public interest, you may object to this processing in certain circumstances. In such cases, we will stop processing your information unless we have compelling legitimate reasons to continue processing it or where it is necessary for legal reasons.
+Revoke consent: Where you have previously given your consent, such as to allow us to process and store your personal information, you have the right to revoke your consent to the processing and storage of your information at any time. For example, you may withdraw your consent by updating your settings. In certain cases, we may continue to process your information after you have withdrawn your consent if we have a legal basis for doing so or if your withdrawal of consent was limited to certain processing activities.
+Complaint: If you wish to file a complaint about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority. Users can exercise all these rights by contacting us through the contact information or the contact page.
+If you are a European resident, we note that we are processing your information in order to fulfil contracts we might have with you or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe.
+Users or owners of the personal information they provide through the platform may exercise these rights over their personal information at any time and without any limitation by sending us their request through our contact information.
+CHILDREN’S ONLINE PRIVACY PROTECTION
+We comply with the requirements of the California Online Privacy Protection Act (CalOPPA - U.S. regulation) and the GDPR (General Data Protection Regulation - European regulation) regarding the protection of personal data of minors. We do not collect any information from children under the age of 13. Our platform is intended for persons over the age of 13. If you become aware that your child under the age of 13 has provided us with personal information, please contact us. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete that information, terminate that person's account and restrict that person's access.
+EDITING AND DELETING INFORMATION
+If you believe that any information, we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect. You can change, modify, rectify and delete your Information at any time, please contact us through the contact information. To opt-out of Swing Lite VPN email, follow the instructions included in the email. Your request should be processed within 48 hours.
+THIRD PARTIES
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information Swing Lite VPN collects from you. If you disclose your information to others, whether other users or suppliers on Swing Lite VPN, different rules may apply to their use or disclosure of the information you disclose to them. Swing Lite VPN does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. Swing Lite VPN is not responsible for the privacy or security practices of other platforms on the Internet, even those linked to or from the Swing Lite VPN site. Swing Lite VPN encourages you to ask questions before you disclose your personal information to others.
+CONTACT US
+If you have questions or concerns about this privacy policy and the treatment and security of your data, please contact us using the contact information below:
+Swing Lite VPN
+support@swingvpn.com

@@ -1,0 +1,15 @@
+{
+  "sharedData": [],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://doc-hosting.flycricket.io/abner-vpn-privacy-policy/eaa07d62-9c82-41a3-8d6f-d17358ec00b7/privacy"
+}

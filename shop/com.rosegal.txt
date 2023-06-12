@@ -1,0 +1,192 @@
+Privacy Policy
+Unless stated otherwise below, the provision of your personal data is neither legally nor contractually obligatory, nor required for conclusion of a contract. You are not obliged to provide your data. Not providing it will have no consequences. This only applies as long as the processing procedures below do not state otherwise.
+"Personal data" is any information relating to an identified or identifiable natural person.
+Server log files
+You can use our websites without submitting personal data.
+Every time our website is accessed, user data is transferred to us or our web hosts/IT service providers by your internet browser and stored in server log files. This stored data includes for example the name of the site called up, date and time of the request, the IP address, amount of data transferred and the provider making the request. The processing is carried out on the basis of Article 6(1) f) GDPR due to our legitimate interests in ensuring the smooth operation of our website as well as improving our services.
+Controller/ Data protection officer
+Contact us at any time. The contact details of the controller of the data processing can be found in our legal notice.
+You can contact our data protection officers directly at:
+Rechtsanwalt
+Dr. Jörg Brettschneider
+Brettschneider Rechtsanwaltsgesellschaft mbH
+Am Sandtorkai 44
+20457 Hamburg, Germany
+Phone: (+49)40/33 39 67 05
+(+49)151/18 10 80 80
+Fax: (+49)40/35 67 48 81
+Email: desk@ecomvat.com
+Proactive contact of the customer by e-mail
+If you make contact with us proactively via email, we shall collect your personal data (name, email address, message text) only to the extent provided by you. The purpose of the data processing is to handle and respond to your contact request.
+If the initial contact serves to implement pre-contractual measures (e.g. consultation in the case of purchase interest, order creation) or concerns an agreement already concluded between you and us, this data processing takes place on the basis of Article 6(1)(b) GDPR.
+If the initial contact occurs for other reasons, this data processing takes place on the basis of Article 6(1)(f) GDPR for the purposes of our overriding, legitimate interest in handling and responding to your request. In this case, on grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you and carried out on the basis of Article 6(1)(f) GDPR.
+We will only use your email address to process your request. Your data will subsequently be deleted in compliance with statutory retention periods, unless you have agreed to further processing and use.
+Collection and processing when using the contact form
+When you use the contact form we will only collect your personal data (name, email address, message text) in the scope provided by you. The data processing is for the purpose of making contact.
+If the initial contact serves to implement pre-contractual measures (e.g. consultation in the case of purchase interest, order creation) or concerns an agreement already concluded between you and us, this data processing takes place on the basis of Article 6(1)(b) GDPR.
+If the initial contact occurs for other reasons, this data processing takes place on the basis of Article 6(1)(f) GDPR for the purposes of our overriding, legitimate interest in handling and responding to your request. In this case, on grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you and carried out on the basis of Article 6(1)(f) GDPR.
+We will only use your email address to process your request. Finally your data will be deleted, unless you have agreed to further processing and use.
+Customer account
+When you open a customer account, we will collect your personal data in the scope given there. The data processing is for the purpose of improving your shopping experience and simplifying order processing. The processing will be carried out on the basis of art. 6 (1) lit. a GDPR with your consent. You can withdraw your consent at any time by contacting us without affecting the legality of the processing carried out with your consent up to the withdrawal. Your customer account will then be deleted.
+Collection, processing, and transfer of personal data in orders
+When you submit an order we only collect and use your personal data insofar as this is necessary for the fulfilment and handling of your order as well as processing of your queries. The provision of data is necessary for conclusion of a contract. Failure to provide it will prevent the conclusion of any contract. The processing will occur on the basis of Article 6(1) b) GDPR and is required for the fulfilment of a contract with you.
+Your data is transferred here for example to the shipping companies you have selected, to dropshipping providers, to payment service providers, to service providers for handling the order and to IT service providers. We will comply strictly with legal requirements in every case. The scope of data transmission is restricted to a minimum.
+Data collection when you post a comment
+When you comment on an article or a contribution, we collect your personal data (name, email address, comment text) only in the scope provided by you. The processing serves to allow you to comment and to display comments. By submitting the comment you agree to the processing of the transmitted data. The processing will be carried out on the basis of art. 6 (1) lit. a GDPR with your consent. You can withdraw your consent at any time by contacting us without affecting the legality of the processing carried out with your consent up to the withdrawal. You personal data will then be deleted.
+On publication of your comment only the name you have entered will be published.
+Use of your email address for mailing of newsletters
+We use your email address outside of contractual processing exclusively to send you a newsletter for our own marketing purposes, if you have explicitly agreed to this. The processing will be carried out on the basis of art. 6 (1) lit. a GDPR with your consent. You can withdraw your consent at any time without affecting the legality of the processing carried out with your consent up to the withdrawal. You can unsubscribe from the newsletter at any time using the relevant link in the newsletter or by contacting us. Your email address will then be removed from the distributor.
+Your data will be forwarded to a service provider for email marketing in the course of order processing. It will not be forwarded to other third parties.
+Use of PayPal
+All PayPal transaction are covered by the PayPal Data Privacy Statement. You can found this at https://www.paypal.com/de/webapps/mpp/ua/privacy-full?locale.x=en
+Use of PayPal Express
+Our website uses the payment service PayPal Express from PayPal (Europe) S.à.r.l. et Cie, S.C.A. (22-24 Boulevard Royal, L-2449 Luxembourg; "PayPal").
+The processing of data enables us to offer you the option of paying via the PayPal Express payment service.
+To integrate this payment service it is essential that PayPal collects, stores, and analyses data when you access the website (e.g. IP address, device type, operating system, browser type, device location). Cookies may be used for this purpose. Cookies allow your internet browser to be recognised.
+The use of cookies or comparable technologies is based on § 15 para. 3 p. 1 TMG. The processing of your personal data is based on Art. 6 para. 1 lit. f GDPR out of our overriding legitimate interest in a customer-oriented offer of different payment methods. On grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you.
+By selecting and using "PayPal Express", the data required for payment processing will be submitted to PayPal to execute the agreement with you using the selected payment method. The data is processed on the basis of Article 6(1)(b) GDPR.
+Further information on data processing when using the Paypal Express payment service can be found here in the associated data privacy policy.
+Use of Adyen
+On our website we use the Adyen payment system by the Adyen N.V., Simon Carmiggeltstraat 6-50, 1011 DJ, Amsterdam. The data is processed on the basis of Article 6(1)(b) GDPR.
+If you want to learn more about the handling of your data, we recommend Adyen's privacy notice at https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/privacy-policy.
+Klarna Checkout
+On our website we use the Klarna Checkout online payment system by the Swedish company Klarna Bank AB. Klarna Bank is headquartered in Sveavägen 46, 111 34 Stockholm, Sweden. If you choose this service, your personal data will be sent to Klarna, where it will be stored and processed. With this privacy policy we want to give you an overview of Klarna's data processing.
+As soon as you choose Klarna's payment service and pay using Klarna Checkout, you transmit personal data to the company. On Klarna's checkout page, technical data such as browser type, operating system, our web address, date and time, your IP address as well as your language and time zone settings are collected and transmitted to Klarna's servers where they are stored. This data is stored even if you have not yet completed an order at that point.
+If you order a product or service from our shop, you must enter your personal data in the provided fields. Klarna processes this data for handling the payment. The following personal data (along with general product information) may be stored and processed by Klarna to check your creditworthiness and identity:
+Contact information: Name, date of birth, national ID number, title, invoice- und shipping address, email address, telephone number, nationality or salary.
+Payment information such as credit cards or your account number
+Product details such as shipment number, as well as type and price of the product
+Furthermore, there are data which may optionally be collected if you have specifically decided for it. These are for example political, religious, or ideological beliefs or various health data.
+In addition to the data mentioned above, Klarna can also collect data about the goods or services you order. It may also do this via third parties (such as e.g. us or public databases). This can for example be the type or tracking number of the ordered article, but also information on your creditworthiness, as well as your income or loan grants. Klarna can also pass on your personal data to service companies such as software and data storage providers or us as a retailer.
+Every time data is automatically filled into a form, cookies are involved. If you do not want to use this function, you can deactivate these cookies anytime. Below you will find instructions on how to delete, deactivate or manage cookies in your browser. Our tests have shown that Klarna does not directly place cookies. If you choose the payment method "Klarna Sofort" and click on "Order", you will be redirected to the "Sofort" website. After successful payment you will land on our thank-you page. There the following cookie is set by sofort.com:
+Name: SOFUEB
+Value: e8cipp378mdscn9e17kajlfhv7311852541-4
+Purpose: This cookie stores your session ID.
+Expiry date: after ending the browser session
+Klarna strives to store your data only within the EU or the European Economic Area (EEA). However, it can also happen that data is transferred outside the EU/EEA. If this happens, Klarna ensures that the data protection either complies with the GDPR, that the third country is subject to an adequacy decision of the European Union. Any data is always stored for as long as Klarna requires it for processing.
+You can withdraw your consent for Klarna to process personal data anytime. Moreover, you always have the right for information, rectification, and deletion of your personal data. For this you must simply contact the company or its data protection team by email at privacy@klarna.co.uk. You can also contact them directly via "My Privacy Request" on Klarna's website.
+Cookies that Klarna may use for their functions can be deleted, deactivated, or managed in your browser. These settings can vary slightly, depending on the browser you use. The following instructions will show you how to manage cookies in your browser:
+Chrome: Clear, enable and manage cookies in Chrome
+Safari: Manage cookies and website data in Safari
+Firefox: Clear cookies and site data in Firefox
+Internet Explorer: Delete and manage cookies
+Microsoft Edge: Delete cookies in Microsoft Edge
+In addition to the conventional banking/credit institutions, we also offer the payment service provider Klarna Checkout for the processing of contractual or legal relationships (Art. 6 para. 1 lit. b GDPR).
+If you want to learn more about the handling of your data, we recommend Klarna's privacy notice at https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_gb/privacy.
+Cookies
+Our website uses cookies. Cookies are small text files which are saved in a user's internet browser or by the user's internet browser on their computer system. When a user calls up a website, a cookie may be saved on the user's operating system. This cookie contains a characteristic character string which allows the browser to be clearly identified when the website is called up again.
+Cookies will be stored on your computer. You therefore have full control over the use of cookies. By choosing corresponding technical settings in your internet browser, you can be notified before the setting of cookies and you can decide whether to accept this setting in each individual case as well as prevent the storage of cookies and transmission of the data they contain. Cookies which have already been saved may be deleted at any time. We would, however, like to point out that this may prevent you from making full use of all the functions of this website.
+Using the links below, you can find out how to manage cookies (or deactivate them, among other things) in major browsers:
+Chrome Browser:	https://support.google.com/accounts/answer/61416?hl=en
+Internet Explorer: https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies
+Mozilla Firefox: https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+Safari:	https://support.apple.com/de-de/guide/safari/manage-cookies-and-website-data-sfri11471/mac
+Technically necessary cookies
+Insofar as no other information is given in the data protection declaration below we use only these technically necessary cookies cookies to make our offering more user-friendly, effective and secure. Cookies also allow our systems to recognise your browser after a page change and to offer you services. Some functions of our website cannot be offered without the use of cookies. These services require the browser to be recognised again after a page change.
+Processing is carried out on the basis of art. 6 (1) lit. f GDPR due to our largely justified interest in ensuring the optimal functionality of the website as well as a user-friendly and effective design of our range of services.
+You have the right to veto this processing of your personal data according to art. 6 (1) lit. f GDPR, for reasons relating to your personal situation.
+Use of the Google Analytics
+Our website uses the web analysis service Google Analytics from Google LLC. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google"). If you are ordinarily resident in the European Economic Area or Switzerland, Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Ireland) is the controller responsible for your data. Google Ireland Limited is therefore the company affiliated with Google responsible for processing your data and for compliance with the applicable data protection legislation.
+The processing of data serves to analyse this website and its visitors and for marketing and advertising purposes. Google will use this information on behalf of the operator of this website to evaluate your use of the website, to compile reports on website activity and to provide other services to the website operator relating to website and internet use. In this process the following information, inter alia, can be collected: IP address, date and time of the website access, click path, information on the browser and the device you are using, the pages visited, referrer URL (website via which you accessed our website), location data, purchasing activities. The IP address transmitted from your browser within the scope of Google Analytics is not associated with any other data held by Google. Google Analytics uses technology such as cookies, web storage in the browser, and tracking pixels which enable an analysis of your use of the website. The information generated by these regarding your use of this website is usually transferred to a Google server in the USA and stored there. IP anonymisation is activated on this website.
+Google uses this to shorten your IP address beforehand within Member States of the European Union or in other signatories to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transferred to a Google server in the USA and shortened there.
+The use of cookies or comparable technologies is based on § 15 para. 3 p. 1 TMG. The processing of your personal data is based on Art. 6 para. 1 lit. f GDPR due to our overriding legitimate interest in the needs-based and targeted design of the website. On grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you.
+You can also prevent the collection of the data (including your IP address) generated by Google Analytics and related to your use of the website by Google as well as the processing of this data by Google by downloading and installing the browser plug-in available at the following link [https://tools.google.com/dlpage/gaoptout?hl=de]. To prevent the data collection and storage by Google Analytics across multiple devices you can place an opt-out cookie. Opt-out cookies prevent the future collection of your data when you visit this website. You need to implement the opt-out on all systems and devices that you are using, so that this works comprehensively. If you delete the opt-out cookie, requests will be transmitted to Google again. When you click here the opt-out cookie will be placed: Deactivate Google Analytics. You can find more detailed information on the terms and conditions of use and data protection at https://www.google.com/analytics/terms/de.html and/or at https://www.google.de/intl/de/policies/ and at https://policies.google.com/technologies/cookies?hl=de.
+Use of Branch Analytics
+Our website uses the web analysis service from Branch Metrics Inc. (1400 Seaport Boulevard, Redwood City, CA 94063, USA; "Branch")
+The processing of data serves to analyse this website and its visitors and for marketing and advertising purposes. Branch will use this information on behalf of the operator of this website to evaluate your use of the website, to compile reports on website activity and to provide other services to the website operator relating to website and internet use. In this process the following information, inter alia, can be collected: IP address, date and time of the website access, click path, information on the browser and the device you are using, the pages visited, referrer URL (website via which you accessed our website), location data, purchasing activities. Branch uses technology such as cookies and browser finger printing, which enable an analysis of your use of the website. The information generated by these regarding your use of this website is usually transferred to server in the USA and stored there.
+The use of cookies or comparable technologies is based on § 15 para. 3 p. 1 TMG. The processing of your personal data is based on Art. 6 para. 1 lit. f GDPR due to our overriding legitimate interest in the needs-based and targeted design of the website. On grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you and carried out in accordance with Article 6(1)(f) GDPR.
+You can prevent the storage of cookies by choosing corresponding technical settings in your internet browser; we would, however, like to point out that this may prevent you from making full use of all the functions of this website.
+Use of Google AdSense
+Our website uses the AdSense function by Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google").
+If you are ordinarily resident in the European Economic Area or Switzerland, Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Ireland) is the controller responsible for your data. Google Ireland Limited is therefore the company affiliated with Google responsible for processing your data and for compliance with the applicable data protection legislation.
+The data processing serves the purpose of renting out advertising space on the website and using these to address visitors to the website with targeted, interest-related advertising.
+This function displays personalised, interest-related adverts from the Google display network to visitors to the website. Google Analytics uses cookies, which make it possible to analyse your use of the website.
+The information generated by the cookie regarding your use of this website is usually transferred to a Google server in the USA and stored there. Google may also transmit this data to third parties if this is required by law or the third party is processing the data on behalf of Google. On no account will Google associate your IP address with other Google data.
+The data processing, particularly the placing of cookies, is carried out on the basis of Article 6(1)(f) GDPR due to our overriding legitimate interest in addressing visitors to the website with targeted, interest-related advertising. On grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you and carried out in accordance with Article 6(1)(f) GDPR.
+You can permanently deactivate the use of cookies by following the link below and downloading and installing the plug-in provided there: https://support.google.com/ads/answer/7395996?hl=de.
+Alternatively, you can prevent the use of cookies by third parties by calling up the Network Advertising Initiative deactivation page at https://www.networkadvertising.org/choices/ and following the further opt-out instructions specified there.
+You will find more information as well as Google's data privacy policy at: https://www.google.com/policies/technologies/ads/ and https://www.google.de/policies/privacy/
+Use of Facebook Pixel
+We use Facebook's Facebook pixel on our website. For that, we have implemented a code on our website. The Facebook pixel is a segment of a JavaScript code, which, in case you came to our website via Facebook ads, loads an array or functions that enable Facebook to track your user actions. For example, if you buy a product on our website, the Facebook pixel is triggered and stores your actions on our website in one or more cookies. These cookies enable Facebook to match your user data (customer data such as IP address, user ID) with the data of your Facebook account. After that, Facebook deletes your data again. The collected data is anonymous as well as inaccessible and can only be used for ad placement purposes. If you are a Facebook user and you are logged in, your visit to our website is automatically assigned to your Facebook user account.
+We exclusively want to show our products or services to persons, who are interested in them. With the aid of the Facebook pixel, our advertising measures can get better adjusted to your wishes and interests. Therefore, Facebook users get to see suitable advertisement (if they allowed personalised advertisement). Moreover, Facebook uses the collected data for analytical purposes and for its own advertisements.
+In the following we will show you the cookies, which were set on a test page with the Facebook pixel integrated to it. Please consider that these cookies are only examples. Depending on the interaction that is made on our website, different cookies are set.
+Name: _fbp
+Value: fb.1.1568287647279.257405483-6311852541-7
+Purpose: Facebook uses this cookie to display advertising products.
+Expiration date: after 3 months
+Name: fr
+Value: 0aPf312HOS5Pboo2r..Bdeiuf…1.0.Bdeiuf.
+Purpose: This cookie is used for Facebook pixels to function properly.
+Expiration date: after 3 months
+Name: comment_author_50ae8267e2bdf1253ec1a5769f48e062311852541-3
+Value: Name of the author
+Purpose: This cookie saves the text and name of a user who e.g. leaves a comment.
+Expiration date: after 12 months
+Name: comment_author_url_50ae8267e2bdf1253ec1a5769f48e062
+Value: https%3A%2F%2Fwww.testseite…%2F (URL of the author)
+Purpose: This cookie saved the URL of the website that the user types into a text box on our website.
+Expiration date: after 12 months
+Name: comment_author_email_50ae8267e2bdf1253ec1a5769f48e062
+Value: email address of the author
+Purpose: This cookie saves the email address of the user, if they provided it on the website.
+Expiration date: after 12 months
+Note: The above-mentioned cookies relate to an individual user behaviour. Moreover, especially concerning the usage of cookies, changes at Facebook can never be ruled out.
+If you are registered on Facebook, you can change the settings for advertisements yourself at https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen. If you are not a Facebook user, you can manage your user based online advertising at https://www.youronlinechoices.com/uk/your-ad-choices. You have the option to activate or deactivate any providers there.
+We would like to note, that according to the European Court of Justice, there is currently no adequate level of protection for data transfer to the USA. Data processing is done mainly through Facebook Pixel. This may lead to data not being anonymously processed and stored. Furthermore, US government authorities may get access to individual data. The data may also get linked to data from other Facebook services you have a user account with.
+If you want to learn more about Facebook's data protection, we recommend you the view the company's in-house data policies at https://www.facebook.com/policy.php.
+Along with Facebook's pixel function, we have also activated Automatic Advanced Matching. This function allows us to send hashed emails, names, genders, cities, states, postcodes and dates of birth or telephone numbers as additional information to Facebook, provided you have made them available to us. This activation gives us the opportunity to customise advertising campaigns even better to persons who are interested in our services or products.
+Use of TikTok Pixel
+On our website we use TikTok Pixel, which is a conversion tracking tool for advertisers. The provider of this service is the Chinese company TikTok. The responsible entity for the European region is the Irish company TikTok Technology Limited (10 Earlsfort Terrace, Dublin, D02 T380, Ireland).
+TikTok uses standard contractual clauses approved by the EU Commission (= Art. 46, paragraphs 2 and 3 of the GDPR) as basis for data processing by recipients based in third countries (which are outside the European Union, Iceland, Liechtenstein and Norway) or for data transfer there. These clauses oblige TikTok to comply with the EU's level of data protection when processing relevant data outside the EU. These clauses are based on an implementing order by the EU Commission. You can find the order and the clauses here: https://ec.europa.eu/commission/presscorner/detail/en/ip_21_2847.
+The processing of your personal data is based on Art. 6 para. 1 lit. f GDPR due to our overriding legitimate interest in the needs-based and targeted design of the website.
+On grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you and carried out in accordance with Article 6(1)(f) GDPR.
+You can find out more on the data processed by using TikTok in their Privacy Policy at https://www.tiktok.com/legal/privacy-policy?lang=de.
+Use of Firebase
+On our website, we use Firebase , a web analysis tool. The provider of this service is the American company Google Inc. The responsible entity for the European region is the Irish company Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland).
+Firebase also processes data in the USA, among other countries. We would like to note, that according to the European Court of Justice, there is currently no adequate level of protection for data transfers to the USA. This can be associated with various risks to the legality and security of data processing.
+Firebase uses standard contractual clauses approved by the EU Commission as basis for data processing by recipients based in third countries (outside the European Union, Iceland, Liechtenstein, Norway and especially in the USA) or data transfer there (= Art. 46, paragraphs 2 and 3 of the GDPR). These clauses oblige Firebase to comply with the EU's level of data protection when processing relevant data outside the EU. These clauses are based on an implementing order by the EU Commission. You can find the order and the clauses here: https://ec.europa.eu/commission/presscorner/detail/en/ip_21_2847.
+The processing of your personal data is based on Art. 6 para. 1 lit. f GDPR due to our overriding legitimate interest in the needs-based and targeted design of the website.
+On grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you and carried out in accordance with Article 6(1)(f) GDPR.
+You can find out more about Firebases' data processing in their privacy policy at https://policies.google.com/privacy?hl=en-US.
+Use of Branch Metrics
+On our website we use Branch Metrics, which is a platform for deep linking solutions. The provider of this service is the American company Branch Metrics, Inc., 1400 Seaport Blvd, Building B, 2nd Floor, Redwood City, CA 94063, USA.
+Branch Metrics also processes data in the USA, among other countries. We would like to note, that according to the European Court of Justice, there is currently no adequate level of protection for data transfers to the USA. This can be associated with various risks to the legality and security of data processing.
+Branch Metrics uses standard contractual clauses approved by the EU Commission as basis for data processing by recipients based in third countries (outside the European Union, Iceland, Liechtenstein, Norway, and especially in the USA) or data transfer there (= Art. 46, paragraphs 2 and 3 of the GDPR). These clauses oblige Branch Metrics to comply with the EU's level of data protection when processing relevant data outside the EU. These clauses are based on an implementing order by the EU Commission. You can find the order and the clauses here: https://ec.europa.eu/commission/presscorner/detail/en/ip_21_2847
+The processing of your personal data is based on Art. 6 para. 1 lit. f GDPR due to our overriding legitimate interest in the needs-based and targeted design of the website.
+On grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you and carried out in accordance with Article 6(1)(f) GDPR.
+You can find out more about the data that is processed by using Branch Metrics in their Privacy Policy at https://branch.io/policies/#privacy.
+Use of Snap Pixel
+On our website we use Snap Pixel, which is a tool for conversion-tracking. The provider of this service is the American company Snap Inc., 2772 Donald Douglas Loop N, Santa Monica (HQ), CA, USA.
+Snap Pixel also processes data in the USA, among other countries. We would like to note, that according to the European Court of Justice, there is currently no adequate level of protection for data transfers to the USA. This can be associated with various risks to the legality and security of data processing.
+Snap Pixel uses standard contractual clauses approved by the EU Commission as basis for data processing by recipients based in third countries (outside the European Union, Iceland, Liechtenstein, Norway, and especially in the USA) or data transfer there (= Art. 46, paragraphs 2 and 3 of the GDPR). These clauses oblige Snap Pixel to comply with the EU's level of data protection when processing relevant data outside the EU. These clauses are based on an implementing order by the EU Commission. You can find the order and the clauses here: https://ec.europa.eu/commission/presscorner/detail/en/ip_21_2847
+The processing of your personal data is based on Art. 6 para. 1 lit. f GDPR due to our overriding legitimate interest in the needs-based and targeted design of the website. On grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you. On grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you and carried out in accordance with Article 6(1)(f) GDPR.
+You can find out more about Snap Pixel's data processing in their privacy policy at https://snap.com/de-DE/privacy/privacy-policy.
+Use of GoogleMaps
+Our website uses the function for embedding Google Maps by Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google").
+If you are ordinarily resident in the European Economic Area or Switzerland, Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Ireland) is the controller responsible for your data. Google Ireland Limited is therefore the company affiliated with Google responsible for processing your data and for compliance with the applicable data protection legislation.
+This feature visually represents geographical information and interactive maps. Google also collects, processes, and uses data on visitors to the website when they call up pages with embedded Google maps.
+Your data may also be transmitted to the USA.
+The data processing, particularly the placing of cookies, is carried out on the basis of Article 6(1)(f) GDPR due to our legitimate interest in the needs-based and targeted design of the website. On grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you and carried out in accordance with Article 6(1)(f) GDPR.
+Further information on the data collected and used by Google, your rights and privacy can be found in Google's privacy policy at https://www.google.com/privacypolicy.html. You also have the option of changing your settings in the data protection centre, allowing you to administer and protect the data processed by Google.
+Use of YouTube
+Our website uses the function for embedding YouTube videos by Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Ireland; "YouTube"). YouTube is a company affiliated with Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google"). This feature shows YouTube videos in an iFrame on the website. The option "advanced privacy mode" is enabled here. This prevents YouTube from storing information on visitors to the website. It is only if you watch a video that information is transmitted to and stored by YouTube. Your data may be transmitted to the USA.
+The data processing is carried out on the basis of Article 6(1)(f ) GDPR due to our legitimate interest in the needs-based and targeted design of the website. On grounds relating to your particular situation, you have the right to object at any time to this processing of personal data concerning you and carried out in accordance with Article 6(1)(f) GDPR.
+Further information on the data collected and used by YouTube and Google and your associated rights and options for protecting your privacy can be found in YouTube's privacy policy (https://www.youtube.com/t/privacy).
+Rights of persons affected and storage duration
+Duration of storage
+After contractual processing has been completed, the data is initially stored for the duration of the warranty period, then in accordance with the retention periods prescribed by law, especially tax and commercial law, and then deleted after the period has elapsed, unless you have agreed to further processing and use.
+Rights of the affected person
+If the legal requirements are fulfilled, you have the following rights according to art. 15 to 20 GDPR: Right to information, correction, deletion, restriction of processing, data portability. You also have a right of objection against processing based on art. 6 (1) GDPR, and to processing for the purposes of direct marketing, according to art. 21 (1) GDPR.
+Right to complain to the regulatory authority
+You have the right to complain to the regulatory authority according to art. 77 GDPR if you believe that your data is not being processed legally.
+Right to object
+If the data processing outlined here is based on our legitimate interests in accordance with Article 6(1)f) GDPR, you have the right for reasons arising from your particular situation to object at any time to the processing of your data with future effect.
+If the objection is successful, we will no longer process the personal data, unless we can demonstrate compelling legitimate grounds for the processing that outweigh your interests or rights and freedoms, or the processing is intended for the assertion, exercise or defence of legal claims.
+If personal data is being processed for the purposes of direct advertising, you can object to this at any time by notifying us. If the objection is successful, we will no longer process the personal data for the purposes of direct advertising.
+REGISTERSign in
+Forgot your password?
+Or join with
+Facebook
+GoogleBy signing in to your account, you agree to our Privacy Policy and Terms & Conditions.
+xtips: Please provide your email address for a better shopping experience.
+Submit

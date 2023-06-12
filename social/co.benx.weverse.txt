@@ -1,0 +1,1499 @@
+Top
+WEVERSE COMPANY SERVICES PRIVACY POLICY
+Contents
+Article 1 Privacy Notice
+Article 2 Purposes of Processing Personal Information
+Article 3 Processed Personal Information
+Article 4 Provision of Personal Information to Third Parties
+Article 5 Entrustment of Personal Information
+Article 6 International Transfer of Personal Information
+Article 7 Retention of Personal Information
+Article 8 Procedures and Methods of Destroying Personal
+Information
+Article 9 Your Legal Rights
+Article 10 Technical/Administrative Measures for Protecting
+Personal Data
+Article 11 Installation and Operation of Automatic Collection
+Tools for Personal Information and Refusal Thereof
+Article 12 Decision-Making Standards for Additional Use and
+Provision of Personal Information
+Article 13 Data Protection Officer
+Article 14 Handling of Comments and Complaints
+Article 15 Changes in Privacy Notice
+Jurisdiction-Specific Terms
+EEA and UK
+California Consumer Privacy Act (CCPA)
+Japan
+Article 1 Privacy Notice
+This Privacy Notice (this “Notice”) is issued by WEVERSE COMPANY
+Inc. (“Weverse,” “we,” “us,” or “our”) and is addressed to our
+general customers, visitors to our Sites, users of our Apps and
+other users of our services (together, “you”). In this Notice, the
+term “App” means any application made available by us (including
+where we make such applications available via third-party stores or
+marketplaces, or by any other means), and the term “Site” means any
+website operated, or maintained, by us or on our behalf. However,
+services with their own privacy notice will adhere to their own
+privacy notice.
+As this Notice may be amended or updated from time to time, we
+encourage you to regularly check this Notice to review any changes
+with the terms.
+The definition of
+“personal information”
+used in this Notice is as follows:
+Article 2 Purposes of Processing Personal Information
+We process your personal information for the following purposes
+pursuant to applicable law:
+To provide our Sites, Apps, products and services:
+Providing our Sites, Apps, products or services; creating an
+account; providing customer support on the use of services;
+identifying and preventing wrongful uses; providing functions for
+joining the Weverse community and for community activities;
+performing statistical analyses; providing promotional materials
+(upon request); and communicating with you in relation to our
+Sites, Apps or services, provision and operation of event services
+(confirming participants for events, providing and delivering
+prizes to winners, handling other complaints), and manufacturing
+individually customized products.
+To operate our business:
+Operating and managing our Sites, Apps and services; providing you
+with content; displaying advertising and other information to you;
+authenticating users for the sales/delivery of products and the
+identification and prevention of duplicate purchases/uses or other
+wrongful uses; communicating and interacting with you via our
+Sites, Apps or services; and notifying you of changes to any of
+our Sites, Apps or services.
+To perform communications and marketing activities:
+Communicating with you via any means (including via email and app
+push alerts) to provide news items and other information in which
+you may be interested, subject to obtaining your prior opt-in
+consent to the extent required under applicable law; personalizing
+our Sites, products and services for you; maintaining and updating
+your contact information where appropriate; where applicable,
+enabling you to opt-out to withdraw your consent to or unsubscribe
+from emails sent by us, and recording your choice.
+To manage IT systems:
+Managing and operating our communications, IT and security
+systems; and auditing (including security audits) and monitoring
+such systems.
+To improve our Sites, Apps and services:
+Identifying issues related to our Sites, Apps or services;
+planning improvements to our Sites, Apps or services; and
+developing new Sites, Apps or services.
+Article 3 Processed Personal Information
+The personal information that we process about you is as follows:
+What is "required items"?: Information required to provide the
+service's fundamental functions
+What is "optional items"?: Information collected additionally
+to provide specialized services (Your use of the service will
+not be restricted even if you do not enter optional items.)
+[Required items]
+[Required items]
+Service
+Time of processing
+Personal information Processed
+Period for retention and use
+Weverse Account
+New account sign-up
+General members: Account (email address), password, name,
+nickname
+Members connected with social media accounts (Twitter,
+Google, Apple): Account (email address), name, nickname
+For 3 months after deleting the account or period stated
+in relevant laws.
+Accounts sign-up before May 25, 2022
+General members: Account (email address), password, name,
+and whether you are a South Korean resident or foreigner
+Members connected with social media accounts (Twitter,
+Google, Apple): Account (email address), name, and whether
+you are a South Korean resident or foreigner
+Weverse
+Service sign-up
+User verification information (for connecting to Weverse
+Account)
+For 3 months after leaving the service or period stated in
+relevant laws.
+When using the artist community services
+Nickname, profile image
+Paid service purchase
+Receipt number (for in-app purchases)
+Processing refund requests from customers using paid
+services
+Weverse Account (email address), name (first name and last
+name), bank name, bank account number, address
+For 5 years after the refund, as stated in relevant Korean
+laws.
+When reporting illegally filmed materials
+Name, mobile phone number (telephone number), email
+address
+For 3 years from the reported date, as stated in relevant
+Korean laws
+Weverse Shop
+Service sign-up
+User verification information (for connecting to Weverse
+Account)
+For 3 months after leaving the service or period stated in
+relevant laws.
+Entering shipping address for purchasing products
+Recipient information (Name, mobile phone number, and
+address), Taxpayer identification number (when shipping to certain countries)
+Upon purchasing products
+Customer information (Name, email, and mobile phone
+number)
+Payment information (credit card number, cardholder name,
+expiration date, and CVV code)
+Retained for 10 years after the time of payment
+USA Shop customer’s sales tax billing information (name,
+contact information, and address), and order number
+Retained for 7 years after the time of payment
+Membership purchase
+Name, address, and mobile phone number
+Until the expiration of Weverse Membership; the
+termination of Weverse Membership due to the deletion of
+Weverse Account service; or etc.
+For producing the membership card included in a membership
+kit
+Membership user name and membership number
+Retained for 90 days after Weverse membership kit purchase
+or as stated in relevant Korean laws.
+Weverse Concerts
+For providing performance contents
+Email address, user verification information (for
+connecting to Weverse Account), and purchase status of
+related products.
+90 days after the ends of performances (concerts,
+showcases, fan events, etc.).
+Weverse Albums
+Service sign-up
+User verification information (for connecting to Weverse
+Account)
+For 3 months after leaving the service or period stated in
+relevant laws.
+Checking user information when adding album
+Nickname and Weverse Account (email address)
+Phoning
+Service sign-up
+Nickname, and user verification information (for
+connecting to Weverse Account)
+For 3 months after leaving the service or period stated in
+relevant laws.
+For Phoning chats and real-time LIVEs
+Messages nickname
+Use of paid service
+Receipt number (for in-app purchases)
+V LIVE(Service terminated: December 31, 2022)
+Identifying customers to refund V COIN
+General members: Email address, password Members
+connected with social media accounts (NAVER, Facebook,
+Google, LINE, Twitter, Apple, Weibo, QQ): Social media log
+in and connection information
+For 3 months after a refund or period stated in relevant
+laws
+For processing V COIN refund request
+V LIVE number (VID), recipient's name (first name and last
+name), recipient's address, recipient's phone number, bank
+account information for a refund (bank name, account
+number, branch name, SWIFT code, etc.)
+For 5 years after the refund, as stated in relevant Korean
+laws
+HYBE Labels Artist Portrait exhibition ticketing service
+For using the ticket reservation website
+Email, name (first name and last name) and user verification information (for connecting to Weverse Account)
+For 90 days after the end of the exhibition.
+For all services
+Event
+Prize shipping: Weverse Account (email address) and
+recipient information (Name, mobile phone number, and
+address)
+Offline performance events such as fan meetings, public
+broadcasts, etc.: Weverse Account (email address), name,
+date of birth, and phone number
+Online performance events such as video call fan meeting:
+Weverse Account (email address), name, date of birth,
+phone number, and social media account (KakaoTalk or LINE)
+For a year after the end of events. Data of participants
+who did not win the event are discarded within 7 days of
+the winner announcement.
+Handling customer inquiries
+General inquiry: Weverse Account (email address) and the
+details of the customer inquiries
+Purchase inquiry: Weverse Account (email address), the
+details of the customer inquiries, mobile phone number
+Stored for 3 years after the customer inquiry in
+accordance with relevant laws.
+For SMS authentication
+Country code and mobile phone number
+For 1 year after deleting the account, or as stated in the
+relevant Korean laws
+Transmission of advertising information for marketing
+Email address, app push device information
+For 3 months after deleting the account or period stated
+in relevant laws.
+Accessing and using the service, providing services for
+reward
+Cookies, service usage history (date of log-in, IP
+address, fraudulent usage, etc), device information
+(unique device identifiers and OS version), your location
+For 3 months after leaving the service or period stated in
+relevant laws.
+Service:
+Weverse Account
+Time of processing:
+New account sign-up
+Personal information Processed:
+User verification information (for connecting to Weverse
+Account)
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Time of processing:
+Accounts sign-up before May 25, 2022
+Personal information Processed:
+General members: Account (email address), password, name,
+and whether you are a South Korean resident or foreigner
+Members connected with social media accounts (Twitter,
+Google, Apple): Account (email address), name, and whether
+you are a South Korean resident or foreigner
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Service:
+Weverse
+Time of processing:
+Service sign-up
+Personal information Processed:
+User verification information (for connecting to Weverse
+Account)
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Time of processing:
+When using the artist community services
+Personal information Processed:
+Nickname, profile image
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Time of processing:
+Paid service purchase
+Personal information Processed:
+Receipt number (for in-app purchases)
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Time of processing:
+Processing refund requests from customers using paid
+services
+Personal information Processed:
+Weverse Account (email address), name (first name and last
+name), bank name, bank account number, address
+Period for retention and use:
+For 5 years after the refund, as stated in relevant Korean
+laws.
+Time of processing:
+When reporting illegally filmed materials
+Personal information Processed:
+Name, mobile phone number (telephone number), email address
+Period for retention and use:
+For 3 years from the reported date, as stated in relevant
+Korean laws
+Service:
+Weverse Shop
+Time of processing:
+Service sign-up
+Personal information Processed:
+User verification information (for connecting to Weverse
+Account)
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Time of processing:
+Entering shipping address for purchasing products
+Personal information Processed:
+Recipient information (Name, mobile phone number, and
+address), Taxpayer identification number (when shipping to certain countries)
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Time of processing:
+Upon purchasing products
+Personal information Processed:
+Customer information (Name, email, and mobile phone number)
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Time of processing:
+Upon purchasing products
+Personal information Processed:
+Payment information (credit card number, cardholder name,
+expiration date, and CVV code)
+Period for retention and use:
+Retained for 10 years after the time of payment
+Time of processing:
+Upon purchasing products
+Personal information Processed:
+USA Shop customer’s sales tax billing information (name,
+contact information, and address), and order number
+Period for retention and use:
+Retained for 7 years after the time of payment
+Time of processing:
+Membership purchase
+Personal information Processed:
+Name, address, and mobile phone number
+Period for retention and use:
+Until the expiration of Weverse Membership; the termination
+of Weverse Membership due to the deletion of Weverse Account
+service; or etc.
+Time of processing:
+For producing the membership card included in a membership
+kit
+Personal information Processed:
+Membership user name and membership number
+Period for retention and use:
+Retained for 90 days after Weverse membership kit purchase
+or as stated in relevant Korean laws.
+Service:
+Weverse Concerts
+Time of processing:
+For providing performance contents
+Personal information Processed:
+Email address, user verification information (for connecting
+to Weverse Account), and purchase status of related
+products.
+Period for retention and use:
+90 days after the ends of performances (concerts, showcases,
+fan events, etc.).
+Service:
+Weverse Albums
+Time of processing:
+Service sign-up
+Personal information Processed:
+User verification information (for connecting to Weverse
+Account)
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Time of processing:
+Checking user information when adding album
+Personal information Processed:
+Nickname and Weverse Account (email address)
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Service:
+Phoning
+Time of processing:
+Service sign-up
+Personal information Processed:
+Nickname, and user verification information (for connecting
+to Weverse Account)
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Time of processing:
+For Phoning chats and real-time LIVEs
+Personal information Processed:
+Messages nickname
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Time of processing:
+Use of paid service
+Personal information Processed:
+Receipt number (for in-app purchases)
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Service:
+V LIVE (Service terminated: December 31, 2022)
+Time of processing:
+Identifying customers to refund V COIN
+Personal information Processed:
+General members: Email address, password
+Members connected with social media accounts (NAVER,
+Facebook, Google, LINE, Twitter, Apple, Weibo, QQ): Social
+media log in and connection information
+Period for retention and use:
+For 3 months after a refund or period stated in relevant
+laws
+Time of processing:
+For processing V COIN refund request
+Personal information Processed:
+V LIVE number (VID), recipient's name (first name and last
+name), recipient's address, recipient's phone number, bank
+account information for a refund (bank name, account number,
+branch name, SWIFT code, etc.)
+Period for retention and use:
+For 5 years after the refund, as stated in relevant Korean
+laws
+Service:
+HYBE Labels Artist Portrait exhibition ticketing service
+Time of processing:
+For using the ticket reservation website
+Personal information Processed:
+Email, name (first name and last name) and user verification information (for connecting to Weverse Account)
+Period for retention and use:
+For 90 days after the end of the exhibition.
+Service:
+For all services
+Time of processing:
+Event
+Personal information Processed:
+Prize shipping: Weverse Account (email address) and
+recipient information (Name, mobile phone number, and
+address)
+Offline performance events such as fan meetings, public
+broadcasts, etc.: Weverse Account (email address), name,
+date of birth, and phone number
+Online performance events such as video call fan meeting:
+Weverse Account (email address), name, date of birth, phone
+number, and social media account (KakaoTalk or LINE)
+Period for retention and use:
+For a year after the end of events. Data of participants who
+did not win the event are discarded within 7 days of the
+winner announcement.
+Time of processing:
+Handling customer inquiries
+Personal information Processed:
+General inquiry: Weverse Account (email address) and the
+details of the customer inquiries
+Purchase inquiry: Weverse Account (email address), the
+details of the customer inquiries, mobile phone number
+Period for retention and use:
+Stored for 3 years after the customer inquiry in accordance
+with relevant laws.
+Time of processing:
+For SMS authentication
+Personal information Processed:
+Country code and mobile phone number
+Period for retention and use:
+For 1 year after deleting the account, or as stated in the
+relevant Korean laws
+Time of processing:
+Transmission of advertising information for marketing
+Personal information Processed:
+Email address, app push device information
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+Time of processing:
+Accessing and using the service, providing services for
+reward
+Personal information Processed:
+Cookies, service usage history (date of log-in, IP address,
+fraudulent usage, etc), device information (unique device
+identifiers and OS version), your location
+Period for retention and use:
+For 3 months after leaving the service or period stated in
+relevant laws.
+[Optional items]
+[Optional items]
+Service
+Time of processing
+Personal information Processed
+Period for retention and use
+Weverse Shop
+Membership purchase
+Gender
+Until the expiration of Weverse Membership; the
+termination of Weverse Membership due to the deletion of
+Weverse Account service; or etc.
+Weverse
+When reporting illegally filmed materials
+Date of birth
+For 3 years from the reported date, as stated in relevant
+Korean laws
+Service:
+Weverse Shop
+Time of processing:
+Membership purchase
+Personal information Processed:
+Gender
+Period for retention and use:
+Until the expiration of Weverse Membership; the termination
+of Weverse Membership due to the deletion of Weverse Account
+service; or etc.
+Service:
+Weverse
+Time of processing:
+When reporting illegally filmed materials
+Personal information Processed:
+Date of birth
+Period for retention and use:
+For 3 years from the reported date, as stated in relevant
+Korean laws
+Our service
+is not offered for children (under 14 years old for South Korean and
+under 16 years old for international users). If we discover that we
+have collected the personal information of a child, we will delete
+the information and cancel the user's account. If you believe that
+we have collected information of a child, please inform us via
+contact information in Article 13.
+Article 4 Provision of Personal Information to Third Parties
+Except in the following cases, we do not provide third parties with
+your personal information, unless you consent thereto or the
+disclosure is otherwise expressly prescribed in applicable law.
+Details About Providing Personal Information To Third Parties
+In addition, in accordance with relevant laws and regulations, we
+may share personal information without your consent to the extent
+that such sharing is reasonably related to the purpose of the
+collection of such personal information. In the foregoing case, we
+will comprehensively consider factors such as whether the sharing is
+related to the original purpose of collection, whether the sharing
+is predictable in light of the circumstances under which the
+personal information was collected or under usual processing
+practices, whether the sharing unreasonably infringes upon your
+interests and whether security measures such as pseudonymization or
+encryption have been implemented.
+Article 5 Entrustment of Personal Information
+When necessary for the purposes of service use, performing
+contractual obligations and improving member convenience, we entrust
+the processing of personal information to specialized service
+providers or utilize specialized platforms, within the scope
+disclosed in this Privacy Notice.
+Details About Entities To Which Personal Information Is Outsourced
+Details About platform companies
+When signing the consignment contract to entrust the personal
+information processing, we include clauses stating the consignee's
+responsibilities such as the prohibition of processing personal
+information for purposes other than entrusted tasks,
+technical/administrative measures, prohibition of reconsigning,
+managerial and supervision of consignee, and compensations for
+damages, and we supervise the consignees to handle the information
+safely.
+We will immediately disclose when there is any change in the
+entrusted tasks or consignees via the Notice.
+Article 6 International Transfer of Personal Information
+For the purposes of providing our services and enhancing users’
+convenience, we may transfer and/or manage your personal information
+overseas as follows. The details on our international transfer of
+personal information are described below.
+Details About International Transfer of Personal Information
+Article 7 Retention of Personal Information
+If we collect any personal information from you, we comply with our
+internal policy to use and retain such personal information for the
+period during which you use our services.
+For any accounts of inactive users who have not used our services
+for 1 year or longer after they joined membership, we separately
+store the personal information of such inactive users. The personal
+information separately stored will be retained for 4 years, after
+which period the information will be destroyed.
+We will notify inactive account users of the following matters at
+least 30 days prior to the expiry of their accounts:
+The fact that personal information is disposed of, or the fact
+that personal information is separately stored and managed
+Date/time of destruction
+Content of personal information disposed of
+In addition, if we need to preserve personal information in
+accordance with the provisions of applicable law or our internal
+policies, we will retain relevant personal information for a
+specified period as follows:
+Details About Keeping Of Personal Information In Accordance With
+Relevant Laws
+Details About Information Kept In Accordance With Our Internal
+Policies
+Article 8 Procedures and Methods of Destroying Personal Information
+Once the purposes of collection and use of your personal information
+are achieved, we destroy your personal information in accordance
+with our internal policies and other applicable laws. However,
+personal information collected with your consent or stored in the
+form of electronic files will be deleted using technical means that
+make the records unreproducible, and personal information printed on
+paper such as filings or printed materials will be shredded or
+incinerated
+Article 9 Your Legal Rights
+Subject to applicable law, you may have the following rights
+relating to your personal information managed by us:
+The right not to provide your personal information to us
+(however, please note that we will be unable to provide you with
+the full benefit of our Sites, Apps, or services, if you do not
+provide us with your personal information – e.g., we might not
+be able to process your requests without the necessary details);
+The right to request information regarding the nature,
+processing and disclosure of your personal information managed
+by us and request access to, or copies of such personal
+information;
+The right to request rectification of any inaccuracies in your
+personal information managed by us;
+The right to request, on legitimate grounds:
+Deletion of your personal information managed by us; or
+Suspension of processing of your personal information
+managed by us;
+The right to have certain personal information transferred to
+another entity, in a structured, commonly used and
+machine-readable format, to the extent applicable;
+Where we process your personal information managed by us on the
+basis of your prior consent, the right to withdraw that consent
+(noting that such withdrawal does not affect the lawfulness of
+any processing performed prior to the date on which we receive
+notice of such withdrawal, and does not prevent the processing
+of your personal information in reliance upon any other
+available legal bases, as applicable); and
+The right to submit complaints to an authority in charge of
+protection of data regarding the processing of your personal
+information managed by us.
+Article 10 Technical/Administrative Measures for Protecting Personal
+Data
+When handling personal information, we take appropriate measures to
+keep the information safe and prevent from loss, theft, leakage,
+falsification, or damage, and we take technical measures as follows:
+Your personal information is protected by password and encrypted
+information. However, your information can be exposed to others
+in many ways including when you use the public internet, so you
+need to be responsible for protecting your own information. We
+are not responsible for any damages that arise from your
+negligence or the fundamental nature and risks of the internet.
+Your personal information is protected with a password and
+encrypted information by default, and important data are
+protected with separate security functions by encrypting files
+and transmitted date.
+We use vaccine programs to prevent possible damage by computer
+viruses, and vaccine programs are updated periodically.
+We prevent leakage and damage of personal information caused by
+hacking and viruses by monitoring the system 24 hours a day
+using a system that detects and blocks external intrusion.
+We fully acknowledge the importance of your personal information,
+and accordingly, we have a reasonably limited number of employees
+handling personal information. The personnel in charge of protecting
+personal information conducts periodical education for the
+employees, putting the utmost effort to protect personal
+information. Also, we periodically check the compliance status of
+commitments stated in the policy and relevant employees, and when we
+detect any violation, we immediately correct and improve the issue
+and take necessary measures.
+Article 11 Installation and Operation of Automatic Collection Tools
+for Personal Information and Refusal Thereof
+We use cookies to store and discover information about members.
+Cookies are strings of small amounts of text transmitted by the
+website server to users’ computer browsers (e.g., Internet Explorer,
+Safari, Chrome, Firefox). Cookies identify each member’s computer,
+but do not identify individual members.
+We use Google Analytics (Terms of Service)and Firebase(Terms of Service), API provided by Google (Privacy Policy), for providing services and statistics analyses. For further
+details, please see our
+Cookie Policy
+(1) Operation of Cookies
+① Provide differentiated information depending on each individual’s
+interests
+② Analyze members’ and non-members’ frequency of visits and time
+spent on each visit to identify members’ tastes and interests for
+use in targeted marketing
+③ Identify the traces of browsing records of contents in which
+members were interested in to provide personalized services on the
+next visit
+④ Analyze customers’ habits and use the results as criteria for
+service reorganization, etc.
+(2) Cookie options
+By adjusting the settings on their web browser, members may accept
+all cookies, receive notifications whenever cookies are installed,
+or refuse all cookies. However, if you refuse cookies, you may not
+be able to use certain functions of the service that require login.
+You can set whether to permit cookies (on Internet Explorer) as
+follows:
+① Go to [Tools] and [Internet Options].
+② Click [Privacy].
+③ Under the tab [Settings], choose the level you want from “Accept
+All Cookies – Low – Medium – Medium High – High – Block All
+Cookies.”
+(3) Cookies expire when you close or log off from the browser.
+Article 12 Decision-Making Standards for Additional Use and
+Provision of Personal Information
+In accordance with Article 15(3) and Article 17(4) of the Personal
+Information Act of South Korea, we may additionally use or provide
+your personal information without your consent, in consideration of
+Article 14-2 of the Enforcement Decree of the Personal Information
+Protection Act of South Korea.
+Article 12 Decision-Making Standards for Additional Use and
+Provision of Personal Information
+Personal information to be provided
+Purpose of provision
+Period for retention and use
+Nickname used in community, W ID, content in posts
+Operating and managing artist communities and sending out
+event announcements
+For 3 months after Service withdrawal or as stated in
+relevant laws
+(event winner's) Email address
+Community event winner announcement and winner
+verification
+For 1 year after the event ends
+Generated information (internal identification key, device
+information, etc.), service usage history (date of log-in,
+IP address, fraudulent usage, etc.), device information
+(unique device identifiers, OS version), your location
+Performing statistical analyses on use of platform
+services
+For 3 months after Service withdrawal or as stated in
+relevant laws
+Personal information to be provided:
+Nickname used in community, W ID, content in posts
+Purpose of provision:
+Operating and managing artist communities and sending out
+event announcements
+Period for retention and use:
+For 3 months after Service withdrawal or as stated in
+relevant laws
+Personal information to be provided:
+(event winner's) Email address
+Purpose of provision:
+Community event winner announcement and winner verification
+Period for retention and use:
+For 1 year after the event ends
+Personal information to be provided:
+Generated information (internal identification key, device
+information, etc.), service usage history (date of log-in, IP
+address, fraudulent usage, etc.), device information (unique
+device identifiers, OS version), your location
+Purpose of provision:
+Performing statistical analyses on use of platform services
+Period for retention and use:
+For 3 months after Service withdrawal or as stated in
+relevant laws
+Accordingly, we have considered the below items for additional use
+and provision of information without the user's consent.
+1. Whether the purpose of additionally using and providing the
+personal information is relevant to initial purpose of collecting
+the information.
+2. Whether there is predictability about additional use and
+provision of personal information, based on the circumstances of
+collecting information or its processing practices.
+3. Whether the additional use and provision of personal information
+violates your rights.
+4. Whether security measures have been taken, such as
+pseudonymization or encryption.
+Article 13 Data Protection Officer
+In order to protect users’ personal information and handle
+complaints related to personal information, we have designated our
+Data Protection Officer as follows. Users may report all complaints
+related to personal information protection arising in the course of
+using our services to the Data Protection Officer, and we will
+provide prompt and sufficient responses to such reports.
+Data Protection Officer: Sung-gu Yeo
+Department responsible for processing complaint: CX/CS team
+Department responsible for information inspection request: CX/CS
+team
+Telephone number: +82 1544-0790 (only available in South
+Korea)
+Email address:
+Weverse, Weverse Account, Weverse Shop, Weverse Albums,
+Phoning:
+privacy@weverse.io
+Weverse Concerts:
+concerts.support@kiswe.com
+Weverse, Weverse Account, Weverse Shop, Weverse Albums,
+Phoning
+privacy@weverse.io
+Weverse Concerts
+concerts.support@kiswe.com
+Article 14 Handling of Comments and Complaints
+We operate a customer services center for smooth communication and
+resolution of any comments and/or complaints presented by our users
+in connection with personal information protection. If you are a
+user in Korea, in the event of a dispute arising between us and you
+in connection with personal information protection, for which you
+require help regarding potential infringement upon your information,
+you can contact the Personal Information Infringement Report Center
+of the Korea Internet & Security Agency, the Cyber Bureau of the
+National Police Agency, or other relevant agencies.
+Korea Internet & Security Agency
+https://privacy.kisa.or.kr
+118
+Personal Information Dispute Mediation Committee
+https://www.kopico.go.kr
+1833-6972
+Cybercrime Investigation Division of Supreme Prosecutors’
+Office
+https://www.spo.go.kr
+1303
+Cyber Bureau of National Police Agency
+https://cyber.go.kr
+182
+Korea Internet & Security Agency
+https://privacy.kisa.or.kr
+118
+Personal Information Dispute Mediation Committee
+https://www.kopico.go.kr
+1833-6972
+Cybercrime Investigation Division of Supreme Prosecutors’
+Office
+https://www.spo.go.kr
+1303
+Cyber Bureau of National Police Agency
+https://cyber.go.kr
+182
+Article 15 Changes in Privacy Notice
+This Privacy Policy will take into effect from May 17, 2023 (KST).
+Please refer to the link below to see the previous version of
+Privacy Policy.
+Privacy Policy version number: Integrated V1.4
+Effective date: May 17, 2023
+Previous Privacy Policy
+Privacy Policy Integrated V1.3 (March 30, 2023)
+Previous Privacy Policy by Service
+Jurisdiction-Specific Terms
+The following are supplementary clauses applicable depending on your
+location or nationality. In the event of conflict between the
+following and the main text of this Privacy Notice, the following
+shall prevail.
+EEA and UK
+For the purposes of this section, the term “personal information”
+used in the main text of this Notice shall be replaced with the term
+“personal data” – the term shall have the same meaning as set out in
+Article 1
+Clause Article 1 of this Notice shall be supplemented with the
+following text as a new final paragraph:
+Article 1 Privacy Notice
+For the purposes of the GDPR and the UK Data Protection Act 2018,
+WEVERSE COMPANY Inc. is the entity (or “controller”) that decides
+how and why your personal data are processed and has primary
+responsibility for complying with applicable data protection laws.
+Clause Article 2 of this Notice shall be replaced with the
+following:
+Article 2 Purposes and Legal Bases for Processing of Personal Data
+The purposes of processing of your personal data and the legal bases
+on which we rely under applicable laws are as follows:
+Article 2 Purposes and Legal Bases for Processing of
+Personal Data
+Processing activity
+Legal basis for processing
+To provide our Sites, Apps, products and services:
+Providing our Sites, Apps, products or services; creating
+an account; providing customer support on the use of
+services; identifying and preventing wrongful uses;
+providing functions for joining the Weverse community and
+for community activities; performing statistical analyses;
+providing promotional materials (upon request); and
+communicating with you in relation to our Sites, Apps or
+services; and providing and operating event services
+(confirming participants for events, providing and
+delivering prizes to winners, handling other complaints) ,
+and manufacturing individually customized products.
+The processing is necessary in connection with any
+contract that you have entered into with us, or to
+take steps prior to entering into a contract with
+us; or
+We have a legitimate interest in carrying out the
+processing for the purpose of providing you with our
+Sites, Apps or services (to the extent that such
+legitimate interest is not overridden by your
+interests, fundamental rights, or freedoms); or
+We have obtained your prior consent to the
+processing (the aforementioned legal basis is only
+used in relation to processing that is entirely
+voluntary – it is not used for processing that is
+necessary or obligatory in any way).
+To operate our business:
+Operating and managing our Sites, Apps and services;
+providing you with content; displaying advertising and
+other information to you; authenticating users for the
+sales/delivery of products and the identification and
+prevention of duplicate purchases/uses or other wrongful
+uses; communicating and interacting with you via our
+Sites, Apps or services; and notifying you of changes to
+any of our Sites, Apps or services.
+The processing is necessary in connection with any
+contract that you have entered into with us, or to
+take steps prior to entering into a contract with
+us; or
+We have a legitimate interest in carrying out the
+processing for the purpose of providing you with our
+Sites, Apps or services (to the extent that such
+legitimate interest is not overridden by your
+interests, fundamental rights, or freedoms); or
+We have obtained your prior consent to the
+processing (the aforementioned legal basis is only
+used in relation to processing that is entirely
+voluntary – it is not used for processing that is
+necessary or obligatory in any way).
+To perform communications and marketing activities:
+Communicating with you via any means (including via email
+and app push alerts) to provide news items and other
+information in which you may be interested, subject to
+obtaining your prior opt-in consent to the extent required
+under applicable law; personalizing our Sites, products
+and services for you; maintaining and updating your
+contact information where appropriate; obtaining your
+prior opt-in consent when necessary; where applicable,
+enabling you to opt-out to withdraw your consent to or
+unsubscribe from emails sent by us, and recording your
+choice.
+The processing is necessary in connection with any
+contract that you have entered into with us, or to
+take steps prior to entering into a contract with
+us; or
+We have a legitimate interest in carrying out the
+processing for the purpose of contacting you,
+subject always to compliance with applicable law (to
+the extent that such legitimate interest is not
+overridden by your interests, fundamental rights, or
+freedoms); or
+We have obtained your prior consent to the
+processing (the aforementioned legal basis is only
+used in relation to processing that is entirely
+voluntary – it is not used for processing that is
+necessary or obligatory in any way).
+To manage IT systems:
+Managing and operating our communications, IT and security
+systems; and auditing (including security audits) and
+monitoring such systems.
+The processing is necessary for our compliance with
+a legal obligation; or
+We have a legitimate interest in carrying out the
+processing for the purpose of managing and
+maintaining our communications and IT systems (to
+the extent that such legitimate interest is not
+overridden by your interests, fundamental rights, or
+freedoms).
+To improve our Sites, Apps and services:
+Identifying issues related to our Sites, Apps or services;
+planning improvements to our Sites, Apps or services; and
+developing new Sites, Apps or services.
+We have a legitimate interest in carrying out the
+processing for the purpose of improving our Sites,
+Apps or services (to the extent that such legitimate
+interest is not overridden by your interests,
+fundamental rights, or freedoms); or
+We have obtained your prior consent to the
+processing (this legal basis is only used in
+relation to processing that is entirely voluntary –
+it is not used for processing that is necessary or
+obligatory in any way).
+To provide our Sites, Apps, products and services:
+Providing our Sites, Apps, products or services; creating an
+account; providing customer support on the use of services;
+identifying and preventing wrongful uses; providing functions for
+joining the Weverse community and for community activities;
+performing statistical analyses; providing promotional materials
+(upon request); and communicating with you in relation to our
+Sites, Apps or services; and providing and operating event
+services (confirming participants for events, providing and
+delivering prizes to winners, handling other complaints) , and
+manufacturing individually customized products.
+Legal basis for processing:
+The processing is necessary in connection with any
+contract that you have entered into with us, or to take
+steps prior to entering into a contract with us; or
+We have a legitimate interest in carrying out the
+processing for the purpose of providing you with our
+Sites, Apps or services (to the extent that such
+legitimate interest is not overridden by your interests,
+fundamental rights, or freedoms); or
+We have obtained your prior consent to the processing
+(the aforementioned legal basis is only used in relation
+to processing that is entirely voluntary – it is not
+used for processing that is necessary or obligatory in
+any way).
+To operate our business:
+Operating and managing our Sites, Apps and services; providing you
+with content; displaying advertising and other information to you;
+authenticating users for the sales/delivery of products and the
+identification and prevention of duplicate purchases/uses or other
+wrongful uses; communicating and interacting with you via our
+Sites, Apps or services; and notifying you of changes to any of
+our Sites, Apps or services.
+Legal basis for processing:
+The processing is necessary in connection with any
+contract that you have entered into with us, or to take
+steps prior to entering into a contract with us; or
+We have a legitimate interest in carrying out the
+processing for the purpose of providing you with our
+Sites, Apps or services (to the extent that such
+legitimate interest is not overridden by your interests,
+fundamental rights, or freedoms); or
+We have obtained your prior consent to the processing
+(the aforementioned legal basis is only used in relation
+to processing that is entirely voluntary – it is not
+used for processing that is necessary or obligatory in
+any way).
+To perform communications and marketing activities:
+Communicating with you via any means (including via email and app
+push alerts) to provide news items and other information in which
+you may be interested, subject to obtaining your prior opt-in
+consent to the extent required under applicable law; personalizing
+our Sites, products and services for you; maintaining and updating
+your contact information where appropriate; obtaining your prior
+opt-in consent when necessary; where applicable, enabling you to
+opt-out to withdraw your consent to or unsubscribe from emails
+sent by us, and recording your choice.
+Legal basis for processing:
+The processing is necessary in connection with any
+contract that you have entered into with us, or to take
+steps prior to entering into a contract with us; or
+We have a legitimate interest in carrying out the
+processing for the purpose of contacting you, subject
+always to compliance with applicable law (to the extent
+that such legitimate interest is not overridden by your
+interests, fundamental rights, or freedoms); or
+We have obtained your prior consent to the processing
+(the aforementioned legal basis is only used in relation
+to processing that is entirely voluntary – it is not
+used for processing that is necessary or obligatory in
+any way).
+To manage IT systems:
+Managing and operating our communications, IT and security
+systems; and auditing (including security audits) and monitoring
+such systems.
+Legal basis for processing:
+The processing is necessary for our compliance with a
+legal obligation; or
+We have a legitimate interest in carrying out the
+processing for the purpose of managing and maintaining
+our communications and IT systems (to the extent that
+such legitimate interest is not overridden by your
+interests, fundamental rights, or freedoms).
+To improve our Sites, Apps and services:
+Identifying issues related to our Sites, Apps or services;
+planning improvements to our Sites, Apps or services; and
+developing new Sites, Apps or services.
+Legal basis for processing:
+We have a legitimate interest in carrying out the
+processing for the purpose of improving our Sites, Apps
+or services (to the extent that such legitimate interest
+is not overridden by your interests, fundamental rights,
+or freedoms); or
+We have obtained your prior consent to the processing
+(this legal basis is only used in relation to processing
+that is entirely voluntary – it is not used for
+processing that is necessary or obligatory in any way).
+Direct Marketing
+We process personal data to contact you via email, telephone, direct
+mail or other communication formats to provide you with information
+regarding Sites, Apps or services that may be of interest to you. We
+also process personal data for the purposes of displaying content
+tailored to your use of our Sites, Apps or services. If we provide
+Sites, Apps or services to you, we may send or display information
+to you regarding our Sites, Apps or services, upcoming promotions
+and other information that may be of interest to you, including by
+using the contact details that you have provided to us, or any other
+appropriate means, subject always to obtaining your prior opt-in
+consent, to the extent required under applicable law.
+You may unsubscribe from our promotional email list at any time by
+simply clicking on the unsubscribe link included in every
+promotional electronic communication we send or by unsubscribing
+online at
+[Link]
+Please note that it may take up to 2 weeks to process your
+unsubscribe request, during which time you may continue to receive
+communications from us. After you unsubscribe, we will not send you
+further promotional emails, but in some circumstances we will
+continue to contact you to the extent necessary for the purposes of
+any Sites, Apps or services you have requested.
+The final paragraph of Clause Article 4 of this Notice shall be
+replaced with the following:
+Article 4 Disclosure of Personal Data to Third Parties
+We disclose personal data to other entities within the Weverse
+group, for legitimate business purposes and the operation of our
+Sites, Apps or services to you, in accordance with applicable law.
+In addition, we disclose personal data to:
+you and, where appropriate, your appointed representatives;
+legal and regulatory authorities, upon request, or for the
+purposes of reporting any actual or suspected breach of
+applicable law or regulation;
+accountants, auditors, consultants, lawyers and other outside
+professional advisors to HYBE, subject to binding contractual
+obligations of confidentiality;
+third party processors, located anywhere in the world, subject
+to the requirements noted below in this Section Article 4;
+any relevant party, regulatory body, governmental authority, law
+enforcement agency or court, to the extent necessary for the
+establishment, exercise or defence of legal claims;
+any relevant party, regulatory body, governmental authority, law
+enforcement agency or court, for the purposes of prevention,
+investigation, detection or prosecution of criminal offences or
+the execution of criminal penalties;
+any relevant third party acquirer(s) or successor(s) in title,
+in the event that we sell or transfer all or any relevant
+portion of our business or assets (including in the event of a
+reorganization, dissolution or liquidation); and
+any relevant third party provider, where our Sites and our Apps
+use third party advertising, plugins or content. If you choose
+to interact with any such advertising, plugins or content, your
+personal data may be shared with the relevant third party
+provider. We recommend that you review that third party’s
+privacy policy before interacting with its advertising, plugins
+or content.
+If we engage a third-party processor to process your personal data,
+the processor will be subject to binding contractual obligations to:
+(i) only process the personal data in accordance with our prior
+written instructions; and
+(ii) use measures to protect the confidentiality and security of the
+personal data; together with any additional requirements under
+applicable law.
+Please see Article 5 for more information on
+the third-party processors
+engaged by Weverse.
+Clause Article 6 of this Notice shall be replaced with the
+following:
+Article 6 International Transfer of Personal Data
+Because of the international nature of our business, we transfer
+personal data within the Weverse group, and to third parties, as
+discussed further in Article 6, in connection with the purposes set
+out in this Notice. For this reason, we transfer personal data to
+other countries that may have different laws and data protection
+compliance requirements to those that apply in the country in which
+you are located, including Korea, Japan, and the United States.
+If an exemption or derogation applies (e.g., where a transfer is
+necessary to establish, exercise or defend a legal claim) we may
+rely on that exemption or derogation, as appropriate. Where no
+exemption or derogation applies, and we transfer your personal data
+from the EEA or UK to recipients located outside the EEA or UK who
+are not in jurisdictions formally designated by the European
+Commission or UK Government as providing an adequate level of
+protection for personal data, we do so on the basis of template
+transfer clauses adopted by the European Commission or adopted by a
+Data Protection Authority and approved by the European Commission,
+or adopted by the UK Government (as appropriate). You are entitled
+to request a copy of these clauses using the contact details
+provided in Section Article 13 below.
+Please note that when you transfer any personal data directly to any
+Weverse entity established outside the EEA or UK, we are not
+responsible for that transfer of your personal data. We will
+nevertheless process your personal data, from the point at which we
+receive those data, in accordance with the provisions of this
+Notice.
+Clause Article 8 of this Notice shall be replaced with the
+following:
+Article 8 Procedures and Methods of Destroying Personal Data
+We destroy your personal information in accordance with our internal
+policies and other applicable laws.
+The following shall be added at the bottom of Clause Article 9:
+Article 9 Your Legal Rights
+In addition to the above rights, you remain entitled to all other
+statutory rights.
+You may also have the following additional rights regarding the
+processing of your personal information:
+the right to object, on grounds relating to your particular
+situation, to the processing of your personal information by us
+or on our behalf, where such processing is based on Articles
+6(1)(e) (public interest) or 6(1)(f) (legitimate interests) of
+the GDPR; and
+the right to object to the processing of your relevant personal
+data by us or on our behalf for direct marketing purposes.
+Clause Article 11 of this Notice shall be replaced with the
+following:
+Article 11 Cookies and Similar Technologies
+When you visit a Site or use an App, we will typically place cookies
+onto your device or read cookies already on your device, subject
+always to obtaining your prior consent, where required, in
+accordance with applicable law. For further details, please see our
+Cookie Policy
+Clause Article 13 of this Notice shall be replaced with the
+following:
+Article 13 Contact Information
+You may contact our DPO
+[privacy@weverse.io]
+if you wish to exercise your rights in connection with this Notice
+or your personal data. You may also contact our represnetative
+[EU LOCAL REPRESENTATIVE]
+Weverse, Weverse Account, Weverse Shop, Weverse Albums,
+Phoning
+privacy@weverse.io
+Weverse Concerts
+concerts.support@kiswe.com
+Weverse, Weverse Account, Weverse Shop, Weverse Albums,
+Phoning:
+privacy@weverse.io
+Weverse Concerts:
+concerts.support@kiswe.com
+Clause Article 14 of this Notice shall not apply.
+California Consumer Privacy Act (CCPA)
+Clause Article 7 of this Notice shall be replaced with the
+following:
+Article 7 Data Retention
+We take every reasonable step to ensure that your personal
+information is only processed for the minimum period necessary for
+the purposes set out in this Notice. We will retain your personal
+information in a form that permits identification only for as long
+as:
+(1) we maintain an ongoing relationship with you; or
+(2) your personal information is necessary in connection with the
+lawful purposes set out in this Notice, for which we have a valid
+legal basis.
+Clause Article 9 of this Notice shall be replaced with the
+following:
+Article 9 California Consumer Privacy Act Disclosures
+Under the California Consumer Privacy Act (“CCPA”), we must disclose
+our practices regarding the collection, use, and disclosure of the
+personal information of California residents (“Consumers”).
+Collection of Personal Information
+We have collected and will collect the following general categories
+of personal information about Consumers:
+Personal identifiers, including names, postal addresses, IP
+addresses, and email addresses;
+Protected classifications, including age;
+Internet or other electronic network activity information; and
+Inferences for use in creating a consumer profile.
+Our service is not offered for children (under 14 years old for
+South Korean and under 16 years old for international users). If we
+discover that we have collected the personal information of a child,
+we will delete the information and cancel the user's account. If you
+believe that we have collected information of a child, please inform
+us via contact information in Article 13.
+Use of Personal information
+We may use the categories of personal information described above
+for the following business or commercial purposes:
+Advance our commercial or economic business interests;
+Maintain or service customer accounts;
+Provide customer service;
+Process or fulfill orders and transactions;
+Provide advertising or marketing services;
+Provide analytic services;
+Perform internal research for technological development;
+Ensure the quality and safety of services or devices;
+Improve the quality and safety of services or devices;
+Debugging to address impairments to operational functionality;
+Detect security incidents;
+Comply with applicable law and law enforcement requirements;
+Protect against malicious, deceptive, fraudulent or illegal
+activity;
+Prosecute those responsible for malicious, deceptive, fraudulent
+or illegal activity; and
+Defend against or bring legal action, claims and other
+liabilities.
+Categories of Sources of Personal information
+We collect or obtain personal information of Consumers from the
+following sources:
+Information provided to us by Consumers;
+Information we obtain on our own;
+Information provided to us through collaboration with
+Consumers;
+Information provided to us in the course of our relationship
+with Consumers;
+Information made public by Consumers;
+App data;
+Site data;
+Information registered by Consumers;
+Information obtained from content and advertising providers; or
+Information provided to us by third parties.
+Disclosure of Personal information
+We do not sell any personal information to third parties. In
+particular, we do not sell the personal information of minors under
+16 years of age. In the preceding 12 months, we have disclosed the
+following categories of personal information to the following
+categories of recipients:
+Disclosure of Personal information
+Categories of recipients
+Categories of personal information
+Vendors who may need access to Consumers’ personal
+information to help us provide our services.
+Personal identifiers
+Categories of personal information enumerated in
+Cal. Civ. Code § 1798.80 (e)
+Protected classification (if provided)
+Internet or other electronic network activity
+information
+Inferences for use in creating a consumer profile
+Entities who provide us with email address management and
+communication contact services, and those who analyze and
+enhance our marketing campaigns and service.
+Personal identifiers
+Categories of personal information enumerated in
+Cal. Civ. Code § 1789.80 (e)
+Protected classification (if provided)
+Internet or other electronic network activity
+information
+Inferences for use in creating a consumer profile
+Entities we partner with to assist us with our Weverse
+community events.
+Personal identifiers
+Categories of personal information enumerated in
+Cal. Civ. Code § 1789.80 (e)
+Categories of recipients:
+Vendors who may need access to Consumers’ personal information
+to help us provide our services.
+Categories of personal information:
+Personal identifiers
+Categories of personal information enumerated in Cal.
+Civ. Code § 1798.80 (e)
+Protected classification (if provided)
+Internet or other electronic network activity
+information
+Inferences for use in creating a consumer profile
+Categories of recipients:
+Entities who provide us with email address management and
+communication contact services, and those who analyze and
+enhance our marketing campaigns and service.
+Categories of personal information:
+Personal identifiers
+Categories of personal information enumerated in Cal.
+Civ. Code § 1789.80 (e)
+Protected classification (if provided)
+Internet or other electronic network activity
+information
+Inferences for use in creating a consumer profile
+Categories of recipients:
+Entities we partner with to assist us with our Weverse community
+events.
+Categories of personal information:
+Personal identifiers
+Categories of personal information enumerated in Cal.
+Civ. Code § 1789.80 (e)
+Clause Article 11 of this Notice shall be replaced with the
+following:
+Article 11 California’s “Shine the Light” Law
+Under California’s “Shine the Light” law, California residents are
+entitled to ask us for a notice describing what categories of
+personal customer information we share with third parties or our
+affiliates in connection with direct marketing performed by such
+third parties or our affiliates. The aforementioned notice will
+identify the categories of information we shared with third parties
+and our affiliates, and will include a list of names and addresses
+of such data recipients. If you are a California resident and would
+like a copy of this notice, please submit a written request to the
+following email address:
+Weverse, Weverse Account, Weverse Shop, Weverse Albums,
+Phoning
+privacy@weverse.io
+Weverse Concerts
+concerts.support@kiswe.com
+Weverse, Weverse Account, Weverse Shop, Weverse Albums,
+Phoning:
+privacy@weverse.io
+Weverse Concerts:
+concerts.support@kiswe.com
+Clause Article 13 of this Notice shall be replaced with the
+following:
+Article 13 Consumer Rights under the CCPA
+If you are a Consumer, the CCPA grants you the following rights
+regarding your personal information. If you make a certain request
+to us in order to exercise, or cause an authorized representative
+you appointed to exercise on your behalf, your rights to know and
+delete set forth in the CCPA, we will generally require you to
+provide us with certain personal information for the purpose of
+identifying you in the course of handling your request and compare
+such personal information against the personal information we have
+collected about you to verify your identity (“verifiable consumer
+request”).
+Verifiable consumer requests to know or delete may be submitted
+through one of the following methods:
+Call us toll free at: +1 (209) 370-0219
+Or by email at:
+Weverse, Weverse Account, Weverse Shop, Weverse Albums,
+Phoning:
+privacy@weverse.io
+Weverse Concerts:
+concerts.support@kiswe.com
+Weverse, Weverse Account, Weverse Shop, Weverse Albums,
+Phoning
+privacy@weverse.io
+Weverse Concerts
+concerts.support@kiswe.com
+Right to Know About Personal Information We Collected about You.
+Consumers have the right to submit a verifiable consumer request
+that we disclose the following personal information we collected
+about you over the 12-month period preceding the verifiable consumer
+request, in a readily useable format:
+The categories of personal information we collected about you.
+The purposes for which the categories of personal information
+collected about you will be used.
+The categories of sources for the personal information we
+collected about you.
+The categories of third parties with whom we share your personal
+information.
+Our business or commercial purpose for collecting your personal
+information.
+The specific pieces of personal information we collected about
+you.
+The categories of personal information we have disclosed for a
+business purpose.
+Right to Request Deletion of Personal Information.
+Consumers have the right to request that we delete any personal
+information we have collected from them.
+Right to Non-Discrimination.
+Consumers have the right to be free from discrimination when they
+exercise their rights under the CCPA and, should you exercise those
+rights, we cannot:
+1. Deny you goods or services;
+2. Charge you a different price or rate for goods or services;
+3. Provide you with a different level of quality of goods or
+services;
+4. Suggest that you may receive a different level of quality of
+goods or services.
+Notice of Financial Incentive
+We offer consumers who provide personal identifiers, including their
+name, home address, and email address, and commercial information,
+including their purchase history and access to Weverse community
+events. As participants in these programs, consumers will have the
+opportunity to win prizes. The value of this personal information to
+our business will vary depending on the consumer's purchases from
+Weverse. Consumers may opt-in to our community events by signing up
+on our website. Consumers may cancel their participation in these
+events at any time.
+Authorized Agent
+Under the CCPA, you may appoint an authorized agent to submit
+requests to exercise your rights on your behalf. Should you choose
+to do so, for your and our protection, we will require your
+authorized agent to provide us with a signed permission
+demonstrating they are authorized to submit a request on your
+behalf. We note, should your authorized agent fail to submit proof
+that they have been authorized to act on your behalf, we will deny
+their request.
+Clause Article 14 of this Notice shall not apply.
+Japan
+According to the purpose of the Article, the “relevant laws" and
+“relevant Korean laws" stated in this Notice shall be replaced with
+the Act on the Protection of Personal Information (Act No. 57 of
+2003) and relevant Japanese laws.
+The terms used in Clause Article 2 of this Notice shall be replaced
+with the following:
+The description of this Notice shall be replaced with the following:
+“We process your personal information for the following purposes
+pursuant to applicable law.”
+Clause Article 4 (Provision of Personal Information to Third
+Parties), Article 5 (Entrustment of Personal Information), and
+Article 6 (International Transfer of Personal Information) of this
+Notice shall be replaced with the following:
+Except in the following cases, we do not provide third parties with
+your personal information, unless you consent thereto or the
+disclosure is otherwise expressly prescribed in applicable law.
+Details About Providing Personal Information To Third Parties
+Details About International Transfer of Personal Information
+Joint Use
+The companies listed below and included in the above details about
+third parties provided with personal information are part of the
+company’s group. The types of jointly used personal information; the
+bounds of jointly using parties; the purpose of using; and the names
+of the companies and their representatives with responsibilities of
+managing personal information are listed below.
+Companies included in the group (jointly using parties): HYBE Co.,
+Ltd., BIGHIT MUSIC, Inc., PLEDIS Entertainment, Inc., BELIFT LAB
+Inc., KOZ ENTERTAINMENT, SOURCE MUSIC Co.Ltd., ADOR Co., WEVERSE
+COMPANY Inc., WEVERSE JAPAN, Inc.
+Types of information for joint use: Same as listed in “Details
+About Providing Personal Information To Third Parties" and
+“Types of personal information”.
+Purpose of use: Same as listed in “Details About Providing
+Personal Information To Third Parties" and “Types of personal
+information”.
+Management responsibilities: The names of the company’s
+representatives are the same as listed in each company’s
+website.
+References
+Personal Information Protection Systems of Countries Receiving
+Information
+Provision by Entrustment
+The company has entrusted specialized companies and platforms with
+the tasks of processing personal information within reasonable
+scopes, in order to achieve the purposes of providing service and
+fulfilling contracts, and improving the convenience of customers.
+Details About Providing Personal Information To Third Parties
+Details About International Transfer of Personal Information
+When signing a contract with entrusted companies, important issues
+are addressed including prohibition of processing personal
+information for purposes other than entrusted purposes; technical
+and managerial measures to protect information; prohibition of
+re-entrustment; management and supervision of entrusted companies;
+and indemnification for possible damages. The company supervises the
+entrusted companies to ensure they handle the information safely.
+If there are any changes in the entrusted tasks or list of entrusted
+companies, we will make sure to notify by sharing the revised
+Privacy Policy.
+References
+Personal Information Protection Systems of Countries Receiving
+Information
+Clause Article 12 of this Notice is not applied.
+The following shall be added to Clause Article 13.
+COMPANY: WEVERSE COMPANY Inc.
+ADDRESS: 6F, C, Pangyo Tech-One Tower, 131, Bundangnaegok-ro,
+Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
+CEO: JOON WON CHOI
+Clause Article 14 of this Notice is not applied.

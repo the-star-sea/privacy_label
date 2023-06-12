@@ -1,0 +1,129 @@
+LoginYour Free 3D Chat Community
+Club Cooee works best with JavaScript enabled
+HelpHelp CenterHelp CommunityDesign TemplatesVideosCode of ConductTerms of ServicePrivacy Policy
+Club Cooee is an online 3D chat community where members use 3D avatars to meet new people, chat, create and have fun with their friends. All in One. And best of all: It's FREE!												Sign up »
+Privacy Policy
+Preliminary Note
+The responsible handling of your data is one of the central values of our company.
+Since the launch of the online service in 2009, we have collected, processed and utilized the personal data of our users with the greatest possible care and under the highest security standards. In addition, we now meet the requirements of the GDPR.
+This gives you as a customer full transparency and control over YOUR data in our company at all times.
+This privacy policy sets out the most important aspects of how we collect, process, use or share your personal information and the ways in which you can influence it.
+Consent and Revocation
+You must agree to the processing of your data with your consent to our privacy policy. You may withdraw or revoke your consent at any time.
+Data Gathering
+We collect personal information about you when you:
+Visit our website
+Register with us
+Use Club Cooee
+Get in contact with us
+Respond to our advertising
+Buy our virtual currency (Cooee Cash)
+Your personal data is collected, used and processed electronically. The data comes from the following sources:
+Information you submit to us that is mandatory for participation (name, gender, age, consent to the privacy policy and terms of service).
+Data that you yourself provide and that is not necessary for participation (e.g.: profile information, posts, pictures, sounds, opinions, comments, chats, game progress, music selection, friends network, room setup, transactions, payments).
+Data that we automatically collect when you use the platform (IP address, logs, time, device information, tracking information in cookies and system information in case of program crashes such as operating system, graphics card, processor type, processor clock, memory and crash log).
+Data which we receive from commissioned payment service providers (e.g. Apple, Google, credit card transfer, bank transfer and Premium SMS) when you purchase our virtual currency (payer information, amount, payment method, exchange rates, country of origin). Depending on the payment method used, the payment service provider will send us personal data about you, such as your name, address or telephone number. We have no influence on the type and scope of data made available to us in this way. Any sensitive data such as: credit card or telephone numbers are shortened or partly made unrecognizable. However, they are sufficient to identify the person concerned in the event of late payment, payment problems or payment fraud.
+Use of Data
+We use your personal data to:
+Create, update and delete your account.
+Determine your current status and show it to other users (online/offline, mobile or desktop).
+Personalize Club Cooee for you (suggestions for appropriate contacts, clothing, items, animations, smileys and rooms, game progress reward).
+Make Club Cooee safe and secure (identification of malicious behavior, anti-spam measures, detection and verification of payment fraud, sanctioning, blocking and deletion of the user accounts concerned).
+Communicate with you (messages such as news or changes, newsletters)
+Send you push notifications or alerts to your mobile device to provide game-related information, promotional communication and other related messages, if you have agreed to such notices. You can deactivate these notifications by changing the notification settings on your device.
+Solve problems together with you (assistance with use, contact point for insults and bullying, account fraud and ambiguities with payments).
+Run and further develop Club Cooee (test mode for new features, obtaining user feedback, finding and fixing problems, errors and crashes).
+Assign your payments, which are processed by a payment service provider such as Premium SMS, PayPal, voucher card, credit card, bank transfer, app store, etc. to your customer account.
+Use your information to better understand and address other and new users (advertising measures to acquire new customers and market research).
+Data Transfer
+We do not share any information about you with other parties that goes beyond the consent given for this privacy policy. After you have given your consent, we may share information about you with the following three groups:
+Group 1: Players, moderators, administrators, visitors and developers using the game itself (avatar, chats, parties, shops, social networking etc.), such as:
+People with whom you share or communicate content within Club Cooee, i.e. other users and friends. You can block or allow this content according to your personal preferences for other users.
+Visitors to our website who view your public content from outside without a Club Cooee user account. You can block these contents individually and depending on their confidentiality for foreign visitors.
+Administrators and moderators who are responsible for compliance with our rules of conduct. In the event that a user reports misconduct, these employees receive a brief insight into a data record in order to understand the misconduct. This record contains the name of the user as well as information on misconduct, such as the current chat history, published pictures or texts. On the basis of this data, the user’s behavior is immediately clarified or sanctioned by discarding, warning or blocking the user. A large part of the misconduct is recognized and processed automatically and anonymously by algorithms, so that administrators and moderators are used very rarely and only in controversial cases.
+Developers who will contact you as needed and with your permission to find and fix problems or bugs in the program.
+Group 2: Companies whose services we need to implement and improve the underlying business model, such as:
+Selected companies that we use to collect statistical data to understand user behavior. With this information we manage advertising campaigns to win new customers. Your data will be anonymized and statistically processed on the basis of sample distributions (IP addresses, location information, pixel events, cookies, login frequency, duration of stay on the platform, frequency of return, usage behavior, payment behavior, purchasing behavior, age and gender distribution). Examples of such services are: Google Analytics, Google AdWords, Google Firebase, Bing Ads, Facebook Ad Manager, VWO, Ironsource, AppsFlyer, AppFollow and Branch.io. The services meet the requirements of the GDPR and are used by us as contract data processors.
+Cooperation partners to support sales measures (game portals etc.). We provide these partners with statistical and anonymous data on user groups in terms of age distribution, usage habits, gender distribution, etc.
+Our provider/host that stores and executes the databases and server-side programs for the worldwide operation of the service (server and backup location).
+Content Delivery Networks (CDNs). They are used to make your pictures and sounds available to other Club Cooee users for viewing or listening thus ensuring a low download latency (‘ping’) at a high download speed. The data is transmitted to the providers in anonymous and encrypted form and processed there.
+Group 3: Public authorities and contract data processors, if we are obliged by the existing legal situation to do so, such as:
+Authorities that we must inform in the event of legal violations (fraud, theft, user statements requiring notification, e.g. calls for violence or announcements of suicide).
+Authorities and companies that we inform in the course of our business operations (accounting, commercial register, Federal Gazette, document register). These data are highly aggregated and cannot be traced back to individual users (e.g. country-specific gains and losses).
+Privacy Rights
+You have complete control over your personal data.
+You can request access to your personal data stored by us at any time. The data will be compiled in a readable format. The format is portable and can be used for other purposes. In order to access data, it is necessary that you make a request for data information in your profile settings. Depending on the amount of your data and the computing load of our systems, it may take a while to compile the data. You will then find a text file in your profile settings that you can download.
+You can ask us to completely delete your data at any time.
+You can be assured that your data will be completely removed if required. Your data will only be stored and processed by us for as long as it is necessary for the purpose for which it is intended. For example, we delete your chats in rooms after a few minutes, your chats with friends after a few days, your payment data after processing (receipt of payment or cancellation).
+You can revoke your consent to data processing or close your account at any time. A complete deletion of all associated data takes place after expiry of legal deadlines (e.g.: outstanding payments, dunning procedures) as well as earmarked deadlines to clarify any misuse of accounts, at the latest however after 6 months. During this period your data will not be visible and will neither be processed nor used. Within this period you can have your user account restored. When  you close your user account, we will send you an e-mail to your previously stored and authenticated e-mail address which enables you to restore your account if you so wish.
+You can contact your local data protection authority if you have any complaints about the use of your data.
+Age limits
+Our services are intended for general audiences and we do not knowingly collect personal data about children. If we discover that we have inadvertently gathered personal information from a minor under 13 years of age, we will take reasonable measures to promptly delete such personal information from our records.
+Data Integrity
+The collection, processing and utilization of your data at Club Cooee are carried out according to the highest technical and organizational security standards. These correspond to the current technological state and are continuously updated.
+cooee GmbH would like to emphasize that data protection and data security cannot be guaranteed when transmitted through open networks such as the internet according to the current technical state. Please be aware that the provider may have access to the data stored on servers, which may include your data. Other internet users may also be technically able to gain unauthorized access to your data.
+Changes to the Privacy Policy
+We will always inform you about any upcoming changes to our privacy policy. This will give you the opportunity to review the new policy and agree to the changes in time or not.
+Legal Basis
+Cooee will only collect, process and use your personal data for the purpose of implementing this contract (including billing), unless cooee GmbH is legally obliged to disclose the data or you have agreed to another use.
+Our data protection regulations are continuously updated and comply with the current requirements of the GDPR. This does not necessarily apply to third parties and companies with whom we cooperate – unless they operate in EU countries.
+According to the General Data Protection Regulation (GDPR), Club Cooee is responsible for your data.
+The data protection officer of cooee GmbH is:
+cooee GmbH
+Ingo Frick
+Europaallee 7-9
+67657 Kaiserslautern, Germany
+dpo@clubcooee.com
+About Us
+Imprint
+Contact
+Jobs
+Help
+Download
+Code Of Conduct
+Terms of Service
+Privacy Policy
+Facebook
+Twitter
+Instagram
+YouTube
+TikTok
+Deutsch
+English
+Español
+Français
+Português
+Türkçe
+{px}px
+/
+XS
+S
+M
+L
+XL
+Landscape
+Portrait
+Show:
+XS
+S
+M
+L
+XL
+Hide:
+XS
+S
+M
+L
+XL
+On:
+XS
+S
+M
+L
+XL
+Off:
+XS
+S
+M
+L
+XL

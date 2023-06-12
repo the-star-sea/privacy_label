@@ -1,0 +1,290 @@
+Privacy Policy - Uplift
+how to Uplift
+our partners
+become a partner
+travel supplier
+retail
+hospitality
+travel agency/advisor
+Search
+Menu
+Menu
+English
+Francais
+English
+English
+sign in
+Privacy Policy
+Effective: May 17, 2023
+1. Scope and Purpose of this Privacy Policy
+2. Information Uplift Collects
+3. How We Use Your Information
+4. How We Share Your Information
+5. Security
+6. Links to Other Web Sites
+7. Testimonials
+8. Notifications
+9. Children’s Privacy
+10. Compliance with State and Federal Laws
+11. International Users
+12. Changes to Our Privacy Policy
+13. How to Contact Uplift
+14. California Privacy Rights
+Uplift, Inc. Federal Privacy Notice
+Other important information
+CBW Bank Privacy Notice
+Celtic Bank Privacy Notice
+1. Scope and Purpose of this Privacy Policy
+Uplift is committed to your online privacy and security. Uplift (“Uplift”, “we”, “us”, and/or “our”) uses this Privacy Policy to provide you with information about our service and application (“App”) (the service and App together, the “Uplift Service” or “Service”). We also use it to set out our policy and commitments regarding data collection, use, and sharing for websites and applications that use the Uplift Service and reference this Privacy Policy, offer Uplift’s Pay Monthly, use the Uplift JavaScript tag, the Uplift Software Development Kit (SDK) and/or the Uplift Application Programming Interfaces (API’s), collectively (“Site” or “Sites”).
+Your use of the Uplift Service and Sites is subject to this Privacy Policy and to our Terms of Use. A person must be eighteen (18) years or older to use our Services.
+2. Information Uplift collects
+Personal Information You Provide
+If you submit a loan request or receive a loan through Uplift, we collect personal information such as your name, home address, home phone number, mobile phone number, email address, date of birth, full or partial Social Security number, ID number (e.g. drivers license number), bank account number and/or payment card number. This information may be required to apply for a loan, create an account, and complete your transaction. This information is used to verify your identity, determine eligibility and facilitate your transaction. Additional information may be collected when you contact customer service via SMS, email or telephone.
+If you create a profile on our App (“Profile”), we collect personal information such as email and mobile phone number. This information is used to provide log-in credentials, to verify your identity, and to enable your use of the App.
+Information We Receive from Third Parties
+We may receive information about you from third parties. For example, we work with identity verification services that help us confirm consumer identities in an effort to limit fraud. As part of the credit underwriting process, we will obtain information about you, including your personal information and consumer reports, from credit reporting agencies. If you access the Service through a third-party website, application, referral or connection, that third party may pass certain information about you and your use of its service to us. This information could include a user ID associated with your account, an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service.
+Cookies and Tracking Technologies
+Technologies such as cookies, beacons, tags, scripts and Local Storage Objects may be used by the Uplift Service to deliver content, remember your settings, better understand how our visitors navigate through the Site, learn what content is being reviewed, and administer the Site. Web browser documentation should be consulted to learn the proper way to modify cookie settings. If a web browser’s settings are set to delete, or not to accept cookies, some of the Service’s features may not work at all or to their fullest potential.
+Device and Online Activity Information
+Log file information is automatically reported by your browser or mobile application each time you access our Service. For example, when you access a Site, our servers automatically record certain information that your web browser or mobile device sends whenever you visit a website or app. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, operating system, device type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, geolocation and other such information.
+Analytical and Transactional Information
+We may collect additional information directly or using third-party analytics tools. For example, we may need to collect your loyalty number and/or other personally identifying information to fulfill a bonus points offer. We may also collect shopping and transaction information including product SKUs, the payment method, the first 6 and last 4 digits of a payment card, the payment card expiration date, the amount and currency of the transaction, the order confirmation number for the transaction and other details about the purchase.
+Do-Not-Track Signals
+Uplift does not process or respond to “do not track” signals or other similar signals whereby a visitor to a website requests that it disable collection of information about the visitor’s online activities over time and across different websites.
+Survey Information
+On occasion, we may seek your feedback through surveys or other mechanisms. Providing feedback in these contexts is entirely voluntary, but if you choose to participate, we may ask you to provide personal information such as your name, email address, and phone number, in addition to your feedback.
+Information from Advertisements on Other Websites
+We place and track advertisements on third-party websites. Like many advertisers, we advertise our products and services, and we contract with third parties to place advertisements, on websites not affiliated with us where we think the advertisements are likely to be most relevant. These advertisements may contain cookies or other mechanisms that allow tracking of your response to our ads. We and our contracted third parties track and report performance of our advertising and marketing campaigns by using cookies, web beacons, and other similar technology, which may be used to collect and store information about user visits, page visits and duration, and the specific ad or link that the user clicked on to visit the site. No personally identifiable information is stored during this process.
+Contacting Us
+If you contact us, you may request information about Uplift or the Service. When you do, we may ask you to provide personal information with your request such as your name, email address, and phone number. Based on the nature of your request, we may also ask for additional information, such as how you anticipate you will make use of our Service and how you learned about us.
+Accessing and Modifying Your Information
+You can access, modify, correct, or delete your personal information by accessing your account at uplift.com or by contacting us as indicated below. We will retain your information for as long as your account is active or as needed to provide you Services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+3. How We Use Your Information
+We may use the information we collect for the following purposes:
+To provide, personalize, improve, and promote our Sites or Service, and to develop new products and services;
+To conduct research, monitor and analyze usage and trends;
+To communicate with you, including for service-related purposes and marketing purposes, and to respond to your requests or inquiries;
+To enforce this Privacy Policy, our Terms of Use, and other terms you have agreed to, and to protect the rights, property, or safety of our Sites, Service, or any other person; and
+Future underwriting.
+4. How We Share Your Information
+Service Providers and Other Third Parties
+We share your information with service providers and other third parties such as identity verification services, credit reporting agencies and other data providers, servicing companies, collection agencies, customer support call centers, hosting and electronic payment service providers to perform functions and process data on our behalf. Some of these service providers and other third parties, such as fraud scoring and analytics providers, may collect information about your online activities over time and across different websites or online services. We may share your information with any of these service providers or third parties to allow them to perform the services they have agreed to provide us. Our service providers are required to keep your information private and secure and adhere to applicable state and federal laws and regulations.
+If you check your eligibility or apply for a loan through the Service, attributes about your loan request may be made available to potential investors, service providers and third parties. This information includes non-personally identifiable details about your loan request, as well as your, general geographic location, Uplift credit grade, and the purpose for which the loan will be used. When you request a loan through Uplift, your information will be provided to the potential originating bank. Banking partners, such as CBW Bank and Celtic Bank, will have access to information you provide to us. Please see the CBW Bank and Celtic Bank privacy notice below.
+If you successfully receive a loan through Uplift, we may also share detailed information about your loan including personally identifiable financial information, terms, payment performance, late payments, delinquency, defaults or collections activity to our investors, lenders, bank partners, loan servicers, referring merchants, travel partners, service providers, subsequent creditors, ratings agencies, credit bureaus and/or consumer reporting agencies.
+Other Information Sharing
+We may also share your information:
+With the merchant or website on which you use Uplift’s Services;
+With commercial partners which provide product listings in our App;
+To provide marketing services, including on behalf of our merchant partners;
+To provide customer service, resolve disputes and verify the accuracy of information;
+With third parties in anonymized or aggregate form;
+With any other third party with your consent to do so; or
+With an acquirer, successor, or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction (or as part of the negotiations or due diligence for such transactions).
+We reserve the right to disclose your personal information when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our Service. We may also share your information with law enforcement or other government agencies as required by law, such as to comply with a subpoena, bankruptcy proceedings or similar legal process or for the purposes of preventing fraud or criminal activity or to protect your safety or the safety of others.
+5. Security
+We take commercially reasonable steps to protect information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. To that end, we use certain physical, managerial, administrative, and technical safeguards that are designed to protect the information that we collect and maintain. Please understand, however, that no security system is impenetrable and no method of data transmission can be guaranteed against any interception or other types of misuse. We cannot guarantee the security of our databases, nor can we guarantee that the information that you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from us may not be secure, and you should therefore take special care in deciding what information you send to us via email.
+We employ session timeouts to protect your account. You will be logged out of the site automatically after a period of inactivity. This reduces the risk of others being able to access your account if you leave your computer unattended.
+In the event that Uplift possesses, processes, stores or transmits cardholder data on behalf of a customer, Uplift will take commercially reasonable steps to ensure the cardholder data is secure.
+6. Links to Other Web Sites
+We are not responsible for the practices employed by websites or services embedded or linked to or from the Uplift Service or Sites, including the information or content contained therein. Please remember that when you use the App to visit a website or you use a link to go from an Uplift Service or Sites to another website or service, you are visiting a third-party website or service. This Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. Please consult the privacy policies on these sites before you provide them with any of your personal information. You agree that we are not responsible for any third-parties that you authorize to collect, use or share your information. However, third parties (including affiliate networks and other advertisers we partner with for in affiliate network marketing programs) may serve content and advertisements, collect information directly from you when visiting such third-party websites, and place or recognize cookies on visitors’ browsers.
+7. Testimonials
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at support@uplift.com.
+8. Notifications
+From time to time, Uplift will send you email or text message (data rates apply) or app notifications as confirmations of particular actions you have taken. These are required elements of your transactions on our Service. These required notices are sent typically to notify you of a change in status, such as when you are confirmed as a borrower or for legal or security purposes. For example, certain notifications are sent for your own protection to ensure that no one can make a change to your account without your knowledge, such as confirming the addition of a new email address or linked external bank account. These notifications are sent to you so that you can be assured that no one is making changes to your account without your knowledge. In other cases, these notifications involve changes to various legal agreements or site policies. Generally, you may not opt out of these service-related messages.
+You can opt out of receiving text messages by emailing support@uplift.com or contacting customer support. Uplift reserves the right to close or limit access to your account should you opt out of the crucial notices that are required to perform the Uplift Service. You are still responsible for any amounts due to Uplift even if we close or limit access to your account.
+9. Children’s Privacy
+We do not knowingly collect personal information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided personal information to us, please contact us, and we will endeavor to delete that information from our databases.
+10. Compliance with State and Federal Laws
+This Privacy Policy may not constitute your entire set of privacy rights, as these may also vary from state to state. To be certain of your privacy rights, you may wish to contact the appropriate agency in your state that is charged with overseeing privacy rights of consumers. Certain regulations issued by state and/or federal government agencies may require us to maintain and report demographic information on the collective activities of our membership. We may also be required to maintain your personal information for at least seven years in order to be in compliance with applicable federal and state laws regarding recordkeeping, reporting, and audits.
+11. International Users
+Our Sites and Service are hosted in the United States. If you choose to use them from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your information outside of those regions to the United States for storage and processing. By providing your information, you consent to any transfer and processing in accordance with this Privacy Policy. We also may subcontract processing to, or share your information with, third parties located in countries other than your home country.
+12. Changes to Our Privacy Policy
+This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time. By accessing and/or using the Uplift Service after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis.
+13. How to Contact Uplift
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at support@uplift.com, call us at (844) 257-5400 or send mail to:
+Uplift, Inc.
+5301 Kietzke Lane, Suite 200
+Reno, NV 89511
+14. Your California Privacy Rights
+This section describes how we collect, use and share Personal Information of California residents in our capacity as a “business” under the California Consumer Privacy Act (“CCPA”), and their rights with respect to that Personal Information. For purposes of this section, the term “Personal Information” has the meaning given in the CCPA but does not include information exempted from the scope of the CCPA. For example, this section does not apply to personal information covered by the Gramm-Leach-Bliley Act (“GLBA”), the California Financial Information Privacy Act (“CFIPA”), or the Fair Credit Reporting Act (“FCRA”).
+Your California privacy rights. California residents have the rights listed below under the CCPA. However, these rights are not absolute, and in certain cases we may decline your request as permitted by law.
+Information. You can request the following information about how we have collected and used your Personal Information during the past 12 months:
+The categories of Personal Information that we have collected.
+The categories of sources from which we collected Personal Information.
+The business or commercial purpose for collecting and/or selling Personal Information.
+The categories of third parties with which we share Personal Information.
+The categories of Personal Information that we sold or disclosed for a business purpose.
+The categories of third parties to whom the Personal Information was sold or disclosed for a business purpose.
+Access. You can request a copy of the Personal Information that we have collected about you during the past 12 months.
+Deletion. You can ask us to delete the Personal Information that we have collected from you.
+Opt-out of sales. You can opt-out any sale of your Personal Information.
+Nondiscrimination. You are entitled to exercise the rights described above free from discrimination as prohibited by the CCPA.
+Exercising your right to information, access and deletion. You may submit requests to exercise your right to information, access or deletion using this form, by calling us toll free at (844) 257-5400, or via email to privacy@uplift.com.
+Notice of right to opt-out of the “sale” of your Personal Information. We do not sell your personal information to advertisers, but we may sometimes share with a particular merchant with whom you have been shopping. You can request to opt-out of the “sale” of your personal information here: Do Not Sell My Personal Information.
+We may not be able to process your request if you do not provide us with sufficient detail to allow us to understand and respond to it.
+We may need to verify your identity to process your information, access and deletion requests and reserve the right to confirm your California residency. To verify your identity, we may require government identification, a declaration under penalty of perjury or other information. Your authorized agent may make a request on your behalf upon our verification of the agent’s identity and our receipt of a copy of a valid power of attorney given to your authorized agent pursuant to California Probate Code Sections 4000-4465. If you have not provided your agent with such a power of attorney, you must provide your agent with written and signed permission to exercise your CCPA rights on your behalf, provide the information we request to verify your identity, and provide us with confirmation that you have given the authorized agent permission to submit the request.
+Personal information that we collect, use and disclose. The chart below summarizes the Personal Information we collect by reference to the categories of Personal Information specified in the CCPA (Cal. Civ. Code §1798.140) and describes our practices currently and during the 12 months preceding the effective date of this Privacy Policy. Information you voluntarily provide to us, such as in free-form webforms, may contain other categories of personal information not described below.
+Statutory category / Personal Information
+(PI) we collect in this categorySource of PIBusiness / commercial purpose for collectionCategories of third parties to whom we “disclose” PI for a business purpose.Categories of third parties to whom we “sell” PI.Online identifiers
+•Device identifiers
+•Cookies
+• You
+• Third-party
+sources
+• Automatic
+collection•	Service delivery
+•	Research & development
+•	Fraud detection and prevention
+•	Compliance
+• Affiliates
+• Service providers
+• Professional advisors
+• Government authorities
+• Commercial partners which provide product listings in our App (“App Partners”)
+We do not sell this PI. Internet or network information
+•	Information about your interaction with websites (e.g. referring/exit pages, number of clicks, pages viewed)
+•	Automatic collection•	Service delivery
+•	Research & development
+•	Fraud detection and prevention
+•	Compliance
+•	Service providers
+•	Affiliates
+•	Professional advisors
+•	Government authorities
+•
+App Partners
+We do not sell this PI. Information used to provide From Pricing
+•	Device identifiers
+•	Itinerary information (e.g., dates and travel destinations)
+•	You
+•	Travel and merchant partners
+•	Calculating the monthly payments for different options•	Travel and merchant partnersWe only share this PI with the merchant on whose site you see From Pricing, and we do not keep it.
+Information relating to loan applications,
+loans, and loan servicingThis information is exempted from the scope of the CCPA, and is governed by other federal and state laws, such as the Gramm-Leach-Bliley Act (“GLBA”), the California Financial Information Privacy Act (“CFIPA”), and the Fair Credit Reporting Act (“FCRA”).
+Shine the Light. California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at 440 N. Wolfe Road, Sunnyvale, CA 94085 ATTN: Compliance Team.
+Uplift, Inc. Federal Privacy Notice
+rev. 6/2021
+FACTSWHAT DOES UPLIFT DO WITH YOUR PERSONAL INFORMATION?WhyFinancial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.WhatThe types of personal information we collect and share depend on the product or service you have with us. This information can include:
+Social Security number and transaction history
+Account balances and payment history
+Credit history and credit scores
+When you are no longer our customer, we continue to share your information as described in this notice.How
+All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Uplift chooses to share; and whether you can limit this sharing.
+REASONS WE CAN SHARE YOUR PERSONAL INFORMATIONDOES UPLIFT SHARE?CAN YOU LIMIT THIS SHARING?For our everyday business purposes– such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureausYesNoFor our marketing purposes– to offer our products and services to youYesNoFor joint marketing with App Partners or other financial companiesYesYesFor our affiliates’ everyday business purposes– information about your transactions and experiencesYesNoFor our affiliates’ everyday business purposes– information about your creditworthinessYesNoFor our affiliates to market to youNoWe don’t shareFor non affiliates to market to youYesYes
+TO LIMIT OUR SHARINGCall 1-844-257-5400 (tel:18442575400) to speak to a representative, or visit ccpa.uplift.com (https://ccpa.uplift.com/).
+Please note: If you are a new customer, we may begin sharing your information within 30 days, or sooner if we give you a chance to opt out. When you are no longer our customer, we continue to share your information as described in this notice.
+You can contact us at any time to limit our sharing.
+WHAT WE DOHow does Uplift protect my personal information?To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.How does Uplift collect my personal information?We collect your personal information, for example, when you:
+Open an account or pay us by check
+Use your credit or debit card
+Provide account information or give us your contact information
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.Why can’t I limit all sharing?Federal law gives you the right to limit only:
+Sharing for affiliates’ everyday business purposes – information about your creditworthiness
+Affiliates from using your information to market to you
+Sharing for non-affiliates companies to market to you
+State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.What happens when I limit sharing for an account I hold jointly with someone else?Your choices will apply to everyone on your account.
+DEFINITIONSAffiliatesCompanies related by common ownership or control. They can be financial and nonfinancial companies.
+Uplift, Inc. may share with our affiliates in order to serve you and develop our products and services.NonaffiliatesCompanies not related by common ownership or control. They can be financial and nonfinancial companies.
+Nonaffiliates we share with can include other financial services companies, lenders, travel partners, App Partners and other merchants, credit-reporting bureaus, fraud-prevention services, or other consumer service providers.Joint MarketingA formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+We may do joint marketing with App Partners, travel partners and other merchants.
+OTHER IMPORTANT INFORMATIONCalifornia Residents Only: California residents have additional rights. We will not disclose your personal information to nonaffiliated third parties, other than as permitted by California law, unless you authorize us to make those disclosures.
+Nevada Residents: We are providing you this notice pursuant to state law. You may be placed on our internal Do Not Call List by calling 855-755-1919. Nevada law also requires us to provide you with the following information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Street, Suite 3900, Las Vegas, NV 89101; Phone: 702.486.3132; Email: bcpinfo@ag.state.nv.us
+North Dakota Residents: If you live in North Dakota, we will share information only as permitted by law. We will not share your personal information with joint marketing partners or nonaffiliates for their marketing purposes, unless you authorize us to do so. We will not share information about your creditworthiness with affiliates for their everyday business purposes, or share information about you with affiliates for their marketing purposes, except with your consent or to the extent otherwise permitted by law.
+Vermont Residents Only: We will not disclose information about your credit report to our affiliates and will not disclose your personal information, financial information, credit report, or health information to nonaffiliated third parties to market to you, other than as permitted by Vermont law, unless you authorize us to make those disclosures.
+CBW Bank Privacy Notice
+rev. 1/2018
+FACTSWhat does CBW do with your personal information?WhyFinancial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.WhatThe types of personal information we collect and share depend on the product or service you have with us. This information can include:
+-Social Security number and income
+-Account balances and transaction or loss history
+-Credit history and account transactions
+HowAll financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons CBW Bank chooses to share; and whether you can limit this sharing.
+Reasons we can share your personal informationDoes CBW share?Can you limit this sharing?For our everyday business purposes – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureausYesNoFor our marketing purposes– to offer our products and services to youNoWe don’t shareFor joint marketing with other financial companiesNoWe don’t shareFor our affiliates’ everyday business purposes– information about your transactions and experiencesNoWe don’t shareFor our affiliates’ everyday business purposes– information about your creditworthinessNoWe don’t shareFor our affiliates to market to youNoWe don’t shareFor nonaffiliates to market to youNoWe don’t share
+To limit our sharing-Call (620) 396-8221 – our menu will prompt you through your choice(s)
+-Visit us online: www.cbwbank.com
+Please note:
+If you are a new customer, we can begin sharing your information 30 days from the date we provided or we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.
+However, you can contact us at any time to limit our sharing.
+QUESTIONS?Call (620) 396-8221 or go to www.cbwbank.com
+WHO WE AREWho is providing this notice?CBW BANK
+What We DoHow does CBW Bank protect my personal information?To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.How does CBW Bank collect my personal information?We collect your personal information, for example, when you:
+-Open an account or deposit money
+-Pay your bills or apply for a loan
+-Use your credit or debit card
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.Why can’t I limit all sharing?Federal law gives you the right to limit only:
+-Sharing for affiliates’ everyday business purposes – information about your creditworthiness
+-Affiliates from using your information to market to you
+-Sharing for nonaffiliates to market to you
+State laws and individual companies may give you additional rights to limit sharing. What happens when I limit sharing for an account I hold jointly with someone else?Your choices will apply to everyone on your account.
+DEFINITIONSAffiliatesCompanies related by common ownership or control. They can be financial and nonfinancial companies.
+-CBW Bank has no affiliates.NonaffiliatesCompanies not related by common ownership or control. They can be financial and nonfinancial companies.
+-CBW Bank does not share with nonaffiliates so they can market to you.Joint MarketingA formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+-CBW Bank doesn’t jointly market.
+Celtic Bank Privacy Notice
+rev. 1/2015
+FACTSWhat does Celtic Bank do with your personal information?Why?Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.What?The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+-Social Security number and income
+-Account balances and payment history
+-Credit history and credit scores
+When you are no longer our customer, we continue to share your information as described in this notice
+How?All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Celtic Bank chooses to share; and whether you can limit this sharing.
+Reasons we can share your personal informationDoes Celtic Bank share?Can you limit this sharing?For our everyday business purposes – such as to process your transactions, maintain your accounts, offer loans or lines of credit, offer other financial services, respond to court orders and legal investigations, or report to credit bureausYesNoFor our marketing purposes– to offer our products and services to youNoWe don’t shareFor joint marketing with other financial companiesNoWe don’t shareFor our affiliates’ everyday business purposes– information about your transactions and experiencesNoWe don’t shareFor our affiliates’ everyday business purposes– information about your creditworthinessNoWe don’t shareFor our affiliates to market to youNoWe don’t shareFor nonaffiliates to market to youNoWe don’t share
+Questions?Call 800.854.7848 or go to www.celticbank.com.
+Who we areWho is providing this notice?Celtic Bank
+What we doHow does Celtic Bank protect my personal information?To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.How does Celtic Bank collect my personal information?We collect your personal information, for example, when you
+– Open an account
+– Apply for a loan
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+Why can’t I limit all sharing?Federal law gives you the right to limit only
+– Sharing for affiliates’ everyday business purposes-information about your creditworthiness
+– Affiliates from using your information to market to you
+– Sharing for nonaffiliates to market to you
+State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.
+DefinitionsAffiliates Companies related by common ownership or control. They can be financial and nonfinancial companies.
+-Celtic Bank does not share with our affiliate.
+NonaffiliatesCompanies not related by common ownership or control. They can be financial and nonfinancial companies.
+-Celtic Bank does not share with nonaffiliates so they can market to you
+Joint marketing A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+-Celtic Bank does not jointly market
+Other important information
+LinkedInFacebookInstagramTwitter
+about us
+help
+careers
+member portal
+media
+developer portal
+contact
+forms
+privacy policy
+terms of use
+agent terms of use
+licenses
+do not sell my personal information
+© 2023 Uplift, Inc. Down payment may be required. Actual terms are based on your credit score and other factors and may vary. APRs range from 0% to 36%. Not everyone is eligible. Loans made through Uplift are offered by these lending partners: http://uplift.com/lenders.
+Scroll to top
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+Ce site utilise des témoins de connexion. En continuant à naviguer sur le site, vous acceptez que nous utilisions des témoins.
+CloseCookie and Privacy Settings
+How we use cookies
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website.
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+Essential Website Cookies
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+Because these cookies are strictly necessary to deliver the website, refuseing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+Check to enable permanent hiding of message bar and refuse all cookies if you do not opt in. We need 2 cookies to store this setting. Otherwise you will be prompted again when opening a new browser window or new a tab.
+Click to enable/disable essential site cookies.
+Other external services
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+Google Webfont Settings:
+Click to enable/disable Google Webfonts.
+Google Map Settings:
+Click to enable/disable Google Maps.
+Google reCaptcha Settings:
+Click to enable/disable Google reCaptcha.
+Vimeo and Youtube video embeds:
+Click to enable/disable video embeds.
+Privacy Policy
+You can read about our cookies and privacy settings in detail on our Privacy Policy Page.
+Privacy Policy

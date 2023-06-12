@@ -1,0 +1,107 @@
+{
+  "sharedData": [
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "App functionality, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": false,
+      "purpose": "Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "User payment info",
+      "optional": true,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization",
+      "type": "Financial info"
+    },
+    {
+      "data": "Emails",
+      "optional": true,
+      "purpose": "App functionality, Advertising or marketing, Personalization",
+      "type": "Messages"
+    },
+    {
+      "data": "SMS or MMS",
+      "optional": true,
+      "purpose": "App functionality, Advertising or marketing, Personalization",
+      "type": "Messages"
+    },
+    {
+      "data": "In-app search history",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.dollargeneral.com/privacy-policy"
+}

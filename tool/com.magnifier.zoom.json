@@ -1,0 +1,11 @@
+{
+  "sharedData": [],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    }
+  ],
+  "privacyPolicyUrl": "https://dlq2sfe7kd1h1.cloudfront.net/privacy-policy"
+}

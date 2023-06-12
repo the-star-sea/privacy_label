@@ -1,0 +1,43 @@
+RAR for Android privacy policy
+Core archiving module
+RAR for Android core archiving module does not collect personal information
+such as your name, email address, phone number or credit card.
+It can store file names and paths locally to display them in history lists.
+It can store archive passwords for some time to access encrypted files.
+RAR does not transfer this stored locally information outside of device.
+Mobile Ads SDK
+RAR for Android integrates Google AdMob Mobile Ads SDK.
+AdMob may use the device advertising ID to serve better targeted ads to
+the user.
+Firebase SDK
+RAR for Android integrates Google Analytics and Firebase SDK.
+These services can collect usage data and unique device identifiers
+such as device advertising ID. They can share this data with other
+Google services such as AdMob to server better targeted ads.
+You can read the detailed Google privacy policy here:
+policies.google.com/privacy
+Data collected by these analytic services helps us to better understand
+how Android users utilize RAR.
+Firebase Crashlytics
+RAR for Android integrates Google Firebase Crashlytics and Crash Reporting,
+which collect information about RAR crashes, such as stack traces
+and Instance IDs. We use this information to identify and fix RAR bugs.
+Permissions
+RAR for Android uses following permissions:
+READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE
+to read and write files on SD card.
+WAKE_LOCK
+to continue archiving, extraction and other commands when screen
+is turned off.
+BILLING
+to implement purchases to disable advertising.
+INTERNET and ACCESS_NETWORK_STATE
+to allow advertising to work.
+INSTALL PACKAGES
+to allow RAR file management interface to run APK files in Android 8+.
+RECEIVE_BOOT_COMPLETED
+to allow RAR to use WorkManager component to delete RAR temporary files
+when they become old enough.
+Third party Google services integrated to RAR can use additional
+permissions needed to implement their functions and include such permissions
+to list above.

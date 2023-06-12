@@ -1,0 +1,270 @@
+Start
+About Chat
+Why OmeTV
+FAQ
+Rules
+Privacy Policy
+Introduction
+We are committed to safeguarding the privacy of our service users.
+This policy applies where we are acting as a data controller with respect to the
+personal data of our service users; in other words, where we determine the purposes and
+means of the processing of that personal data.
+Your use of our service manifests your consent to transmission of personal data
+specified in this policy.
+How we use your personal data
+We may process information included in your personal profile on our service ("profile
+data"). The profile data may include your name, age, information you authorize us to
+collect from your social profiles, email address and profile picture. We may utilise
+Facebook Login for the authentication and creation of new user profile for our service.
+When creating a profile via Facebook login, we will ask for access to your first name,
+last name, gender, age, email, location, locale, timezone, and photos, to provide a
+seamless registration experience. We do not seek to obtain or require access to any
+further of your personal data stored on the Facebook platform besides these pieces of
+data. Facebook’s data and privacy policy is accessible here https://www.facebook.com/about/privacy
+. The profile data may be processed for the purpose of enabling and monitoring your use
+of our service.
+We may process data about your use of our service ("usage data"). The usage data may
+include your IP address, geographical location (limited to country and state), browser
+type and version, operating system, referral source, length of visit, page views and
+website navigation paths, as well as information about the timing, frequency and pattern
+of your service use. The source of the usage data is our analytics tracking system. This
+usage data may be processed for the purposes of analyzing the use of our service. The
+legal basis for this processing is your consent in the form of use of our service as
+stated in Section 1, and our legitimate interests, namely monitoring and improving our
+service.
+We may process information contained in any enquiry you submit to us regarding goods
+and/or services ("enquiry data"). The enquiry data may be processed for the purposes of
+offering, marketing and selling relevant goods and/or services to you.
+We may process information relating to our customer relationships, including customer
+contact information ("customer relationship data"). The customer relationship data may
+include your name, your contact details, and information contained in communications
+between us and you. The source of the customer relationship data is you. The customer
+relationship data may be processed for the purposes of managing our relationships with
+customers, communicating with customers, keeping records of those communications and
+promoting our products and services to customers. We need this kind of data for the
+proper management of our customer relationships.
+We may process information that you provide to us for the purpose of subscribing to our
+email notifications and/or newsletters ("notification data"). The notification data may
+be processed for the purposes of sending you the relevant notifications and/or
+newsletters.
+We may process information contained in or relating to any communication that you send
+to us ("correspondence data"). The correspondence data may include the communication
+content and metadata associated with the communication. Our service may generate the
+metadata associated with communications made using the service contact forms. The
+correspondence data may be processed for the purposes of communicating with you and
+record-keeping. We need this kind of data for the proper administration of our service
+and communications with users.
+We may process information about your client application (web browser or mobile
+application) and its environment (operating system and hardware) used to access our
+service ("client data"). The client data may include your IP address, browser type and
+version, browser capabilities, operating system type and version, hardware setup,
+imei/esn code, device manufacturer, serial number and model name. We need this kind of
+data for the proper administration of our service.
+We may process information that you send in text messages through our service ("message
+data"). The message data may be processed for the purposes of enabling such transfer and
+administering our service. We need this kind of data for the proper administration of
+our service, monitoring and improving our service.
+We may process information about your communication with other users in our service
+("communication data"). The communication data may include client and usage data for
+both sides, the time and date of communication happened and it’s length. We need this
+kind of data for the proper administration of our service, monitoring and improving our
+service.
+We may process information about your ban ("ban data") in case you have been banned
+because of inappropriate behaviour. The ban data may include different elements of usage
+data and client data necessary to block the user from using our service for a determined
+period, but also an image of the video frame obtained from a user’s video source. This
+image can be collected along with a complaint from another user (interlocutor) or when
+inappropriate behavior is detected by our system based on behavioral factors (how often
+interlocutors break off the connection, average duration of chat sessions, dubious
+message patterns, etc.). We need this kind of data for the proper administration of our
+service.
+We may process complaint information ("complaint data") if another user of our service
+complains about you. The complaint data may inlude an image of the video frame obtained
+from your video source. We need this kind of data for the proper administration of our
+service.
+We may process information relating to transactions, including purchases of goods and
+services, that you enter into with us and/or through our service ("transaction data").
+The transaction data may include your contact details, your card details and the
+transaction details. The transaction data may be processed for the purpose of supplying
+the purchased goods and services and keeping proper records of those transactions. We
+need this kind of data for the proper administration of our service.
+Like many site operators, we may process information that your browser sends whenever
+you visit our site ("log data"). The log data may include your IP address, browser type
+and version, the pages of our site that you visit, the time and date of your visit, the
+time spent on those pages and other statistics. The log data collected does not include
+personally identifiable information. We need this kind of data for the proper
+administration of our service, statistical analysis and understanding of user behavior.
+We may process any of your personal data identified in this policy where necessary for
+the establishment, exercise or defense of legal claims, whether in court proceedings or
+in an administrative or out-of-court procedure. We need this kind of data for the
+protection and assertion of our legal rights, your legal rights and the legal rights of
+others.
+We may process any of your personal data identified in this policy where necessary for
+the purposes of obtaining or maintaining insurance coverage, managing risks, or
+obtaining professional advice. We need this kind of data for the proper protection of
+our business against risks.
+In addition to the specific purposes for which we may process your personal data set out
+in this Section 2, we may also process any of your personal data where such processing
+is necessary for compliance with a legal obligation to which we are subject, or in order
+to protect your vital interests or the vital interests of another natural person.
+Please do not supply any other person's personal data to us, unless we prompt you to do
+so.
+Providing your personal data to others
+We may display the following data to other users: your name, your age, your gender, your
+location, your public images.
+We may disclose your personal data to our insurers and/or professional advisers insofar
+as reasonably necessary for the purposes of obtaining or maintaining insurance coverage,
+managing risks, obtaining professional advice, or the establishment, exercise or defense
+of legal claims, whether in court proceedings or in an administrative or out-of-court
+procedure.
+Financial transactions relating to our service may be handled by our payment services
+providers, PayPal, Apple, Google, Interkassa, SecurionPay, SMSBILL, VK. We will share
+transaction data with our payment service providers only to the extent necessary for the
+purposes of processing your payments, refunding such payments and dealing with
+complaints and queries relating to such payments and refunds.
+In addition to the specific disclosures of personal data set out in this Section 3, we
+may disclose your personal data where such disclosure is necessary for compliance with a
+legal obligation to which we are subject, or in order to protect your vital interests or
+the vital interests of another natural person. We may also disclose your personal data
+where such disclosure is necessary for the establishment, exercise or defense of legal
+claims, whether in court proceedings or in an administrative or out-of-court procedure.
+Our service may require a direct connection to be made between your computer and the
+other user's computer. To do this, it is necessary to make your IP address available to
+the other user's computer, although it is not shown to the other user by service’s
+interface. This is a necessary part of how any peer-to-peer system functions.
+International transfers of your personal data
+The hosting facilities for our service are situated in Germany (European Economic
+Area).
+Users of our service are located in multiple countries, including the European Economic
+Area. We have developed data practices designed to assure information is appropriately
+protected but we ask you to be aware of the privacy and data protection laws in the
+jurisdiction in which you reside. As otherwise stated in this policy, you acknowledge
+that, the ultimate responsibility for the information you choose to share is yours.
+You acknowledge that personal data that you submit for publication through our service
+may be available, via the Internet, around the world. We cannot prevent the use (or
+misuse) of such personal data by others.
+Retaining and deleting personal data
+Personal data that we process for any purpose or purposes shall not be kept for longer
+than is necessary for that purpose or those purposes.
+We will retain your profile data as long as your account is active, and we have not been
+notified otherwise, or as long as we consider necessary for the purposes described in
+this policy.
+We will not retain your complete message data (message log). We store none outgoing or
+incoming messages, and these data cannot be retrieved or restored. We will retain
+specific messages in ban data for bans related to inappropriate behavior in the text
+chat.
+We will retain your ban data as long as it is necessary to maintain the ban technically
+for a determined period. We will not keep user image after ban expiration, but will
+retain a record about this specific ban.
+We will not retain your communication data. We store none information related to with
+whom and when you communicated, and such information cannot be retrieved or restored.
+Notwithstanding the other provisions of this Section 5, we may retain your personal data
+where such retention is necessary for compliance with a legal obligation to which we are
+subject, or in order to protect your vital interests or the vital interests of another
+natural person.
+How we protect your personal data
+We employ proper technical and physical measures to protect the personal data of our
+users from loss, destruction, change, unauthorized access, disclosure, or any other
+illegal forms of processing.
+We employ a modern means of protection for the personal data of all users according to
+the current state of the industry. This includes, for example, firewalls, password
+protection and other access and authentication controls.
+We use a secure server software (SSL) to encrypt user data before it is sent to us, and
+our database is hosted in a secure data center.
+Only authorized personnel have access to user data.
+However, no method of transmission over the Internet, or method of electronic storage,
+is 100% secure. We cannot ensure or warrant the security of any information you transmit
+to us or store on our service, and you do so at your own risk. We also cannot guarantee
+that such information may not be accessed, disclosed, altered, or destroyed by breach of
+any of our physical, technical, or managerial safeguards. If you believe your personal
+data has been compromised, please contact us as provided below.
+Children’s online privacy
+Protecting the privacy of young children is especially important. Our service is not
+intended for children or minors under the age of 18 years. We do not knowingly collect
+data from children under 18 years of age and do not wish to do so.
+By using our service, you represent that you are at least 18 years of age. If you are
+under 18 years of age, then please do not use or access our service at any time or in
+any manner. If we learn that personal information from users less than 18 years of age
+has been collected, we will deactivate your profile and take reasonable measures to
+promptly delete such data from our records.
+If you become aware of any data we have collected from children under age 18, please
+contact us as provided below.
+About cookies
+A cookie is a file containing an identifier (a string of letters and numbers) that is
+sent by a web server to a web browser and is stored by the browser. The identifier is
+then sent back to the server each time the browser requests a page from the server.
+Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie
+will be stored by a web browser and will remain valid until its set expiry date, unless
+deleted by the user before the expiry date; a session cookie, on the other hand, will
+expire at the end of the user session, when the web browser is closed.
+Cookies do not typically contain any information that personally identifies a user, but
+personal information that we store about you may be linked to the information stored in
+and obtained from cookies.
+Cookies that we use
+We use cookies for the following purposes:
+(a) authentication - we use cookies to identify you when you visit our website and
+as you navigate our website;
+(b) analysis - we use cookies to help us to analyze the use and performance of our
+website and services;
+Cookies used by our service providers
+Our service providers use cookies and those cookies may be stored on your computer when
+you visit our website.
+We use Google Analytics to analyze the use of our website. Google Analytics gathers
+information about website use by means of cookies. The information gathered relating to
+our website is used to create reports about the use of our website. Google's privacy
+policy is available at: https://www.google.com/policies/privacy/
+.
+We use Facebook Like Button widget to share the information about our service on
+Facebook. When visiting our website containing such a widget, your browser will
+establish a direct link with the servers operated by Facebook; as a result the content
+of the widget will be transferred to your browser and embedded in the website being
+shown. If you visit our website whilst signed into your Facebook user account,
+information concerning your visit will be transferred to Facebook. Facebook can assign
+your visit to our website to your user account. Information arising from interaction
+with the Facebook widget (such as by clicking the Facebook “like” button or by leaving a
+comment) will be directly transferred to and stored by Facebook. To prevent this, you
+must log out of your Facebook account before visiting our website. Please refer to
+Facebook’s privacy policy (https://www.facebook.com/privacy/explanation
+) for more information on: the purpose and scope of data collection and data analysis
+undertaken by Facebook, your rights, how to modify settings and how to protect your
+privacy.
+We use Twitter Tweet Button widget to share the information about our service on
+Twitter. Twitter uses cookies for purposes described at https://help.twitter.com/ru/rules-and-policies/twitter-cookies
+. You can view the privacy policy of Twitter provider at https://twitter.com/ru/privacy.
+Managing cookies
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods
+for doing so vary from browser to browser, and from version to version.
+Blocking all cookies will have a negative impact upon the usability of many websites.
+If you block cookies, you will not be able to use all the features on our website.
+External URLs
+We reserve the right to place external links to websites and third party goods
+throughout our service.
+We attempt to always provide links and URLs to respected websites, however, we do not
+accept responsibility for any contents, security, or actions taken on such websites.
+When you navigate to any third party website, any personal data that you provide is
+managed exclusively by the privacy policy of that particular website and we do not
+assume any responsibility for the data you decide to provide.
+Do Not Track mechanisms
+Your browser may deliver a "Do-Not-Track ('DNT') signal," or similar mechanism for
+exercising choices about the collection of information about your online activities.
+Because technology continues to change, we do not guarantee that we will honor DNT
+signals or similar mechanisms at this time.
+Amendments
+We may update this policy from time to time by publishing a new version on our
+website.
+You should check this page occasionally to ensure you are happy with any changes to this
+policy.
+Contact
+If you have any questions about this policy, please contact us by contact@ome.tv.
+Facebook
+Instagram
+YouTube
+Twitter
+Pinterest
+TikTok
+Rules
+Terms
+Privacy
+Refund
+Contacts
+© 2015-2023 Ome.TV, Bad Kitty’s Dad, LDAr. José Dias Coelho 10A, 2855-173, Corroios, PT

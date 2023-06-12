@@ -1,0 +1,573 @@
+KISMIA
+IMPORTANT PRIVACY INFORMATION
+In order to use the Service, we may ask you to enter your email, name, date of birth, gender, location (city
+and country), marital status, weight, height, add your photo and answer several questions about your habits,
+hobbies, professional activity, education. We will also automatically collect from your device language
+settings, IP address, time zone, type and model of a device, device settings, operating system, Internet
+service provider, mobile carrier, hardware ID, Facebook ID, and other unique identifiers (such as IDFA and
+AAID). We need this data to provide our Services, analyze how our customers use the Service and to measure
+ads.
+For improving the Service and serving ads, we use third party solutions. As a result, we may process data
+using solutions developed by Adcash, Adroll, Appsflyer, Facebook, Google, Hotjar, Onesignal, Taboola,
+TikTok, Snapchat, Servers.com. Therefore, some of the data is stored and processed on the servers of such
+third parties. This enables us to (1) analyze different interactions (how often users make purchases, what
+products our users viewed, how many of our users are women); (2) serve and measure ads (and show them only
+to a particular group of users, for example, only to those, who have made a purchase).
+If you decide to make a purchase or to order a Service on our Website, we will ask your age, gender and
+name, as well as answers to questions relating to your relationship experience, expectations and goals. We
+will use this data to fulfil your order and to render a Service.
+Please read our Privacy Policy below to know more about what we do with data (Section
+3),
+what data privacy rights are available to you (Section-6), and who will be the data
+controller (Section 1). If any questions remain unanswered, please contact us at
+[email protected].
+PRIVACY POLICY
+This Privacy Policy explains what personal data is collected when you use Kismia mobile application (the
+“App”), the website located at (the “Website”), the services and products
+provided through them (together with the App and Website, the “Service”), how such personal data will be
+processed.
+BY USING THE SERVICE, YOU PROMISE US THAT (I) YOU HAVE READ, UNDERSTAND AND AGREE TO THIS PRIVACY POLICY,
+AND (II) YOU ARE OVER 18 YEARS OF AGE. If you do not agree, or are unable to make this promise, you must not
+use the Service. In such case, you must (a) delete your account using the functionality found in “Settings”
+in the App, or contact us and request deletion of your data; (b) delete the App from your device or leave
+the Website and not access or use it; and (c) cancel any active subscriptions or trials using the
+functionality provided by Apple (if you are using iOS) or Google (if you are using Android), if you
+purchased a subscription in the App, or by clicking “Unsubscribe” button in settings, or contacting us at
+[email], if you purchased a subscription on the Website; and (c) delete the App from your device.
+Any translation from English version is provided for your convenience only. In the event of any difference
+in meaning or interpretation between the English language version of this Privacy Policy available at Kismia.com, and any translation, the English language version
+will prevail. The original English text shall be the sole legally binding version.
+“GDPR” means the General Data Protection Regulation (EU) 2016/679 of the European Parliament and of
+the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal
+data and on the free movement of such data.
+“EEA” “EEA” includes all current member states to the European Union and the European Free Trade
+Association. For the purpose of this policy EEA shall include the United Kingdom of Great Britain and
+Northern Ireland.
+“Process”, in respect of personal data, includes to collect, store, and disclose to others.
+TABLE OF CONTENTS
+PERSONAL DATA CONTROLLER
+CATEGORIES OF PERSONAL DATA WE COLLECT
+FOR WHAT PURPOSES WE PROCESS PERSONAL DATA
+UNDER WHAT LEGAL BASES WE PROCESS YOUR PERSONAL DATA (Applies only to EEA-based users)
+WITH WHOM WE SHARE YOUR PERSONAL DATA
+HOW YOU CAN EXERCISE YOUR PRIVACY RIGHTS
+AGE LIMITATION
+INTERNATIONAL DATA TRANSFERS
+CHANGES TO THIS PRIVACY POLICY
+FOR CALIFORNIA RESIDENTS
+DATA RETENTION
+HOW “DO NOT TRACK” REQUESTS ARE HANDLED
+CONTACT US
+PERSONAL DATA CONTROLLER
+KISMIA GROUP LIMITED, a company registered under the laws of the Republic of Cyprus,
+having its registered office at Pentadaktylou, 2B, Ypsonas, 4184, Limassol, Cyprus, will be the
+controller of your personal data.
+CATEGORIES OF PERSONAL DATA WE COLLECT
+We collect data you give us voluntarily (for example, email address, name, gender, date of
+birth, marital status, country, city). We also may receive data about you from third parties
+(for example, when you sign in via Facebook). We also collect data automatically (for example,
+your IP address, device type, etc.).
+SEE MORE
+Data you give us
+If you decide to make a purchase on the Website or when you register for and/or use the
+Service, we will ask you to provide us information about yourself, for example, your
+photo, email address, name, date of birth (age), gender, city, country, weight and
+height. You can also submit optional information such as your phone number, photos,
+education, languages, ethnicity, religion, areas of interest, and fields of activity.
+This information will be public to the App users. We may also ask you to answer some
+questions relating to lifestyle and relationships. You can provide us with your email
+when you contact our support team.
+We may conduct customer surveys and collect feedback on the satisfaction with the
+Service from time to time. If you agree to participate, we can ask you to provide your
+phone number and time zone in order to contact you and discuss issues you have with the
+Service or receive your feedback. We may record the phone calls with our support team to
+assess the quality of assistance, provided that we notify you prior to such a record and
+obtain your consent (where the consent is legally required).
+Data provided to us by third parties
+When you decide to connect your profile in the App with your social media account (for
+example, Meta (Facebook), Google, Instragram), we will get personal data from such
+social media account. This includes your name, user ID, profile picture, username,
+gender, age range, language, country, friend list, email address, and any other
+information you have made public. on you have made
+public.
+Meta lets you control the choices you made when connecting your Meta profile to the App
+on their
+Apps
+and Websites page.
+Google lets you remove access granted to the apps here: Google Permissions.
+When you use sign in with Apple to access the Service, we get personal data from your
+Apple ID account. This data may include, in particular, your name and verified email
+address. You may choose to share your real email address or an anonymous one that uses
+the private email relay service. Apple will show you their detailed privacy information
+on the sign in with Apple screen. Find more about sign with Apple here.
+Data we collect automatically
+Data about how you found us
+We collect data about your referring app or URL (that is, the app or place on
+the Web where you were when you tapped/clicked on our ad).
+Device and Location data
+We collect data from your device. Examples of such data include: language
+settings, IP address, location, time zone, type and model of a device, device
+settings, operating system, Internet service provider, mobile carrier, hardware
+ID, and Facebook ID.
+When you give the App permission to use your location, the App will be able to
+show your device’s location to other users of the App. Your location data is
+generally not sufficient to identify you personally.
+Usage data
+We record how you interact with our Service. For example, we log what pages you
+have viewed, the features and content you interact with, how often you use the
+Service, how long you are on the Service, your purchases, your taps on certain
+areas of the interface, the features.
+Advertising IDs
+We collect your Apple Identifier for Advertising (“IDFA”), Identifier for Vendor
+(“IDFV”) or Google Advertising ID (“AAID”) (depending on the operating system of
+your device) when you access our App or Website from a mobile device. You can
+typically reset these numbers through the settings of your device’s operating
+system (but we do not control this).
+Transaction data
+When you make payments through the Service, you need to provide financial
+account data, such as your credit card number, to our third-party service
+providers. We do not collect or store full credit card number data, though we
+may receive credit card-related data, data about the transaction, including:
+date, time and amount of the transaction, the type of payment method used.
+Cookies
+A cookie is a small text file that is stored on a user's computer for
+record-keeping purposes. Cookies can be either session cookies or persistent
+cookies. A session cookie expires when you close your browser and is used to
+make it easier for you to navigate our Service. A persistent cookie remains on
+your hard drive for an extended period of time. We also use tracking pixels that
+set cookies to assist with delivering online advertising.
+A cookie is a small text file that is stored on a user's computer for
+record-keeping purposes. Cookies can be either session cookies or persistent
+cookies. A session cookie expires when you close your browser and is used to
+make it easier for you to navigate our Service. A persistent cookie remains on
+your hard drive for an extended period of time. We also use tracking pixels that
+set cookies to assist with delivering online advertising.
+FOR WHAT PURPOSES WE PROCESS YOUR PERSONAL DATA
+We process your personal data:
+To provide our Service
+This includes enabling you to use the Service in a seamless manner and preventing or
+addressing Service errors or technical issues. As a result of such processing, we will
+use your email, for example, for sending you the information about your purchase.
+SEE MORE
+We use Firebase Performance Monitoring and Firebase Crash Reporting,
+which are monitoring
+services provided by Google. To learn more, please visit Google’s Privacy policy and
+Privacy and Security in
+Firebase.
+To customize your experience
+We process your personal data, such as age, gender, location to adjust the content of the
+Service and provide content tailored to your personal preferences. For example, we may
+show you users from the relevant locations, of the same (or almost the same) age group
+and users that correspond to your preferences. We may also use the information provided
+by you during the quiz on relationship and lifestyle to make the most suitable offer to
+you. As a result of such processing, you get access, for example, to educational courses
+designed for your goals.
+To manage your account and provide you with customer support
+We process your personal data to respond to your requests for technical support, Service
+information or to any other communication you initiate. For this purpose, we may send
+you, for example, notifications or emails about, the performance of our Service,
+security, payment transactions, notices regarding our Terms
+and Conditions of Use
+or this Privacy Policy.
+To communicate with you regarding your use of our Service
+We communicate with you, for example, by push notifications or by emails. These may
+include reminders or other information about the Service. As a result, you will, for
+example, receive a push notification that a new feature has been deployed in the
+Service. To opt out of receiving push notifications, you need to change the settings on
+your device. To opt-out of receiving emails, you should click unsubscribe link in the
+footer of each email.
+SEE MORE
+The services that we use for these purposes may collect data concerning the date and
+time when the message was viewed by our Service’s users, as well as when they
+interacted with it, such as by tapping/clicking on links included in the message.
+We also use OneSignal Push Notification service, that is a notifications service
+provided by OneSignal. It allows us to send information to iOS and Android devices.
+Learn more about OneSignal’s approach to data in its Privacy Policy.
+To communicate with you we also use Firebase Cloud Messaging and Firebase
+Notifications, which is message sending service provided by Google. Firebase
+Cloud Messaging allows us to send messages and notifications to users of our Service
+across platforms such as Android and iOS when you access our Service from a mobile
+device or across your internet browser when you access our Service from a laptop. We
+may integrate Firebase Notifications with Firebase Analytics to create
+analytics-based audiences and track opening and conversion events. As a result, we
+can, for example, send reminders only to users who used the Service more frequently.
+Google's
+Privacy policy.
+We may use Apple Push Notification service (“APNs”), that is a
+notifications service
+provided by Apple. APNs allows to send information to iOS devices. Apple’s Privacy policy.
+You can control your push notification settings both on Android and on
+iOS.
+To research and analyze your use of the Service
+This helps us to better understand our business, analyze our operations, maintain,
+improve, innovate, plan, design, and develop the Service and our new products. We also
+use such data for statistical analysis purposes, to test and improve our offers. This
+enables us to better understand what categories of users use our Services. As a
+consequence, we often decide how to improve the Service based on the results obtained
+from this processing. For example, if we discover that users choose certain features of
+the Service, we may focus on improving the category or decide to remove it.
+SEE MORE
+To perform research and analysis about how users interact with our Service we use
+Appsflyer.
+Appsflyer enables us to understand, in particular, how users find us (for example,
+who was the advertiser that delivered an ad to users, which led you to our Website).
+Appsflyer also provides us with different analytics tools that enable us to research
+and analyze your use of the Service. Privacy Policy.
+Appsflyer allows you to Opt Out of having
+data from my device sent to Appsflyer's servers for apps usage collection.
+We use Facebook Analytics, which is a service provided by Facebook that
+allows us to use different analytical tools. On Facebook Analytics we get, in
+particular, aggregated demographics and insights on how many people visit our
+Service, how often users make purchases, and other interactions. Lean more about
+Facebook’s approach to data from its Privacy
+Policy
+To track and analyze behavior of our Service’s users (in particular, how they react
+to changes of the Service structure, text or any other component), we use Firebase
+Remote Config. Firebase Remote Config is an A/B testing and configuration service
+provided by Google, which also enables us to tailor the content that our Service’s
+users see (for example, it allows us to show different onboarding screens to
+different users)
+Privacy
+Policy and Privacy
+and Security in Firebase.
+We also use Firebase Analytics, which is an analytics service provided by
+Google. In order to understand Google's use of data, consult Google's tand Google's
+use of data, consult Google's
+partner policy.
+Firebase Privacy
+information.
+Google’s Privacy Policy.
+To send you marketing communications
+We process your personal data for our marketing campaigns. As a result, you will receive
+information about our products, such as, for example, special offers or new features and
+products available on the Service. We may show you advertisements on our Service, and
+send you emails for marketing purposes. If you do not want to receive marketing emails
+from us, you can unsubscribe following instructions in the footer of the marketing
+emails.
+To personalize our ads
+We and our partners use your personal data to tailor ads and possibly even show them to
+you at the relevant time. For example, if you visited our Website or installed the App,
+you might see ads of our products in your Facebook’s feed.
+How to opt-out or influence personalized advertising
+iOS: On your iPhone or iPad, go to Settings > Privacy > Apple Advertising and
+deselect Personalized Ads.
+Android: To opt-out of ads on an Android device, go to Settings > Privacy > Ads
+and enable Opt out of Ads personalization. In addition, you can reset your advertising
+identifier in the same section (this also may help you to see less of personalized ads).
+To learn even more about how to affect advertising choices on various devices, please
+look at the information available here.
+macOS: On your MacBook, you can disable personalized ads: go to System Preferences
+> Security & Privacy > Privacy, select Apple Advertising, and deselect Personalized Ads.
+Windows: On your laptop running Windows 10, you shall select Start > Settings >
+Privacy and then turn off the setting for Let apps use advertising ID to make ads more
+interesting to you based on your app activity. If you have other Windows version, please
+follow the steps here
+To learn even more about how to affect advertising choices on various devices, please
+look at the information available here.
+In addition, you may get useful information and opt-out of some interest-based
+advertising, by visiting the following links:
+• Network Advertising Initiative – http://optout.networkadvertising.org/
+• Digital Advertising Alliance – http://optout.aboutads.info/
+• Digital Advertising Alliance (Canada) – http://youradchoices.ca/choices
+• Digital Advertising Alliance (EU) – http://www.youronlinechoices.com/
+• DAA AppChoices page – http://www.aboutads.info/appchoices
+Browsers: It is also may be possible to stop your browser from accepting cookies
+altogether by changing your browser’s cookie settings. You can usually find these settings
+in the “options” or “preferences” menu of your browser. The following links may be helpful,
+or you can use the “Help” option in your browser.
+• Cookie
+settings in Internet Explorer
+• Cookie settings in Firefox
+• Cookie
+settings in Chrome
+• Cookie settings in Safari
+web and iOS
+Google allows its users to opt
+out of Google’s personalized ads and to prevent their data from being used
+by Google Analytics.
+SEE MORE
+We value your right to influence the ads that you see, thus we are letting you
+know
+what service providers we use for this purpose and how some of them allow you to
+control your ad preferences.
+We use Facebook pixel on the Service. Facebook pixel is a code placed on
+the
+Service collecting data that helps us track conversions from Facebook ads, build
+targeted audience and remarket to people who have taken some action on the
+Service
+(for example, made a purchase). Together with Facebook pixel we also use Facebook
+Conversions API to further attribute and improve our Facebook marketing
+performance.
+We use Facebook Ads Manager together with Facebook Custom Audience,
+which allows us to choose audiences that will see our ads on Facebook or other
+Facebook’s products (for example, Instagram). Through Facebook Custom Audience
+we
+may create a list of users with certain sets of data, such as an IDFA, choose
+users
+that have completed certain actions in the Service (for example, visited certain
+sections of the Service). As a result, we may ask Facebook to show some ads to a
+particular list of users. As a result, more of our ads may show up while you are
+using Facebook or other Facebook’s products (for example, Instagram). You may
+learn
+how to opt out of advertising provided to you through Facebook Custom Audience
+here
+Facebook also allows its users to influence the types of ads they see on
+Facebook.
+To find how to control the ads you see on Facebook, please go here
+or
+adjust your ads settings on Facebook.
+Google Ads is an ad delivery service provided by Google that can deliver
+ads
+to users. In particular, Google allows us to tailor the ads in a way that they
+will
+appear, for example, only to users that have conducted certain actions with our
+Service (for example, show our ads to users who have made a purchase). Some
+other
+examples of events that may be used for tailoring ads include, in particular,
+visiting our Website. Google allows its users to
+opt out of Google’s
+personalized
+ads and to prevent
+their
+data from being used by Google
+Analytics.
+We also use Snapchat Advertising Platform together with Snapchat
+Audience
+Based
+Match,
+, which is an ad delivery service provided by Snapchat that can link the
+activity of
+some users of our Service with the Snapchat advertising network and show some of
+our
+ads to them. As a result, you may see more of ads on Snapchat in case you use
+our
+Service. Snapchat allows you to Opt
+Out of their audience based ads.
+Privacy Policy.
+TikTok Ads is the service provided by TikTok that can deliver ads to its
+users.
+The ads
+can be tailored to specific categories of users (for instance, based on their
+geographical location). For more information, please refer to TikTok’s
+Privacy
+Policy.
+Adroll, which is a division of NextRoll, is a marketing platform
+that
+we
+use to show you
+ads that are most relevant to you, to analyze, measure and optimize ads
+performance.
+To
+learn more about Adroll’s data policies, visit its Privacy Notice. To opt out
+serving
+targeted advertising to you, click “Opt out” here.
+Taboola Ads is a service provided by Taboola Inc., which allows us to
+serve
+you
+personalized ads. For more information about Taboola’s privacy practices, see
+its
+Privacy
+Policy. If you do not want to receive interest-based ads from Taboola,
+you
+can
+Opt-Out.
+To process your payments
+We provide paid products and/or services within the Service. For this purpose, we use
+third-party services for payment processing (for example, payment processors). As a
+result of this processing, you will be able to make a payment and we will be notified
+that the payment has been made. We will not store or collect your payment card details
+ourselves. This information will be provided directly to our third-party payment
+processors. To enable the purchase and to process your payments we use Solid, payment
+processing provider.
+To enforce our Terms and Conditions of Use and to prevent and combat fraud
+We use personal data to enforce our agreements and contractual commitments, to detect,
+prevent, and combat fraud. As a result of such processing, we may share your information
+with others, including law enforcement agencies (in particular, if a dispute arises in
+connection with our Terms and Conditions of Use). .
+To comply with legal obligations
+We may process, use, or share your data when the law requires it, in particular, if a law
+enforcement agency requests your data by available legal means.
+UNDER WHAT LEGAL BASES WE PROCESS YOUR PERSONAL DATA (applies only to EEA-based
+users)
+In this section, we are letting you know what legal basis we use for each particular purpose of
+processing. For more information on a particular purpose, please refer to Section
+3.
+This
+Section applies only to EEA-based users.
+We process your personal data under the following legal bases:
+your consent;
+Under this legal basis we will, for example, send you marketing communications. You
+have the right to withdraw your consent any time by using the unsubscribe link in
+the footer of our emails. We will also send you push notifications if you allow us
+to. You can disable notifications any time in the settings of your device.
+to perform our contract with you;
+Under this legal basis we:
+• • Provide our Service (in accordance with our Terms and Conditions of Use)
+• Customize your experience
+• Provide you with customer support
+• Communicate with you regarding your use of our Service
+• Process your payments
+or our (or others') legitimate interests, unless those interests are overridden by
+your interests or fundamental rights and freedoms that require protection of
+personal data;
+We rely on legitimate interests:
+• to communicate with you regarding your use of our Service
+This includes, for example, sending you email or push notification to notify you
+that we have released a new product or reminding to finish a purchase. The
+legitimate interest we rely on for this purpose is our interest to encourage you
+to use our Service more often.
+• to research and analyze your use of the Service
+Our legitimate interest for this purpose is our interest in improving our
+Service so that we understand users’ preferences and are able to provide you
+with a better experience (for example, to make the use of the Service easier and
+more enjoyable, or to introduce and test new features).
+• to send you marketing communications
+The legitimate interest we rely on for this processing is our interest to
+promote our Service, including new products and special offers, in a measured
+and appropriate way.
+• to personalize our ads
+The legitimate interest we rely on for this processing is our interest to
+promote our Service in a reasonably targeted way.
+• • to enforce our Terms and Conditions of Use and to prevent and combat fraud
+Our legitimate interests for this purpose are enforcing our legal rights,
+preventing and addressing fraud and unauthorised use of the Service,
+non-compliance with our Terms and Conditions of Use.
+to comply with legal obligations.
+We process special categories of personal data, such as religion, ethnicity, sexual
+orientation on the basis that you manifestly make this data public.
+WITH WHOM WE SHARE YOUR PERSONAL DATA
+We share information with third parties that help us operate, provide, improve, integrate,
+customize, support, and market our Service. We may share some sets of personal data, in
+particular, for purposes and with parties indicated in Section 3 of
+this Privacy Policy. The types of third parties we share information with include, in
+particular:
+Service providers
+We share personal data with third parties that we hire to provide services or perform
+business functions on our behalf, based on our instructions. We may share your personal
+information with the following types of service providers:
+• cloud storage providers (Servers.com)
+• data analytics providers (Facebook, Firebase, Appsflyer, Google)
+• measurement partners
+• communication service providers (Intercom, Firebase, Zendesk)
+• marketing partners (in particular, social media networks, marketing agencies, email
+delivery services; Facebook, Google, Snapchat, TikTok, Taboola)
+• email delivery and notification services (OneSignal, Apple)
+• payment service providers (PayPal, Solid)
+Law enforcement agencies and other public authorities
+We may use and disclose personal data to enforce our Terms
+and Conditions of Use, , to protect our rights, privacy, safety, or property, and/or
+that of our affiliates, you or others, and to respond to requests from courts, law
+enforcement agencies, regulatory agencies, and other public and government authorities,
+or in other cases provided for by law.
+Third parties as part of a merger or acquisition
+As we develop our business, we may buy or sell assets or business offerings. Customers’
+information is generally one of the transferred business assets in these types of
+transactions. We may also share such information with any affiliated entity (e.g. parent
+company or subsidiary) and may transfer such information in the course of a corporate
+transaction, such as the sale of our business, a divestiture, merger, consolidation, or
+asset sale, or in the unlikely event of bankruptcy.
+HOW YOU CAN EXERCISE YOUR PRIVACY RIGHTS
+To be in control of your personal data, you have the following rights:
+Accessing / reviewing / updating / correcting your personal data. You may request a copy
+of, as
+well as updating and correcting your personal data collected during your use of the Service at
+[email protected]. You can also
+request
+information about you by clicking on “Request My
+Data” in the App settings.
+Deleting your personal data. You can request erasure of your personal data by sending us
+an email
+at [email protected] or by
+clicking on
+“Delete My Data” in the App settings.
+WWhen you request deletion of your personal data, we will use reasonable efforts to honor your
+request. In some cases, we may be legally required to keep some of the data for a certain time;
+in such event, we will fulfill your request after we have complied with our obligations.
+Objecting to or restricting the use of your personal data. You can ask us to stop using
+all or some of your personal data or limit our use thereof by sending a request at
+[email protected].
+Additional information for EEA-based users:
+If you are based in the EEA, you have the following rights in addition to the above:
+The right to lodge a complaint with supervisory authority.
+We would love you to contact
+us directly, so we could address your concerns. Nevertheless, you have the right to lodge a
+complaint with a competent data protection supervisory authority, in particular in the EU Member
+State where you reside, work or where the alleged infringement has taken place.
+The right to data portability. If you wish to receive your personal data in a
+machine-readable format, you can send respective request to us as described below.To exercise
+any of your privacy rights, please send a request to [email protected].
+AGE LIMITATION
+We do not knowingly process personal data from persons under 18 years of age. If you learn that
+anyone younger than 18 has provided us with personal data, please contact us at
+[email protected].
+INTERNATIONAL DATA TRANSFERS
+We may transfer personal data to countries other than the country in which the data was
+originally collected in order to provide the Service set forth in the Terms and Conditions of Use and for purposes indicated in
+this
+Privacy Policy. If these countries do not have the same data protection laws as the country in
+which you initially provided the information, we deploy special safeguards.
+In particular, if we transfer personal data originating from the EEA to countries with not
+adequate level of data protection, we use one of the following legal bases: (i) Standard
+Contractual Clauses approved by the European Commission (details available here),
+or (ii) the European Commission adequacy decisions about certain countries (details available here).
+CHANGES TO THIS PRIVACY POLICY
+We may modify this Privacy Policy from time to time. If we decide to make material changes to
+this Privacy Policy, you will be notified by available means such as email and will have an
+opportunity to review the revised Privacy Policy. By continuing to access or use the Service
+after those changes become effective, you agree to be bound by the revised Privacy Policy.
+FOR CALIFORNIA RESIDENTS
+The California Consumer Privacy Act of 2018 (“CCPA”) provides additional rights to know, delete
+and opt-out, and requires us to disclose what personal information we have collected, used, and
+shared over the last 12 months.
+Section 2 describes the personal information we have collected about you, including the sources
+of that information. We collect this information for the purposes described in Section 3. We
+share this information as described in Section 5.
+Under CCPA you as a California resident have the following rights:
+Right to Know. You have the right to request that we disclose to you the personal
+information we collect, use, or disclose.
+Right to Delete. You have the right to request that we delete your personal
+information that
+we have collected from you.
+Right to Opt-Out. CCPA requires that we maintain a separate webpage that allows you
+to opt
+out of the sale of your personal information, which can be accessed by clicking the link
+Right to Non-Discrimination. We will not discriminate against you for exercising any
+of
+these rights. We will not deny you our services, charge you different prices, or provide you
+a lower quality of services if you exercise your rights under the CCPA.
+You may designate, in writing or through a power of attorney, an authorized agent to make
+requests
+on your behalf to exercise your rights under the CCPA. Before accepting such a request from an
+agent, we will require the agent to provide proof you have authorized it to act on your behalf,
+and
+we may need you to verify your identity directly with us.
+To exercise any of your privacy rights, please send a request to [email protected].
+California’s Shine the Light law gives California residents the right to ask companies once a year
+what personal information they share with third parties for those third parties' direct
+marketing
+purposes. Learn more about what is considered to be personal information under the statute.
+To obtain this information from us, please send an email message to [email protected],
+which includes “Request for California Privacy Information” on the subject line and your state
+of residence and email address in the body of your message. If you are a California resident, we
+will provide the requested information to you at your email address in response.
+DATA RETENTION
+We will store your personal data for as long as it is reasonably necessary for achieving the
+purposes set forth in this Privacy Policy (including providing the Service to you). We will also
+retain and use your personal data as necessary to comply with our legal obligations, resolve
+disputes, and enforce our agreements.
+HOW “DO NOT TRACK” REQUESTS ARE HANDLED
+Various browsers (including Internet Explorer, Firefox, and Safari) offer a DNT option that
+relies on a technology known as a DNT header that sends a signal to websites visited by the
+browser user about the user's DNT preference. You can usually access your browser's DNT option
+in your browser's preferences.
+We currently do not support “Do Not Track” requests because no DNT standard has been adopted.
+Our third-party services may collect information about you and your online activities over time
+and across our Services and other online properties. These third parties may not change their
+tracking practices in response to DNT settings in your web browser and we do not obligate these
+parties to honor DNT settings. To determine whether any of the third-party services honor the
+“Do Not Track” requests, please read their privacy policies.
+CONTACT US
+You may contact us at any time for details regarding this Privacy Policy and its previous
+versions. For any questions concerning your account or your personal data please contact us at
+[email protected].
+Effective as of: September 13, 2022

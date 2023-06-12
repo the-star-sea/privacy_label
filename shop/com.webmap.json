@@ -1,0 +1,59 @@
+{
+  "sharedData": [
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "User IDs",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Photos",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": true,
+      "purpose": "App functionality, Account management",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "http://yardsaletreasuremap.com/blogit/?page_id=366"
+}

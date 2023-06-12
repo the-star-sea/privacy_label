@@ -1,0 +1,37 @@
+Toggle Navigation
+Home
+How it works
+Blog
+Premium
+FAQ
+Contact us
+Privacy Policy
+iLocateMobile – Coefficient Software Systems Pvt Ltd(“iLocateMobile,” ”we,” or “us”) care about your privacy and will take all the necessary steps to protect it. Please read the following to understand what information we collect through our mobile app and website and you readily accept the policies outlined below.
+​1. Information we collect
+We receive the following information from you:
+During registration, we collect your name, email address, mobile phone number. When you add details of the person you want to track then we may collect that person’s name, email address and mobile phone number. We may collect transaction ID when you use our premium service.
+​During the service we collect your mobile phone’s location details via GPS, Wi-Fi or network operator‘s tower signal, unique user identifier, mobile device identifies, IP address, mobile operating system data, mobile network identification data, mobile phones SMS logs in case of premium service. We may also collect your IP address, browser cookies, referring pages urls, mobile carrier type, device type and model, mobile device operating system and based on your mobile phones settings, your geo-location data, including GPS coordinates and Wi-Fi details.
+2. How we use your collected Information
+​We use your to provide a safe, efficient and personalized experience. We use your information to:
+Assess your needs to determine suitable products or services.Send you requested product or service information.Provide custom, personalized content and information, including advertisingAdminister your account.Send you push notifications when you are using our app. If you do not want these notifications, you can manage your preference either through your device or app settings depending on your device type. You can also contact us at support@ilocatemobile.comSend you a newsletter.Send you marketing communications.Conduct research and analysis.Respond to your questions and concerns.Display content based upon your interests.
+We may also collect analytics data to measure traffic and usage trends for the service.
+3. Sharing of your Information
+​We may disclose your personal information:
+As required by law, such as to comply with a subpoena, or similar legal process.When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.To any other third party with your prior consent to do so.
+4. Children’s privacy
+Our Service allows parents to keep track of their children’s location and whereabouts on mobile phone devices that the Parent has added to their account. The Service is intended to be used by children under 13 only with significant parental involvement and necessary approval. You can obtain the “iLoc Parental Consent Form” document, which must be completed, signed, and returned to us. At any time, if you suspect that we inadvertently had access to data from a child under 13 without your consent, please contact us via e-mail at support@ilocatemobile.com. We can then analyze this request and prevent future occurrences for the same.
+5. How we protect your Information
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions regarding security on our Web site, you can contact us at support@ilocatemobile.com
+We are not responsible for invasion by third parties of any privacy settings on your device. You can reduce these risks by using safe practices of common sense, such as choosing a strong password, using different passwords for different services, not accessing our website or app from public or shared computers.
+6. Your stored Information
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@ilocatemobile.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+7. Changes in our privacy policy
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+8. Contact
+You can contact us regarding this privacy statement by emailing us at support@ilocatemobile.com
+Modified Date: 21 February 2022
+Help / FAQ
+Privacy Policy
+Terms of Service
+Contact us
+Hestia | Developed by ThemeIsle

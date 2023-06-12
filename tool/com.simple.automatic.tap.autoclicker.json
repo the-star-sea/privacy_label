@@ -1,0 +1,15 @@
+{
+  "sharedData": [],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://firebasestorage.googleapis.com/v0/b/auto-clicker---auto-tapper.appspot.com/o/Privacy-Policy%20-%20Copy.html?alt=media&token=67c3448a-53f6-49bb-b090-1dd7d8226dbe"
+}

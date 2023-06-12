@@ -1,0 +1,248 @@
+Privacy Policy
+March 22 2023
+X-VPN is a global company and committed to protecting your privacy. X-VPN is offered by Free Connected Limited. This Privacy Policy describes how Free Connected Limited ("X-VPN", "we" or "us") controls ("collect", "use", "disclose" or "protect") our users' ("your") personal data and how can our users control their data. This Policy applies to all services (collectively as the "Service") offered by X-VPN (Software versions like Windows, mac, Android, iOS, Linux, Chrome Extension and others) and X-VPN official websites.
+Your consent is the legal basis for data collecting and processing. By visiting or using the Service, you consent to the terms set forth in this Privacy Policy.
+As an internet privacy & security service provider, we make sure your privacy is our primary concern, and we will be 100% transparent with our users. We believe the relationship between the users and us is built on trust, and trust is built on the truth. To offer better clarity to you, let's start with three points:
+We do not log how you utilize VPN connection, which means we do not see the applications, service or websites you use personally while connected to our Service nor do we store them.
+We do not store your original IP address or the server IP address that you connect to which means we cannot share it to anyone no matter what happened.
+We will not sell, use, or disclose any personal data to third parties not mentioned in this Privacy for any purpose.
+Categories of Personal Data and Purposes
+Category
+Collected Data
+What Used for
+Data Collected On Client Type
+X-VPN CLIENT
+Account Data
+registration date, email address, subscription status
+Used for the setup and management of user accounts, and help us to ensure users have successfully subscribed. We may send users cancellation survey through this email when they cancel the subscription.
+iOS, Android, Windows, mac, Chrome
+App Activity Data
+connection timestamp, choice of protocol, network type, error report
+For troubleshooting and VPN service optimization.
+iOS, Android
+Device Data
+device model, device operating system version, device language, unique random ID, client version
+Used to improve user experience and user satisfaction.
+iOS, Android, Windows, mac
+Location Data
+geolocation (city-level)
+Used to provide better VPN service.
+iOS, Android, Windows, mac
+Payment Data
+payment method, transaction ID (or reference ID), transaction timestamp
+For user support and troubleshooting only.
+iOS, Android, Windows (uwp), mac (mac store)
+Analysis Data
+crash log and data usage
+To help us better understand users, plan product development and improve user experience.
+iOS, Android
+Feedback Records
+users' feedback via X-VPN Customer Service chat system or by email
+Used to feed back the problems users encounter and help us to provide solutions.
+iOS, Android, Windows, mac
+Application Control
+X-VPN will require access to users' inventory of installed apps if users use application control function, but X-VPN do not log such information.
+To help users to choose apps which do not use VPN tunnel when X-VPN is on.
+Android
+X-VPN WEBSITE
+Account Data
+registration date, email address, subscription status
+Used for the setup and management of user accounts, and help us to ensure users have successfully subscribed. We will send emails to users when they obtain a Subscription Plan. We will send notifications of updated blogs via users' email only if users subscribe to RSS Feed.
+AFFILIATE
+Account Data
+username, users' country/region, email address, Telegram ID and Whatsapp ID
+Used for the setup and management of user accounts, and communicate.
+Payment Data
+For those who withdraw the money, X-VPN needs to collect the Paypal ID.
+For users support only.
+X-VPN ROUTER
+Account Data
+unique ID, username, password, IPsec PSK
+Used for the setup and management of user accounts.
+Linux and Raspberry Pi
+Account Data
+unique ID: Cmdkey
+Used for the setup and management of user accounts.
+Other information users voluntarily provide: we will collect and store the information contained in the survey that you submit to us. DO NOT contain any private information for your security reason. If you want to remove information you have already submitted to us, please contact us at support@xvpn.io.
+X-VPN uses your personal information only for the purposes listed in this Privacy Policy, and we do not sell your personal information to third parties.
+Data Retention
+We retain essential data such as account data, device data, payment data and feedback records to maintain the Service, unless you request a deletion.
+Besides, App Activity Data will be kept for LESS THAN 48 HOURS for the purpose of user-support and then automatically erased from our system permanently after that period.
+We store your Personal Data only as long as it is necessary for the purposes for which it is collected, to provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws. We erase or destroy the records containing Personal Data when they are no longer required; this will be done in ways that will ensure your continued privacy.
+Data Control
+Free Connected Limited is the Data Controller of the information you provide us.
+Data Transfer
+We store our users' information on servers within the EU while we are a Hong Kong company. Though most of the calculations are automatically done in the cloud, we may need to access users' data internationally when necessary (e.g., when user support is required). Please be aware that Hong Kong may not have the same level of data protection as the European Economic Area, however our collection, storage and use of your personal data will continue to be governed by this Privacy Policy.
+Data Security
+We are committed to protecting our users' personal data as we have various technical and organizational measures in places to ensure, e.g. only our authorized employees have the access to the data.
+X-VPN uses exceptionally strong safeguards to protect the privacy of all our records, including your Personal Data. We implement physical, business and technical security measures. These strong safeguards are designed to prevent unauthorized access, disclosure, loss, theft, copying, use or modification to your Personal Data.
+Cookies
+We use the following cookies to help us provide better services on our websites:
+Cookies: These cookies store your preference and logins on our websites to provide you with a fluid experience and will be erased when you close your browser.
+Cookie Name
+Expiration
+Purpose
+Provider
+Cookie Type
+Link
+X-VPN
+id
+2 years
+Used to cache login status and identify a signed-in user.
+X-VPN
+First Party
+xvpn.io
+996rjushb9
+1 year
+Used to flag cookie popup status
+Google
+_ga
+2 years
+Used to distinguish users, throttle request rate and experiment with advertisement efficiency across websites using their services (Conversion Linker functionality).
+Google
+Third Party
+https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage
+_gcl_au
+90 days
+_gid
+1 day
+_gat_gtag_UA_106067058_1
+1 minute
+YOUTUBE
+(__Secure*
+2 years
+Set by YouTube on pages with embedded YouTube video. Used to collect anonymous statistical data, for example, how many times the video is displayed and what settings are used for playback. No sensitive data is collected unless you log in to your google account, in that case your choices are linked with your account, for example if you click "like" on a video.
+YouTube
+Third Party
+https://policies.google.com/technologies/cookies
+APISID
+2 years
+HSID
+2 years
+id
+2 years
+LOGIN_INFO
+2 years
+SAPISID
+2 years
+SSID
+2 years
+NID
+6 months
+VISITOR_INFO1_LIVE
+6 months
+SEARCH_SAMESITE
+135 days
+1P_JAR
+1 month
+DSID
+2 weeks
+DV
+1 minute
+PREF
+1 minute
+test_cookie
+1 minute
+YSC
+*Session
+GlobalChat
+nmh7dhtvrc
+1 year
+Used to identify a signed-in user.
+GlobalChat
+Third Party
+https://globalchatinc.com/
+*Session: expires at the end of an internet browser session.
+Google Analytics: The tool uses a series of cookies to collect information and generate a report on website usage statistics, but does not disclose any personally identifiable information.
+You may change your browser or devices' settings to disable or refuse certain cookies on our websites. Please note that disables certain cookies may result in inaccessibility of our services on the websites.
+Third-Party
+The Third-Party Site may contain links to external websites that do not fall under X-VPN's domain. X-VPN is not responsible for the privacy practices or content of such external websites.
+Some third parties may be able to collect certain information from you independently from us including third-party payment platforms, analytics-tool providers or advertisers. You can find the information of such third parties listed here, as updated from time to time:
+Web
+Android
+iOS
+Third Party
+Google Analytics,
+Microsoft Advertising Conversion Tracking,
+PayPal,
+Paymentwall,
+GiftCards,
+ADVcash,
+CoinPayments,
+GlobalChat,
+Stripe
+Adjust,
+Firebase,
+Adcolony,
+Admob,
+Chartboost,
+InMobi,
+ironSource,
+Vungle
+Adjust,
+Firebase,
+Adcolony,
+Admob,
+Amazon APS,
+Applovin,
+Chartboost,
+Facebook,
+Pangle,
+Tapjoy,
+InMobi,
+Vungle
+Consent and Age Restrictions
+By using the Site, Content, Apps, Software, or Services, you agree to have your information handled as described in our Terms of Service and Privacy Policy.
+We do not log information from children under 18 intentionally as the Service is not direct to anyone under the age of 18. DO NOT USE the Service if you are not of legal age.
+Rights of Access, Rectification, Deletion, and Restriction
+You have the right to inquire as to whether X-VPN is Processing Personal Data about you, request access to Personal Data including the categories of personal information we have collected about, and the categories of any of your personal information that we have disclosed for business purpose. You have the right to ask that we correct, amend or delete your Personal Data.
+In each case, X-VPN provides this information: We provide the receipt of a Verifiable Consumer Request without charge, and you can request us up to 2 occasions every 12 months. We will send you a portable, readily-usable format (e.g. XML, or CSV,etc) within 45 days. If reasonably necessary, we may extend this period by an additional 45 days after we notify you.
+How to Exercise the Right to Access, Rectification, Deletion, and Restriction
+Send an email to support@xvpn.io
+You can use the contact ways to request access to, receive, restrict, or request deletion or rectification of Personal Data held about you by X-VPN.
+To protect your privacy, X-VPN requires you to login to your account with a username and password before granting you access to or allowing you to make any changes to your Personal Data. X-VPN makes good faith efforts to provide you with the ability to delete your Personal Data, however there may be circumstances in which X-VPN is unable to delete all your Personal Data. For example, we are unable to delete it where we are legally required to keep it, including where we need it to continue to offer you the service.
+If X-VPN determines that your Personal Data cannot be deleted, we will explain why and provide a contact for further inquiries.
+If you have any questions about our privacy practices and this Privacy Policy, please contact X-VPN by email at support@xvpn.io. We will address your concerns and attempt to resolve any privacy issues in a timely manner.
+Users in the European Union:
+This section applies to individuals in the European Union and to individuals in other countries whose data privacy laws are similar to GDPR.
+Your Rights
+As a Data Subject you have rights under the GDPR. These rights can be seen below. X-VPN will always fully respect your rights regarding the processing of your personal data, and has provided below the details of the person to contact if you have any concerns or questions regarding how we process your data, or if you wish to exercise any rights you have under the GDPR.
+(Chapter 3 of the GDPR) each Data Subject has eight rights. These are:
+The right to be informed; This means anyone processing your personal data must make clear what they are processing, why, and who else the data may be passed to.
+The right of access; this is your right to see what data is held about you by a Data Controller.
+The right to rectification; the right to have your data corrected or amended if what is held is incorrect in some way.
+The right to erasure; under certain circumstances you can ask for your personal data to be deleted. This is also called 'the Right to be Forgotten'. This would apply if the personal data is no longer required for the purposes it was collected for, or your consent for the processing of that data has been withdrawn, or the personal data has been unlawfully processed.
+The right to restrict processing; this gives the Data Subject the right to ask for a temporary halt to processing of personal data, such as in the case where a dispute or legal case has to be concluded, or the data is being corrected.
+The right to data portability; a Data Subject has the right to ask for any data supplied directly to the Data Controller by him or her, to be provided in a structured, commonly used, and machine-readable format.
+The right to object; the Data Subject has the right to object to further processing of their data which is inconsistent with the primary purpose for which it was collected, including profiling, automation, and direct marketing.
+Rights in relation to automated decision making and profiling; Data Subjects have the right not to be subject to a decision based solely on automated processing.
+Legal Basis
+X-VPN is committed to user privacy globally, and our existing practices reflect that through minimal collection of data and ensuring users have control over their personal information. The General Data Protection Regulation (GDPR) of the European Union (EU) requires us to outline those practices in a specific manner for users in the EU.
+In line with the GDPR, we collect and process the data outlined in this Privacy Policy on one of the following bases, depending on the circumstances:
+1. For the purposes of fulfilling our contractual obligations to users, including:
+Providing users with the Services and Apps they have requested.
+Managing user subscriptions and processing payments.
+Providing customer support.
+2. For a legitimate interest associated with the operation of our business, including:
+Enhancing the quality, reliability, and effectiveness of our Site, Services, and Apps.
+Communicating with customers to provide information and seek feedback related to our Services and Apps.
+You can exercise your rights under the GDPR to access, transfer, correct, delete, or object to the processing of your personal information by contacting us at: support@xvpn.io (Please note that we may need one month or longer to respond)
+Users in California
+X-VPN does not share information that identifies you personally with non-affiliated third parties for our own marketing use without your permission.
+California Consumer Privacy Act
+Non-Discrimination
+We will not discriminate against you for exercising your CCPA rights. Unless permitted by the CCPA, we will not:
+Deny you goods or services.
+Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
+Provide you a different level or quality of goods or services.
+Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+Users in Nevada
+X-VPN does not sell information that identifies you personally with
+non-affiliated third parties. X-VPN will not sell or trade Personal Data for commercial purposes.
+Reseller Privacy Policy
+If you participate in our Reseller Program, please refer to it's privacy policy here.
+Changes to the Privacy Policy
+We may need to change our Privacy Policy from time-to-time and all updates will be posted online, consistent with applicable privacy laws and principles. Your continued use of our Site or Services after the effective date of such changes constitutes your acceptance of our Privacy Policy. We will post an effective date at the top of the page for your convenience.
+Here's the end of this Policy
+Effective: March 22 2023
+If you have any questions regarding our Privacy Policy and how we handle your information, Please feel free to contact X-VPN at the following email address: support@xvpn.io

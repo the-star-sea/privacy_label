@@ -1,0 +1,40 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "User IDs",
+      "optional": true,
+      "purpose": "Analytics, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Emails",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Messages"
+    },
+    {
+      "data": "Crash logs",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://sites.google.com/view/venabox-pro/privacypolicy"
+}

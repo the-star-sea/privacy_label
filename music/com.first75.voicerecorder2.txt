@@ -1,0 +1,50 @@
+Voice Recorder
+>
+Privacy Policy
+Privacy Policy
+For purposes of these Terms, "Smart Mobi Tools", "we" or "us" refers to to company Smart Mobi Tools - Jakub Bartuś registred in Poland with tax id 5492449888, “Application”, "Service", "App" refers to Voice Recorder application (“VR”) and dedicated services as vrecorder.com and smartmobitools.com.
+BY INSTALLING, USING OR ACCESSING THE APPLICATION, YOU HEREBY ACCEPT THE POLICY WITHOUT QUALIFICATION. You have also explicitly accepted the Terms and Privacy Policy following your installation of the Application and launch of the Application for the first time or creating account in remote recordings service. If you do not agree to this Policy, do not use or access the service, and delete the application from the device on which was installed.
+Information we collect from you
+Remote Recordings allows you to input, upload, or store in the our service any audio recording, text and other data that you choose—we refer to that information as “Content”. We also collect and receive the following types of information:
+1.1. Information You Provide to Us
+Account Information. Some services require or allow you to create an account before you can access them. As part of registering for an account, we may collect information such as your name, username, email address and avatar photo.
+Billing and Payment Information. In order to purchase a service, you may need to provide to us with details such as billing name, billing contact details (street addresses, email addresses), and payment instrument details.
+Communications and Submissions. You may choose to provide us with information when you communicate with us (e.g. via email, phone, or chat for support or to inquire about our services), including when you fill out an online form, respond to surveys, provide feedback, post comments to our website, participate in promotions, or submit information through our services.
+1.2. Information collected when you use our services
+Usage information. We collect information about how you interact with our services, but none of this information identifies you personally.
+Device information. We collect information from and about the device you use to access our services, including about the browsers and app you use to access our services. For example, we may collect device identifiers, browser types, device types and settings, operating system versions, mobile, wireless, and other network information (such as internet service provider name, carrier name and signal strength), and application version numbers.
+Diagnostic informations
+Cookies: Our website uses cookies to distinguish You from other users of our website. This helps us to provide You with a good experience when You browse our website and also allows Us to improve our site. A cookie is a small text file that a website stores on your computer or mobile device when you visit the site. We may expand our use of cookies to save additional data as new features are added to our Services. However, you can disable cookies by changing your browser settings.
+Who we share information with
+Other users -
+who will see any other information you choose to share with them through the Services.
+Cloud service - providers who we rely on for data storage, including Google Cloud who are based in the U.S.
+Analytics providers - We collect certain information using Google Firebase Analytics and Google Analytics to help us understand how our users use the Application, but none of this information identifies you personally.You can learn about Google‘s privacy policy by going to https://policies.google.com/privacy
+Law enforcement agencies, public authorities or other judicial bodies and organisations. We disclose Information if we are legally required to do so, or if we have a good faith belief that such use is reasonably necessary to comply with a legal obligation, process or request; enforce our terms of service and other agreements, policies, and standards, including investigation of any potential violation thereof; detect, prevent or otherwise address security, fraud or technical issues; or protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and organisations for the purposes of fraud protection).
+General Information Transfer
+Any information or data the Application collects may be stored locally on your device, and We may obtain information as a result of the data being sent to our servers from the Application. Additionally, you may share data between the Device and other devices via Bluetooth. You may also share data using the Application’s Share function.
+Limited Gathering of Information for Statistical Purposes
+VR may automatically collect certain information using third-party programs to help us understand how our users use the Application, but none of this information identifies you personally. Voice Recorder may use Google Firebase Analytics (see https://firebase.google.com/) or other similar services to collect such information. For more information about use of Google Firebase Analytics, please see the “Third Party Advertisements” section below.
+Third-Party Advertisements
+Where you have downloaded Voice Recorder, the Application uses Google, a third party vendor, to serve advertisements in the Application, using the AdMob system (see http://www.google.com/ads/admob/) and Meta Audience Network (see https://www.facebook.com/audiencenetwork/).
+The Application makes use of Google Firebase Analytics Demographics and Interest Reporting which gives certain demographic and interest information about our Application users. None of this information, however, can identify you personally. The information may be used to serve you advertisements that will be of interest to you. You can also opt out of such Google advertising at any time by visiting your Google Ads Settings page (see https://www.google.com/settings/ads).
+In addition to Google advertisements, from time to time we may allow other third-party companies to serve ads and/or collect certain anonymous information when you use the Application.
+Security
+We use reasonable electronic, personnel, and physical measures to protect information from loss, theft, alteration, or misuse. However, please be advised that even the best security measures cannot fully eliminate all risks. We cannot guarantee that only authorized persons will view your information. We are not responsible for third party circumvention of any privacy settings or security measures.
+Children
+Our Services are not targeted at children, and we do not knowingly collect Information from children under the age of 13. If you learn that a child has provided us with Information in violation of this Policy, please contact us as indicated below.
+Android Permissions
+The following is a complete listing and description of what functions on the Device are accessed and / or modified by the Application.
+PRECISE LOCATION -- Allows the Application to attach location to attach the location to the recorded audio. By default, the function is disabled, it can be enabled in the application settings.
+Photos/Media/Files STORAGE ACCESS -- Allows the Application to save recordings on public internal storage. Starting with Android 10 we no longer use this permission and the recordings are stored in app-specific directory.
+BLUETOOTH -- Allows the Application to connect with external bluetooth microphone.
+GET ACCOUNTS / FIND ACCOUNTS -- Allows the Application to access Google accounts (display name, email, image) for Google Drive integration.
+MODIFY AUDIO SETTINGS -- Allows the Application to modify audio settings such as volume or which microphone is used for input.
+RECORD AUDIO -- Allows the Application to record audio from microphone.
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Contact
+Please contact us at https://smartmobitools.com/contact and we will endeavour to deal with your complaint as soon as possible. You can also send an email to us at support@smartmobitools.com.
+Smart Mobi Tools
+Home
+Contact

@@ -1,0 +1,354 @@
+chatEnable AccessibilityStoresJCPenney StoresSelect a StoreChangeMy AccountSign InSign InCreate AccountHolidayHome & LifestyleWomenMenYoung AdultBaby & KidsToys & GamesShoes & AccessoriesJewelryBeauty & SalonClearance
+Protecting your privacy
+Information we collect and how we collect it
+Information from third-party sources
+Information we share with others
+Safeguarding the information we collect
+Your choices about how we use information
+Notice to California residents - your privacy rights
+Notice to Virginia residents - your privacy rights
+Summary of Changes to this notice
+Click here for Spanish version of this notice
+Protecting your privacy
+This Privacy Notice describes how JCPenney collects, uses, shares, and protects your personal information. By interacting with JCPenney through our stores, websites, mobile applications, products, and services (“Services”), affiliates and partners, you consent to the use of information that is collected or submitted as described in this Privacy Notice. We may change this Privacy Notice in the future.
+Information we collect and how we collect it
+We collect and maintain personal information about you from many sources to understand and meet your needs, manage our business, and for other purposes disclosed to you. For example, we collect personal information about you when:
+You connect with our digital properties
+You initiate or complete transactions with JCPenney
+You participate in our loyalty program (e.g., JCPenney Rewards)
+You use our in-store guest Wi-Fi service
+You utilize location-based features via computer, mobile device, or while using the JCPenney mobile application
+You use the scan credit card/debit card functionality of the JCPenney mobile application
+We need to coordinate with third-party sources to complete a transaction, such as providing shipping information to mail carriers, jewelry repair facilities, or credit card support vendors
+You voluntarily provide us with information
+The personal information we collect about you through various sources may include, but is not limited to:
+Name, addresses for shipping and billing, and telephone/mobile numbers
+Date of birth and gender
+Country of residence
+Email addresses, and fax numbers
+JCPenney Rewards / account number
+Credit/debit card numbers and associated information, checking account information, including associated billing addresses and expiration dates
+Driver’s license number
+Digital image, if captured via security camera
+Location information
+Social media information
+Information provided via survey, focus group or other marketing research efforts
+Demographic Information
+By using our Services, you are accepting and consenting to the practices and uses described in this Privacy Notice.
+Information from your computer or mobile device
+We and our third-party service providers (“Service Providers”) may automatically collect information from your device when you visit our websites, use our mobile applications, or use our in-store guest Wi-Fi service. This information helps us improve your shopping experience, helps us learn more about our consumers and assists with fraud prevention.
+We and our service providers may automatically collect such data as:
+Type of device and device manufacturer
+Your device’s internet service provider, connection speed, and internet protocol (IP) address
+Device operating system, browser type, browser language, any plug-ins that you have installed on your browser
+Cookie information
+The date and time
+If online, click-stream data – the website you came from, those you visit, and the items you click on during your session
+Information about JavaScript objects on particular screens
+The number of mouse clicks made on particular screens (or touches, if using a touch-screen device)
+If you consent, precise, real-time location information
+Any unique device IDs and any unique IDs associated with advertising and analytics
+If using the mobile application scanning feature: time stamps, bar code or other information
+Information about the way you use our mobile applications.
+If you consent to using in-store guest Wi-Fi service, we automatically collect:
+Usage data
+Session data, device and browser data
+Precise, real-time information about the location of your device.
+In addition, if you consent, we may also collect precise location information (using GPS, Wi-Fi, or cell tower triangulation, or a combination of these technologies) when you use our mobile applications. We rely on the following technologies to collect the information listed above, including cookies, web beacons, and mobile device geolocation to provide and improve our Services and advertising, including across browsers and devices (also known as cross-device linking). We also use this information to verify that consumers meet the criteria required to process their requests and for reporting activity on our Services. For example, we may want to know how long the average user spends on our Services or which pages or features get the most attention. This automatically collected information may be combined with information that is personally identifiable in order to personalize our Services and advertising to your interests, including across browsers and devices. Additionally, JCPenney may combine the information we receive from you with information collected from other sources. This information may be used to provide offers and/or services specifically tailored to your interests in accordance with applicable laws.
+Using technology
+We may use or rely on the following technologies to assist us while collecting information, examples include but are not limited to:
+Web tags:Also called a pixel tag or a clear gif is a piece of code in website pages and in emails, advertising, and other marketing communications that allows us and our third-party service providers to determine whether you have performed specific actions. When you access those pages or open email messages, or click on advertising, the web beacons generate a notice of that action for us, or our service providers. That information is used to analyze what our visitors like to do on our site or mobile applications, and the effectiveness of our features and advertising, as well as interactions with our e-mail and advertising.
+Wireless beacons: A wireless beacon is a small device that we may use as part of our in-store experience. Wireless beacons broadcast a signal that can be received by compatible devices, such as a mobile phone or tablet, when those devices are within the proximity of the beacon. When you choose to use the JCPenney mobile application, we and our service providers may use wireless beacons in conjunction with the JCPenney mobile application or mobile website to personalize and enhance your in-store shopping experience and to understand your interests so that we can provide relevant notifications, offers, and promotions.
+Analytics services:JCPenney uses third party analytics companies to collect and analyze information about how people use our websites and mobile applications, including information about browsing and buying activities. They may collect and use information from first- and third-party cookies. In addition, analytics companies also provide services that analyze information regarding visits to certain portions of jcpenney.com that are operated for JCPenney by third parties. They use cookies and web beacons to collect this information.
+Cookies on our services
+When you use our Services, you may receive cookies from us and the third parties that collect information on our Services. We use cookies to determine if we are providing you a high-quality experience. We also use cookies to show you advertising that is relevant to you. If you continue to browse our website without changing your web browser or device settings that control cookies, you agree to receive cookies when you use our Services.
+Some browsers have options that allow the visitor to control whether the browser will accept cookies, reject cookies, or notify the visitor each time a cookie is sent. You may elect to reject cookies by adjusting your settings but doing so may limit the range of features available to you on our Services and other major websites that use cookies.
+Our Services occasionally use "local shared objects" (also known as "Flash cookies"). Like browser cookies, Flash cookies may be used for coordinating content delivery, website functionality, maintaining preferences, advertising, or analytics. Unlike browser cookies, "Flash cookies" are not stored in the browser.  You may be able to manage these Flash cookies by visiting the Adobe website.
+Learn about managing cookies with Adobe Opens in a new window.
+There are four types of cookies used by our services:
+Functional cookies: These cookies enable you to use our Services. These cookies are essential to enable you to browse our Services and use certain features. Disabling them may prevent you from using portions of the Services we provide. Without these cookies, services like shopping activity and paying activity cannot be provided. These cookies also help keep our Services safe and secure.
+Preference cookies:These cookies store information such as your preferred store location, language selection, login data and website preferences. Without these cookies, our Services may not be able to remember certain choices you've previously made or personalize your browsing experience by providing you with relevant information. These cookies can also be used to recognize your device so that you do not have to provide the same information more than once.
+Performance cookies:These cookies collect information about how you use our Services such as which pages you visit regularly and which content you engage with. These cookies are used to provide you with a high-quality experience by tracking page load, site response times, and error messages. They are also used to gather feedback on consumer satisfaction through surveys.
+Content / advertising cookies:These cookies gather information about your use of our Services, so we may improve your experience and provide you with more relevant content and advertising. They remember that you've visited our Services and help us understand your usage of our Services. Some of these cookies are from third parties that collect information about users of our Services in order to provide advertising (on our Services and elsewhere) based on user online activities (so-called "interest-based advertising") on our Services and elsewhere online. The third parties involved in interest-based advertising collect internet browsing information (e.g., websites visited, time of visit) across different websites and over time, and they may use the information they collect on our Services to provide you ads (from us and other companies) across the internet.
+Information from third-party sources
+We may receive information about you from third-parties. For example, if you have a JCPenney Credit Card, we receive application and account information from the credit card issuing bank. We also obtain data from third parties to improve the accuracy of and add to what we know about our consumers. This may improve the relevance of the offers or product recommendations we provide you or enhance our ability to contact you. For example, we may work with other websites and services to present advertising to groups of our consumers when they visit those sites. We may also use data from third-party sources concerning consumer behavior on third-party websites, social media and internet-connected devices to target more relevant advertising to consumers.
+Some of the content, advertising, and functionality we gather by providing our Services may be provided by third parties that are not affiliated with us. As noted above, these and other third parties may collect or receive technical information about your use of our Services, including the use of cookies, web beacons, and other technologies, this information may be collected over time and combined with information collected on different websites and online services.
+For example, some of our Services include social network or other third-party plug-ins (such as Facebook’s "Like" button) that enable you to login to certain Services, to comment on content available on our Services, and to share things you find on our Services with your social network. The providers of these plug-ins may be able to collect information about you even if you do not click on or otherwise interact with the plug-in or widget and regardless of whether you have an account or other relationship with these social networks and third parties. If you use social network tools or visit social networking sites, you should read their privacy disclosures to learn what information they collect, use, and share.
+Also, some third parties collect information about users of our Services in order to provide interest-based advertising (on our Services and elsewhere, including across browsers and devices, also known as cross-device linking). These third parties may use the information they collect on our Services to make predictions about your interests in order to provide you ads (from us and other companies) across the internet.
+Publicly available information
+We may collect information about you that is publicly available. For example, information you submit in a public forum (e.g., a blog, chat room, or social network) that can be read, collected, or used by us or others, and could be used to personalize your experience.
+Using information we collect
+In addition to the information, we collect to offer, improve, and provide our products and Services, JCPenney may use personal information for administrative and analytical purposes such as information systems management, accounting, billing and audits, credit card processing and verification, consumer-relations correspondence, and/or operation of the JCPenney Rewards program. JCPenney also uses personal information to identify and market products, coupon offers and services that we believe you will value, including across browsers and devices, in accordance with applicable laws.
+We may combine or use the services of third parties to combine information about you that we collect from you.
+In addition, JCPenney may use your personal information for several purposes, including, without limitation:
+Business purposes and communication: To provide products or services or information you requested, to communicate with you for business or consumer service reasons, or for other such reasons such as changes to our policies or in response to an inquiry;
+Marketing: To provide consumers with personalized marketing through various media, including but not limited to direct mail, email, social media advertising, digital banners, SMS (text) messages, and internet-connected TV.
+Financials transaction management: To facilitate payment for products and services or provide refunds;
+Legal and regulatory obligations:To comply with legal, regulatory, or fiscal obligations, or in connection with litigation, or an internal investigation or audit;
+Research: To engage in consumer research and analytics for generating insights on browsing and buying activities
+Site maintenance: To identify and repair errors that impair existing website’s functionality;
+Security management: To detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity or prosecute those responsible for that activity, and secure JCPenney’s premises, assets, and information;
+Third party requests: To respond to and comply with outside requests initiated by you, as well as in response to legal requests;
+Audit and controls: To evaluate internal controls and audits for compliance (including those conducted by JCPenney’s internal and external audit service providers); and
+Deidentified / Aggregated Consumer Information:To collect, use, retain, or disclose personal information that is deidentified or aggregated.
+As noted above, we may use the information we collect and receive to personalize your JCPenney experience across channels. We may combine information to link your activity through one channel to your activity in another, such as linking information from your in-store activity to your activity on our websites, or linking your activity from one device to another, such as from a mobile device and a laptop computer. To opt-out of the third-party technologies used for personalization, see the “Opt-outs for interest-based advertising (IBA)” section of this notice below.
+There are Closed Circuit Television (CCTV) cameras in operation within and around our stores and other premises, which are used to:
+Prevent and detect crime;
+Protect the health and safety of JCPenney’s consumers and employees;
+Manage and protect properties of JCPenney, its guests, and other visitors; and
+Quality assurance purposes.
+Information we share with others
+General
+JCPenney does not share personal information with third parties except as stated in this privacy notice. We may disclose information to companies affiliated with JCPenney and/or unaffiliated third parties (i) to provide the products and services you have requested; and (ii) for administrative, analytical, and marketing purposes. For example, we may provide information we collect about you to third parties to distribute promotions, marketing surveys, focus groups, and other opportunities offered by JCPenney.
+In addition, from time to time, we may share information with JCPenney affiliates, and with certain third-party companies with which we have a business relationship. These companies may send you offers based on the information you have provided us.
+Additionally, we may share information in the following circumstances:
+JCPenney family: We share information we collect with affiliated companies and licensees (e.g., the optical and photography departments in our stores) within the JCPenney family of businesses;
+Service providers:We disclose or otherwise make available information we collect with other companies that help with our business operations. Examples include providers of services related to e-mail and text communications, marketing, analytics, product fulfillment, web hosting, payment processors, and other entities that help us market our products and services. In addition, we use third-parties to assist with fraud detection and to validate aspects of Consumer transactions;
+Third-party marketing:We may provide information about you to third-party companies or organizations. These entities may use that information to market their products and services to you. To opt-out of such sharing, go to the "Your choices about how we use information" section of this notice;
+Legal or safety requirements: We may disclose information we collect when we believe disclosure is appropriate to comply with the law; to enforce or apply applicable terms and conditions and other agreements; or to protect the rights, property or safety of our business, our consumers or others;
+Business transfers: If the ownership of JCPenney or all or part of a business within the JCPenney family were to change, information about consumers pertinent to JCPenney or that business’s operations would likely be transferred to, or licensed for use by, the new owner. The applicable member of the JCPenney family might also retain a copy of that information; and
+Sharing aggregate Information: We may share aggregate information (information that does not directly identify any individual) with third parties for lawful purposes.
+Safeguarding the information we collect
+We have administrative, technical and physical safeguards to protect the personal information we obtain.
+Your choices about how we use information
+Updating your JCPenney contact information and preferences
+To update your contact information or preferences, you may:
+Access your information through your jcpenney.com account,
+Email us at privacy@jcpenneyeservices.com,
+Call us at 1.800.322.1189, or
+Write to us at Penney OpCo LLC, P.O. Box 10001, Dallas, TX 75301-7311, Attention: Corporate Consumer Care,
+Respond to messages according to the opt-out instructions provided therein.
+Opt-outs for postal mail and email
+If you do not want to receive coupons and other promotional mail, or if you do not want to receive promotional email offers and updates from JCPenney, you may:
+Email us at privacy@jcpenneyeservices.com,
+Call us at 1.800.322.1189, or
+Write to us at Penney OpCo LLC, P.O. Box 10001, Dallas, TX 75301-7311, Attention: Corporate Consumer Care.
+Opt-out of promotional email offers and updates from JCPenney at any time by clicking on the “unsubscribe” hyperlink contained in our promotional emails.
+Please note that even if you unsubscribe from promotional email offers and updates, we may still contact you by email for transactional purposes. Some examples are communications regarding your order status, JCPenney Rewards if you are a member, Consumer service inquiries, service or reminder notices, and product recalls.
+Opt-out for JCPenney mobile marketing messages
+If you are currently receiving promotional text alerts from JCPenney, you may unsubscribe at any time by texting STOP to 527365. After we receive your opt-out, we will send you a final text message to confirm the opt-out.
+Opt-out for JCPenney transactional SMS (text) messages
+If you are currently receiving transactional text alerts from JCPenney, you may unsubscribe at any time by texting STOP to 65566. After we receive your opt-out, we will send you a final text message to confirm the opt-out.
+Opt-out of sharing with other companies for their marketing purposes
+If you do not want JCPenney to share information about you with companies outside the JCPenney family for their marketing purposes, you may stop such sharing by:
+emailing us at privacy@jcpenneyeservices.com,
+calling us at 1.800.322.1189, or
+writing to us at Penney OpCo LLC, P.O. Box 10001, Dallas, TX 75301-7311, Attention: Corporate Customer Care.
+Opt-out of location information collection
+If you do not want JCPenney to collect real-time location information from your device, you may opt-out of such collection as follows:
+For jcpenney.com: deny permission when asked if the website can track your physical location. To opt-out after initial permission is given, adjust your browser settings.
+For JCPenney’s mobile application: adjust the permission settings for your device or uninstall the application.
+For JCPenney’s mobile website: deny permission when asked if the website can track your physical location.
+For JCPenney’s in-store wi-fi service: collection of precise location information is automatic, to prevent this collection, refrain from using our in-store guest wi-fi service.
+Opt-outs for certain third-party services
+JCPenney uses third-party analytics companies on its websites and mobile applications.
+Google Analytics
+To learn more about Google Analytics’ privacy practices and any opt-out choices it offers, click here.
+Adobe Analytics
+To learn more about Adobe Analytics’ privacy practices or to opt-out of cookies set to facilitate reporting by Adobe Analytics, click here.
+Adobe Experience Cloud Device Co-op
+JCPenney participates in the Adobe Experience Cloud Device Co-op to better understand how you use our website and apps across the various devices you use, and to deliver tailored promotions. To learn more about the Adobe Experience Cloud Device Co-op and opt-out choices, click here.
+Please note that your opt-out status may be maintained by placement of an “opt-out” cookie on your device. If the cookie is removed or deleted, or you upgrade to a new version of your browser, change browsers, or visit us from a different device, you will need to repeat this process to indicate your preference.
+Opt-outs for interest-based advertising (IBA)
+As noted above in the “Using the information we collect” section of this notice, we collect, combine, and share information to personalize your JCPenney experience across channels and across devices to target our communications and advertising. We allow third-party companies to collect certain information when you visit our site and we use third-party advertising companies to serve ads (e.g., banners or links) on our behalf across the internet and mobile applications that are tailored to your individual interests. For more information on JCPenney’s use of ad technology, see "Technology used to serve advertising" below.
+Technology used to serve advertising
+Website IBA
+To learn more about interest-based advertising or to “opt-out” of interest-based advertising programs from participating companies:
+Visit http://www.networkadvertising.org/choices/, or
+Visit http://www.aboutads.info/choices/.
+These opt-outs limit the sharing of information from the devices and browsers for which the opt-out is in effect. To maximize your control over IBA and cross-device tracking, you may choose to exercise this opt-out choice using each browser on each device that you use to interact with us. Please note that the opt-outs you make on one or both of those websites only apply to the receipt of interest-based advertising from participating third-party companies. You may still receive other types of online advertising from participating companies, and the websites you visit may still collect information for other purposes.
+Also, your opt-out status may be maintained by placement of an “opt-out” cookie on your computer. If the cookie is removed or deleted, you upgrade to a new version of your browser, change browsers, or visit us from a different computer or device, you will need to repeat this process to indicate your opt-out preference.
+Mobile application IBA
+To exercise choice for mobile applications on mobile devices, you may download the Digital Advertising Alliance’s (DAA’s) App Choices application from your device’s app store. In addition, for some devices, you may exercise choice through your device settings.
+Digital Advertising Alliance Opens in a new window
+Network Advertising Initiative Opens in a new window
+Opt-outs for “do not track”
+At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt-out of interest-based advertising as described above.
+Links to other sites
+We'd also like to remind visitors that we provide additional links to resources we think you'll find useful. These links will lead you to sites that are not affiliated with JCPenney and may operate under different privacy practices. Our visitors are responsible for reviewing the privacy policies for such other websites, as we have no control over information that is submitted to these companies.
+Children’s privacy
+We do not knowingly collect personally identifiable information from minors under the age of 16 through our websites or mobile applications.
+Notice to California residents - your privacy rights
+This Privacy Notice to California consumers supplements the information contained in the Privacy Notice above and applies solely to California residents. Certain terms used in this section have the meanings given to them in the California Privacy Rights Act (CPRA). As described below, California residents have certain rights under the CPRA. JCPenney will not deny, charge different prices for, or provide a different level or quality of goods or services if you choose to exercise these rights.
+Right to access, correction, deletion, and other rights
+You have the following rights under the CPRA:
+Right to request JCPenney disclose the categories of personal information it has collected about you, the categories of sources from which the personal information is collected, the business or commercial purpose for collecting, selling, or sharing personal information, the categories of third parties to whom JCPenney discloses personal information, and the specific pieces of personal information it has collected about you
+Right to request that if JCPenney maintains inaccurate personal information to correct the incorrect personal information
+Right to request JCPenney delete personal information we maintain about you, subject to certain exceptions
+Right to request JCPenney opt you out of the sale of your personal information and the sharing of your personal information for the purposes of cross-context behavioral advertising
+To exercise the above mentioned CDPA rights, you may:
+Visit the JCPenney Data Subject Request portal here
+Call us at 1.866.315.9260
+To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your request. To exercise these access and deletion rights, you will be asked to provide certain information, such as your name, address, telephone number, and email address, which we will use to verify your identity. In addition, if you ask us to provide you with specific pieces of personal information, we may require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request. We will use this information to search our systems and determine if we have information about you. If we are able to locate information about you, we will fulfill your disclosure and/or deletion request. If we are not able to confirm your identity with the information you submit, we may provide you with a report that includes the categories of personal information we collect, use, disclose, and sell. If you do not provide the information requested, we will be unable to process your request.
+Opt-out / opt-in of sale of personal information
+JCPenney does not disclose your personal information for monetary payment. However, JCPenney does disclose personal information to affiliates, licensees within the JCPenney family of businesses, and third parties to better offer you products and services and for the purposes of targeted advertising, which may constitute the “sale” and/or “sharing” of your personal information, as defined the CPRA. Under the CPRA,
+you have the right to opt-out of the “sale” of your personal information to third parties and the right to opt-out of the “sharing” of your personal information for cross-context behavioral advertising (collectively, “opt-out“). We do not have actual knowledge that we sell or share personal information of consumers under 16 years of age.
+To exercise your right to opt-out of the sale or sharing of your personal information, you may:
+Visit the JCPenney Data Subject Request portal here
+Call us at 1.866.315.9260
+JCPenney may place an “opt-out” cookie on your device if you chose to opt out. Therefore, your browser must be set to accept cookies. In addition, you will need to exercise your opt-out should you visit jcp.com or our app on a different device.
+Authorized Agents
+Only you or your authorized agent may make requests. To submit a request as an Authorized Agent on behalf of a consumer, you must submit your name, address, email, and phone number as well as the name, address, email, and phone number of the Requestor you are making a request on behalf of. As an Authorized Agent you will also be required to certify that you have the right to make this request on behalf of the Consumer. JCPenney will use the Requestor’s information to search our systems and determine if we have information about the Consumer. If we are able to locate information about the Requestor, will fulfill the request to disclose, correct, and/or delete the Requestor’s Personal Information.
+Data Subject Rights Requests Received
+During calendar year 2021, JCPenney processed requests from California consumers with respect to the rights described herein and have compiled the numbers as follows:
+Requests for Access
+Requests to Delete
+Requests to Opt-Out
+Received
+44
+150
+1177
+Complied with, in whole or in part
+13
+49
+1177
+Denied
+2
+12 (due to one or more exceptions) *
+0
+Invalid**
+29
+89
+0
+Median response
+6 days
+18 days
+6 days
+*Where we were unable to delete personal information not subject to an exception, these delete requests were treated as a request to opt-out.
+**Invalid requests include requests where consumers did not complete steps to verify their identity or we were unable to verify the identity of the requestor.
+Business and commercial purposes
+We may use (and may have used during the 12-month period prior to the effective date of this Privacy Notice) personal information about you for the purposes described in the "Using information we collect" Using information we collect section of this notice and for the following business or commercial purposes:
+•      Auditing the interaction with the data subject and concurrent transactions.•      Detecting or preventing security incidents or other illegal activity and prosecuting the responsible parties.•      Debugging to identify and repair errors that impair existing intended functionality.•      Short-term, transient use if the personal information is not disclosed to another third party or used to build a profile or otherwise alter an individual consumer’s experience outside the current interaction.•      Performing services on behalf of JCPenney or its service provider.•      Undertaking internal research for testing, research, analysis, technological and product development.•      Providing support, safety, security, integrity of JCPenney website, products, and services.
+Financial Incentive
+The JCPenney Rewards Program (“Program”) is a loyalty program sponsored by JCPenney and is subject to the Program Terms and Conditions. For information more about the Program and CPRA, visit Additional Information for California Residents .
+Information we collect by category
+JCPenney may collect (and may have collected during the 12-month period prior to the effective date of this Privacy Notice) the following categories of personal information about you, including examples:
+Identifiers (e.g. name, mailing address, email address, phone number, credit card number)
+Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
+(e.g., financial information)
+Protected classification characteristics under California or federal law (e.g. gender, age)
+Commercial information (e.g. products or services purchased, purchase history)
+Internet or other similar network activity (e.g. browse or search history)
+Geolocation data (e.g. zip code)
+Sensory data
+Inferences drawn from other personal information (e.g. preferences or characteristics)
+JCPenney may collect “sensitive personal information,” as defined by the CPRA, from or about consumers as described herein. JCPenney may process a consumer’s driver’s license number in connection with a non-receipt return and check processing. This information is not retained by JCPenney.
+Categories of sources from which your personal information is collected
+We may collect (and may have collected during the 12-month period prior to the effective date of this Privacy Notice) personal information from the following sources:
+Information Provided by the Consumer to JCPenney (JCPenney stores, JCPenney kiosks, jcp.com, Mobile Applications, Customer Service, JCPenney card applications)
+Third Party Websites
+Data Brokers
+Social Media
+Company Subsidiaries
+Disclosure of personal information
+We may disclose (and may have disclosed during the 12-month period prior to the effective date of this Privacy Notice) the following categories of your personal information for a business purpose to the below categories of third parties:
+Category of Third Party
+Category of Personal Information Shared
+Payment Processing Companies
+Identifiers
+Geolocation Data
+Commercial Information
+Cloud Storage Companies
+Identifiers
+Geolocation Data
+Characteristics of Protected Classifications Under California or Federal Law
+Commercial Information
+Delivery AgentsFactory Ship VendorsFraud Prevention Companies
+Identifiers
+Commercial Information
+Advertising NetworksMarketing Vendors
+Identifiers
+Geolocation Data
+Internet or Other Electronic Network Activity Information
+Sale of personal information
+We may “sell” or “share” (and may have sold or shared during the 12-month period prior to the effective date of this Privacy Notice) he following categories of personal information about you to the below categories of third parties.
+Category of Third Party
+Category of Personal Information Shared
+Advertising Networks
+Identifiers
+Commercial Information
+Internet or other electronic network activity
+Geolocation data
+Inferences
+Retention of Personal Information
+JCPenney retains personal information for a period permitted in accordance with applicable law.
+Privacy Contact
+If you have additional questions or concerns about JCPenney’s privacy practices, you can:
+Email us at privacy@jcpenneyeservices.com,
+Call us at 1.800.322.1189, or
+Write to us at Penney OpCo LLC, P.O. Box 10001, Dallas, TX 75301-7311, Attention: Corporate Consumer Care
+Summary of changes to this notice
+This notice was last updated on December 31, 2022 and included the following changes:
+Updated the “Notice to California Residents – your privacy rights” section to include Data Subject Rights Requests Received.
+Notice to Virginia residents - your privacy rights
+This Privacy Notice to Virginia consumers supplements the information contained in the Privacy Notice above and applies solely to Virginia residents. Certain terms used in this section have the meanings given to them in the Virginia Consumer Data Protection Act (CDPA). For purposes of the Privacy Notice and this supplement, “personal information” shall have the same meaning of “personal data,” as defined by the CDPA. As described below, Virginia residents have certain rights under the CDPA. JCPenney will not deny, charge different prices for, or provide a different level or quality of goods or services if you choose to exercise these rights.
+Right to access, correction, deletion, and other rights
+You have the following rights under the CDPA:
+To confirm whether or not JCPenney is processing your personal information and to access such personal information;
+To correct inaccuracies in the personal information JCPenney maintains about you;
+To delete personal information JCPenney has collected or obtained about you;
+To obtain a copy of the personal information that you previously provided to JCPenney in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another controller without hindrance, where the processing is carried out by automated means, if applicable; and
+To opt out of the processing of personal information for the purposes of targeted advertising, the sale of personal information, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you, if applicable.
+To exercise the above mentioned CDPA
+rights, you may:
+Visit the JCPenney Data Subject Request portal here
+Call us at 1.866.315.9260
+Sale of personal information, targeted advertising, and profiling
+JCPenney does not “sell” your personal information, as defined by the CDPA. However, JCPenney may process personal information for targeted advertising and profiling to better offer you products and services.
+Under the CDPA, you have the right to opt-out of the sale of personal information, targeted advertising, and profiling (“opt-out“).
+To exercise your right to opt-out of the sale or sharing of your personal information, you may:
+Visit the JCPenney Data Subject Request portal here
+Call us at 1.866.315.9260
+JCPenney may place an “opt-out” cookie on your device if you chose to opt out. Therefore, your browser must be set to accept cookies. In addition, you will need to exercise your opt-out should you visit jcp.com or our app on a different device.
+Business and commercial purposes
+We may process (and may have processed during the 12-month period prior to the effective date of this Privacy Notice) personal information about you for the purposes described in the "Using information we collect" Using information we collect section of this notice and for the following business or commercial purposes:
+Auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with this specification and other standards.
+Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity.
+Debugging to identify and repair errors that impair existing intended functionality.
+Short-term, transient use, provided the personal information that is not disclosed to another third party and is not used to build a profile about you or otherwise alter your experience outside the current interaction, including, but not limited to, the contextual customization of ads shown as part of the same interaction.
+Performing services on behalf of the business or service provider, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying your information, processing payments, providing financing, providing advertising or marketing services, providing analytic services, or providing similar services on behalf of the business or service provider.
+Undertaking internal research for technological development and demonstration.
+Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by the business, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by the business.
+Compliance with law and protecting legal rights.
+Information we collect by category
+JCPenney may collect (and may have collected during the 12-month period prior to the effective date of this Privacy Notice) the following categories of personal information about you, including examples:
+Identifiers (e.g. name, mailing address, email address, phone number, credit card number)
+Finanicial information
+Personal information categories
+Protected classification characteristics under Virginia or federal law (e.g. gender, age)
+Commercial information (e.g. products or services purchased, purchase history)
+Internet or other similar network activity (e.g. browse or search history)
+Geolocation data (e.g. zip code)
+Sensory data (e.g., audio)
+Inferences drawn from other personal information (e.g. preferences or characteristics)
+JCPenney does not process the “sensitive data” of consumers.
+Disclosure of personal information
+We may disclose (and may have disclosed during the 12-month period prior to the effective date of this Privacy Notice) your personal information for a business purpose to the below categories of third parties:
+Category of Third Party
+Category of Personal Information Shared
+Payment Processing Companies
+Identifiers
+Geolocation Data
+Commercial Information
+Cloud Storage Companies
+Identifiers
+Geolocation Data
+Characteristics of Protected Classifications Under California or Federal Law
+Commercial Information
+Delivery Agents
+Factory Ship Vendors
+Fraud Prevention Companies
+Identifiers
+Commercial Information
+Advertising Networks
+Marketing Vendors
+Identifiers
+Geolocation Data
+Internet or Other Electronic Network Activity Information
+Privacy Contact
+If you have additional questions or concerns about JCPenney’s privacy practices, you can:
+Email us at privacy@jcpenneyeservices.com,
+Call us at 1.800.322.1189, or
+Write to us at Penney OpCo LLC, P.O. Box 10001, Dallas, TX 75301-7311, Attention: Corporate Consumer Care
+Effective date: January 1, 2023
+Add To Cart

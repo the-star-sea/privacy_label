@@ -1,0 +1,99 @@
+Skip to content
+Menu
+首页
+产品列表
+公司简介
+诚聘英才
+联系我们
+Chromecaster
+Fire Remote
+Terms of Service
+Privacy Policy
+TV Cast
+Privacy Policy
+This Privacy Policy describes how Chengdu BoostVision Technology Co., Ltd ( hereby called the “BoostVision”) protects your privacy when entering our website at www.boostvision.com.cn and our mobile applications (collectively, the “Service”). It covers what information about you or associated with you is collected, used and disclosed by BoostVision.
+I. The Personal Information We Collect
+1.1 Information You Give Us
+We collect the personal information you give us, such as:
+Account information.
+We collect personal information when you create an account, such as your email address and password, as well as your phone number if you provide one to enable two-factor authentication or if you use our telephony service.
+Account content.
+If you have a Service account, you can use and store different types of data in the Service, such as photos and videos, files, messages and other content.
+Transaction information.
+When you order paid versions of the Service we collect information necessary to complete the transaction, including your name, payment information and billing information.
+Forum content.
+You may post messages and other content in help forums or message boards within the Service. This information is stored within the Service and other users can see it.
+Contact details.
+We collect the contact details you share with us when you communicate with us, which may include your email address, phone number, postal address or social media handles.
+Feedback and correspondence.
+You may share information with us when you respond to surveys, request customer support or otherwise interact with us.
+Contact details for parties you invite.
+If you decide to invite someone else to create an account on the Service, we will collect your and the third party’s names and email addresses to send an email and follow up with the third party. You or the third party may contact us at support@tvcast.in to request deletion of the other party’s information. By inviting someone else to use the Service, you confirm that you have that person’s permission to do so.
+Device data.
+You may choose to give us permission to access certain data on or components of your device, such as your photos, contacts, microphone and camera. You can always disable this access in your device’s settings.
+1.2 The information the App collects:
+Device Information.
+We collect this kind of information (such as your operating system version, hardware manufacturer & model, screen size, CPU model, unique device identifiers, installed apps and mobile network information) to provide our services, implement app features, and improve the app performance.We use server logs, cookies and similar technologies to automatically collect information about your computer or device and how you interact with the Service. For example, we may record your application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session) and your unique device, application or advertising identifiers. In addition to information about your device, we collect information about how you interact with the Service, such as the page that referred you, your search terms, pages or areas of the Service you use or share, the time and duration of visits, features you used and links you clicked on.
+App Usage Data.
+This includes information relating to the behavior when you are using the app to analyze and improve the user experience. We do not collect the content you may transmit or share within apps such as video editing, screen recording.
+Google Advertising ID.
+This is used in the third-party advertising network to provide personalized ads and prevent inappropriate advertisement content.
+Wifi information.
+We use it to connect your phone with your TV. We do not collect, store or transfer your Wifi info.
+Support Related Information.
+If you communicate with us via our support section or via email, we may collect your email address, name and any information voluntarily submitted by you in connection with such support. Such information will only be used to provide you with support services.
+Cookies.
+See our Cookie Notice for more information about how the Service and third party analytics providers and advertisers use cookies and similar technologies to collect your information when you use the Service.
+Sensitive personal information
+We will never ask you to send us or submit to the Service any information related to racial or ethnic origin; political opinions or union membership; religious or other beliefs; your health, biometric or genetic information; information about your sexual preference or sexual orientation; or information about your criminal background.
+Advertising
+We use Google Admob as ads provider. Google Admob wants to show ads that are relevant to you. For more information, please check: https://policies.google.com/privacy?hl=en&gl=US or https://admob.google.com/home/ If you use an ad-supported version of the Service, advertising companies use cookies and similar technologies to collect information about how you use it, and to serve you ads tailored to your interests in the Service and elsewhere. See our Cookie Notice for more information.
+II. How We Use Your Personal Information
+We use the information we collect from BoostVision Apps to provide you with better features and experience. We also use the data to measure the performance and improve the App. We do not sell, trade, or otherwise transfer to outside parties your personal information. Furthermore, we will only use your personal information in ways that are compatible with the purposes listed below for which it was collected or as subsequently authorized by you.
+To provide the Service
+We use your personal information to provide and support the Service. As part of providing the Service we may send you service announcements, technical notices, updates, security alerts and support-related messages through the Service or by email. We may also communicate with you in response to your support requests, questions or feedback.
+For research and development
+We use the information we collect to better understand your interests and the Service, make improvements to the Service and to develop new features and services.
+To send you marketing communications
+If you use the Service, request information from us, or participate in our surveys, promotions or events, we may send you BoostVisioni-related marketing communications. You can always opt out of these communications by following the opt-out instructions in the message or by contacting us.
+To create anonymous data
+We may create aggregated and other anonymous data from our users’ personal information. We make personal information into anonymous data by removing information that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties to operate, understand and improve our Service, develop new services and for other lawful business purposes.
+For security, compliance, fraud prevention and safety
+We may use your personal information as we believe appropriate to investigate or prevent violation of the law or our Terms of Service; to secure the Service; to protect our, your or others’ rights, privacy, safety or property; and to protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity.
+For compliance with law; legal claims
+We may use your personal information as we believe appropriate to (a) comply with applicable laws, lawful requests and legal process, such as to respond to subpoenas or requests from government authorities, (b) where permitted by law in connection with a legal investigation and (c) to prosecute or defend legal claims
+With your consent
+In some cases we may ask for your consent to collect, use or share your personal information with your consent, such as when we request access to your photos or other data through prompts in your mobile operating system. Opt-out of personalized advertising To show you personalized ads in the BoostVision apps we use specific advertising networks and their partners to deliver ads that are tailored to you based on a determination of your interests or characteristics. You can opt-out from customized ad experience at any time by checking the privacy settings of your android device and choosing “opt-out of interest-based ads”. When you prefer to opt-out, advertising networks will think about this choice as a withdrawal of consent to customized ads experience and they will show only non-personalized ads.
+III. How We Share Your Personal Information
+Affiliates
+We may share some or all of your personal information with our subsidiaries, joint ventures, or other companies under common control, in which case we will require those entities to honor this Privacy Policy.
+Service providers
+We may employ third party companies or individuals to provide services that support the Service (such as customer support, hosting, payment processing, website and mobile app analytics and email delivery). We authorize these service providers to use your personal information only as necessary in connection with providing their services to us. If we learn that a service provider is using or disclosing personal information in a manner contrary to this Privacy Policy, we will take reasonable steps to stop it.
+For compliance with law; legal claims; security, compliance, fraud prevention and safety
+We may disclose information about you as we believe appropriate to government or law enforcement officials or private parties (a) for the security, compliance, fraud prevention and safety purposes described above; (b) as required by law, lawful requests or legal process; (c) where permitted by law in connection with any legal investigation; and (d) to prosecute or defend legal claims.
+Business transfers
+We may sell, transfer or otherwise share some or all of our business or assets, including your personal information, in connection with a business deal (or potential business deal) such as a merger, consolidation, acquisition, reorganization, sale of assets or in the event of bankruptcy.
+IV. Your Choices
+Access, correct or delete
+If you have an account, you can access and update the personal information in your profile. Registered users may also contact us to request deletion of your account and personal information. We may request information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request, such as where we need to retain your information for security, compliance, fraud prevention and safety, to comply with law or for legal claims. If we decline your request, we will tell you why, subject to legal restrictions. Once we process your request you will not be able to access your account or use the Service. When we delete any information, it will be deleted from our active database, but where permitted by law, may remain for a period of time in our backup files or other instances where deletion is not practicable.
+Marketing communications
+You may opt out of marketing-related communications by following the opt-out prompt in the message, or by contacting us. You may continue to receive service-related and other non-marketing communications.
+Security
+We use a variety of industry-standard technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. However, security risk is inherent in all information technology. Thus, while we use reasonable efforts to protect your personal information, we cannot guarantee its absolute security. If you believe the security of the Service or your personal information has been compromised, contact us immediately.
+Third Party Sites and Services
+The Service may link to or integrate with other websites and services operated by third parties, including social media platforms, advertising services and other websites and applications. These links and integrations are not endorsements of, or representations that we are affiliated with, any third party. We do not control third party websites, applications or services and we are not responsible for their actions. Third party websites and services follow different rules regarding their collection, use and sharing of your personal information and we encourage you to read their privacy policies to learn more.
+Children
+The Service is not directed to anyone under the age of 16. A parent or guardian who becomes aware that a child has used the Service may contact us and we will attempt to delete the child’s personal information as soon as possible.
+Changes to this Privacy Policy
+We may modify this Privacy Policy at any time. If we make material changes to this Privacy Policy we will notify you by email (if we have your email address) or another reasonable manner through the Service. Any modifications to this Privacy Policy will be effective when posted (or as otherwise indicated at the time of posting). If you object to an update of this Privacy Policy, you must notify us and ask to deactivate your account and delete your personal information prior to the effective date of the update. Continued use of the Service after an update to this Privacy Policy will indicate your acceptance of the update.
+Contact Us
+If you have any questions or concerns about our Privacy Policy, please contact us at: Email: support@boostvision.com.cn
+V. Additional Informations
+Cookie Notice
+Cookies are small data files stored on your computer or mobile device by a website. They transmit information about your use of the site to its operator or to third parties that placed the cookie. Our sites and applications use both session and persistent cookies to enable you to sign in and use our sites and applications, store your preferences and settings within them; analyze how they perform, personalize your experience with them, provide interest-based advertising and for other lawful purposes. We may also use other similar technologies for these purposes, such unique device identifiers, and third party software embedded in our mobile applications. In some cases, these cookies and similar technologies are used by third parties. The cookies and similar technologies used in our sites and mobile applications are as follows:
+TypeDescriptionThird PartyEssentialEssential to provide you with services available through our sites and to enable you to use some of their features.We cannot provide the services our users request without them.NoneFunctionalityAllow our sites to remember the choices you make when you use our sites.Intended to provide you with a more personal experience and to avoid you having to re-select your preferences every time you visit our sites.NoneAnalyticsCollect information about traffic to our sites and mobile applications, and how our users use them, such as the number of visitors, the websites that referred them, the pages they visited, what time of day they visited, whether they have visited before, what features they used and other similar information. We use this information to help operate and improve our sites and mobile applications.Google Analytics. Learn more information about Google Analytics cookies here and about how Google protects your data here. You can prevent the use of Google Analytics relating to your use of our sites by downloading and installing the browser plugin available here.AdvertisingUsed by advertising companies to collect information about how you use our sites and mobile applications and other sites and applications over time. These companies use this information to show you ads they believe will be relevant to you within our sites and mobile applications and elsewhere, and to measure how the ads perform.Admob, a division of Google. See Admob’s privacy policy here: https://policies.google.com/privacy?hl=en
+Disabling cookies. Most browsers let you remove or reject cookies. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. For more information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit www.allaboutcookies.org and www.youronlinechoices.com. If you do not accept our cookies, you may experience some inconvenience on our sites. For example, you may not be able to store preferences in our sites. If you disable cookies, certain features of our website may not work. Limiting mobile application tracking. Most mobile devices provide settings that will let you limit collection of your information for advertising. To learn more see http://www.networkadvertising.org/mobile-choice.
+For more information about how we collect, use and share your personal information, see our Privacy Policy.
+Copyright © 2021 成都增强视图科技有限公司
+川公网安备51019002002376号
+蜀ICP备19035630号-1

@@ -1,0 +1,662 @@
+Privacy Policy (Buyers Version)
+Update date: Jul 28, 2022
+Effective date: Aug 4, 2022
+Please contact us using the details below if you have any doubt, comment or suggestion about this Policy or
+personal information protection. In general, we will reply within 7 working days.
+E-mail: [email protected]，[email protected]
+Customer service hotline: 86-25-6667 7777
+Reminder
+Your trust is very important to us. We know very well the importance of personal
+information to you. We will, in accordance with laws and regulations, and to the best of our
+ability, take corresponding security measures to protect your personal information.
+Focus Technology Co., Ltd. (hereinafter referred to as "we" or "us" or "Focus
+Technology", contact address: No. 7, Lijing Road, Jiangbei New Area, Nanjing, Jiangsu) attaches
+importance to protecting the personal information and personal privacy of users. This Privacy Policy
+contains the terms regarding personal information (hereinafter referred to as “Information") between
+us and Users (hereinafter referred to as "You") in relation to the use of the App client
+(Google Play: Made-in-China B2B Trade Online, Apple App Store: Made-in-China B2B Trade
+App, hereinafter referred to as "Buyer App") of Made-in-China.com.
+Please note that this Policy does not apply to services provided to
+you by any other third party, which shall be subject to the privacy policy separately described by
+the third party to you.
+Before using our products or services, please read carefully and
+understand this Privacy Policy, especially the terms in bold/underlined in bold, to
+help you understand how to maintain your privacy. Do not use our products or services before you
+have fully understood and agreed to the terms. Please be noted that important terms of this Policy
+which are (may be) closely related to your interests have been specifically reminded with clear
+marks for your reading. If you have any doubt about this Privacy Policy, you may suspend using it
+and contact us through the contact information we publish. When you use our services, you are deemed
+to have agreed that we may collect, process, store, use and protect your PI in accordance with this
+Privacy Policy.
+This Privacy Policy will be translated into different language
+versions through translation software, including but not limited to English, Japanese, French,
+Spanish, etc.. Should there be any conflict between the different language versions, the Chinese version shall
+prevail.
+This Privacy Policy section will help you learn:
+I. How We Collect and Use Your PI
+II. How We Use Cookies and Similar Technologies
+III. How We Share, Transfer and Publicly Disclose Your PI
+IV. How We Protect Your PI
+V. How You Manage Your PI
+VI. How We Handle Minors' PI
+VII. How Your PI is Transferred Worldwide
+VIII. How This Privacy Policy Will Be Updated
+I. How We Collect and Use Your PI
+We will retain the information on the services you use and the way you use them to
+improve the quality of services and user experience. Different products have different functions
+and the collection of fields varies from system to system. We make the following
+instructions with respect to your PI collected for corresponding products you use:
+(I) PI you provide actively during our provision of products and/or services to
+you
+We need to collect your PI to realize the Buyer App’s business functions. The
+following will list in detail the personal information you voluntarily provide during the product
+and/or service process to realize the basic business functions of the Buyer App and the personal
+information that is collected for the realization of this function. If you refuse to provide such
+PI, the business function cannot be used. Please note that if you provide PI of others, please make
+sure that you have obtained the authorization from the relevant subject.
+1. Membership services: to register as a member and use our membership
+services, you need to provide the member name and password to be used, the mailbox address
+and password to create a platform account. If you only need to use browsing and search
+services, you do not need to register as our member and provide the above PI. We
+mainly collect your email address, country, name, company name, mobile phone number and
+sourcing products, type of company, annual purchase volume, purchase frequency and other
+information. Such PI is collected to implement the service terms of Buyer App
+and provide you with the services we promise, so that potential partners or our staff can
+contact you in a timely manner to facilitate trade cooperation or solve possible problems.
+You can modify the above contents by logging in with the member name and password or the
+mailbox address and password.
+2. Marketing activities: when you participate in a lucky draw or claim
+discount coupons, if you win the prize, you also need to provide the name, mobile
+phone number, address and nickname of the winner, so that we can contact
+you when distributing the prize, but we will display PI of the winner in an
+anonymous manner.
+3. Advertisement push: to better provide you with recommended
+services, we may reasonably send you commercial advertisements, latest information on
+management and commodities of the platform, as well as other service notices that are
+necessary to be notified to registered users, or display personalized third-party promotion
+information to you through the system. In case You do not wish to receive such
+information, You can unsubscribe through the corresponding unsubscribe function (or
+through the contact information at the beginning of this article).
+4. Functions necessary for the services related to cloud exhibition: when
+you participate in an online cloud exhibition through Buyer App, we need toactivate
+the authority of the camera and microphone in the device you use to complete the
+complete video recording and the functions attached to the recording
+process, and secure your consent in the form of a pop-up window when you
+activate the authority for the first time; if you refuse to activate the authority of the
+camera and microphone, you will not be able to complete the video recording. During
+the live recording process, we will record and save all the dynamic and static pictures
+you show and display them to other users. Meanwhile, we will monitor your video screen
+in real time to ensure that your video content conforms to laws and regulations as well
+as public order and good customs according to the relevant national laws and
+regulations.
+5. Customer services: When you contact us, we may record your
+conversations with us and collect other necessary PI for resolving the problem in
+order to verify your identity and help you resolve the problem.
+6. Picture/document access and uploading function: you can use picture
+tools to normally upload pictures to the material library, and release/reply to the
+inquiry/RFQ by quickly selecting the attached inquiry/RFQ function.
+7. Instant communication function: you may chat with suppliers
+through TradeMessenger on goods browsing, bargaining and supplier exhibition pages.
+We might get chat records; send message reminders of TradeMessenger, etc.
+(II) PI we collect and use actively during our provision of products and/or services to
+you
+During your use of our services, in order to identify the abnormity of your
+account, understand the adaptability of our product, and provide you with page display and search
+results that better meet your needs, we may automatically collect your usage information and store
+it as a weblog, which contains:
+1. Device Information: We will receive and record, according to the
+specific operations during your installation and/or use of software, information
+about the device you are using (including but not limited to the device model, version
+of the operating system, device settings, unique device identifier, device environment,
+mobile application list, IP address and operator information) and information about the
+location of your device (including but not limited to the GPS location authorized by
+you).
+2. Service log information: During your use of the products or services
+provided by our website or at client, we will automatically collect the detailed information
+on how you use our services and will save it as a service log, including but not
+limited to information you browsed, contents you viewed, your transactions, contents you
+followed and shared, information you published, and your operations, time of operations
+and abnormity in the service log..
+Please note that the device information or the service log
+information cannot be used to identify a specific natural person when used alone. This type
+of non-PI, when used by us in connection with other information to identify a specific
+natural person, or with other PI, will be considered as PI, and will be anonymized or
+de-identified by us, except as otherwise authorized by you or provided for by relevant laws
+and regulations.
+(III) We obtain your PI from a third party
+We may collect and use your PI from third parties (our partners) within the scope
+of your authorization or consent. We guarantee that your PI is handled in strict accordance with the
+contracts with third parties and the relevant legal provisions. Meanwhile, please carefully read the
+privacy policy and user agreement of the third parties in detail. If you refuse the
+collection, use or communication by a third party of your PI when the third party is providing
+services, you might not be able to use the corresponding services of Buyer App.
+1. Third-party login: we may share your account information (head
+portrait, nickname and other page information) with third parties with your consent, so that
+you can easily realize the registration or login of third-party accounts (such as
+Facebook/LinkedIn/Twitter/Google/Apple account). In addition, we may obtain your
+third-party account information from third parties based on your authorization and bind such
+information with your platform accounts, so that you can directly log in through third-party
+accounts, and use our products and/or services. We will use your relevant information within
+the scope of your authorization or consent.
+2. Following and sharing: in the process of browsing our website or
+client, you can choose to add the products and/or services you are interested in to your
+favorites, follow merchants/brands/other members you are interested in, and share
+information with other third parties through the function components provided by us.
+In the process of your using the above functions, we will collect the service log
+information, including your favorites, what you follow and your share history, for the
+purpose of realizing the above functions and other purposes explicitly notified by
+us.
+(IV) The relevant business functions of this product will require the access authority
+of your device set out as follows:
+When you use this software, this software may obtain your authority below
+to provide you with services. You may either refuse to grant the following authority or close the
+following authority of the software in the mobile settings. Closing the authority will not affect
+the use of other functions of this software.
+The authority to access your device that might be activated to realize the relevant
+business functions is set out below on a one-by-case basis:
+Business Scene
+Description
+Authority to Access the Device
+Contact supplier
+Send an inquiry to the supplier
+Authority to access photo albums, authority to access the camera, uploading attachments,
+and camera authority
+Publish procurement requirements
+Authority to access photo albums, authority to access the camera, uploading attachments,
+and camera authority
+Reply to a supplier's e-mail
+Authority to access photo albums, authority to access the camera, uploading attachments,
+and camera authority
+Chat with a supplier
+Authority to access photo albums, save-to-album function, authority to access the
+camera,uploading attachments, downloading attachments, camera authority, and
+microphone authority
+Meeting room
+Authority to access photo albums, save-to-album function, authority to access the
+camera,uploading attachments, downloading attachments, camera authority, and
+microphone authority
+Image search
+Image search
+Authority to access photo albums, authority to access the camera, and camera authority
+Scan QR code on the homepage
+Scan QR code on the homepage
+Authority to access photo albums and camera authority
+Message push
+Send an inquiry reminder, procurement requirements reminder, message reminder of
+TradeMessenger
+Activate push authorityRead the status of the mobile phone and identity
+System notification and subscription
+(V) Other purposes
+We will use your PI in compliance with legal provisions or according to your
+authorization in order to provide you with services, improve our service quality and optimize your
+service experience
+1. We may use your PI to verify your identity and prevent, detect or
+investigate the acts that might have fraud, endanger security, are illegal or breach our or
+affiliates' agreements, policies or rules to protect the legitimate rights and interests of
+yours, other users, us or affiliates.
+2. Let you participate in the survey of our products and services to
+improve your user experience and our service quality.
+3. We may combine PI and transaction information from a service with the
+information obtained from other services for integrated statistics, analysis or processing,
+so as to provide you with more personalized services.
+4. If the PI to be provided by you contains any PI of other
+users, you must ensure that you have obtained the legal authorization thereof before
+providing such PI to Buyer App.
+If any PI about a child is involved, you shall obtain
+the consent of the guardian thereof before releasing such PI. In the foregoing case, the
+guardian has the right to contact us through the channels provided in this Policy,
+requesting for correction or deletion of any PI about the child.
+5. Other purposes agreed or authorized by you.
+(VI) Exceptions to authorization or consent
+According to the relevant laws and regulations, we may collect and use some necessary PI without your
+authorization or consent under the following circumstances:
+A. where it is related to our compliance with the obligations under the laws and regulations;
+B. where it is directly related to national security or defense security;
+C. where it is directly related to public security, public health or major public interests;
+D. where it is directly related to criminal investigations, prosecutions, trials and enforcement
+of court decisions;
+E. where it is difficult to obtain your consent but the purpose is to protect your or other
+individuals' vital legitimate interests such as life and property;
+F. where the PI involved is disclosed to the public by you;
+G. where it is necessary according to the long-term and cumulative contracts between you and us;
+H. where your PI is collected from legally and publicly disclosed information, such as
+legitimate news and reports, and government information disclosure channels;
+I. where it is necessary for maintaining safe and stable operation of our products and/or
+services, such as identification or disposal of product or service failures;
+J. other circumstances as provided for by laws and regulations.
+II. How We Use Cookies
+To ensure normal operation of the website, provide you with a better user experience, and
+push to you contents that may interest you, we will store, in your computer or mobile device, cookies, Flash
+cookies or browsers (or associated applications) which typically provide local storage for identifiers, site
+names, and some numbers and characters, among others (collectively "Cookies") . With the help of Cookies,
+our website can store data about your preferences or products in your shopping cart, etc.
+As long as your browser or browser add-on service permits, you may modify the acceptance
+level of Cookies or reject our Cookies. For details, see AboutCookies.org. However, if you do so, your safe
+access to our website may be affected in certain circumstances, and you may need to modify user settings
+each time you visit our website.
+III. How We Share, Transfer and Publicly Disclose Your PI
+(I) Sharing
+We will not share your PI with any companies, organizations or individuals, with
+the following exceptions:
+1. Sharing in statutory circumstances: we might share your PI externally according to laws and
+regulations, the needs for litigation or dispute resolution, or the requirements put forward by
+administrative and judicial organs under the law.
+2. Sharing with explicit consent: we will share your PI with other parties with your explicit
+consent.
+3. Sharing based on your active choice: for the PI that is publicized by you or we can obtain
+from other legally open channels, as well as the PI you provide through Buyer App, we will share
+the necessary PI relating to the transaction in your order with the provider of the relevant
+products or services based on your choice, so as to achieve your needs for the transaction and
+after-sales services.
+4. Sharing with affiliates: your PI may be shared with our affiliates and/or service
+providers designated by them to facilitate our provision of products and services to you based
+on the account, recommend the information that may interest you, identify the abnormalities in
+the membership account, and protect your personal property from infringement. We will
+only share necessary PI and are bound by the purposes stated herein. In case that there is a
+need for us to share your sensitive PI, or our affiliates need to alter the purpose or the way
+of processing your PI, we will seek your authorization or consent again.
+5. Sharing with authorized partners: in order to provide you with products and services that are
+perfect and of high-quality, certain services of Buyer App will be provided by the partners.
+Therefore, we may entrust authorized partners to provide you with certain services or to
+perform our functions on behalf of us. We will only share your PI for the lawful,
+legitimate, necessary, specific and explicit purposes stated herein. The authorized partners may
+only have access to the PI required for their performance of their duties, and may not use such
+PI for any other purpose. We will not permit our partners to sub-transfer any PI about a
+child.
+At present, our authorized partners include the following types:
+1) Partners providing advertisement monitoring, data statistics and
+data analysis services
+Without your permission, we will not share your identity information with our
+partners that provide advertising and analysis services. Our partners will help us process
+information related to advertising coverage and effectiveness, but we will not provide them with
+your identity information, or we will de-identify such information so that it does not identify
+you personally. The above partners may combine the above information with other data they have
+legally obtained to provide the advertising services or implement our decision-making.
+2) Suppliers, service providers and other partners
+We will send information to suppliers, service providers and other partners
+who provide us with business support, including providing technical infrastructure services,
+hardware and software product services or system product services, analyzing how our services
+are used, evaluating the effectiveness of our advertising and services, providing customer
+services or payment facilities, conducting academic research and surveys, and providing
+third-party products that need to be accessed by logging in to Buyer App and using services of
+authorized software or Buyer App.
+In the process of dealing with sensitive PI, we will take technical measures
+to process the PI, and disconnect your association with specific information such as your
+identity so as not to identify a specific individual. If you refuse to provide PI that
+is necessary for our partners to provide services, you might not be able to use the services
+provided by the partners through Buyer App.
+3) If you participate in a lucky draw or similar advertising promotion, your
+information (name, phone number (including mobile phone number), and address) will be provided
+to courier service providers, such as SF Express, YTO Express and DHL (as indicated on the
+website), or the relevant suppliers to the extent necessary for Buyer App or prizes and goods
+suppliers to deliver the relevant prizes and goods to you.
+4) When you complete your order on our website, we will randomly invite you to
+rate and review on our products or services on third-party review platforms. If you choose to
+participate, your information (email and order number) will be provided to the third-party review
+platforms.
+(II) Transfer
+We will not transfer your PI to any company, organization, or individual except
+under the following circumstances:
+1. Transfer with explicit consent: we will transfer your PI to other parties
+with your explicit consent;
+2. When the transfer of PI is involved in a merger, acquisition, asset transfer,
+bankruptcy liquidation, or similar situation, we will require the new company or organization to
+which your PI is transferred to continue to be bound by this Privacy Policy; otherwise we will
+require the new company or organization to seek your authorization or consent again.
+(III) Public disclosure
+Your PI is an important part of our services for you. We will abide by the legal
+provisions to keep your PI confidential. We will only publicly disclose your PI under the following
+circumstances:
+1. After we obtain your explicit consent;
+2. Statutory disclosure: we might publicly disclose your PI in situations
+where there are mandatory requirements from laws, legal procedures, litigation, or competent
+government departments.
+3. Upon confirming your violation of laws or regulations or severe violation of
+relevant agreements or rules of Buyer App, or for the purpose of protecting the personal and
+property safety of Buyer APP users or the public from damage, we may disclose your PI to the
+extent permitted by applicable laws and regulations or with your consent.
+4. According to the legal provisions and reasonable commercial habits, when we plan to merge
+with other entities or be acquired or carry out other activities on the capital market
+(including IPO and bond issuance), and when we need to accept due diligence conducted by other
+subjects under other circumstances, we will provide your PI for the necessary subjects, provided
+that we will sign a confidentiality agreement with such subjects, requiring them to take
+reasonable confidentiality measures for your PI.
+5. Buyer App may disclose to the public and share with any third party in
+partnership with Buyer App the big data analysis results being removed of personal
+identification data through statistical processing.
+(IV) Cases involving the embedding of third-party codes or plug-ins for transmission of PI
+are as follows:
+Our application will be embedded with the SDK or other similar applications of authorized
+partners to enable you to use the services and functions described above. When providing you with
+products and services, third parties might ask for the following authority. Please carefully read
+and observe the user agreements and privacy policies of the third parties.
+SDK Name
+Name of Third-party Institution
+Purpose of Collection and Use
+Range of PI Collected
+XiaomiPush
+Xiaomi Technology Co., Ltd.
+Xiaomi mobile phones receive the push
+Retrieve running applications. For more information, please visit:
+https://dev.mi.com/console/doc/detail?pId=1822
+TencentXGPush
+Tencent Technology (Shenzhen) Co., Ltd.
+Non-Xiaomi mobile phones receive the push
+Use Bluetooth, read external memory cards, input entries to external memory cards, and
+retrieve running applications. For more information, please visit:
+https://cloud.tencent.com/document/product/301/11470
+URORAPush
+Shenzhen Hexun Huagu Information Technology Co., Ltd.
+Message push
+Retrieve running applications. For more information, please visit:
+https://www.jiguang.cn/license/privacy
+youdao
+Beijing Netease Youdao Computer System Co., Ltd.
+Provide accurate and convenient translation functions for inquiries
+For more information, please visit:
+http://shared.youdao.com/dict/market/youdaoInc-v2.1/index.html#/CN
+TencentShortViedo
+Shenzhen Tencent Computer System Co., Ltd.
+Meeting room and live streaming function
+For more information, please visit:
+https://cloud.tencent.com/document/product/301/11470
+TencentRTMP
+Tencent Technology (Shenzhen) Co., Ltd.
+Tencent video calls
+Use Bluetooth, read status of the mobile phone and identity, record audios, and retrieve
+running applications. For more information, please visit:
+https://cloud.tencent.com/document/product/301/11470
+TencentLiteAV
+Tencent Technology (Shenzhen) Co., Ltd.
+Meeting room and live streaming function
+Get rough locations, get accurate locations, cameras, read external memory cards, read
+status of the mobile phone and identity, record audios, input entries of external memory
+cards, retrieve running applications, and background geolocation. For more information,
+please visit:
+https://cloud.tencent.com/document/product/301/11470
+OpenPlatformforWeChat
+Tencent Technology (Shenzhen) Co., Ltd.
+Sharing and following functions of WeChat
+For more information, please visit:
+https://open.weixin.qq.com/cgi-bin/frame?t=news/protocol_developer_tmpl
+FacebookShare
+Facebook
+Facebook share
+For more information, please visit:
+https://www.facebook.com/about/privacy
+FacebookAccountLogin
+Facebook
+FacebookAccountLogin
+For more information, please visit:
+https://www.facebook.com/about/privacy
+FacebookAnalytics
+Facebook
+Tracking and measurement results of social media
+For more information, please visit:
+https://www.facebook.com/about/privacy
+Twitter
+Twitter
+Twitter account login and share
+For more information, please visit:
+https://help.twitter.com/zh-cn/rules-and-policies
+SensorsDataAnalysis
+Sensors Data Network Technology (Beijing) Co., Ltd.
+Statistical analysis of data
+Check the WLAN connection, read status of the mobile phone and identity (5) and high
+sensitivity, and retrieve running applications. For more information, please visit:
+https://www.sensorsdata.cn/compliance/privacy.html
+GooglePlayAnalytics
+Google
+Statistical analysis of applications
+For more information, please visit:
+https://policies.google.com/privacy?gl=HK&hl=zh-CN
+GoogleAccountLogin
+Google
+Google account login and share
+For more information, please visit:
+https://policies.google.com/privacy?gl=HK&hl=zh-CN
+iFLYTEK
+iFLYTEK Co., Ltd.
+Speech translation
+Check the WLAN connection, get rough locations, get accurate locations, read external
+memory cards, record audios, input entries of external memory cards, retrieve running
+applications, and background geolocation. For more information, please visit:
+http://www.iflytek.com/privacy
+Appsflyer
+AppsFlyer Ltd.
+Generate deep links.
+Visit fine location, phone state. For more information, Please visit:
+https://www.appsflyer.com/legal/privacy-policy/
+huawei.hms
+Huawei Technologies Co., Ltd.
+Huawei update services.
+Visit phone storage, get tasks，Wifi state. For more information, Please visit:
+https://www.huawei.com/us/privacy-policy
+huawei.agconnect
+Huawei Technologies Co., Ltd.
+Huawei mobile phone message push.
+Retrieve running applications. For more information, Please visit:
+https://www.huawei.com/us/privacy-policy
+umeng
+Beijing Ruixun Lintong Technology Co., Ltd.
+Statistical analysis of data.
+Visit Mac、Unique device ID（IMEI/android ID/IDFA/OPENUDID/GUID、SIM card IMSI
+messaeg）、Geographic location information for anti cheating. For more information, Please
+visit:
+https://www.umeng.com/page/policy?spm=a211eg.10560647.0.0.547034dcafEUZJ
+Volley
+Google Inc.
+Data reporting and request.
+Get user account list. For more information, Please visit:
+https://policies.google.com/privacy#infocollect
+Zxing
+Google Inc
+Scan QR code.
+Visit phone camera. For more information, Please visit:
+https://policies.google.com/privacy#infocollect
+ExoPlayer
+Google Inc.
+Video play.
+Visit Wifi state. For more information, Please visit:
+https://policies.google.com/privacy#infocollect
+EasyAR
+Cichen Information Technology (Shanghai) Co., Ltd.
+Remote assistance in meeting room.
+Visit phone camera, phone storage, Microphone. For more information, Please visit:
+https://www.easyar.cn/view/protocol.html
+Fresco
+Facebook, Inc.（open source）
+Load images.
+Visit phone storage, contacts. For more information, Please visit:
+https://opensource.fb.com/legal/privacy
+Glide
+GitHub, Inc.（open source）
+Load images.
+Visit phone storage. For more information, Please visit:
+https://docs.github.com/en/github/site-policy/github-privacy-statement
+UniversalImageLoader
+GitHub, Inc.（open source）
+Load images.
+Visit phone storage. For more information, Please visit:
+https://docs.github.com/en/github/site-policy/github-privacy-statement
+Some third-party SDKs or similar applications that we access may collect your PI. For example, when
+you use services provided by third parties in our services, you agree that such third parties may
+collect and process your PI. The situations where individual services are connected to third-party
+SDKs may vary. For details of individual services' specific connection to third-party SDKs, please
+consult the specific clauses and related pages for individual services at corresponding service
+pages. You may also choose to contact us through the contact information specified in this
+Policy. We will answer you within 7 working days.
+The above third-party social media or other services are operated by the relevant
+third parties. If you use such third-party social media services or other services (including
+providing any information for such third parties), you shall be bound by the third parties' own
+service terms and information protection statement (not this Policy), and you need to read them
+carefully. This Policy applies only to the PI we collect and does not apply to the services
+provided by any third party or third-party information use rules. If you find any risk in such
+third-party social media or other services, it is recommended that you terminate the relevant
+operations to protect your legitimate rights and interests and contact us in a timely
+manner.
+IV. How We Protect Your PI
+(I) In order to safeguard your information security, we will endeavor to protect your PI by using
+physical, electronic, and managing security measures in line with industry standards to prevent
+unauthorized access or damage to, or public disclosure, use, modification or loss of your PI. We
+will take all reasonable and feasible measures to ensure that no PI irrelevant to the realization of
+services and functions is collected.
+(II) The PI and materials about you collected by Buyer App may be stored and processed at the
+location of our company and/or our affiliates, and may also be stored and processed at the
+information subjects who we deem necessary to know such information. We will delete your PI after
+you de-register your account.
+We will only retain your PI for a period necessary for achieving the
+purposes described in this Policy, and delete or anonymously dispose of your PI upon expiration of
+the above period, unless otherwise required laws and regulations.
+(III) Since the Internet is by no means an absolutely secure environment, we strongly
+recommend that you assist us in ensuring your account security by safe means and using complicated
+passwords.
+When using Buyer App's services, you will inevitably disclose your PI to the
+potential counterparty. Please protect your PI properly and provide it for others only in the
+necessary circumstances. If you find a leakage of your PI, especially your account name or password,
+please contact our customer service immediately so that we can take appropriate measures.
+Public information refers to any information that you voluntarily and
+publicly share. Anyone can view or access such information during use and future use of Buyer App.
+It shall be noted that the PI you voluntarily share in using our services may involve PI or even
+sensitive PI about you or others. Please consider more carefully whether you share or even make
+public relevant PI when using our services.
+The Internet environment is not 100% safe. We will do our best to guarantee the
+safety of any PI you send to us. If your legitimate rights or interests are damaged due to any
+unauthorized access to, or public disclosure, falsification or destruction of your PI as a result of
+damage to our physical, technical, or managing or protective facilities, we will bear corresponding
+legal liability.
+(IV) If, unfortunately, any PI security incident occurs, we will, in accordance with the requirements
+of laws and regulations, promptly notify you of: the basic information about and possible impact of
+the incident, measures we have taken or are about to take, suggestions for you on how you should
+prevent and reduce risks by yourself and remedies to be offered to you. We will promptly notify you
+of relevant information about the incident by email, letter, telephone or push notification or, if
+it is difficult to notify each PI subject, make a public announcement in a reasonable and effective
+manner.
+At the same time, we will also actively report how the PI security incidents are handled in
+accordance with the requirements of regulatory authorities.
+V. How You Manage Your PI
+We attach great importance to your attention to PI and make every effort to protect your right to
+inquiry, correct and delete your PI, de-register an account, and withdraw your consent, so that you have
+sufficient capabilities to guarantee your privacy and security.
+You can access and manage your PI by:
+(I) Inquiring, correcting and supplementing your PI
+You have the right to inquiry, correct or supplement your PI. You can do so by yourself in the
+following ways:
+1. You may click the arrow pointing to the right of "Login Account" on the member information page of
+Buyer App. After log-in, click my account on Buyer App>>click the portrait to view your PI.
+2. You may view your PI on the account information page of Buyer App, and click the arrow pointing to
+the right of "Name" "Mailbox" "Address" "Phone Number" and "Company Information" to correct and
+supplement your PI.
+(II) Deleting your PI
+You may delete some of your PI by the ways specified in "(I) Inquirying,
+correcting and supplementing your PI."
+You can submit a request to delete your PI to us under the following
+circumstances:
+1. If our processing of PI violates laws or regulations;
+2. If we collected and used your PI without your consent;
+3. If our processing of PI breaches our agreement with you;
+4. If you no longer use our products or services or you have voluntarily
+cancelled your account;
+5. If we no longer provide you with products or services permanently.
+When we decide to respond to your deletion request, we will also inform
+entities obtaining your PI from us and ask them to delete the same without delay, unless
+otherwise provided for by laws and regulations, or such entities have obtained your independent
+authorization.
+After relevant information has been deleted by you, with or
+without our help, we may not be able to delete the corresponding information from the backup
+system immediately due to the restriction of applicable laws or security technologies. We will
+retain your PI in a safe manner and further isolate it from other information till the backup
+can be deleted or anonymized.
+(III) Changing the scope of your authorization or consent
+Each business function needs some basic PI to be completed (see Part I of this
+Privacy Policy). In addition, you can check the activation status of the above authority on a
+case-by-case basis in my account module (usually the push authorization is "Settings -
+Noticification") of Buyer App, and decide to activate or close such authority at any time (we will
+instruct you to complete the settings in your device system). You can also withdraw all the
+authorizations for us to continue to collect your PI by de-registering the account.
+Please note that you are deemed to have authorized us to collect and use
+such PI to realize the above functions by activitating such authority, or have cancelled such
+authorizations by closing such autority, in which case we will no longer collect and use your PI or
+provide you with the functions corresponding to such authorizations. Your decision to close the
+authority will not affect the previous processing of PI based on your authorizations.
+(IV) De-registering your account
+You can contact Live Chat Service or you can ask for help through the contact
+information at the beginning of this article, we will assist you in closing your account.
+After you voluntarily de-register your account, we will stop providing
+you with products or services, delete your PI according to applicable laws, or anonymize
+it.
+(V) Restricting automated decision-making by information system
+For some business functions, decisions are made solely based on an automated
+decision-making mechanism such as information system and algorithm. If these decisions significantly
+affect your legitimate rights and interests, you have the right to ask for our explanation and we
+will make proper remedies.
+(VI) Responding to your above-mentioned requests
+For security, you might be required to submit written requests or prove your
+identity by other means. We might ask you to verify your identity before handling your requests.
+Generally, we will reply to you within 7 business days. If you are not satisfied,
+you may submit a complaint through our Live Chat service, Submit a Complaint on PC (please click) or by the contact
+information at the beginning of this article. We may reject requests that are not directly
+related to you, or unnecessarily repetitive or require massive technological input (such as
+developing new systems or modifying the existing practices fundamentally), or are detrimental to
+the legitimate rights and interests of others, or are very impracticable.
+We will not be able to respond to your request under the following
+circumstances:
+1. Where it is related to national security or defense security;
+2. Where it is related to public security, public health or major public interests;
+3. Where it is related to criminal investigations, prosecutions, trials and enforcement of court
+decisions;
+4. Where there is sufficient evidence that the PI subject is subjectively malicious or abuses his or
+her rights;
+5. Where responding to your request will cause serious harm to your legitimate rights and interests,
+or those of other individuals or organizations;
+6. Where trade secrets are involved.
+VI. How We Handle Minors' PI
+The products, website and services of Buyer App are mainly targeted for adul class="li-pointer"ts, so minors
+as not our target users (the age of minors is determined according to the laws of the country where you are
+located and the cultural practices of different countries and regions) and we will not deliberately collect
+the PI of minors. Meanwhile, we urge the guardians to take the initiative in participating in and paying
+attention to the activities, interests and hobbies of minors. If Buyer App discovers that the PI of a minor
+is collected without prior consent of the guardian, such PI will be deleted.
+VII. How Your PI is Transferred Worldwide
+In principle, the PI collected and generated by us within the territory of the People's Republic of China
+will be stored within such territory. You understand and agree that, as we provide products or services
+through resources and servers all over the world, subject to applicable laws and regulations on cross-border
+transmission of PI, we may store the PI collected under this Policy on servers in other countries/regions
+outside the Chinese mainland according to its operation requirements, and may provide any or all of your PI
+to foreign affiliates or third parties outside the Chinese mainland that have a cooperative relationship
+with our affiliates.
+Such jurisdiction might have a different data protection law, or even no relevant laws. Under such
+circumstances, we will ensure that your PI will enjoy the same level of protection as it does within the
+territory of the People’s Republic of China. For instance, we will ask you for your consent to the
+cross-border transmission of your PI, or employ data de-identification and other security measures before
+the cross-border transmission of data. if you do not agree to the transfer of PI overseas or you want to
+know more PI, please send an e-mail to [email protected], and we will handle it according to your letter
+properly. You may be unable to use licensed software and online services provided by us if you do not agree
+to the transfer of your PI overseas.
+VIII. How This Privacy Policy Will Be Updated
+In order to provide you with better services, our business may change from time to time,
+and this Privacy Policy will also be adjusted accordingly. We will not limit any of your rights under this
+Privacy Policy without your explicit consent. We will release any change to this Privacy Policy on this
+page.
+For major changes, we will provide a more conspicuous notice. For instance, we
+will issue an updated version on our Made-in-China.com App client, or otherwise remind you about updates of
+relevant content. Please visit us to understand our latest privacy policy in a timely manner. In the
+foregoing case, by continuously using our services, you are deemed to have agreed to accept the revised
+Policy and be bound by it.
+The major changes referred to in this Policy include but are not limited to:
+1. Major changes in our service mode, such as the purpose of processing PI, the type of
+processed PI, and how PI is used;
+2. Major changes in the right of control, such as change of the PI controller due to M&A;
+3. Changes in the main objects of PI sharing, transfer or public disclosure;
+4. Major changes in your right to participate in PI processing and the way in which you
+exercise it;
+5. Changes in the department responsible for PI security or its contact information or
+the channels for filing complaints;
+6. Major changes in response to high risks as indicated in the PI security assessment
+report.
+If you do not agree to such changes, you may choose to stop using Buyer App's
+services; by continuing to use Buyer App's services, you are deemed to have read, understood and agreed to
+be bound by the revised Policy. We will also archive the old version of this Policy; if you
+need to consult the old version, please contact us via the above contact information.
+We will put your satisfaction first when making any changes. Finally, we
+encourage you to consult our Privacy Policy each time you use Buyer App's services.

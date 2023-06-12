@@ -1,0 +1,279 @@
+Discover
+Fundraisers
+GoFundMe Heroes
+Success Stories
+GoFundMe Causes
+Celebrate Black Joy
+Fundraise for
+Medical
+Memorial
+Emergency
+Nonprofit
+Education
+See all
+How it Works
+How GoFundMe Works
+What is crowdfunding?
+Team fundraising
+The Donate Button
+Pricing
+Resources
+Fundraising tips
+Fundraising ideas
+Help center
+Blog
+GoFundMe Community
+Start a GoFundMe
+Sign In
+Search
+For Individuals
+Discover
+Fundraisers
+GoFundMe Heroes
+Success Stories
+GoFundMe Causes
+Celebrate Black Joy
+Crisis Relief
+Fundraise for
+Medical
+Memorial
+Emergency
+Nonprofit
+Education
+See all
+How it Works
+How GoFundMe Works
+What is crowdfunding?
+Team fundraising
+The Donate Button
+Pricing
+Resources
+Fundraising tips
+Fundraising ideas
+Help center
+Blog
+GoFundMe Community
+For
+charities
+How it Works
+Sign In
+Start a GoFundMe
+Home
+Privacy Notice
+Privacy Notice
+Questions about our privacy notice? Contact Us
+Date of Last Revision: December 30, 2022.
+Welcome to the websites, mobile applications or widgets (as the case may be) operated by GoFundMe, Inc. (including its subsidiaries, affiliates, agents, and service providers, collectively, “GoFundMe,” “we,” “us,” or “our”). GoFundMe provides (a) a platform through its website at www.gofundme.com and attendant mobile applications (collectively, with any new features and applications, the “Platform”) and the GoFundMe Community and related services (collectively, with the Platform, the “GoFundMe Services”). The Platform provides information about GoFundMe, and explains how users can post a fundraiser, accept monetary donations, and details our related services (together with the Platform, the “Services”) to users and visitors (“you” or “your”).
+This Privacy Notice (the “Notice”) describes and governs how we collect, use, share, and protect information collected in the context of our Services. Before you use or submit any information through or in connection with the Services, please carefully review this Notice. By using any part of the Services, you acknowledge the collection, use, and disclosure of your information as outlined in this Notice. To the extent allowed by law, the English version of this Notice is binding and its translations in other languages are for convenience only; in case of discrepancies between the English version of this Notice and its translations, the English version shall prevail.
+If you are in the European Economic Area, the United Kingdom or Switzerland (collectively “Europe”):
+for the purposes of the EU General Data Protection Regulation 2016/679 (the “GDPR”), the data controller is GoFundMe, Inc. and can be reached at the address set out at “Contacting GoFundMe” below; and
+you acknowledge you have read and understood its terms.
+If you are a resident of California, the California Consumer Privacy Act of 2018 provides you with additional rights. Please view our “California Privacy Notice” to learn more.
+If you are a resident of Virginia, the Virginia Consumer Data Protection Act provides you with additional rights. Please view our “Virginia Privacy Notice” to learn more.
+INFORMATION WE COLLECT
+As further described below, when you use or otherwise access the Services, we collect information in multiple ways, including when you provide information directly to us, and when we passively collect information from your browser or device (e.g., by logging how you interact with our Services).
+A. Information That You Provide Directly to Us:
+I. Registration information:
+When you register for our Services or open an account, we collect your email address and login details, your zip code, your country, your phone number (for purposes of multi-factor authentication and to provide you with important messages) and any information you choose to provide us (such as a profile picture).
+If you are a charity or nonprofit organization and are established as such under the applicable laws of incorporation (“Charity”), and you are located in the PayPal Giving Fund databases of the United States, United Kingdom, Ireland, Canada, or Australia, then we collect your name and email address. Thereafter, we will ask that you select your Charity and provide information to verify that you are a representative of said Charity. Alternatively, if you are outside of those five countries or if you have any questions about, or wish to review or correct, the information we maintain about you, then please visit this page.
+II. Creation of a fundraiser:
+When you create a fundraiser on the Platform, we collect the information you choose to provide us in relation to your fundraiser and we display it through our Platform. For example, you can provide a fundraiser title, choose a fundraiser category, upload images, and describe your fundraiser goal(s).
+You might, in creating a fundraiser, choose to provide us with information relating to other parties by organizing a fundraiser for a family member or friend, and in doing so, you disclose the name or circumstances of that family member or friend. By providing information in a fundraiser, you consent to our collection, storage and use of your data.  If you upload personal data related to other parties, you acknowledge and agree that you have the authority of the relevant other parties for us to access and use the relevant data and that you have notified the other parties and informed them of how their information is collected and used by GoFundMe to provide the Services. We reserve the right to identify you as the person who has made the referral in any messages that are sent to them.
+Our payment processors also collect and maintain information related to your withdrawal of funds from any fundraiser.
+III. Setting up withdrawals:
+When you are the beneficiary (or the recipient of funds from a fundraiser), we collect your contact details (such as name and email address), zip code, country, your phone number (for purposes of multi-factor authentication and to send you important messages) and any information you choose to provide us.
+Our payment processors collect your bank details as well as other information necessary to set up the withdrawals.
+IV. Donation information:
+On the Platform, when you donate to a fundraiser, we collect your contact details (such as name and email address), zip code, country, and any information you choose to provide us (such as a description of why you have donated).
+Our payment processors collect your credit card details and other information necessary to process the donation such as your home address.
+V. Public Communications:
+You can post comments, leave feedback, send thank-you notes or otherwise communicate with other users through our Platform. Any content, including such comments, feedback, and notes that you choose to post through our Platform are available to the public by default.
+Please remember that any information that is disclosed in these areas becomes public information for both us and other users to use and share. Take care not to disclose personal data unless you intend for that data to become public. Please also be considerate and respectful of others while using the community to publish your opinions. We reserve the right, but do not have the obligation, to review and monitor such posting or any other content on our Services, and to remove postings or content that may be viewed as inappropriate or offensive to others.
+VI. Communications to GoFundMe:
+If you have questions about how GoFundMe handles your Personal Information you may contact us via a contact form, email, by chat services or by other means (for example, with questions about our Services, for customer support, or to let us know your ideas for new products or modifications to existing products). You may also choose to respond to surveys that we send out, or queries about your fundraisers. When you do so, we collect the information you choose to provide us, such as your contact details, any images you choose to upload and the contents and nature of your message.
+We may engage vendors to provide certain interactive features on our Platform. Your use of these interactive features is voluntary, and we may retain the information that you submit through these features. For example, we may offer an interactive chat feature on the Platform for customer service purposes. When you participate in the interactive chat, the contents of the chat may be captured and kept as a transcript. By using these features, you understand that our vendors may process the information obtained through the feature to provide the service on our behalf. We also may combine information obtained through these features with information that we have about you.
+We would ask that you take care not to send financial information or other sensitive personal data to us through our chat services or other means, unless we ask you specifically for that data as part of providing our  Service to you.  When you provide such information to us directly, you consent to the processing of this data by GoFundMe and/or our service providers. We collect the information listed in this section for the purposes described below in the sections “Our Use of Information Collected” and “Our Disclosure of Information Collected Through the Services.” While you are under no obligation to provide us with such information, should you choose to withhold such information, we may not be able to provide you with some or all of the Services.
+VII. Information relating to other parties:
+You can choose to provide us with information relating to other parties. For example, if you choose to share your fundraiser with family and friends through our Platform’s texting services. If you decide to do that, we give you the option to either add information to our Platform or to provide us access to information stored in your email and mobile device’s address books, such as names, email addresses, or phone numbers of your contacts (collectively, “Third-Party Data”).
+If you use any feature of the Services that allows you to communicate with other parties (such as to refer another other party to the Services or to communicate with them regarding a fundraiser or a donation), either by submitting Third-Party Data to the Services or otherwise permitting the Services to automatically access Third-Party Data in your possession, you acknowledge, represent, and agree (a) that you have the authority of the relevant other party for us to access and use the relevant Third-Party Data, and (b) that you have notified these other parties and informed them how their information is collected and used by GoFundMe to provide the Services.
+We reserve the right to identify you as the person who has made the referral in any messages that are sent to them. We use Third-Party Data to (1) contact such party using the Third-Party Data provided, and/or (2) provide you with an editable template message designed to facilitate communication between you and such party through the Services. In addition to sending the foregoing communications, we may also send reminders or related messages to you and to other parties on your behalf from time to time, where permitted by applicable law. In each case, any such communications sent to such parties using Third-Party Data will provide a means to “opt out” of receiving further communication of the same nature.
+VIII. Sensitive information:
+You can also provide us with information about yourself or other parties that is or could be used to make inferences that are considered sensitive, such as political opinions, race, ethnicity, health information or religious beliefs.  If you post this information in a fundraiser, you choose to provide such information to be published publicly in relation to your fundraiser, donation or otherwise.  GoFundMe may use any information which has manifestly been made public to make inferences about you, including processing information about you that reveals sensitive information.
+When you provide such information to us, directly or indirectly, you consent to the processing of this data by GoFundMe and/or its service providers. We collect the information listed in this section for the purposes described below in the sections “Our Use of Information Collected” and “Our Disclosure of Information Collected Through the Services.
+IX. Biometric information:
+We use vendors for identity verification and fraud prevention purposes. These biometric information vendors, acting as our service providers and processors, may collect a copy of your government-issued ID (i.e., your driver’s license, state ID card, or passport) and a scan of the picture on your government-issued ID for identification purposes (“biometric information”) and employ facial recognition technology to verify your identity. These biometric information services provide us with a confirmation as to whether your identity has been validated or not. Except as stated here, GoFundMe does not retain any biometric information, and instead that information is maintained by the processors/service providers performing the services.
+By disclosing your information with these biometric information vendors, you consent to the collection, processing, disclosure and storage of your biometric information for identity verification and fraud prevention purposes.
+Your biometric information will be used for identity verification and fraud prevention purposes and in accordance with this Notice. If you do not consent to the collection and use of your biometric information, we will use a copy of your government-issued ID and other information to verify your identity.
+Your biometric information will be retained by our processors for as long as necessary for identity verification and fraud prevention and in accordance with applicable law.  Please contact us as detailed in the “Contacting GoFundMe” section to the extent you have any questions regarding your biometric information.
+X. Data from Other Services:
+GoFundMe may use vendors to improve the quality of our own customer database so that we might improve our Services to you, and/or for verification and fraud prevention purposes.  If you would like to opt out of these efforts (excluding the verification and fraud prevention purposes), please contact us at the email address or mailing address set forth under “Contacting GoFundMe.”
+In addition, GoFundMe obtains contact details and other personal information regarding media contacts and influencers from various groups such as Cision and MuckRack. See the Cision privacy policy and the Muckrack privacy policy for further information.
+B. Information That is Passively or Automatically Collected:
+I. Device & Usage Information:
+When you interact with GoFundMe through the Services, we automatically receive and store certain information from devices that you use to access the Services. This information is collected passively by using various technologies, and includes the type of geolocation information, Internet browser or mobile device you use, any website from which you have come to the Services, your operating system, and location data through an IP address that identifies the city and state where you logged into the Platform or your precise geo-location if you have permitted your mobile device to provide that information to us. GoFundMe either stores such information itself or such information is included in databases owned and maintained by GoFundMe, and/or its agents or service providers.
+II. Location Information:
+When you use the Services to organize a fundraiser, the Services may require that you provide your zip code, city or town, and state or province of residence. Please keep in mind that other users of the Services can view your zip code, city or town, and state or province of residence in connection with the fundraiser, if it is made available within GoFundMe’s Public Search Directory. We also use your location information as described above under “Device & Usage Information”, and in an aggregate way, as described below in the “Aggregated Data” section.
+III. Cookies and Other Electronic Technologies:
+When you interact with the Services, we try to make that experience simple and meaningful. When you visit our Platform, our web server, business providers, and/or the Social Networking Services (defined below) are integrated into the Service, we use cookies or other electronic technologies (such as web beacons or pixel tags) for various purposes. Cookies are small pieces of information that are issued to your computer or mobile device when you visit a website, or access or use a mobile application. That information regarding your use of the Platform is stored and sometimes tracked. Web beacons are transparent image files, which enable the Platform to track website usage information.  Unlike cookies, web beacons are not placed on your computers. Pixel tags are tiny graphic images with unique identifiers that track online movements of our users. Unlike cookies, pixel tags are embedded in web pages. We will refer to the cookies and other technologies identified here collectively as “Cookies” for purposes of this Notice.
+i. Type of Cookies
+Some Cookies are strictly necessary to make our Services available to you (“Essential Cookies”). For example, Essential Cookies are used to provide the chat and login functionality and to remember your consent and privacy choices. We cannot provide our Services without these Essential Cookies.
+We also use Cookies for functional purposes in order to maintain and improve our Services or your experiences, and for marketing purposes (collectively, “Non-Essential Cookies”). Some of the Non-Essential Cookies used are set by us to collect and process certain data on our behalf and some are set by third parties and/or our Social Networking Services.
+Information to and from Social Networking Services  Non-Essential Cookies include Cookies we use in conjunction with the Social Networking Services. One of the special features of the Services is that it allows you to enable or log into the Services via various Social Networking Services, like Facebook or Twitter, or to upload videos using YouTube APIs (“Social Networking Service(s)”). By directly integrating these services, we aim to make your online experiences richer and more personalized. To take advantage of these features, we will ask you to provide your credentials for the applicable Social Networking Service in order to log in to our Services. When you add a Social Networking Services account to the Services or log into the Services using your Social Networking Services account, we will collect relevant information necessary to enable the Services to access that Social Networking Service. As part of such integration, the Social Networking Service will provide us with access to certain information that you have provided to the Social Networking Service (for example, your name and photograph, as well as other information that you permit the Social Networking Service to share with us).
+We will use, store, and disclose such information in accordance with this Notice. However, please remember that the manner in which Social Networking Services use, store, and disclose your information is governed by the policies of such third parties, and GoFundMe shall have no liability or responsibility for the privacy practices or other actions of any Social Networking Services that may be enabled within the Services. For example, if you upload a video onto your fundraiser using the mobile application for the Platform, your video will be uploaded using YouTube and subject to Google’s Privacy Policy and Google’s Security Settings. You also have the option of using single sign on or posting your activities to Social Networking Services when you access content through the Services. By proceeding, you are allowing the Social Networking Service to access your information on the Platform, and you are agreeing to the Social Networking Service’s terms of use and privacy policy in your use of the Service. You further acknowledge that if you choose to use this feature, your friends, followers, and subscribers on any Social Networking Services you have enabled will be able to view such activity. For example, if you sign on using Facebook, Facebook’s privacy policy and terms of service would apply to the data Facebook might obtain from your activities on GoFundMe. Please visit the terms of use and privacy policy of the relevant Social Networking Service to learn more about your rights and choices, and to exercise your choice about those technologies.
+ii. Analytics
+We use web analytics vendors on our Services, such as those of Google Analytics, to help us analyze how users use the Services, including by noting the website from which you arrive, and providing certain features to you including Google Signal features such as user id tracking, dynamic remarketing, interest-based advertising, audience targeting, behavioral reporting, demographics and interests reporting, user segment analysis, device reporting, display advertising, and video ads reporting. The information (including an anonymized IP address) collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. This information can be used to place interest-based advertisements on the Platform. This may result in you seeing advertisements for our Platform when you visit other websites. To limit Google Analytics from using your information for analytics, you can install the Google Analytics Opt-out Browser Add-on by clicking here. You can also adjust your advertising settings by clicking here.
+iii. Why We Use Cookies
+We use Cookies to collect information about your access to and use of the Platform, including to: (1) allow you to navigate and use all the features provided by our Platform; (2) customize elements of the layout and/or content within the Platform and remember that you have visited us before; (3) identify the number of unique visitors we receive; (4) improve the Platform and learn which functions of the Platform are most popular with users; and (5) understand how you use the Platform (e.g., by learning how long you spend on the Platform and where you have come to the Platform from). As we adopt additional technologies, we may gather additional information through other methods. We will notify you of such changes with updates to this Notice.
+iv. Your Cookie Preferences
+Most web and mobile device browsers automatically accept Cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. GoFundMe also allows you to manage which non-essential cookies are used when you visit the Platform. You can manage your cookie settings through the Privacy Policy page by clicking on “Cookie Settings.” If you are located in California or Virginia, you can learn more about how use of cookies in our “California Privacy Notice” or the “Virginia Privacy Notice”. You can also learn more about Cookies by visiting www.allaboutcookies.org, which includes additional useful information on Cookies and how to block Cookies using different types of browsers or mobile devices.
+You can also consult the “Help” section of your browser for more information (e.g., Internet Explorer, Google Chrome, Mozilla Firefox, or Apple Safari).  If you receive tailored advertising on your computer, you can generally control Cookies from being put on your computer by visiting the following:
+or advertising based in the United States either the Network Advertising Initiative’s Consumer opt-out link, the Digital Advertising Alliance’s Consumer opt-out link or the Your Ad Choices for App tool; or
+for advertising in Europe, the Digital Advertising Alliance Consumer Ad Choices opt-out link.
+You can also manage the use of Flash technologies, including Cookies and local storage objects with the Flash management tools available at Adobe’s website. Please note that by blocking any or all Cookies, you may not have access to certain features or offerings of the Services.
+If you are accessing our Services through a mobile device, you can also update your privacy settings on your device by setting the “Limit Ad Tracking” and Diagnostics and Usage setting property located in the settings screen of your Apple iPhone or iPad, or by resetting your Android ID through apps that are available in the Play Store. You can also limit information collection by uninstalling the App on your device and you can use the standard uninstall process available as part of your device for this purpose.  Finally, and in connection with the Social Networking Services, you can visit your settings with each of the Social Networking Services to exercise your choice about those technologies.
+OUR USE OF INFORMATION COLLECTED
+GoFundMe uses the information collected from the Services in a manner that is consistent with this Notice. We use the information that you provide (or otherwise permit the Services to access) for the following purposes:
+A. Communicating With You
+We use the information we collect to contact you for administrative purposes (e.g., to provide services and information that you request or to respond to comments and questions). For instance, if you contact us by email, we will use the information you provide to answer your question or resolve your problem. In addition, we may call you if you are not responding to email and your fundraiser is subject to refunds.
+We also use the information we collect to send you communications relating to the Services, such as updates on events, communications relating to products and services offered by us and by third parties, and communications about services we believe will be of interest to you. For example, we can send periodic emails to registered users of the Services relating to their recent interactions with the Services, such as donating to a fundraiser.
+If you are located in Europe, we are processing this information as necessary (i) to fulfill our obligations under our contract with you or in order to take steps at your request prior to entering into a contract, or (ii) for our legitimate interest, such as, to maintain our relationship with you (including direct marketing) or to protect you and us against fraud.
+B. Mobile Services:
+If you access the Services through a mobile device and if you have chosen to provide us with your mobile number, or other electronic means to your mobile device, you agree that we can communicate with you regarding your GoFundMe account by SMS, MMS, text message.  Further, when setting up your GoFundMe account, if you click “Send code” by “Text Message,” you agree to receive automated text messages related to your account from or on behalf of GoFundMe at the phone number provided.  You can reply STOP to such text messages to cancel, except for automated text messages related to the security of your account.  Message frequency will vary. Message and data rates may apply. In the event you change or deactivate your mobile telephone number, you agree to promptly update your GoFundMe account information to ensure that your messages are not misdirected. Please note that your wireless service carrier’s standard charges, data rates, and other fees may apply where you access the Services through a mobile device. In addition, downloading, installing, or using certain Services on a mobile device may be prohibited or restricted by your carrier, and not all Services may work with all carriers or devices.
+If you are located in Europe, we process this information as necessary (i) to fulfill our obligations under our contract with you or in order to take steps at your request prior to entering into a contract, or (ii) for our legitimate interest, such as, to maintain our relationship with you or to protect you and us against fraud.
+C. Providing the Services
+We use the information we collect to operate, maintain, and provide our Services such as enabling access to the Platform, customer support, or to complete transactions.
+If you are located in Europe, we process this information as necessary (i) to fulfill our obligations under our contract with you or in order to take steps at your request prior to entering into a contract, or (ii) for our legitimate interest, such as, to maintain our relationship with you or to protect you and us against fraud.
+D. Security and Fraud Prevention
+We use the information we collect to secure our Services and to verify identity, prevent fraud, and to continually improve these aspects of our Services.  This includes our request for your (mobile) telephone number to conduct multi-factor authentication when you create an account and/or at the time you set up withdrawals as a beneficiary.
+If you are located in Europe, we process this information as necessary for our legitimate interest in maintaining the security or our systems, protecting our business, and/or protecting you and us against fraud.
+E. Analytics, Research and Product Development
+We use the information we collect to analyze data usage trends and preferences in order to improve the accuracy, effectiveness, security, usability or popularity of our Services.  We further use data in connection with our research on our customer demographics, interests, and behavior.
+If you are located in Europe, we process this information (i) to fulfill our obligations under our contract with you or in order to take steps at your request prior to entering into a contract, or (ii) for our legitimate interest to monitor and improve our Services and your experience on the Platform or to maintain our relationship with you; or (iii) to protect our business or protect you and us against fraud.
+F. Customization
+We use the information we collect, such as device identifiers, to learn how users interact with our Services in order to personalize the content of our Services, such as customizing the language and fundraisers on our homepage based on your location.
+If you are located in Europe, we process this information (i) to fulfill our obligations under our contract with you or in order to take steps at your request prior to entering into a contract; or (ii) for our legitimate interest to monitor and improve your experience on the Platform.
+G. Legal
+We use information we collect to defend our legal rights, comply with state, local, federal or international laws, and to enforce our Terms of Service and this Notice.
+If you are located in Europe, we process information to comply with legal obligations.
+OUR DISCLOSURE OF INFORMATION COLLECTED THROUGH THE SERVICES
+There are certain circumstances in which we disclose information collected through the Services with certain other parties without further notice to you, as set forth below.
+A. Business Transfers:
+As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution, similar event, or steps taken in anticipation of such events (e.g., due diligence in a transaction), user information may be part of the transferred assets.
+B. Affiliates and Subsidiaries:
+We disclose your personal information among the GoFundMe entities, including our affiliates and subsidiaries, in order to provide our Services including hosting; marketing and publicizing fundraisers; providing you with customer support; administering funds in connection with fundraisers; authenticating donors; sending you communications; and conducting the other activities described in this Notice.
+C. Agents, Consultants, Vendors and Related Third Parties:
+GoFundMe contracts with other companies to perform certain business-related functions on GoFundMe’s behalf, and we provide access to or disclose your information with these companies so they can perform services for us. Examples of such functions include marketing, mailing information, data storage, security, identity verification, fraud prevention, payment processing, legal services, and maintaining databases. For example, if you are a donor in Australia, GoFundMe’s Australian entity, GoFundMe Australia Pty Ltd (ACN 627 702 630) contracts with Adyen Australia for payment processing. Adyen Australia, therefore, will collect, process, and store your information on behalf of GoFundMe. We limit the personal information provided to these vendors and entities to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such information.
+D. Unaffiliated Parties that Partner With Us or our Affiliate or Other Services You Choose to Link:
+GoFundMe discloses personal information with third parties that partner with us on various initiatives and/or that offer services you choose to link to your GoFundMe fundraiser or that are linked to a GoFundMe fundraiser to which you may donate.  Examples of this are Social Networking Services and their integrated social media tools or “plug-ins,” or other groups such as Caring Bridge or The Knot.  When GoFundMe shares personal information with third parties, we require those third parties to handle the information in accordance with relevant laws.  When you link to or interact directly with third-party companies (or you donate to GoFundMe fundraisers that are linked), their use of your personal information and your use of their features are governed by the privacy notices of those companies. We encourage you to carefully read their privacy notices.
+E. Legal Requirements:
+GoFundMe may access, disclose, transfer and preserve your information when we have a good faith belief that doing so is necessary to: (i) comply with the law including with subpoenas, search warrants, court orders, and other legal process; and respond to inquiries or requests from government, regulatory, law enforcement, public authorities, or content protection organizations; (ii) protect and defend the legal rights, privacy, safety or property of GoFundMe, its affiliates, subsidiaries, employees, agents, contractors, or its users; (iii) permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages we may sustain; or (iv) enforce this Notice or any applicable Terms of Service.
+F. Organizers and beneficiaries of fundraisers:
+We may disclose your information with organizers and, if not the same, the beneficiaries of the fundraiser. For example, if you donate to a fundraiser, we disclose your name, email address and donation information you have  provided in connection with your donation with the organizer or beneficiary, who may contact you. For example, if an individual starts a fundraiser for a Charity and you donate to that fundraiser, then if the information is requested, (i) the Charity can receive information about both the organizer, if not the same, and donors, and (ii) organizer can receive donor information. In the same scenario, the beneficiary may communicate with you about your donation and/or may rely on your information in order to comply with its legal and auditing requirements.
+G. Your Consent
+In certain situations, we may disclose your information in the event that you consent to the disclosure of your information. For example, we may partner with third party organizations to arrange for specific fundraisers. If you consent to our providing your contact information to a specific partner, we disclose, with the partner organization, your name, email address and other information you have provided in connection with your donation to the specific fundraiser.
+H. Aggregated Data
+We aggregate, anonymize and/or de-identify information collected actively or passively about you so that the information no longer relates to you individually.  We then use that data for various lawful purposes, including but not limited to our research on our customer demographics, interests and behavior. We also disclose this information with our affiliates, agents, business partners, research facilities or other third parties (e.g., Google Analytics).
+I. Cookies and Other Electronic Technologies
+Information is disclosed as stated in the Section entitled “Cookies and Other Electronic Technologies.”
+J. Other Users of Our Services
+We provide your information to other users of our Services if you choose to make your information publicly available in a publicly accessible area of the Services, such as in your fundraiser or in the comments.
+VOLUNTEERED INFORMATION
+Please be advised that some information you provide may be publicly accessible, such as information posted in forums or comment sections. We also collect information through forums and communities, surveys and customer support communications, your communication to us of ideas for new products or modifications to existing products, feedback and other solicited or unsolicited submissions (collectively, with publicly-accessible information, “Volunteered Information”). By sending us Volunteered Information, you further (a) agree that we are under no obligation of confidentiality, express or implied, with respect to the Volunteered Information, (b) acknowledge that we may have something similar to the Volunteered Information already under consideration or in development, (c) grant us an irrevocable, non-exclusive, royalty-free, perpetual, worldwide license to use, modify, prepare derivative works, publish, distribute and sublicense the Volunteered Information, and (d) irrevocably waive, and cause to be waived, against GoFundMe and its users any claims and assertions of any moral rights contained in such Volunteered  Information. This Volunteered Information section shall survive any termination of your account or the Services.
+CHILDREN
+Our Services are not designed for use by individuals under the age of 13 (or 16 for children located in Europe). If you are under the age of 13 (or 16 for children located in Europe), please do not use the Services and/or submit any information through the Services. If you have reason to believe that a child under the age of 13 (or 16 for children located in Europe) has provided personal information to GoFundMe through the Services, please contact us at GFMlegal@gofundme.com, and we will delete that information from our databases to the extent required by law.
+LINKS TO OTHER WEBSITES
+This Notice applies only to the Services. The Services can contain links to other web sites not operated or controlled by GoFundMe (the “Third-Party Sites”). The policies and procedures we described here do not apply to the Third-Party Sites. The links from the Services do not imply that GoFundMe endorses or has reviewed the Third-Party Sites. We suggest contacting those sites directly for information on their respective privacy policies.
+SECURITY
+While no organization can guarantee perfect security, GoFundMe has implemented and seeks to continuously improve technical and organizational security measures to protect the information provided via the Services from loss, misuse, unauthorized access, disclosure, alteration, or destruction. Please see here for details.  For example, limiting access to information only to employees and authorized service providers who need to know such information for the purposes described in this Notice.
+DO-NOT-TRACK SIGNALS
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not  respond to browser-initiated DNT signals. To learn more about Do Not Track, you can do so here. If you are in California, you can view our “California Privacy Notice” to learn more about our recognition of other signals.
+RETENTION OF YOUR INFORMATION
+We retain your information for as long as we deem necessary for the purpose for which that information was collected and for our legitimate business operations; provided, however, that your information is only retained to the extent permitted or required by applicable laws. When we no longer need to retain your information, we will take reasonable steps to remove it from our systems and records and/or take steps to anonymize it so that you can no longer be identified from it in accordance with our internal document retention policies. When determining the retention period for your information, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrolment with our products or services, the impact on the Services we provide to you if we delete some information about you, mandatory retention periods provided by law and the statute of limitations.
+CROSS BORDER DATA TRANSFERS
+GoFundMe is a global organization headquartered in the United States, which processes your information in servers in a number of countries, including the United States. GoFundMe has implemented other appropriate cross-border transfer solutions, such as Standard Contractual Clauses approved by appropriate regulatory authorities, to provide adequate protection for transfers of certain personal data from the European Economic Area, United Kingdom, and Switzerland to the United States.
+USERS FROM OUTSIDE THE UNITED STATES
+The Platform is hosted in the United States. If you are visiting the Platform from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located, and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using the Platform, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in this Notice.
+USERS IN EUROPE
+If you are located in Europe, you have the right to ask for an overview of the information we process about you, and for a copy of your information. In addition, you may request us to update and correct inaccuracies, delete your information, restrict processing of your information, or exercise your right to data portability to easily transfer your information to another company. In some cases, you may object to the processing of your information and where we have asked you for your consent to process your information, you can withdraw it at any time. You may also withdraw a previously given consent for processing your personal information; the withdrawal of consent shall not affect the lawfulness of the processing based on consent before its withdrawal. The above rights may be limited under applicable law.
+You can make a request to exercise any of these rights in relation to your information by sending the request to us at the email address or mailing address set forth under “Contacting GoFundMe.” For your own privacy and security, at our discretion, we may require you to provide your identity before providing the requested information. Please note that GoFundMe may take up to 30 days to fulfill such requests.
+The above rights can be limited under applicable law. You also have the right to lodge a complaint with the local data protection authority if you believe that we have not complied with applicable data protection laws. You also have the right to lodge a complaint with the supervisory authority of your residence, place of work or where the incident took place.
+The Irish Data Protection Commissioner shall act as the competent supervisory authority for users in the European Economic Area.  The Information Commissioner’s Office shall act as the competent supervisory authority for users in the United Kingdom.
+Marketing opt out
+Each marketing communication we send you will contain instructions permitting you to “opt out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us at the email address or mailing address set forth under “Contacting GoFundMe.” If you opt out of receiving marketing communications or other information we think may interest you, we can still send you emails about your account or any Services you have requested or received from us.
+OTHER TERMS
+Your access to and use of the Services is subject to GoFundMe’s Terms of Service and such other terms, which may be made available to you in connection with your use of the Services.
+CHANGES TO GOFUNDME’S PRIVACY NOTICE
+GoFundMe reserves the right to update or modify this Notice at any time and from time to time. We will notify you of any material updates or changes we make to this Notice. If you disagree with our revisions to the Notice, you can deactivate your account or discontinue the use of our Services. Please review this Notice periodically for any updates or changes to this Notice.
+By using our Platform and Services after any such update or modification, you acknowledge that you have read and understood the terms of the Notice as updated or modified.
+CONTACTING GOFUNDME
+Please also feel free to contact us if you have any questions about this Notice or the information practices of the Services.
+You can contact us as follows:
+GoFundMe
+℅ Legal Department
+PO Box 23357
+3223 Greyling Drive, #23357
+San Diego, CA 92123-9998
+United States
+For the Platform, please contact us through here.
+For the purposes of the GDPR, UK GDPR or other GDPR privacy-related issues, you can contact our Data Protection Officer: DPO@gofundme.com.
+The leader in online fundraising
+Donor protection guarantee
+GoFundMe has the first and only donor guarantee in the industry.
+Simple setup
+You can personalize and share your GoFundMe in just a few minutes.
+Secure
+Our Trust & Safety team works around the clock to protect against fraud.
+Mobile app
+The GoFundMe app makes it simple to launch and manage your campaign on the go.
+Social reach
+Harness the power of social media to spread your story and get more support.
+24/7 expert advice
+Our best-in-class Customer Happiness agents will answer your questions, day or night.
+Start a GoFundMe
+English (United States)English (Ireland)English (UK)English (Australia)English (Canada)Português (Portugal)Nederlands (Nederland)Italiano (Italia)Français (France)Español (España)Deutsch (Deutschland)
+Fundraise for
+Medical
+Emergency
+Memorial
+Education
+Nonprofit
+Support
+Covid 19 Fundraisers
+Crisis Relief
+Learn more
+How GoFundMe Works
+Why GoFundMe
+Common Questions
+Success Stories
+Supported Countries
+Charity Fundraising
+Pricing
+Resources
+Help center
+Blog
+GoFundMe Stories
+Press Center
+Careers
+About
+More resources
+More resources
+Fundraising ideas
+What is crowdfunding?
+School Fundraising Ideas
+Rent assistance
+Help with bills
+How to get a service dog
+Fundraising sites
+Help with medical bills
+Crowdfunding sites
+Team Fundraising Ideas
+Fundraising ideas for college
+Help for veterans
+Get it on Google Play
+Available on the App Store
+© 2010-2023 GoFundMe
+Terms
+Privacy
+Do Not Sell My Personal Information
+Legal
+Accessibility Statement

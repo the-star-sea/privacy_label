@@ -1,0 +1,28 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Precise location",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://cdn-file.woolookme.com/BlissLive/Bliss_Live_privacy_policy.html"
+}

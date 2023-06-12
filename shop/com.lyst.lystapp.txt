@@ -1,0 +1,159 @@
+Sign up or log inHelpUS - US$SKIP NAVIGATIONWOMENMENSign up or log in
+Help center
+Shopping on Lyst
+Sizing guide
+Intellectual property
+Terms & conditions
+Privacy policy
+Cookie policy
+s172 statement
+Modern slavery statement
+Contact us
+Data Protection and Privacy Notice
+This Notice applies to anyone who visits Lyst’s websites or Lyst’s mobile applications (the “Sites”), and any other platforms Lyst owns or controls and makes available (the “Lyst Platforms”). We refer to the Sites and the Lyst Platforms as the “Services”.
+When you use the Services, you access linked pages or blogs, features and content (including any information, text, graphics, photos, lists of items compiled by you, comments, reviews, links, or other materials uploaded, downloaded or appearing on, or linked to the Services) (collectively the “Content”).
+Any personal data about our users (the “User” or “you”) provided to or gathered by the Services is controlled by LYST LTD (a company incorporated in England and Wales, with company number 07132083 and with a registered office at The Minster Building 7th Floor, 21 Mincing Lane, London EC3R 7AG) ("Lyst", “we”, “our” or “us”). For the purposes of General Data Protection Regulation (the "GDPR"), Lyst acts as a “Controller” as defined under the GDPR (“Controller”).
+1. What Does This Notice Cover?
+This Notice covers Lyst’s treatment of personal data that Lyst gathers when you access the Services and/or access the Content. We explain what information we gather, why we gather it and the choices you have regarding your personal data.
+2. What Information Does Lyst Collect, and How?
+As customers, you do not have any legal obligation to provide any information to Lyst. However, we require certain information from you in order to operate properly, including completing a transaction on your behalf. Login credentials (email and username) enable us to personalize and improve our services. You hereby agree and acknowledge that any information you do provide to us is provided at your own free will, for the purposes mentioned in this Privacy Notice and that we may keep such information in a database(s) which will be registered and kept in accordance with applicable laws and regulations.
+a) Information You Provide to Us
+We receive and store any information you enter on the Services or provide to us in any other way. The types of information provided by you may include your full name, email address, username, password, home and billing address, shipping address, order details of transactions carried out on the Sites, and payment information (payment information is held by our payment processors rather than us).
+b) Information Collected Automatically
+i. We receive and store certain types of information whenever you interact with the Sites or use another feature of the Services. In other words, when you are using the Services we are aware of it and may gather, collect and record the information relating to such usage, either independently or through the help of third-party services as detailed below. Lyst automatically receives and records information on our server logs from your browser including your IP address, certain cookie information (please see our Cookie Policy for further information) unique identifiers (such as click IDs) and the page you requested.
+ii. We automatically collect usage information, such as the numbers and frequency of visitors to the Services, similar to user music preference data or to TV ratings that indicate how many people watched a particular show. Lyst only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Services or another feature of the Content so that we can make the Services appealing to as many customers as possible, and improve the Content.
+iii. We also collect information about the devices you use to access our Services. This includes, for example, the type of computer or device you use, the hardware model, operating system and software.
+c) E-mail Communications
+We often receive a confirmation when you open an email from Lyst if your computer supports this type of program. Lyst uses this confirmation to help us decide how to make emails more interesting and helpful.
+d) Location Information
+When you download or use apps created by Lyst or its affiliates or subsidiaries and, where applicable, have requested or consented to location services, we may receive information about your location. We may use this information to provide you with personalised content and location-based services, such as search results. Most mobile devices allow you to turn off location services. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.
+3. What About Cookies?
+Technologies such as cookies, beacons, tags and scripts are used by Lyst and our partners, affiliates, analytics or service providers. These technologies are used in analyzing trends, administering the Sites, tracking users’ movements around the Sites and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Please see our Cookie Policy for information as to how we use cookies in relation to the Services.
+4. Why Do We Collect Information?
+We use the information we collect in order to:
+Operate and improve the Services and to display Content
+Allow you to take full advantage of the Services, including using “Wish Lists”
+Allow you to order products on the Sites (where applicable)
+Process or facilitate payments through third party payment processors (where applicable)
+Recommend relevant products, and make it easier for you to track products you’re interested in
+Offer you a personalised experience of the Services and on the Lyst Sites. This process constitutes profiling under the GDPR
+Communicate with you about your orders and provide customer service, technical assistance and collect feedback
+Communicate with you about products, sale reminders, services and promotional offers
+Administer your account if you have one, and update our records
+Enable third-party service providers and contractors to carry out technical, logistical or other functions on our behalf
+Conduct research, troubleshoot problems, and detect and protect against error, abuse of the Services, fraud or other criminal activity
+Control risk, comply with laws and regulations, and comply with other legal process and law enforcement requirements
+Produce aggregated statistical reports (provided that the reports do not identify customers)
+5. Where Will We Store Your Information?
+To provide the Services, the information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed and used by staff operating outside the EEA who work for us or by one of our third-party service providers. Such staff may be engaged in, among other things, the fulfilment of your request, the processing of your payment details and the provision of support services. We will take all steps reasonably necessary to ensure that third parties to whom we transfer any data provide sufficient protection of that data.
+6. Sharing Information With Third Parties
+We share your information only as described in this Notice and require commercial entities with which we share your information to agree to keep it confidential.
+a) Lyst Partners
+We work with a variety of partners (“Lyst Partners”) in order to offer you the widest possible choice of fashion items on the Sites. There are two ways to buy products through the Services:
+Buying on a Lyst Partner website: Sometimes when you select a product, you will be taken directly to the Lyst Partner website and asked by the Lyst Partner to provide further personal details related to the transaction. The information you enter on the Lyst Partner website will be collected, stored, and processed in accordance with the privacy policy of the Lyst Partner.
+Buying on the Sites via Lyst’s integrated checkout (“Integrated Checkout”): For certain products you wish to buy, we operate an Integrated Checkout service, allowing you to check out these products on the Sites. In order to process these transactions, we will need to share your transaction information (such as name and shipping details) with the relevant Lyst Partner using our secure systems. The information you enter on the Integrated Checkout will be collected, stored, and processed in accordance with this Notice and in accordance with the privacy policies of the Lyst Partners from whom you wish to purchase the products.
+Please note that: (i) you should carefully review the Lyst Partner privacy policy before completing any transaction involving a Lyst Partner; and (ii) the Lyst Partner is solely responsible for its use and sharing of your information.
+Promotions: We may also share your data with Lyst Partners in connection with certain promotions and competitions. These will be subject to additional rules and conditions which will be made available to you at the time of entering any such competition or promotion. You should carefully review the rules and conditions relating to such competitions and promotions.
+Aggregate Information: We may also share aggregate information with the Lyst Partners about how our customers, collectively, use the Content. We share this type of statistical data so that the Lyst Partners also understand how often people use the Content, so that they, too, may provide you with an optimal online experience. Lyst never discloses aggregate information to a Lyst Partner in a manner that would identify you personally, unless we need to in order to complete a transaction on your behalf.
+b) Payment processors
+For purchases made on the Sites via the Integrated Checkout, your payment information (e.g. credit or debit card details) will be processed by third-party payment process providers such as Klarna or Stripe.
+Please note: (i) you should carefully review the third-party payment processor privacy policy before completing any transaction via the Integrated Checkout service; and (ii) the third-party payment processor is solely responsible for its use and sharing of your information.
+c) Affiliate Networks
+Lyst shares personal data with affiliate networks such as Rakuten (“Affiliate Network”) for the purpose of Lyst participating as a publisher in the Affiliate Network and entering into engagements with Partners. Where the Affiliate Network collects and uses personal data for its own permitted purposes, the Affiliate Network acts as a separate and independent Controller in relation to that personal data. The Affiliate Network will use the personal data in accordance with applicable data protection laws and regulations and will individually and separately fulfil all obligations that apply to it as a Controller.
+d) Advertisers
+Advertisers and advertising networks may use automated technologies such as cookies to collect information about your website activity on the Sites and other sites. This is used to target advertising to you online that may be of interest to you. For more information on cookies and how to reject targeted advertising or interest-based advertising cookies, please read our Cookie Policy.
+e) Social media and other platform services
+Information to/from third-party social media services:
+We receive the usernames and passwords for your accounts and profiles on third-party sites with which the Sites interoperate. For example, by logging into the Sites via Facebook, you are giving us permission to obtain certain information from your Facebook account, such as your name and email address. This may give us automatic access to certain personal information retained by a social media site about you (e.g. content viewed by you, content liked by you and information about the advertisements you have been shown or may have clicked on). Where this information is received by us, we will use this information to further personalise your experience on the Lyst Sites.
+We may share your data (such as unique identifiers derived from your registration information on our website or app) with these third-party sites.
+This allows us to link your devices and provide you with a seamless experience across different devices that you use.
+We sometimes work with social media services, such as Facebook, to provide custom audiences to partners.
+A custom audience is a type of audience made from a customer list.
+It is a form of targeted advertising that lets our partners advertise to their existing audiences who are on Facebook. In the event that Lyst creates a custom audience, we will use aggregated information we already hold about users such as email addresses.
+Our user information is hashed before it is sent to Facebook.
+This process turns the information into randomised code and cannot be reversed.
+Alternatively, a partner might request we work with Facebook to create a lookalike audience.
+Facebook will generate a lookalike audience from a source audience, such as a custom audience, we have already shared with them. A lookalike audience is created by Facebook identifying qualities of the people in the source audience and delivering targeted advertising to an audience of people who “look like” the source audience.
+A lookalike audience is a way for partners to reach new users who might be interested in our Services because they are similar to our existing users.
+We may also work with platforms, such as Google, to create audience groups from the email addresses we hold and retarget users across different advertising networks.
+f) Analytics
+We have implemented the Google Analytics Demographics and Interest Reporting feature and may share your information to analytics and search engine providers that help us to improve and optimize the Services.
+g) Agents
+We employ other companies and people to perform tasks on our behalf and need to share your information with them only to the extent necessary to provide products or services to you. Unless we tell you differently, Lyst’s agents do not have any right to use the information we share with them beyond what is necessary to assist us.
+h) User Profiles and Other Information You Post
+If the service is available on the Sites, User profile information including your username, name, email address, and other information you enter (“User Submissions”) may be displayed to other Lyst users to facilitate user interaction within the Services and allow you to follow other users, and them to follow you. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Any information that you voluntarily disclose online (on discussion boards, in messages and chat areas, through reviews in product pages, etc.) becomes publicly available and can be viewed, collected, and used by others. Any images, captions, physical descriptions, personal interests, or other content that you submit to the Services may be redistributed through the Internet and other media channels and may be viewed by the general public.
+Please be aware that whenever you voluntarily post information to public areas on the Services or any other public forums, such information can be accessed by the public.
+i) To comply with legal requests
+We may provide your information to relevant third parties when we believe in good faith that it is necessary in order to (i) comply with the law, regulation or a legal request; (ii) enforce or apply our conditions of use in other agreements; or (iii) protect the rights, property, or safety of Lyst, our employees, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+j) Third parties where a corporate transaction is contemplated
+In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. In addition, in the event of a merger, acquisition, reorganization, asset sale, or in the unlikely event that Lyst goes out of business or enters bankruptcy, customer information may be one of the assets that are transferred to or acquired by a third party. If such transfers occur, the third-party transferee may continue to use your information as set out in this Notice.
+k) Affiliates
+We may share some or all of your information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.
+7. How is Your Information Kept Secure?
+We take care to maintain appropriate safeguards and security features to protect the integrity and privacy of the information you provide us with and to try to prevent unauthorised access to it. We encrypt your information to protect it from unauthorised use, and we use pseudonymisation, information access controls, and firewalls.
+All information you provide to us is hosted and stored on Amazon Web Services cloud-based services in Ireland which is also in compliant with ISO27001 standard. For further information on the measures taken by Amazon to protect the security of their servers and your information, please see: http://aws.amazon.com/security/. If you are not satisfied with the levels of security offered by our cloud provider, you should restrict the nature and amount of information which you include in your log data or not use the Services. Any payment transactions will be encrypted using Secure Socket Layer (SSL) technology.
+If you choose to create an account with Lyst (a “Lyst Account”), the information in your Lyst Account is protected by a password for your privacy and security. You need to ensure that there is no unauthorised access to your account and information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. You are responsible for safeguarding the password that you use to access the Services and for any activities or actions under your password. Lyst encourages you to use “strong” passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account. Lyst cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.
+The transmission of information via the Internet is not completely secure and we cannot guarantee the security of your data transmitted to the Services. Unauthorised entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. Any transmission of data is at your own risk.
+8. What About Links To Third Party Websites?
+The Services contain links to other sites such as Lyst Partners. Lyst is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Notice only governs information collected on the Services.
+9. Data Retention
+Subject to any legal obligations to keep your information longer, we store the data you provide to us for as long as is necessary to provide the Services to you (and if you have a Lyst Account, for as long as you have a Lyst Account), or until you ask us to delete it, whichever comes first.
+After a request from a User to delete any data, a process will begin that permanently deletes the relevant data. Once begun, this process cannot be reversed and data will be permanently deleted. Any data which is not deleted shall be kept in an anonymized manner.
+Lyst collects and retains usage data, other metadata and statistical information about the use of the Services in an aggregated and anonymised format.
+10. What’s Our Legal Basis for Processing Your Information?
+We process your information where we have a legal basis for doing so.
+a) Necessary for our legitimate interest. Our legitimate interests include:
+Improving the Lyst Sites and Services and offering you a personalised experience.
+Ensuring that our marketing communications, advertising and recommendations are relevant to you.
+Understanding customer usage of the Services.
+Ensuring the Services are managed correctly.
+b) Necessary for the performance of our contract with you.
+For example, in order to register and manage your Lyst Account, we collect your email address, password and any other additional details you wish to add to your account.
+c) Based on your consent.
+For example, where you provide us with marketing consents in order to send you information about products that may be of interest to you. Your consent may be withdrawn at any time by contacting us.
+d) Necessary to comply with relevant legal obligations.
+For example, to make mandatory disclosures to law enforcement.
+11. What rights do You have in relation to the information We hold about You?
+You have certain rights in relation to the information that we hold about you, which are detailed below. Some of these rights only apply in certain circumstances.
+a) Access
+If you are based in the EU, you have a legal right under GDPR to request access to a copy of your personal data held by us. To do this, please contact us at gdpr@lyst.com., use the subject line “DSAR” and include the details about what personal data you are looking for.
+b) Deletion
+To ask us to delete your Lyst Account, please following the instructions in the Account Settings section of your Lyst Account.
+Please note that although your personal data may be removed from our databases, Lyst may retain the anonymous information contained in the data you provided, and such information will continue to be used by us for statistical purposes.
+c) Correction
+If you have a Lyst Account, you can update certain information in your ‘Account’ settings, such as your name, email address, username, and password. The information that you can update or amend may change as the Services change.
+d) Marketing opt-out
+When you register for a Lyst Account, you can give your consent to receive certain marketing emails or other communications from us. We will use your information such as your email address to occasionally provide you with information about products and services which may be of interest to you.
+If you no longer wish to receive marketing messages from us, or if you want to change the type and frequency of these messages, you can change your preferences at any time in the Account Settings of your registered Lyst Account, or by clicking on the unsubscribe button in our marketing emails. Please note that it sometimes takes a short amount of time to refresh our records for these purposes. We require all Lyst Partners to honor your opt-out requests if you elect to stop receiving marketing messages. If, for whatever reason, your opt-out request is not honored, please let us know and we will attempt to resolve the issues.
+When using the Lyst mobile application, your preferences for receiving push notifications and other mobile alerts can be configured in the settings of the app or the settings of your mobile device.
+Please also be advised that you may not be able to opt-out of receiving non-promotional, transactional messages, or information about your Lyst Account (e.g. service announcements or administrative messages).
+You can always opt not to disclose information, even though it may be needed to take advantage of the Services.
+Please note that if you choose not to receive or read legal notices from us, such as this Notice, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
+12. Children
+We do not knowingly market or sell products for purchase by children. The Services are not designed for use by children under 13 years old. Children under 13 are not allowed to register with Lyst or use the Services, or submit personal data through the Services. We do not knowingly collect personal data from anyone under the age of 13. If you have any reason to believe that anyone under the age of 13 has provided their personal data to us, please contact us as specified below, and we will work to delete that information from our databases.
+13. Changes To This Notice
+Lyst reserves the right to change this Notice from time to time. Use of information we collect now is subject to the Notice in effect at the time such information is used. If we make substantial changes in the way we use personal data, we will notify you by posting an announcement on the Services or sending you an email. Otherwise, all other changes to this Notice are effective as of the stated “Last Revised” date.
+14. Questions Or Concerns
+If you have any questions or concerns regarding privacy on our Services or the Content, please send us a detailed message here. We will make every effort to resolve your concerns. If your questions or concerns are not answered online, you may write to us at The Minster Building 7th Floor, 21 Mincing Lane, London EC3R 7AG.
+This Agreement has been drawn up in the English language. In case of discrepancies between the English text version of this Agreement and any translation, the English version shall prevail.
+Your California Privacy Rights
+This section of the Notice supplements the Notice and applies to California residents only. It sets out certain information about Lyst’s collection, use and disclosure of personal information, and the rights that are granted to California residents under the California Consumer Privacy Act (“CCPA”).
+Categories of personal information that Lyst collects:
+Identifiers (e.g. contact information or unique personal identifiers such as IP address or cookies)
+Commercial information (e.g. transaction data)
+Financial information (e.g. payment card details)
+Internet or other electronic network activity (e.g. browsing history or app usage)
+Inference derived from personal information
+Purpose for collecting and using personal information: We collect the categories of personal information listed above for the purposes listed above in ‘Why Do We Collect Information?’.
+Categories of sources of personal information: We collect the categories of personal information listed above directly from you or your device or from third parties (e.g. third-party payment processors, or social media networks, Lyst Partners, analytics providers).
+Categories of third parties to whom Lyst discloses personal information: We may share the categories of personal information listed above with third parties as described above in ‘Sharing Information with Third Parties’.
+Sale of personal information: We do not sell personal information about you to other companies for money. We do allow some third parties (e.g. advertising partners) to collect information about your website activity via automated technologies on the Sites, such as cookies. This is used to target advertising to you online that may be of interest to you. You can exercise control over the use of these technologies. See our Cookie Policy in order to opt-out of this.
+Your rights
+As a California resident, you have the following rights in relation to your information:
+Access: Twice in any 12-month period, you have the right to request access to the personal information that we have collected about you during the past 12 months.
+Deletion: You may request us to delete the personal information we have collected about you. We may retain certain information as required or permitted by applicable law.
+Opt-out: You have the right to manage cookies as described in the Cookie Policy.
+To exercise the rights listed above, you can contact us at privacy@lyst.com. We do not discriminate against you for requesting any of the rights noted above.
+You can opt-out or opt-in from the selling of your personal information according to the terms of CCPA legislation using the checkbox below.Do not sell my personal informationYou are opted-in on selling your dataYou can change your preferences at any time by visiting “Rights under CCPA” in the bottom of the page.
+Last revised: 1 April 2021

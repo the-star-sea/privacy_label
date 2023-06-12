@@ -1,0 +1,357 @@
+KeepClean Privacy Policy
+Effective: 2022/6/2
+Your privacy and data security are extremely important to us. We are committed to the responsible management,
+protection, and use of your personal information.
+This Privacy Policy (the “Policy”) serves to explain what information Apps Innova (KeepClean, etc.)
+and its affiliates and subsidiaries (collectively, “we”, “us”, or “our”)
+collect, and how we use and protect your information when you use any mobile applications that we develop and
+are available for download in the Google Play Store.
+1. What Information Do We Collect?
+i. Device information
+We collect your device and network connection information in order to provide you better experience when you
+use our app.
+This information depends on the context of your interactions with us, the choices you make, including your
+privacy settings, and the products and features you use, and may include:
+SDK/API/JS code version, IP address, platform, timestamp, application identifier, application version,
+application distribution channel, independent deice identifier, the terminal manufacturer, the terminal
+device operating system version, the location of the language, the time zone and the network state (Wi-Fi
+and so on), the CPU, and the battery use, Screen resolution, Memory usage, Storage usage, sim operator, sim
+card country, Application release status in google play, Ad loading strategy, Ad platform and advertising
+placement id. Phone height and width,sim operator name,os version.
+We store the information collected through the Android ID tied to the device you are using. In this way,
+we can retain your advertising behavior while you are using the app. We will treat this information as
+personal information
+ii. Data about your use of the Services
+Number of clicks, landing pages, pages viewed and order of those pages, the amount of time spent on
+particular pages, the date and time of your request, number of the app opened and some viewed page.
+Permissions status.
+Whether the function is running normally, such as whether a virus is detected.
+package name
+first open time timestamp
+app brand
+app net status
+firebase_device_id
+app model
+sim country
+system language etc
+Advertisers may store or read cookies
+These data only be passed to the certified third-party statistical platform:
+Firebase, Google Analytics,
+Facebook Analytics，AppsFlyer and our self-built
+data statistics system (ECS).
+The above information is only used to improve the product experience and will not
+be sold to any third parties. We will not use this information for purposes other than improving the product
+experience and ad performance.
+iii. Monetization and Analytical Information from Other Sources
+Third-party SDKs integrated in our app may access your information, including:
+Google Advertising ID
+Demographic data (e.g. determination of your IP address)
+Data to fight against fraud (e.g. click fraud in advertising)
+Data associated with your device (e.g. device type, technological information, country)
+Data to do advertising, marketing and analysis
+Advertisers may store or read cookies
+The information collected by third-party SDKs is governed by the providers of these SDKs and we have no control
+over such third parties. The third-parties include monetization partners, such as Google Admob, Facebook
+Audience Network, Applovin, Smaato, PubNative, IronSource, ChartBoost,
+Mintegral etc., and also analytical tools partners, such
+as Firebase, Google Analytics,
+Facebook Analytics，AppsFlyer and our self-built
+data statistics system (ECS) . The links to the above-mentioned platforms’ privacy policy
+are attached in the section “Third-party Privacy Policy”.
+iv. Android Advertising ID
+We use your Android advertising identifier in order to provide you with customized advertisement experience. It
+is used exclusively for advertising and analytics. Please note that the advertising identifier does not contain
+any user sensitive information that can be used to identify you as a user or your device. It is not connected to
+personally-identifiable information or associated with any persistent device identifier (for example: SSAID, MAC
+address, IMEI, etc.).
+v. Other Information
+We may collect information that you directly and voluntarily provide to us. The information includes but is not
+limited to: your email address, the content of feedback, and the content of questionnaire answered by you.
+vi. Designated Countries
+For all information listed above, pursuant to the EU General Data Protection Regulation (“GDPR”) or
+any equivalent legislation (collectively “Data Protection Laws”), we process the personal
+information of users located in the European Economic Area (“EEA”), United Kingdom and Switzerland
+(collectively, the “Designated Countries”) based on our contract with you.
+2. How Do We Use the Information?
+i. To improve and optimize the Services
+To provide better Services to you, we have a legitimate interest to collect and process necessary data to:
+Update and develop the Services
+Develop and improve your experience
+Manage the relationship with you
+Customize your service experience
+Respond to your comments and questions and provide support to you
+Provide offers in the Services as well as in other websites and services
+Send related information (e.g. updates, security alerts, support messages) to you
+ii. To provide the Services
+To provider the Services, we process data necessary to:
+Allow you to use the Apps and the Services
+Operate the Services
+Provide and deliver products and services that you request
+iii. To carry out activities related to advertisements and marketing
+To send you personalized advertising and marketing materials, we may use the information collected from you such
+as ad identifiers, age, country, region, gender, language, games played by you, information related to the
+interaction of you with the Services and with other users, and so forth.
+We may also use various third party advertising and marketing partners to assist us on our behalf and may share
+information collected from you with such third parties for this purpose.
+Hence, we have a legitimate interest to process necessary data to:
+Track the content you access in connection with the Services and your online behavior
+Deliver, target and improve our advertising and marketing materials
+Pass the information collected from you to third party advertising and marketing partners
+By accepting this Privacy Policy and downloading or continuing to use the Services, you consent to us and our
+advertising and marketing partners collecting and using information about you to personalize advertising and
+marketing materials and to improve your experience unless you opt out of receiving this service.
+We encourage you to review the privacy policies of our third party advertising and marketing partners so that
+you can understand how these third parties collect, use and share your information. We are not responsible for
+the privacy policies of any third party whether accessed through the Services or otherwise.
+iv. To secure the Services
+Ensuring the security in the course of performing the Services is a top priority for us. We take appropriate
+security and technical measures to protect your information from unauthorized access, loss and misuse. To
+achieve this purpose, we also request our suppliers who process personal information on our behalf to take
+appropriate security measures.
+In order to keep the Service safe, to fight fraud and to ensure acceptable use otherwise, we have a legitimate
+interest to process necessary data to
+Analyze and monitor use of the Services
+Prevent cheating, crime or fraud
+Take action against fraudulent or misbehaving users
+Despite our efforts, we cannot guarantee the absolute security of your personal data, nor can we ensure the
+security of any of the communication facilities provided by us. We recommend that you exercise caution when
+disclosing any information through the Services. In particular, please note that any personally identifiable
+information or personally sensitive data that you communicate or disclose to any user in connection with the
+Services may be collected and used by others. As such, you should take care of the information shared online.
+Please also be reminded that any questions answers, comments, submissions that you post in the forum will be
+publicly available.
+v. Designated Countries
+For all purposes listed above, pursuant to the EU General Data Protection Regulation (“GDPR”) or any
+equivalent legislation (collectively “Data Protection Laws”), we process the personal information of
+users located in the European Economic Area (“EEA”), United Kingdom and Switzerland (collectively,
+the “Designated Countries”) based on our contract with you.
+3. What Information Do We Share?
+As mentioned above, your personal information may be shared with our third-party partners. We may disclose your
+personal information to our business partners, including advertisers, publishers, and data tracking companies.
+These business partners may use your personal information to show you advertisements, measure your ad/site
+interaction, and better understand the site and app traffic usage or user behavior in order to improve their
+services. Such partners’ use of the information that we disclose to them will be governed by their privacy
+policies.
+4. What Are the Important Permissions We Request?
+Depending on the context of your interactions with us, we may ask you to provide certain permissions in order to
+let our app perform properly. You may choose to opt-out anytime, but please note that not giving us these
+permissions can result in malfunctioning of our app. The permissions we ask are listed below:
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+Wi-Fi connection information
+view Wi-Fi connections
+Camera
+take pictures and videos
+Phone
+read phone status and identity
+Dial a call
+Other
+receive data from Internet
+full network access
+close other apps
+control vibration
+measure app storage space
+install shortcuts
+Install apps
+view network connections
+reorder running apps
+draw over other apps
+prevent device from sleeping
+uninstall shortcuts
+run at startup
+connect and disconnect from Wi-Fi
+Enable Do Not Disturb Mode
+Read sync setting
+Enable and Disable Sync Setting
+Access Bluetooth Setting
+Bluetooth pair
+Ignore battery optimize
+Request uninstall apps
+Set wallpaper
+Use Fingerprint hardware
+Start foreground service
+Expand and collapse  status bar
+Use full screen intent
+Google play billing
+Google Play Install Referrer API
+5. Legal Basis of Your Personal Data
+We process Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to
+process personal data includes processing that is: necessary for the performance of the contract with you (for
+example, to provide you with the services you request and to identify and authenticate you); necessary to comply
+with legal requirements (for example, to comply with applicable accounting rules and to make mandatory
+disclosures to law enforcement); necessary for our legitimate interests (for example, to manage our relationship
+with you, to ensure the security of our services, to communicate with you about our products and services); and
+based on consent by our customers (for example, to place certain cookies and to share your information with
+third parties for advertising purposes).
+In some instances, you may be required to provide us with Personal Data for processing as described above, in
+order for us to be able to provide you all of our services, and for you to use all the features of our apps. of
+our app.
+6. Your Rights
+We provide you with the rights described below when you use our Services. Please contact us at
+keepclean_support@appsinnova.com if you would like to exercise your rights under applicable law. When we receive
+an individual rights request from you, please make sure you are ready to verify your identity. Please be advised
+that there are limitations to your individual rights. We may limit your individual rights in the following ways:
+Where denial of access is required or authorized by law;
+When granting access would have a negative impact on other's privacy;
+To protect our rights and properties; and Where the request is frivolous or burdensome.
+i. Right to withdraw consent
+If we rely on consent to process your personal information, you have the right to withdraw your consent at any
+time. A withdrawal of consent will not affect the lawfulness of our processing or the processing of any third
+parties based on consent before your withdrawal.
+ii. Right of access and rectification
+If you request a copy of your personal information that we hold, we will provide you with a copy without undue
+delay and free of charge, except where we are permitted by law to charge a fee. We may limit your access if such
+access would adversely affect the rights and freedoms of other individuals. You may also request to correct or
+update any of your personal information held by us, unless you can already do so directly via the Services.
+iii. Right to erasure (the “Right to be Forgotten”)
+You may request us to erase any of your personal information held by us that: is no longer necessary in relation
+to the purposes for which it was collected or otherwise processed; was collected in relation to processing that
+you previously consented to, but later withdrew such consent; or was collected in relation to processing
+activities to which you object, and there are no overriding legitimate grounds for our processing.
+iv. Right to restriction
+You have the right to restrict our processing your personal information where one of the following applies:
+You contest the accuracy of your personal information that we processed. We will restrict the processing of your
+personal information, which may result in an interruption of some or all of the Services, during the period
+necessary for us to verify the accuracy of your personal information;
+The processing is unlawful and you oppose the erasure of your personal information and request the restriction
+of its use instead;
+We no longer need your personal information for the purposes of the processing, but it is required by you to
+establish, exercise or defense of legal claims; or
+You have objected to processing, pending the verification whether the legitimate grounds of our processing
+override your rights.
+We will only process your restricted personal information shall with your consent or for the establishment,
+exercise or defense of legal claims or for the protection of the rights of another natural or legal person or
+for reasons of important public interest. We will inform you if or when the restriction is lifted.
+v. Right to object to processing
+You may object to our processing at any time and as permitted by applicable law if we process your personal
+information on the legal basis of consent, contract or legitimate interests. We can continue to process your
+personal information if it is necessary for the defense of legal claims, or for any other exceptions permitted
+by applicable law.
+vi. Right to data portability
+If we process your personal information based on a contract with you or based on your consent, or the processing
+is carried out by automated means, you may request to receive your personal information in a structured,
+commonly used and machine-readable format, and to have us transfer your personal information directly to another
+“controller”, where technically feasible, unless exercise of this right adversely affects the rights
+and freedoms of others.
+vii. Notification to third-parties
+If we share your personal information with third parties, we will notify them of any requests for rectification,
+erasure or restriction of your personal information, unless this proves impossible or involves disproportionate
+effort. Upon your request, we will identify such third parties.
+viii. Automated individual decision-making, including profiling
+You have the right not to be subject to a decision based solely on automated processing of your personal
+information, including profiling, which produces legal or similarly significant effects on you, unless an
+exception applies under applicable law.
+ix. Right to lodge a complaint
+If you believe we have infringed or violated your privacy rights, please contact us at
+developer@appsinnova.com so that we can work to resolve your concerns. You also have a right to lodge a
+complaint with a competent supervisory authority situated in a Member State of your habitual residence, place of
+work, or place of alleged infringement.
+7. Third-party Partners’ Privacy Policy
+Here we list the links to the third-party partners’ privacy policy. Please note that these policies are
+governed by the third parties and we have no control over them. Check the following links to get details about
+how user data is collected, used and shared.
+1. Google Admob & Firebase
+https://policies.google.com/privacy?hl=en
+2. Vungle
+https://vungle.com/privacy/
+3. Facebook Audience Network & Facebook Analytics
+https://www.facebook.com/about/privacy
+4. Mopub
+https://www.mopub.com/en/legal/privacy
+5. Tapjoy
+https://www.tapjoy.com/legal/general/privacy-policy/
+6. smatto
+https://www.smaato.com/privacy/
+7. PubNative
+https://pubnative.net/privacy-policy/
+8. InMobi
+https://www.inmobi.com/privacy-policy/
+9. Pangle
+https://ad.oceanengine.com/union/media/privacy
+10. Pubmatic
+https://pubmatic.com/legal/privacy-policy/
+11. Fyber
+https://www.fyber.com/services-privacy-statement/
+12. Mytarget
+https://www.target.com/c/target-privacy-policy/-/N-4sr7p
+13. Adcolony
+https://www.adcolony.com/consumer-privacy/
+14. Mintegral
+https://www.mintegral.com/en/privacy/
+15.AdMob
+https://policies.google.com/privacy?hl=en
+16.Appsflyer
+https://www.appsflyer.com/legal/privacy-policy/
+17.AppLovin
+https://www.applovin.com/privacy/
+18.Unity
+https://unity3d.com/legal/privacy-policy
+8. California Residents’ Privacy Rights
+We prepare this separate Privacy Notice for California Consumers to comply with the California Consumer Privacy
+Act of 2018 (“CCPA”) and other California privacy laws.This notice is designed to supplement the
+information described in our <Privacy Policy> and applies solely to users who reside in the State of
+California (“consumers” or “you”).
+IF YOU ARE NOT A CALIFORNIA RESIDENT, THIS POLICY DOES NOT APPLY TO YOU. PLEASE REFER TO OUR MAIN
+PRIVACY NOTICE HERE INSTEAD.
+i. Your Right to Request for Information
+As required by CCPA, you( or your authorized agent) have the right to request us to disclose information to you
+about how we collect, use and share your personal information over the past 12 months.These information include:
+the categories of personal information we collected; the categories of sources for personal information we
+collected; our business purpose for collecting that personal information; the categories of third parties with
+whom we share that personal information.
+ii. Your Right to Delete Information
+Under the CCPA, You( or your authorized agent) have the right to opt out of having your information sold or
+shared.You (or your agent)have the right to request that we delete your specific personal information that we
+collected from you and retained, except in the following cases Such cases include:
+We need your information to detect security incidents, protect against malicious, or illegal activity;
+We need your information to identify and repair application errors that impair existing intended
+functionality; We need your information to exercise free speech, ensure the right of another consumer to
+exercise their free speech rights, or exercise another right provided for by law.
+We need your information to conduct internal uses that are reasonably aligned with your expectations based
+on your relationship with us;and other cases provided by CCPA and other California laws.
+iii. How You Exercise Your Rights
+To exercise your rights described above, please submit a verifiable consumer request to us by
+keepclean_support@appsinnova.com
+Only you or your authorized agent may make a verifiable consumer request related to your personal information.
+You may only make a verifiable consumer request for request for information twice within a 12-month period. A
+verifiable consumer request must:Provide sufficient information that allows us to reasonably verify you identity
+and make us confirm we collected personal information about you.Describe your request with sufficient details
+that allows us to understand and respond to it.
+We cannot respond to your request accurately if we cannot verify your identity.
+iv. How We Respond Your Request
+We endeavor to respond to a verifiable consumer request within 45 days of receipt. If we require more time (up
+to 90 days), we will inform you of the reason and extension period by email ,telephone or other electronic
+means.
+We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive,
+repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we
+made that decision and provide you with a cost estimate before completing your request.
+v. Non-Discrimination
+We will not discriminate against you for exercising any of your CCPA rights. Such discrimination include:
+denying you our services; charging you different prices or rates for our services; providing you a different
+level or quality of our services; suggesting that you may receive a different price or rate for services or a
+different level or quality of services.
+vi. Data collection instructions for minors
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable
+information from children under 13. In the case we discover that a child under 13 has provided us with personal
+information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that
+your child has provided us with personal information, please contact us so that we will be able to do necessary
+actions. For users aged 13~16, they have the right to opt in, and if you are the parent or guardian of users who
+are aged 13~16, you can also contact us.
+9. Children's Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable
+information from children under 13. In the case we discover that a child under 13 has provided us with personal
+information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that
+your child has provided us with personal information, please contact us so that we will be able to do necessary
+actions.
+10. Changes to the Policy
+Any information that is collected is subject to the Policy in effect at the time such information is collected.
+We may, however, modify the Policy from time to time. If such change has been made, we will provide you
+additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued
+use of our app or services following the change of the Policy will mean you accept those changes.
+11. Contact Us
+If you have any questions or concerns about the Policy, you may contact us at email:
+keepclean_support@appsinnova.com

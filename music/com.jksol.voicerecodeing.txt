@@ -1,0 +1,150 @@
+Privacy Policy
+Voice Recording ("us", "we", or "our") operates the mobile application (the "Service").
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+Information Collection And Use
+We collect several different types of information for various purposes to provide and improve our Service to you.
+Types of Data Collected
+Personal Data
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+Cookies and Usage Data
+Usage Data
+Usage Data is collected automatically when using the Service.
+Usage Data may include information such as Your Device's Internet Protocol address (e.g., IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+When You access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device; below list can provide a non-exclusive list of the contents of Usage Data:
+Hardware model;
+Information about operating system and its version;
+Screen size and density;
+Language and country;
+Unique device identifiers (e.g. IDFA);
+Time zone;
+Device mute status (related to reminder function)
+To provide a better user experience, we have integrated data statistics tools in the App. They won't collect users’ health data or privacy data and are only used for CRASH targeting and AB-testing for new features and design, The details are as follows:
+Device information
+Screen Size
+OEM Name
+Model
+Device system information
+OS Name
+OS Version
+OS Build
+Time Zone
+System Language
+Carrier Country
+Carrier Name
+Application information
+App Name
+App Build
+APP Version Number
+SDK Name
+SDK Version
+Tracking & Cookies Data
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+Examples of Cookies we use:
+Session Cookies. We use Session Cookies to operate our Service.
+Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
+Security Cookies. We use Security Cookies for security purposes.
+Your Consent and Our Use of Your Personal Data
+We highly value your experience with Our App and are always trying to improve current features and keep adding new features that Our users want from time to time. Information We collect will help Us understand what to improve and how We can improve. By creating a profile or registering to use our apps, you expressly agree to:
+Except as provided in this privacy policy, we will not transfer any of your personal data to third parties.
+The Company may use Personal Data for the following purposes:
+To provide and maintain our Service, including monitoring the usage of our Service.
+For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items, or services You have purchased or of any other contract with Us through the Service.
+To Contact You: To contact You by email or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including security updates, when necessary or reasonable for their implementation.
+To manage Your requests: To attend and manage Your requests to Us.
+We may share your personal information in the following situations:
+With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to show advertisements to You to help support and maintain Our Service, to advertise on third-party websites to You after You visit our Service, for payment processing, to contact You.
+Forums Cookies (Webview browser cookies) - Forum Cookies are generally used to deliver or optimize Our Services, develop content, or research and analysis. You may refuse to accept browser Cookies by activating the appropriate setting. However, if You select this setting, you may be unable to access certain parts of Our Services.
+Third-Party Advertisers - We may use third-party advertising companies to serve ads when you visit the Application. These companies may use information about your visits to the app contained in cookies to optimize the performance of the marketing campaigns and provide ads about goods and services of interest to you. We NEVER share any data you track in the app with third-Party Advertisers.
+Analytics - We use third-party analytics tools, Google Analytics, to help us measure traffic and usage trends for the Service. Google Analytics collects information such as device, location, and app usage information. We may use the information from Google Analytics only to customize and personalize your App experience for statistical purposes and analytics.
+For Business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of our business to another company.
+With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.
+Retention of Your Data
+The Company will retain Your Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer periods.
+Transfer of Your Personal Data
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ from those from Your jurisdiction.
+Your consent to this Privacy Policy, followed by Your submission of such information, represents Your agreement to that transfer.
+The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
+We may collect your primary account information on (https://voicerecorder.yarapps.com) . We are not sharing this data with Third Parties.We take the security of your data very seriously. We have implemented various technical and organisational measures to protect your personal data.
+Use of Data
+Voice Recording uses the collected data for various purposes:
+To provide and maintain the Service
+To notify you about changes to our Service
+To allow you to participate in interactive features of our Service when you choose to do so
+To provide customer care and support
+To provide analysis or valuable information so that we can improve the Service
+To monitor the usage of the Service
+To detect, prevent and address technical issues
+Transfer Of Data
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Voice Recording will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Disclosure Of Data
+Legal Requirements
+Voice Recording may disclose your Personal Data in the good faith belief that such action is necessary to:
+To comply with a legal obligation
+To protect and defend the rights or property of Voice Recording
+To prevent or investigate possible wrongdoing in connection with the Service
+To protect the personal safety of users of the Service or the public
+To protect against legal liability
+Security Of Data
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+Service Providers
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+App Permissions
+INTERNET
+ACCESS_NETWORK_STATE
+WRITE_EXTERNAL_STORAGE
+READ_EXTERNAL_STORAGE
+RECORD_AUDIO
+MODIFY_AUDIO_SETTINGS
+WRITE_SETTINGS
+CHANGE_CONFIGURATION
+MOUNT_UNMOUNT_FILESYSTEMS
+GET_ACCOUNTS
+READ_PHONE_STATE
+BILLING
+USE_CREDENTIALS
+MANAGE_ACCOUNTS
+READ_CONTACTS
+WRITE_CONTACTS
+ACCESS_WIFI_STATE
+CALL_PHONE
+ANSWER_PHONE_CALLS
+ACCESS_COARSE_LOCATION
+ACCESS_FINE_LOCATION
+Analytics
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+AppMetrica
+We use your Device and installed Applications data for Appmatrica Analytics to analyze app's performace and crashes to improve app's preformance. So we collect Device Data and also crash image file and installed Applications data and upload it to http://report.appmatrica.yandex.com to analyze the data. We do not use that data for any other purposes. We only use that data to improve app's performace and to make user experience better.
+Appvestor
+Appvestor Privacy Policy and Cookie Policy
+This Privacy Policy illustrates what personal information a user may share with Appvestor ApS,when installing, running and using Appvestor’s applications and Caller ID technology (collectively “Services”). It also describes how the Company receives, collects and uses this data. In reference to all data received from the identified persons using the Services (“User”), the Company will diligently respect the User’s fundamental legal right to data protection and privacy.
+Appvestor Privacy Policy Link : https://legal.appvestor.com/privacy-policy/
+Appvestor End User License Agreement
+This End User License Agreement (“Agreement“) governs your use of the Caller Identification Service (“Service“) owned and operated by Appvestor ApS.
+Appvestor End User License Agreement Link : https://legal.appvestor.com/end-user-license-agreement/
+Purchase for products/services
+No, we do not sell or allow users to pay for products/services
+Remarketing services for marketing & advertising purposes
+Yes, we use remarketing services to advertise our website/app for the following way.
+Google AdMob
+Links To Other Sites
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Children's Privacy
+Our Service does not address anyone under the age of 18 ("Children").
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+Changes To This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+By email: yar.applab@gmail.com.
