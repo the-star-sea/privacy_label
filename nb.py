@@ -30,9 +30,9 @@ for file in os.listdir(dir_path):
         output_file.write(result)
 #tranverse all the txt files in the output directory
 # dir_path="/home/tongz/google100/process"
-# # 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
+
 # import openai
-# openai.api_key = "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"
+
 # for file in os.listdir(dir_path):
 #     if file.endswith(".txt"):
 #         body = open(os.path.join(dir_path,file), 'r').read()
