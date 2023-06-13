@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "User-provided information",
+      "optional": false,
+      "purpose": "App functionality, Customer support, Advertising or marketing, Legal compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Current location",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Current location",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Interaction with advertising in the app",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Other apps downloaded to the device",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Mobile website visited",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Non-precise location information",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Aggregated information about visits to websites",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "Web browsing"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Electronic and procedural safeguards",
+      "description": "We provide electronic and procedural safeguards to protect information we process and maintain"
+    }
+  ]
+}

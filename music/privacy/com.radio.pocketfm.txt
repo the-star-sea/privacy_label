@@ -1,0 +1,44 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Provide products and services, respond to queries, send product or service-related announcements",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage Information",
+      "optional": false,
+      "purpose": "Analytics, advertising, improve user experience",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Provide products and services, respond to queries, send product or service-related announcements",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage Information",
+      "optional": false,
+      "purpose": "Analytics, advertising, improve user experience",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Regular updating of Privacy Policy",
+      "description": "The privacy policy is updated periodically to reflect changes in information practices"
+    },
+    {
+      "practice": "Acknowledgement of received requests",
+      "description": "Receipt of user requests will be acknowledged within 3 (three) business days"
+    }
+  ]
+}

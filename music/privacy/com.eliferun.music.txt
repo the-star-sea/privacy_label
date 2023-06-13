@@ -1,0 +1,36 @@
+{
+  "sharedData": [
+    {
+      "data": "",
+      "optional": false,
+      "purpose": "Communication with user, processing of requests and transactions, app improvement, customization of services and products, marketing analysis",
+      "type": ""
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Correspondence and interactions with the app",
+      "optional": false,
+      "purpose": "Communication with user, processing of requests and transactions, app improvement, customization of services and products, marketing analysis",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data privacy and security requirements for third-party companies",
+      "description": "Third-party companies that have access to personal data must abide by data privacy and security requirements."
+    },
+    {
+      "practice": "Protection of children's privacy",
+      "description": "The app does not collect personal data from anyone under the age of 13 and takes steps to remove any such data collected without verification of parental consent."
+    },
+    {
+      "practice": "User rights to Personal Data",
+      "description": "Users have the right to object/restrict processing, and to access, rectify, erase, and transport their Personal Data, subject to applicable law."
+    },
+    {
+      "practice": "Notice of Privacy Policy changes",
+      "description": "Users will receive advance notice of any reduction in their rights under the Privacy Policy, and significant changes will be prominently communicated (such as via email)."
+    }
+  ]
+}

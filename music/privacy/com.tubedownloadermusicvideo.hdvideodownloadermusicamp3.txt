@@ -1,0 +1,38 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "App functionality, Error detection and debugging, Analytics",
+      "type": "App activity data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Uses commercially acceptable security measure to protect personal information",
+      "description": "The developer strives to use commercially acceptable means of protecting personal information, however, no method of transmission over the internet or electronic storage is 100% secure and reliable."
+    }
+  ],
+  "thirdPartyDataSharing": [
+    {
+      "party": "Google Play Services",
+      "dataShared": "Information used to identify the user"
+    },
+    {
+      "party": "AdMob",
+      "dataShared": "Information used to display personalized advertisements"
+    },
+    {
+      "party": "Google Analytics for Firebase",
+      "dataShared": "Usage data for analytics purposes"
+    },
+    {
+      "party": "Facebook",
+      "dataShared": "Usage data for analytics and advertising purposes"
+    }
+  ],
+  "privacyPolicyLastUpdated": "2023-02-21",
+  "serviceProvided": "Free mobile application for downloading videos",
+  "serviceProvider": "descargar"
+}

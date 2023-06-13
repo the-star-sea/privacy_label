@@ -1,0 +1,21 @@
+{
+  "sharedData": [
+    {
+      "data": "Browsing data",
+      "optional": false,
+      "purpose": "Personalization, Advertising, Analytics",
+      "type": "Internet activity"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can manage cookie preferences",
+      "description": "The user has the ability to control which cookies are used"
+    }
+  ]
+}

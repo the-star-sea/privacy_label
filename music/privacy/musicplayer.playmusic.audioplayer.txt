@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-Personal Information (Usage Data/Log Data)",
+      "optional": false,
+      "purpose": "Internal analysis",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Data (if user logs in with social media account)",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Non-Personal Information (Usage Data/Log Data)",
+      "optional": false,
+      "purpose": "Internal analysis",
+      "type": "App activity"
+    },
+    {
+      "data": "Third-party analytics platform data (Google Analytics)",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Third-party service providers have access to personal data only to perform their tasks",
+      "description": "Third-party service providers are not allowed to disclose or use the data for any other purpose"
+    }
+  ]
+}

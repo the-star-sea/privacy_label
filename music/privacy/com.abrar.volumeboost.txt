@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-Personal Data",
+      "optional": false,
+      "purpose": "Improving our services",
+      "type": "Usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Data",
+      "optional": false,
+      "purpose": "Providing and improving our services",
+      "type": "User identification"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Providing and improving our services",
+      "type": "Device information"
+    },
+    {
+      "data": "Technical data",
+      "optional": false,
+      "purpose": "Providing and improving our services",
+      "type": "Usage data"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "Providing location-based services",
+      "type": "Location data"
+    },
+    {
+      "data": "Push notification token",
+      "optional": true,
+      "purpose": "Sending push notifications",
+      "type": "Usage data"
+    },
+    {
+      "data": "Profiling data",
+      "optional": true,
+      "purpose": "Displaying advertisements",
+      "type": "Usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Data is transferred over a secure connection"
+    },
+    {
+      "practice": "Standard contractual clauses are used for data transfers outside of the EU",
+      "description": "Data transfers follow the provisions of standard contractual clauses approved by the European Union"
+    },
+    {
+      "practice": "Data subjects have rights to access, amend, and delete their personal data",
+      "description": "The app provides a method for data subjects to access, amend, and delete their personal data"
+    },
+    {
+      "practice": "Appropriate measures are taken to protect personal data",
+      "description": "The company contracts with service providers who comply with applicable data protection laws and takes measures to protect personal data"
+    },
+    {
+      "practice": "Data is not knowingly collected from children under 13 years old",
+      "description": "The app and services are not directed to persons under 13 years old and do not knowingly collect or solicit personal data from people under 13 years old"
+    }
+  ]
+}

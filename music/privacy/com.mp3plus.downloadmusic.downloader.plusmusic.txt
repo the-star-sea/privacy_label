@@ -1,0 +1,44 @@
+{
+  "sharedData": [
+    {
+      "data": "Log Data (in case of an error)",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "App functionality, Service provision, Analysis",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Log Data (in case of an error)",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "App functionality, Service provision, Analysis",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable security measures are used to protect Personal Information",
+      "description": "The developer uses measures to protect your Personal Information"
+    },
+    {
+      "practice": "No method of transmission over the internet or electronic storage is 100% secure and reliable",
+      "description": "The developer explains that absolute security cannot be guaranteed"
+    },
+    {
+      "practice": "Users are advised to review the Privacy Policy regularly",
+      "description": "Users are instructed to review the Privacy Policy periodically"
+    }
+  ]
+}

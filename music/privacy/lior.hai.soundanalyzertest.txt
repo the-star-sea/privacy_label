@@ -1,0 +1,58 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-personal data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Non-personal data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Marketing and promotion",
+      "type": "Personal data"
+    },
+    {
+      "data": "Access fine location",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Push notification token",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Push notification token"
+    },
+    {
+      "data": "In-app payment information",
+      "optional": false,
+      "purpose": "App functionality, Payment processing",
+      "type": "Payment information"
+    },
+    {
+      "data": "Profiling data",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Profiling data"
+    },
+    {
+      "data": "Technical data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Technical support",
+      "type": "Technical data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Physical, technical and administrative security measures are implemented",
+      "description": "The developer takes great care in implementing physical, technical, and administrative security measures for the services that comply with applicable regulation and industry standards."
+    },
+    {
+      "practice": "Data is stored on multiple servers including Google Cloud services",
+      "description": "Certain processing activities are conducted in different countries such as EU, US and Asia."
+    }
+  ]
+}

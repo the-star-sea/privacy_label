@@ -1,0 +1,34 @@
+{
+  "sharedData": [
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "App performance monitoring, usage analysis and improvement",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "App performance monitoring, usage analysis and improvement",
+      "type": "App activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App performance monitoring, usage analysis and improvement",
+      "type": "Device information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Measures in place to protect non-personal information",
+      "description": "Apps10X employs administrative, physical and electronic measures to protect Non-Personal Information from unauthorized access and use."
+    },
+    {
+      "practice": "Privacy policy may be updated from time to time",
+      "description": "Changes to the policy are effective immediately after they are posted."
+    }
+  ]
+}

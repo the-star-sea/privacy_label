@@ -1,0 +1,63 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Audio recordings",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Audio/Voice info"
+    },
+    {
+      "data": "Photos and videos",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Visual info"
+    },
+    {
+      "data": "Payment card details",
+      "optional": false,
+      "purpose": "Purchases",
+      "type": "Financial info"
+    },
+    {
+      "data": "Browser/usage/device information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Automatically collected info"
+    },
+    {
+      "data": "Location information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Automatically collected info"
+    },
+    {
+      "data": "Social media profile information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Automatically collected info"
+    },
+    {
+      "data": "Job title, office location, compensation, engagement history",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Professional info"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ]
+}

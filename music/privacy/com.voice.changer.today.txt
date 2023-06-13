@@ -1,0 +1,75 @@
+{
+  "sharedData": [
+    {
+      "data": "Device Internet Protocol (IP) address",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Hardware information (manufacturer and model)",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Operating system version",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Screen size",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "CPU model",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Unique device identifiers",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Mobile network information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Installed apps",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Login time and date",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Time spent on application and other statistics",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Use a variety of security measures to protect non-personal information from unauthorized access and use",
+      "description": "The developer takes measures to protect your non-personal information"
+    },
+    {
+      "practice": "No method of transmission over the Internet, or method of electronic storage, is 100% secure",
+      "description": "The developer acknowledges that no transmission over the Internet can be guaranteed to be completely secure"
+    }
+  ]
+}

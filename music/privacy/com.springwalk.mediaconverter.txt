@@ -1,0 +1,118 @@
+{
+  "sharedData": [
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Tailored ads and wireless network performance",
+      "type": "Location"
+    },
+    {
+      "data": "Device identifier",
+      "optional": false,
+      "purpose": "Tailored ads and wireless network performance",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Operating system",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Date and time",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Date and time"
+    },
+    {
+      "data": "Latitude",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Longitude",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Accuracy (GPS)",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "SSID (network)",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Network info"
+    },
+    {
+      "data": "BSSID (network)",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Network info"
+    },
+    {
+      "data": "Bundle ID",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App info"
+    },
+    {
+      "data": "Device Model",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Device Manufacturer",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Carrier Code (Android only)",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Carrier info"
+    },
+    {
+      "data": "Carrier Name",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Carrier info"
+    },
+    {
+      "data": "Sim Code",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Country",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Locale",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Language and regional"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request for more information on the use of your data and your rights for editing or removing your data",
+      "description": "We provide a way for you to request more information on the use of your data and your rights for editing or removing your data"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "sharedData": [],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "No user data is collected, stored, used or processed",
+      "description": "Trajkovski Labs does not collect, store, use, process and share any user information including: names, phone numbers, e-mail addresses and passwords."
+    },
+    {
+      "practice": "3rd party ad service is used in some apps",
+      "description": "Google AdMob is used in some Trajkovski Labs apps and its privacy policy can be read on the following page: Google privacy policy"
+    }
+  ]
+}

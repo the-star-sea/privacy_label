@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Service maintenance, analytics, and advertising/marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Google AdSense & DoubleClick Cookies",
+      "optional": false,
+      "purpose": "Advertising/marketing",
+      "type": "Cookies"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Account data",
+      "optional": false,
+      "purpose": "Service login/registration and third-party services login",
+      "type": "Personal info"
+    },
+    {
+      "data": "Forum cookies",
+      "optional": true,
+      "purpose": "Service optimization, communication with users, content development, research and analysis",
+      "type": "Cookies"
+    },
+    {
+      "data": "Personal data",
+      "optional": false,
+      "purpose": "Service maintenance and requests management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment card details",
+      "optional": false,
+      "purpose": "Service payment",
+      "type": "Financial info"
+    },
+    {
+      "data": "Analytics data",
+      "optional": false,
+      "purpose": "Service optimization and analytics",
+      "type": "Analytics"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is treated securely",
+      "description": "The company takes all necessary steps to ensure data is treated securely according to this privacy policy"
+    },
+    {
+      "practice": "Access to personal data is restricted",
+      "description": "Service providers are only allowed access to personal data for the purpose of performing tasks on behalf of the company"
+    },
+    {
+      "practice": "Opt-out capabilities are available",
+      "description": "Users are able to opt-out of certain features and the company provides instructions on how to do so"
+    }
+  ]
+}

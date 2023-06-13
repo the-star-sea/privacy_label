@@ -1,0 +1,27 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personal data such as name, email address, and account information",
+      "optional": false,
+      "purpose": "To provide personalized services and to communicate with users",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage data such as interactions with the service and settings",
+      "optional": false,
+      "purpose": "To improve the quality of service and to personalize content",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data may be transferred to countries outside of EEA",
+      "description": "User information may be transferred to countries outside of the European Economic Area, but with appropriate safeguards in place to protect personal data"
+    },
+    {
+      "practice": "Users have rights to object, restrict processing, and request access to their personal data",
+      "description": "Users can contact the developer to exercise their rights concerning their personal data"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Analytics",
+      "type": "Device information"
+    },
+    {
+      "data": "Connection information",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Analytics",
+      "type": "Connection information"
+    },
+    {
+      "data": "Advertisement Identifiers",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Advertisement identifier"
+    },
+    {
+      "data": "Google Account Information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Google account information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Analytics",
+      "type": "Device information"
+    },
+    {
+      "data": "Connection information",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Analytics",
+      "type": "Connection information"
+    },
+    {
+      "data": "Advertisement Identifiers",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Advertisement identifier"
+    },
+    {
+      "data": "Google Account Information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Google account information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ]
+}

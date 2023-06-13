@@ -1,0 +1,88 @@
+{
+  "sharedData": [
+    {
+      "data": "Full name",
+      "optional": false,
+      "purpose": "Support, Inquiries, Marketing, and Promotions",
+      "type": "Contact Information"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Support, Inquiries, Marketing, and Promotions",
+      "type": "Contact Information"
+    },
+    {
+      "data": "GPS location information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Firebase Cloud Messages token",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Push Notifications"
+    },
+    {
+      "data": "Technical data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Technical Non-Personal Data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Full name",
+      "optional": false,
+      "purpose": "Support, Inquiries, Marketing, and Promotions",
+      "type": "Contact Information"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Support, Inquiries, Marketing, and Promotions",
+      "type": "Contact Information"
+    },
+    {
+      "data": "GPS location information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Firebase Cloud Messages token",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Push Notifications"
+    },
+    {
+      "data": "Technical data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Technical Non-Personal Data"
+    },
+    {
+      "data": "Information provided voluntarily",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Voluntary Information"
+    },
+    {
+      "data": "Browsing activity",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Non-Personal Data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Data is transferred over a secure connection using Google Cloud servers located in the EU, US, and Asia"
+    },
+    {
+      "practice": "Personal Data is deleted after deemed unnecessary",
+      "description": "Zipo Apps may delete or amend information from their systems without notice to you once it is deemed no longer necessary for their purposes"
+    }
+  ]
+}

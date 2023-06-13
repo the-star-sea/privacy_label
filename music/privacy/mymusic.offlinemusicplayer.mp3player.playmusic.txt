@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-Personal Information",
+      "optional": false,
+      "purpose": "Improvement of services",
+      "type": "Usage data"
+    },
+    {
+      "data": "Session and Available Data",
+      "optional": false,
+      "purpose": "Connection, server communication and data sharing",
+      "type": "Connection data"
+    },
+    {
+      "data": "Aggregate information",
+      "optional": false,
+      "purpose": "Copyright royalty calculation, marketing event implementation, tailored service provision for users in specific territory",
+      "type": "Usage data"
+    },
+    {
+      "data": "Financial transaction data",
+      "optional": false,
+      "purpose": "Processing of payments for paid products/services through Apple and Google",
+      "type": "Financial info"
+    },
+    {
+      "data": "Advertisement interactions",
+      "optional": false,
+      "purpose": "Support and maintenance of services",
+      "type": "Ad activity"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Monitoring and analysis of services usage",
+      "type": "Usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "To improve the service and user experience",
+      "type": "Usage data"
+    },
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Collecting information for payment processing, communication, personalized experiences, and development of new features",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location-based services",
+      "optional": false,
+      "purpose": "Third-party products or services associated with our service",
+      "type": "Location data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable means of protection",
+      "description": "BetterApp Tech strives to use commercially acceptable means of protecting user information"
+    },
+    {
+      "practice": "No guarantee of absolute security",
+      "description": "Transmission over the internet, or method of electronic storage is not 100% secure and reliable"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics, Marketing",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics, Marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Personal information",
+      "optional": true,
+      "purpose": "Service functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Vendors or agents working on behalf of SoulApps",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Your rights to object or restrict data processing are provided",
+      "description": "You may object or request the restriction of processing of your Personal Data, and to request access to, rectification, erasure and portability of your own Personal Data."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact details such as e-mail and authentication credentials",
+      "optional": false,
+      "purpose": "Execution of contract, e-mail marketing, technical infrastructure management, security, and anti-fraud",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Contact details such as e-mail and authentication credentials",
+      "optional": false,
+      "purpose": "Execution of contract, e-mail marketing, technical infrastructure management, security, and anti-fraud",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Execution of contract",
+      "type": "Financial info"
+    },
+    {
+      "data": "Anonymous data for statistical analysis",
+      "optional": false,
+      "purpose": "Statistics",
+      "type": "Anonymous data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Appropriate safeguards are used to protect personal data",
+      "description": "Organizational methods and adequate security measures are used to protect Personal Data"
+    }
+  ]
+}

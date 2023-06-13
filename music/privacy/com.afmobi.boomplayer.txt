@@ -1,0 +1,54 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact or subscriber information linked to activity on Boomplay",
+      "optional": false,
+      "purpose": "Personalization, Behavioral advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "GPS location",
+      "optional": true,
+      "purpose": "Location-based services",
+      "type": "Location"
+    },
+    {
+      "data": "Opt-ins and communication preferences",
+      "optional": false,
+      "purpose": "Communication",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Behavioral information",
+      "optional": false,
+      "purpose": "Personalization, Behavioral advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Metadata",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Information from third parties",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Traffic data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Appropriate technical and organizational measures to ensure security",
+      "description": "Boomplay has put in place security measures appropriate to the risk of varying likelihood and severity for the rights and freedoms of users"
+    }
+  ]
+}

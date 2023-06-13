@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Registration data (including email address)",
+      "optional": false,
+      "purpose": "Account creation, notifications/alerts, technical support, promotional offers/ads",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Analytics, advertising/market,and security",
+      "type": "App activity"
+    },
+    {
+      "data": "Device identifiers (including IP address)",
+      "optional": false,
+      "purpose": "Analytics, advertising/marketing, security, law enforcement cooperation",
+      "type": "Device identifiers"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Analytics, advertising/market, security",
+      "type": "App activity"
+    },
+    {
+      "data": "Device identifiers (including IP address)",
+      "optional": false,
+      "purpose": "Analytics, advertising/marketing, security, law enforcement cooperation",
+      "type": "Device identifiers"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "All data collected is encrypted during transmission and at rest"
+    },
+    {
+      "practice": "Data access control",
+      "description": "Access to personal information is restricted to authorized personnel"
+    },
+    {
+      "practice": "Periodic security audits",
+      "description": "Regular security reviews are conducted to ensure data is kept secure"
+    }
+  ]
+}

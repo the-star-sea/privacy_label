@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Social media account information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Account info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Personal data (such as name and email address)",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Third party analytical data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Secure data transfers",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data protection and privacy policies",
+      "description": "Our app has policies in place to protect your data and your privacy"
+    }
+  ]
+}

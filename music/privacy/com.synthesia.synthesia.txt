@@ -1,0 +1,18 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Statistical information",
+      "optional": false,
+      "purpose": "Enhancing user experience, Technical problem solving",
+      "type": "Analytics"
+    },
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "Enhancing user experience, Technical problem solving",
+      "type": "Analytics"
+    }
+  ],
+  "securityPractices": []
+}

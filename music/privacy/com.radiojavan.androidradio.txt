@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Marketing, Updates, Special offers",
+      "type": "Personal info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Content customization, Analysis, and Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Device Information",
+      "optional": false,
+      "purpose": "Content customization and Analysis",
+      "type": "Device info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Content delivery, Comments, and Legal compliance",
+      "type": "IP address"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Marketing, Updates, Special offers, and App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": false,
+      "purpose": "Content customization, Analysis, and Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Device Information",
+      "optional": false,
+      "purpose": "Content customization, Analysis, App functionality, and Legal compliance",
+      "type": "Device info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Content delivery, Comments, and Legal compliance",
+      "type": "IP address"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Appropriate data collection, storage, and processing practices",
+      "description": "We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Service."
+    },
+    {
+      "practice": "Data encryption",
+      "description": "We ensure that data transmitted through our Service is encrypted to ensure the security of your personal information."
+    }
+  ]
+}

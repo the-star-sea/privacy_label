@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Content (audio recordings, text, and other data)",
+      "optional": false,
+      "purpose": "Service functionality",
+      "type": "User-generated content"
+    },
+    {
+      "data": "Name, username, email address, and avatar photo",
+      "optional": false,
+      "purpose": "Account creation and management",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Information provided when communicating with support or filling out online forms",
+      "optional": true,
+      "purpose": "Customer support and feedback",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device identifiers, browser types, device types and settings, operating system versions, mobile, wireless, and other network information (such as internet service provider name, carrier name, and signal strength), and application version numbers",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Diagnostic information",
+      "optional": false,
+      "purpose": "App functionality, analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Cookie data",
+      "optional": true,
+      "purpose": "Website functionality and improvement",
+      "type": "Web browsing"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Limiting data access to authorized personnel",
+      "description": "The developer takes measures to limit unauthorized access to your data"
+    }
+  ]
+}

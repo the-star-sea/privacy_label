@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Name, username, and profile picture",
+      "optional": false,
+      "purpose": "Identification",
+      "type": "Personal info"
+    },
+    {
+      "data": "Content containing personal information (such as photos, audio recordings, or text)",
+      "optional": false,
+      "purpose": "Identification",
+      "type": "Personal info"
+    },
+    {
+      "data": "Communications between the user and BandLab",
+      "optional": false,
+      "purpose": "Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device identifier",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Cookies and similar technology",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Cookies and similar technology"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Data necessary for performance of the contract",
+      "optional": false,
+      "purpose": "Contractual obligations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Legally required data processing",
+      "optional": false,
+      "purpose": "Legal compliance",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "User data is transferred over a secure connection."
+    },
+    {
+      "practice": "Permanent deletion of user data upon request",
+      "description": "Users can request permanent deletion of their data from the service."
+    },
+    {
+      "practice": "International data transfers",
+      "description": "Data may be transferred to other countries and appropriate safeguards are in place to protect user data."
+    }
+  ]
+}

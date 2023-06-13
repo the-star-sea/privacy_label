@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Username",
+      "optional": false,
+      "purpose": "Registration and account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Communication, Direct marketing",
+      "type": "Contact info"
+    },
+    {
+      "data": "SMS messages",
+      "optional": false,
+      "purpose": "Communication, Direct marketing",
+      "type": "Contact info"
+    },
+    {
+      "data": "Instant messages",
+      "optional": false,
+      "purpose": "Communication, Direct marketing",
+      "type": "Contact info"
+    },
+    {
+      "data": "Inbox messages",
+      "optional": false,
+      "purpose": "Communication, Direct marketing",
+      "type": "Contact info"
+    },
+    {
+      "data": "Personalized ads",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Special program participation info",
+      "optional": true,
+      "purpose": "Program participation",
+      "type": "Personal info"
+    },
+    {
+      "data": "Survey info",
+      "optional": true,
+      "purpose": "Survey participation",
+      "type": "Personal info"
+    },
+    {
+      "data": "Non-identifiable information",
+      "optional": false,
+      "purpose": "Analytics, Reporting, Advertising",
+      "type": "Usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption",
+      "description": "Implementation and updating of physical, organizational, contractual and technological security measures, such as encryption, to protect personal information from loss, theft, unauthorized access, disclosure, copying, use or modification."
+    },
+    {
+      "practice": "Third party data sharing",
+      "description": "Sharing of personal information with third-party service providers for the purpose of providing services to users."
+    },
+    {
+      "practice": "Policy updates",
+      "description": "Notification of policy changes and consistency in interpretation among different language versions."
+    }
+  ]
+}

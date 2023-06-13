@@ -1,0 +1,75 @@
+{
+  "sharedData": [
+    {
+      "data": "Device Internet Protocol (IP) address",
+      "optional": false,
+      "purpose": "Feedback acceptance",
+      "type": "Device info"
+    },
+    {
+      "data": "Hardware manufacturer and model",
+      "optional": false,
+      "purpose": "Feedback acceptance",
+      "type": "Device info"
+    },
+    {
+      "data": "Operating system version",
+      "optional": false,
+      "purpose": "Feedback acceptance",
+      "type": "Device info"
+    },
+    {
+      "data": "Screen size",
+      "optional": false,
+      "purpose": "Feedback acceptance",
+      "type": "Device info"
+    },
+    {
+      "data": "CPU model",
+      "optional": false,
+      "purpose": "Feedback acceptance",
+      "type": "Device info"
+    },
+    {
+      "data": "Unique device identifiers",
+      "optional": false,
+      "purpose": "Feedback acceptance",
+      "type": "Device info"
+    },
+    {
+      "data": "Mobile network information and installed apps",
+      "optional": false,
+      "purpose": "Feedback acceptance",
+      "type": "Device info"
+    },
+    {
+      "data": "Time and date of login",
+      "optional": false,
+      "purpose": "Feedback acceptance",
+      "type": "App activity"
+    },
+    {
+      "data": "Time spent on application",
+      "optional": false,
+      "purpose": "Feedback acceptance",
+      "type": "App activity"
+    },
+    {
+      "data": "Other statistics",
+      "optional": false,
+      "purpose": "Feedback acceptance",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is protected from unauthorized access and use",
+      "description": "A variety of security measures are used to protect non-personal information"
+    },
+    {
+      "practice": "No personal information is collected",
+      "description": "Bass Booster & Eq Plus does not collect personal information"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personal data",
+      "optional": false,
+      "purpose": "To provide services or products to the user",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data privacy and security requirements",
+      "description": "Companies working on behalf of SoulApps must abide by data privacy and security measures"
+    },
+    {
+      "practice": "International transfers of personal data",
+      "description": "When transferring personal data to countries outside the EEA, measures such as standard contractual clauses are implemented"
+    },
+    {
+      "practice": "User rights",
+      "description": "Users have the right to object to or restrict processing of personal data, and to access, rectify, erase, and port their own personal data"
+    }
+  ]
+}

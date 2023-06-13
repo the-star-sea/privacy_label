@@ -1,0 +1,39 @@
+{
+  "sharedData": [
+    {
+      "data": "User data",
+      "optional": false,
+      "purpose": "Account creation and usage",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device data",
+      "optional": false,
+      "purpose": "Account and app functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Payment and purchase data",
+      "optional": true,
+      "purpose": "Providing further parts of the Anchor Service",
+      "type": "Financial info"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Compliance and legal obligations, Business operations",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Data is transferred over a secure connection"
+    },
+    {
+      "practice": "Safeguards in place to protect personal data",
+      "description": "Various technical and organizational measures implemented to guard against unauthorized access and unnecessary retention of personal data"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+	{
+      "data": "Facebook Audience Network Ads data",
+      "optional": false,
+      "purpose": "Advertising or Marketing",
+      "type": "Personal info"
+    },
+	{
+      "data": "Admob Ads data",
+      "optional": false,
+      "purpose": "Advertising or Marketing",
+      "type": "Personal info"
+    },
+	{
+      "data": "Startapp Ads data",
+      "optional": false,
+      "purpose": "Advertising or Marketing",
+      "type": "Personal info"
+    },
+	{
+      "data": "AppNext ads data",
+      "optional": false,
+      "purpose": "Advertising or Marketing",
+      "type": "Personal info"
+    },
+	{
+      "data": "Inmobi Ads data",
+      "optional": false,
+      "purpose": "Advertising or Marketing",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Log data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+	{
+      "data": "Device data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+	{
+      "practice": "Data is encrypted at rest",
+      "description": "Your data is stored securely on the server"
+    }
+  ]
+}

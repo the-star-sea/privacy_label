@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Third party account information (if connected)",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Correspondence with the app",
+      "optional": false,
+      "purpose": "App functionality, Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "App usage data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Marketing analysis data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Marketing analysis"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "Your data is transferred over a secure connection and encrypted when stored"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "You have the right to request the deletion of your personal data"
+    }
+  ]
+}

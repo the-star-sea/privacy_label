@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Audio recordings",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio recordings"
+    },
+    {
+      "data": "Ad interaction data",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Ad interaction data"
+    },
+    {
+      "data": "Links to third-party sites",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Links to third-party sites"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device information"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location data"
+    },
+    {
+      "data": "Ad interaction data",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Ad interaction data"
+    },
+    {
+      "data": "Links to third-party sites",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Links to third-party sites"
+    },
+    {
+      "data": "Playlist data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Playlist data"
+    },
+    {
+      "data": "Downloaded music",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Downloaded music"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data may be shared with third-party ad providers",
+      "description": "User data may be shared with third-party ad providers for advertising and marketing purposes."
+    },
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "User data is transferred over a secure connection."
+    },
+    {
+      "practice": "User can permanently delete data",
+      "description": "User has the right to permanently delete software and terminate this agreement."
+    }
+  ]
+}

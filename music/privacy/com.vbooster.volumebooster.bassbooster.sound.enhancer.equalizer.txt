@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Personal info"
+    },
+    {
+      "data": "Third-party services information",
+      "optional": false,
+      "purpose": "Advertising or marketing, Analytics",
+      "type": "Third-party info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Improving services",
+      "type": "Cookies info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Service provision, Analytics",
+      "type": "Device info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Service provision",
+      "type": "Personal info"
+    },
+    {
+      "data": "Third-party services information",
+      "optional": false,
+      "purpose": "Advertising or marketing, Analytics",
+      "type": "Third-party info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Improving services",
+      "type": "Cookies info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Service provision, Analytics",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Use of commercially acceptable means of protecting Personal Information",
+      "description": "The company is striving to use commercially acceptable means of protecting Personal Information."
+    },
+    {
+      "practice": "No 100% guaranteed method of security",
+      "description": "No method of transmission over the internet, or method of electronic storage is 100% secure and reliable."
+    }
+  ]
+}

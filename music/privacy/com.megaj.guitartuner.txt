@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-identifiable and anonymous information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Non-Personal Data"
+    },
+    {
+      "data": "Contact Information (Full name and email address)",
+      "optional": false,
+      "purpose": "App functionality, Support, Location-based services",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Technical Data (Type and version of device, application, or browser used, operating system, or time zone setting, country, occurrences of technical errors, diagnostic reports, your settings preferences, backup information, API calls, and other logs)",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Non-Personal Data"
+    },
+    {
+      "data": "Push Notifications Firebase Cloud Messages token",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Non-Personal Data"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Information provided voluntarily",
+      "optional": false,
+      "purpose": "App functionality, Support, Contact us communications",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The user can exercise their rights to request deletion of data and other related rights, as per the applicable data protection regulations"
+    },
+    {
+      "practice": "Service Providers comply with applicable data protection laws",
+      "description": "Service Providers are contractually bound to comply with applicable data protection laws"
+    }
+  ]
+}

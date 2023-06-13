@@ -1,0 +1,41 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Feedback or bug report",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email",
+      "optional": false,
+      "purpose": "Feedback or bug report",
+      "type": "Personal info"
+    },
+    {
+      "data": "Survey response",
+      "optional": false,
+      "purpose": "Feedback or bug report",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is not collected unless voluntarily provided",
+      "description": "InShot Inc. does not collect any personal information unless voluntarily provided through feedback or bug reporting"
+    },
+    {
+      "practice": "Personal information is not used for marketing purposes",
+      "description": "InShot Inc. will not use any personal information (such as name and email address) for marketing purposes"
+    },
+    {
+      "practice": "Personal information is not disclosed to third parties",
+      "description": "InShot Inc. will not disclose any personal information to third parties for commercial gains"
+    },
+    {
+      "practice": "Privacy concerns can be addressed through email",
+      "description": "For users with privacy concerns, InShot Inc. provides an email address as a means of getting more information about our privacy policy"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "sharedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Non-personally identifiable information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Device identifiers",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Information from third-party apps",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Personal data",
+      "optional": false,
+      "purpose": "Contractual obligation, Law enforcement",
+      "type": "Personal info"
+    },
+    {
+      "data": "Analytics data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Analytics"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "No retention of personal data on servers",
+      "description": "The developer does not retain any of the user's personal data on their servers"
+    },
+    {
+      "practice": "Secure storage of personal data",
+      "description": "The developer securely stores the user's personal data"
+    },
+    {
+      "practice": "Ability to request personal data deletion",
+      "description": "The developer provides a way for the user to request deletion of their personal data"
+    }
+  ]
+}

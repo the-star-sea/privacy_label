@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Contacting users for problem resolution",
+      "type": "Personal info"
+    },
+    {
+      "data": "Photos, media, and files",
+      "optional": false,
+      "purpose": "Taking photos of intruders",
+      "type": "Device permissions"
+    },
+    {
+      "data": "Device camera and microphone",
+      "optional": false,
+      "purpose": "Taking photos of intruders",
+      "type": "Device permissions"
+    },
+    {
+      "data": "Wi-Fi connection information",
+      "optional": false,
+      "purpose": "Better service provision",
+      "type": "Device info"
+    },
+    {
+      "data": "Device ID and call information",
+      "optional": false,
+      "purpose": "Better service provision",
+      "type": "Device info"
+    },
+    {
+      "data": "Location",
+      "optional": false,
+      "purpose": "Better service provision",
+      "type": "Device info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Accepting users' feedback",
+      "type": "Personal info"
+    },
+    {
+      "data": "Content of feedback",
+      "optional": false,
+      "purpose": "Accepting users' feedback",
+      "type": "User-generated content"
+    },
+    {
+      "data": "Content of questionnaire answered by users",
+      "optional": false,
+      "purpose": "Accepting users' feedback",
+      "type": "User-generated content"
+    },
+    {
+      "data": "Analytical data",
+      "optional": false,
+      "purpose": "Understanding demographics, customer interest and trends, and service development",
+      "type": "Analytics"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially reasonable technical and organizational measures have been implemented to protect personal information",
+      "description": "Personal information is protected from accidental loss, misuse, and unauthorized access, disclosure, alteration, and destruction"
+    },
+    {
+      "practice": "Privacy information is never leaked",
+      "description": "Users' privacy information is never leaked"
+    }
+  ]
+}

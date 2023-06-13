@@ -1,0 +1,27 @@
+{
+  "sharedData": [
+    {
+      "data": "Device settings, file and software names and types, battery and signal strength, device identifiers, advertisement identifiers, connection information such as the name of mobile operator or ISP, language and time zone.",
+      "optional": false,
+      "purpose": "Service provision, improvement, advertising, and measurement systems",
+      "type": "Device information"
+    },
+    {
+      "data": "Email address (via Google account connection)",
+      "optional": false,
+      "purpose": "Service provision (import playlists)",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "We may disclose personal information only if required by law or if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, or to protect against harm to the rights, property or safety of Music & Game Inc. or our users as required or permitted by law.",
+      "description": "We may disclose personal information in limited circumstances"
+    }
+  ]
+}

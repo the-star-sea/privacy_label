@@ -1,0 +1,18 @@
+{
+  "sharedData": [],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Apple is committed to customer privacy",
+      "description": "Apple has a customer Privacy Policy that explains how they collect, use, disclose, transfer, and store personal information."
+    },
+    {
+      "practice": "Access and manage your Apple data",
+      "description": "Customers can visit Manage your Apple account to access and manage their personal data."
+    },
+    {
+      "practice": "Contact Privacy for corrections or enquiries",
+      "description": "Customers can contact Apple's Privacy team for corrections or general enquiries regarding their personal information."
+    }
+  ]
+}

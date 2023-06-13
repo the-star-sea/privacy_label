@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "Interactions with products",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Personal preferences and choices (retargeting)",
+      "optional": false,
+      "purpose": "Marketing and advertising",
+      "type": "Behavioural advertising cookies"
+    },
+    {
+      "data": "Content sharing with friends and networks",
+      "optional": false,
+      "purpose": "Social networking",
+      "type": "Social cookies"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal data necessary for the maintenance of commercial relationships with the user",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Market research and statistical analysis data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Online newsletter subscription data",
+      "optional": false,
+      "purpose": "Marketing and advertising",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Compliance with GDPR and LOPDGDD regulations for processing personal data",
+      "description": "The controller complies with the principles of GDPR Article 5"
+    },
+    {
+      "practice": "Confidentiality and data processor contracts with suppliers of services related to communications",
+      "description": "No communication of personal data to third parties is foreseen except to necessary suppliers"
+    },
+    {
+      "practice": "Obtaining user consent before browsing the App",
+      "description": "Express consent of the user to use non-essential cookies is mandatory"
+    },
+    {
+      "practice": "Allowing users to adjust their privacy settings and cookies in their browser",
+      "description": "For more precise control of site-specific cookies, users can adjust"
+    },
+    {
+      "practice": "Explaining how to delete cookies from most common browsers",
+      "description": "Instructions for deleting cookies are provided"
+    }
+  ]
+}

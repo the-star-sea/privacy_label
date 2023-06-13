@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Unique device identifiers",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Mobile network information and installed apps",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Time spent on the application",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "IP address"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "User feedback",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "User feedback"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Use of security measures to protect non-personal information",
+      "description": "The company uses various security measures to safeguard the confidentiality of your information."
+    },
+    {
+      "practice": "Not knowingly collecting personal information from children under 13",
+      "description": "The company does not knowingly collect personal information from children under 13."
+    }
+  ]
+}

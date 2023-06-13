@@ -1,0 +1,80 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Username",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Order history",
+      "optional": true,
+      "purpose": "App functionality, Marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Profile picture",
+      "optional": true,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Language preference",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Usage data"
+    },
+    {
+      "data": "Web analytics",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Usage data"
+    },
+    {
+      "data": "Location data",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Verification of user identity for access to personal information",
+      "description": "RC may request information from the user to verify identity before granting access to personal information."
+    },
+    {
+      "practice": "Use of cookies and similar technologies",
+      "description": "RC may use cookies to collect and store data to improve the functional performance of the RC Website and Applications."
+    },
+    {
+      "practice": "Sharing of personal information with third parties",
+      "description": "RC may share personal information with specific third parties such as service providers, marketing providers and during a change of control of the company."
+    }
+  ]
+}

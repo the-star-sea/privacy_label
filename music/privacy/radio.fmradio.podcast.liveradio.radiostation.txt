@@ -1,24 +1,18 @@
 {
   "sharedData": [
     {
-      "data": "Unique identifier",
+      "data": "Personally identifiable information",
       "optional": false,
-      "purpose": "Personalised advertising",
+      "purpose": "Service optimization and personalization, Advertising",
       "type": "Personal info"
     }
   ],
   "collectedData": [
     {
-      "data": "Unique identifier",
+      "data": "Personally identifiable information",
       "optional": false,
-      "purpose": "Personalised advertising",
+      "purpose": "Service optimization and personalization, Advertising",
       "type": "Personal info"
-    },
-    {
-      "data": "In-app purchase data",
-      "optional": false,
-      "purpose": "In-app purchase",
-      "type": "Financial info"
     }
   ],
   "securityPractices": [

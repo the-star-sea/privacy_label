@@ -1,0 +1,25 @@
+{
+  "sharedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Developer communications",
+      "type": "App info and performance"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is stored on user's device",
+      "description": "Blueline Studio does not collect any Personal Information, and all information requested is retained on the user's device"
+    },
+    {
+      "practice": "Use of commercially acceptable means of protecting data",
+      "description": "Blueline Studio strives to use commercially acceptable means of protecting user's data, but cannot guarantee absolute security"
+    },
+    {
+      "practice": "Links to external sites",
+      "description": "Blueline Studio advises users to review the Privacy Policy of any external sites linked in the Volume Booster app"
+    }
+  ]
+}

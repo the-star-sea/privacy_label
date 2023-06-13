@@ -1,0 +1,100 @@
+{
+  "sharedData": [
+    {
+      "data": "Content of feedback",
+      "optional": false,
+      "purpose": "User support",
+      "type": "User feedback"
+    },
+    {
+      "data": "Content of questionnaires",
+      "optional": false,
+      "purpose": "User support",
+      "type": "User feedback"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device IP address",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Hardware manufacturer and model",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Operating system version",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Screen size",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "CPU model",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Unique device identifiers",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Mobile network information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Installed apps",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device info"
+    },
+    {
+      "data": "Time and date of login",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Usage info"
+    },
+    {
+      "data": "Time spent on the application",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Usage info"
+    },
+    {
+      "data": "Demographic and customer interest information",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Non-personal Information",
+      "optional": false,
+      "purpose": "Protection",
+      "type": "Non-personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Security measures to protect non-personal information",
+      "description": "A variety of security measures are used to protect non-personal information from unauthorized access and use"
+    },
+    {
+      "practice": "No collection of personal information",
+      "description": "Personal information is not collected"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Device IP address",
+      "optional": false,
+      "purpose": "Service functionality, analytics, and advertising",
+      "type": "Device information"
+    },
+    {
+      "data": "Hardware manufacturer and model, operating system version, screen size, CPU model, unique device identifiers, mobile network information, installed apps",
+      "optional": false,
+      "purpose": "Service functionality, analytics, and advertising",
+      "type": "Device information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Photos submitted by users",
+      "optional": false,
+      "purpose": "Service functionality and machine learning",
+      "type": "Photos"
+    },
+    {
+      "data": "Automatically collected information when using the app",
+      "optional": false,
+      "purpose": "Service functionality, analytics, and advertising",
+      "type": "Device information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Information is safeguarded and protected with commercially acceptable means",
+      "description": "The company strives to use commercially acceptable means to protect the confidentiality of user information"
+    },
+    {
+      "practice": "Users will be provided with notice of material changes to the policy",
+      "description": "Users will be notified of material changes to the Privacy Policy in accordance with legal requirements"
+    }
+  ]
+}

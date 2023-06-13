@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "Correspondence data",
+      "optional": false,
+      "purpose": "Customer support and feedback",
+      "type": "Contact info and feedback"
+    },
+    {
+      "data": "Payment data",
+      "optional": false,
+      "purpose": "Purchases and billing",
+      "type": "Financial info"
+    },
+    {
+      "data": "User content",
+      "optional": false,
+      "purpose": "Platform functionality, sharing with other users",
+      "type": "User-generated content"
+    },
+    {
+      "data": "Tracking ID",
+      "optional": false,
+      "purpose": "Analytics and advertising",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device and browser data",
+      "optional": false,
+      "purpose": "Platform operation and optimization",
+      "type": "Device and browser info"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Platform usage analytics and optimization",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "Personal data is transferred and stored securely with encryption"
+    },
+    {
+      "practice": "Access to personal data is limited",
+      "description": "Personal data is only accessible by authorized personnel and third-party service providers"
+    },
+    {
+      "practice": "Data is retained for no longer than necessary",
+      "description": "Personal data is deleted when it is no longer needed for its original purpose"
+    },
+    {
+      "practice": "Users have rights to their personal data",
+      "description": "Users can request access, correction, deletion, or portability of their personal data"
+    }
+  ]
+}

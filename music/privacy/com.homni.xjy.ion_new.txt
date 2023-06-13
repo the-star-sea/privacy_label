@@ -1,0 +1,88 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account creation",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account creation, Communications and marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Shipping address",
+      "optional": false,
+      "purpose": "Fulfillment of orders",
+      "type": "Location"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Completion of purchases",
+      "type": "Financial info"
+    },
+    {
+      "data": "IP address and non-personal information",
+      "optional": false,
+      "purpose": "Website administration and statistics compilation",
+      "type": "Usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account creation",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account creation, Communications and marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Shipping address",
+      "optional": false,
+      "purpose": "Fulfillment of orders",
+      "type": "Location"
+    },
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Completion of purchases",
+      "type": "Financial info"
+    },
+    {
+      "data": "Product information",
+      "optional": false,
+      "purpose": "Account creation and linkage",
+      "type": "Product info"
+    },
+    {
+      "data": "Survey responses",
+      "optional": true,
+      "purpose": "Voluntary feedback",
+      "type": "Survey data"
+    },
+    {
+      "data": "IP address and non-personal information",
+      "optional": false,
+      "purpose": "Website administration and statistics compilation",
+      "type": "Usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Payment information is not stored",
+      "description": "Payment or credit card information is not stored"
+    },
+    {
+      "practice": "Data is used for analytical and regulatory compliance purposes",
+      "description": "Data is processed for analytics, research, product development, and regulatory compliance"
+    }
+  ]
+}

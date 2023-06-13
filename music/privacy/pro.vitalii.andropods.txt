@@ -1,0 +1,42 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Service functionality, Analytics",
+      "type": "Network info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Service functionality, Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is protected using commercially acceptable means",
+      "description": "Reasonable measures are taken to protect personal information"
+    }
+  ],
+  "permissions": [
+    "Location (background use only when service is activated) ",
+    "Manage Overlay Permission"
+  ],
+  "thirdPartyServices": [
+    {
+      "service": "AdMob",
+      "purpose": "Advertisement"
+    }
+  ],
+  "linksToOtherSites": true,
+  "childrensPrivacy": {
+    "policy": "This app does not knowingly collect personally identifiable information from children under 13",
+    "ageLimit": 13
+  },
+  "policyChanges": {
+    "procedure": "Any updates to the privacy policy will be effective immediately and posted on this page"
+  }
+}

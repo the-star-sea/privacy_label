@@ -1,0 +1,10 @@
+{
+  "sharedData": [],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "No personally identifiable information is collected",
+      "description": "The app does not collect information such as your name, address, phone number, email address or precise geographic location."
+    }
+  ]
+}

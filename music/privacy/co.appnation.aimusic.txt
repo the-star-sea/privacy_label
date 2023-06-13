@@ -1,0 +1,62 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact information (names, numbers, emails, and Facebook IDs)",
+      "optional": false,
+      "purpose": "Service functionality, Synchronization of contacts between devices",
+      "type": "Contacts"
+    },
+    {
+      "data": "Text messages, photos, screenshots, videos, and other communications shared within the application",
+      "optional": false,
+      "purpose": "Service functionality, Communication with other users",
+      "type": "User-generated content"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Payment information (credit card number, card expiration date, CVV code, and billing address)",
+      "optional": false,
+      "purpose": "Commerce transactions on shop",
+      "type": "Financial info"
+    },
+    {
+      "data": "Error-reporting information",
+      "optional": false,
+      "purpose": "Investigation and improvement of Service stability",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Aggregate or anonymous information",
+      "optional": false,
+      "purpose": "Sharing with third parties, including advertisers and investors",
+      "type": "Aggregate or anonymous data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Protection of user privacy and personal information",
+      "description": "Substantial efforts are made to ensure the privacy of all personally identifiable information provided to us"
+    },
+    {
+      "practice": "Deletion of personally identifiable information from users under the age of thirteen",
+      "description": "Inadvertently received information from users under the age of thirteen will be deleted from our records"
+    },
+    {
+      "practice": "Notification of material changes to the privacy policy",
+      "description": "Users will be notified of material changes to the policy through a revised Privacy Policy or notice on the website"
+    },
+    {
+      "practice": "Review and acceptance of privacy policy",
+      "description": "Users are expected to periodically review the Privacy Policy and accept revisions to continue use of the Service"
+    },
+    {
+      "practice": "Processing and timely response to user requests",
+      "description": "User requests will be answered promptly and within one month of receipt unless complexity requires a longer period"
+    },
+    {
+      "practice": "Right to rectification and erasure",
+      "description": "Users have the right to have inaccurate personal data rectified and to request erasure of their personal data"
+    }
+  ]
+}

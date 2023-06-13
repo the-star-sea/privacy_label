@@ -1,0 +1,27 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personal Data",
+      "optional": false,
+      "purpose": "Providing services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies and tracking tools",
+      "optional": false,
+      "purpose": "Identifying and remembering User preferences",
+      "type": "Usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is processed in a secure manner",
+      "description": "The Data Controller processes Data in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data"
+    },
+    {
+      "practice": "Data is retained only for necessary time",
+      "description": "Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data"
+    }
+  ]
+}

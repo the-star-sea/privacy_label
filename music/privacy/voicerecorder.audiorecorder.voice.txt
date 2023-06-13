@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Device's Internet Protocol address",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device info"
+    },
+    {
+      "data": "Browser type and version",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device info"
+    },
+    {
+      "data": "Pages visited and time spent",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Unique device identifiers",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device info"
+    },
+    {
+      "data": "Notification permission",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Other"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Communication and support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment card details",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Voice recordings",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Audio"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Regular data protection impact assessments",
+      "description": "We perform regular assessments to ensure the security of your personal data."
+    },
+    {
+      "practice": "SSL encryption",
+      "description": "We use SSL encryption to secure the transmission of data."
+    },
+    {
+      "practice": "Limited access and data minimization",
+      "description": "Access to personal data is restricted to those who need it and we only collect data necessary for our services."
+    },
+    {
+      "practice": "PCI-DSS compliance",
+      "description": "Payment processing is handled by PCI-DSS compliant processors."
+    },
+    {
+      "practice": "Data deletion request",
+      "description": "You can request the deletion of your personal data that has been collected."
+    }
+  ]
+}

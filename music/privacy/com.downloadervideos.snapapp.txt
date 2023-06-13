@@ -1,0 +1,21 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Analytics, App functionality, Error tracking",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "We use commercially acceptable means of protecting your Personal Information",
+      "description": "We strive to protect your Personal Information using commercially acceptable means."
+    },
+    {
+      "practice": "No method of transmission over the internet, or method of electronic storage, is 100% secure and reliable",
+      "description": "We cannot guarantee the absolute security of your data, but we use commercially acceptable methods to protect it."
+    }
+  ]
+}

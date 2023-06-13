@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Operating and maintaining the platform, providing customer and technical support, processing payments and transactions, tailoring content and advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Location information",
+      "optional": true,
+      "purpose": "Personalization, advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Personalization, advertising or marketing, product information, and for third party's advertising, analytics, and market research",
+      "type": "Personal info"
+    },
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Collect and store certain information to improve the platform",
+      "type": "Cookies"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Log files",
+      "optional": false,
+      "purpose": "Collect information about user's use of the platform",
+      "type": "App activity"
+    },
+    {
+      "data": "Information about the user",
+      "optional": true,
+      "purpose": "Personalization, advertising or marketing",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is subject to appropriate safeguards when transferred outside the EEA",
+      "description": "JioSaavn ensures that your data is treated securely and in accordance with this privacy policy"
+    }
+  ]
+}

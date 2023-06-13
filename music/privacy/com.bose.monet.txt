@@ -1,0 +1,86 @@
+{
+  "sharedData": [
+    {
+      "data": "Marketing and communication preferences",
+      "optional": false,
+      "purpose": "Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Purchase and transaction history",
+      "optional": false,
+      "purpose": "Transactional",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Financial and transactional information",
+      "optional": false,
+      "purpose": "Transactional",
+      "type": "Financial info"
+    },
+    {
+      "data": "Content accessed via products or software",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Usage and interaction information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Sensor data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "User data"
+    },
+    {
+      "data": "Environmental data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "User data"
+    },
+    {
+      "data": "Data collected by third-party services",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Third-party data"
+    },
+    {
+      "data": "Data necessary for business operations",
+      "optional": false,
+      "purpose": "Business operations",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data used to recognize a user across multiple touchpoints",
+      "optional": false,
+      "purpose": "Personalization",
+      "type": "User data"
+    },
+    {
+      "data": "Other data collected with user consent",
+      "optional": false,
+      "purpose": "User consent",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data security measures are in place",
+      "description": "Reasonable measures have been taken to protect user data"
+    },
+    {
+      "practice": "Users have controls and choices over their data",
+      "description": "Users have the ability to limit the information they provide and adjust their marketing preferences"
+    },
+    {
+      "practice": "Privacy policy updates are communicated to users",
+      "description": "Users are provided notice of material updates to the privacy policy"
+    }
+  ]
+}

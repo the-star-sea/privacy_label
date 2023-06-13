@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Mobile device unique identification ID",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device info"
+    },
+    {
+      "data": "Mobile telephone number",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Non-precise location information",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Mobile device unique identification ID",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Issues and opportunities identified by developers",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "App performance"
+    },
+    {
+      "data": "User base",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "User info"
+    },
+    {
+      "data": "Ad performance data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Advertising info"
+    },
+    {
+      "data": "Data provided prior to opting out",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Advertising info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Implement reasonable security measures",
+      "description": "Peaksel endeavors to provide reasonable security for information it processes and maintains"
+    },
+    {
+      "practice": "Consult privacy policy regularly for changes",
+      "description": "Users are advised to consult the Privacy Policy regularly for any changes"
+    },
+    {
+      "practice": "Use necessary cookies for the website",
+      "description": "Necessary cookies are used for the proper functioning of the website"
+    },
+    {
+      "practice": "Obtain user consent for cookies",
+      "description": "The user consent for cookies is obtained"
+    },
+    {
+      "practice": "Do not knowingly solicit data from or market to children under the age of 13",
+      "description": "Peaksel does not use its products to knowingly solicit data from or market to children under the age of 13"
+    }
+  ]
+}

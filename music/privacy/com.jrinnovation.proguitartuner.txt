@@ -1,0 +1,84 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account creation and management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account creation and management, Behavioural Advertising",
+      "type": "Contact info"
+    },
+    {
+      "data": "Demographic Information",
+      "optional": true,
+      "purpose": "Account creation and management, Behavioural Advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "Social network profile information",
+      "optional": true,
+      "purpose": "Account creation and management, Behavioural Advertising",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Behavioural Advertising",
+      "type": "Location"
+    },
+    {
+      "data": "Information received from third parties",
+      "optional": true,
+      "purpose": "Behavioural Advertising",
+      "type": "Various"
+    },
+    {
+      "data": "Browsing and interaction history",
+      "optional": false,
+      "purpose": "Behavioural Advertising",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal Information",
+      "optional": false,
+      "purpose": "Account creation and management, Fraud protection, credit risk reduction",
+      "type": "Personal info"
+    },
+    {
+      "data": "Information exchanged with other companies and organisations",
+      "optional": false,
+      "purpose": "Fraud protection, credit risk reduction",
+      "type": "Various"
+    },
+    {
+      "data": "Information posted to interactive forums",
+      "optional": false,
+      "purpose": "Public disclosure",
+      "type": "Various"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Appropriate security procedures are followed",
+      "description": "Information is stored and disclosed securely to prevent unauthorised access by third parties"
+    },
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Reasonable steps are taken to ensure that Information is treated securely"
+    },
+    {
+      "practice": "Reports of security vulnerabilities are encouraged",
+      "description": "Users are encouraged to report any potential vulnerabilities in a responsible manner"
+    },
+    {
+      "practice": "Automated spam filtering is in place",
+      "description": "Incoming electronic messages are automatically scanned and filtered to prevent spam"
+    }
+  ]
+}

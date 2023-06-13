@@ -1,0 +1,92 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account management, Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Billing information",
+      "optional": true,
+      "purpose": "Financial transactions",
+      "type": "Financial info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Account management, Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Customer support",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location",
+      "optional": true,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Billing information",
+      "optional": true,
+      "purpose": "Financial transactions",
+      "type": "Financial info"
+    },
+    {
+      "data": "App interactions",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "Your data is transferred and stored over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Regular security audits are conducted",
+      "description": "The developer regularly reviews and updates their security measures"
+    }
+  ]
+}

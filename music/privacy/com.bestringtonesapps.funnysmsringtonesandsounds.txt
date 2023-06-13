@@ -1,0 +1,68 @@
+{
+  "sharedData": [
+    {
+      "data": "Unique identification ID of mobile device",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Mobile telephone number",
+      "optional": false,
+      "purpose": "Advertising or marketing",
+      "type": "Contact info"
+    },
+    {
+      "data": "Non-precise location information (e.g. zip code)",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Other applications downloaded to mobile device",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Data passed to other providers (e.g. sports ad clicks)",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Audience preferences and characteristics (e.g. location, demographics, interests)",
+      "optional": true,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Performance data (e.g. app issues, user base)",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Personal data (e.g. name, email) if necessary for service or contract",
+      "optional": false,
+      "purpose": "App functionality, Service provision",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Reasonable security measures are taken",
+      "description": "The company endeavors to provide reasonable security for information processed and maintained"
+    },
+    {
+      "practice": "Consult this privacy policy regularly for changes",
+      "description": "Users are advised to consult this policy regularly for any changes"
+    },
+    {
+      "practice": "Necessary cookies used",
+      "description": "Necessary cookies are used to ensure website functionality"
+    }
+  ]
+}

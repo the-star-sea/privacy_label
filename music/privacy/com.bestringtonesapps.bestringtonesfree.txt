@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Mobile device unique identification ID",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Mobile telephone number",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Contact info"
+    },
+    {
+      "data": "Other application information",
+      "optional": true,
+      "purpose": "Advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Non-precise location information (e.g., zip code)",
+      "optional": true,
+      "purpose": "Advertising",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Mobile device unique identification ID",
+      "optional": false,
+      "purpose": "Analytics, Advertising",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Mobile telephone number",
+      "optional": false,
+      "purpose": "Analytics, Advertising",
+      "type": "Contact info"
+    },
+    {
+      "data": "Other application information",
+      "optional": true,
+      "purpose": "Analytics, Advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Non-precise location information (e.g., zip code)",
+      "optional": true,
+      "purpose": "Analytics, Advertising",
+      "type": "Location"
+    },
+    {
+      "data": "Targeted advertising data",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Advertising data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "All collected data is subject to reasonable security measures",
+      "description": "The company endeavors to provide reasonable security for information it processes and maintains"
+    },
+    {
+      "practice": "Regular review of the privacy policy",
+      "description": "Users are advised to consult the Privacy Policy regularly for changes, as continued use is deemed approval of all changes"
+    }
+  ]
+}

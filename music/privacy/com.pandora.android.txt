@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Registration data",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization, Account management",
+      "type": "App activity"
+    },
+    {
+      "data": "Email address",
+      "optional": true,
+      "purpose": "Account management, Promotional offers",
+      "type": "Contact info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Registration data",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage information",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization, Account management, Security and fraud detection",
+      "type": "App activity"
+    },
+    {
+      "data": "Device identifiers",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization, Security and fraud detection",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Users can request account deactivation",
+      "description": "Users can request deactivation their account through user support"
+    }
+  ]
+}

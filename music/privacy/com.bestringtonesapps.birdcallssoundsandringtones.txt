@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Unique identification ID of your mobile device",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Mobile telephone number",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Contact"
+    },
+    {
+      "data": "Anonymous information about downloaded apps",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Anonymous non-precise location information",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Location"
+    },
+    {
+      "data": "Device-level data",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Audience targeting information",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Demographic info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Unique identification ID of your mobile device",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Mobile telephone number",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Contact"
+    },
+    {
+      "data": "Anonymous information about downloaded apps",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Anonymous non-precise location information",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data security measures are in place",
+      "description": "Reasonable security measures are in place to protect the data"
+    },
+    {
+      "practice": "Privacy Policy is updated regularly",
+      "description": "Users are advised to regularly check the Privacy Policy for any changes"
+    }
+  ]
+}

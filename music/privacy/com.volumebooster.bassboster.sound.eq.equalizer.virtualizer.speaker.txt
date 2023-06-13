@@ -1,0 +1,40 @@
+{
+  "sharedData": [
+    {
+      "data": "Personally identifiable information such as name, email, and age",
+      "optional": false,
+      "purpose": "Improving user experience and providing customer support",
+      "type": "Personal information"
+    },
+    {
+      "data": "Device information such as IP address and browser type",
+      "optional": false,
+      "purpose": "Improving user experience and providing customer support",
+      "type": "Device information"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personally identifiable information such as name, email, and age",
+      "optional": false,
+      "purpose": "Providing personalized services and customer support",
+      "type": "Personal information"
+    },
+    {
+      "data": "Device information such as IP address and browser type",
+      "optional": false,
+      "purpose": "Improving user experience and providing customer support",
+      "type": "Device information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "We use commercially acceptable means of protecting personal information",
+      "description": "We take appropriate measures in handling and securing personal information"
+    },
+    {
+      "practice": "We do not share personal information with third parties except for the purpose of providing the Service",
+      "description": "We ensure that personal information is not shared with unauthorized third parties"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "sharedData": [
+    {
+      "data": "Feedback and contact information (e-mail, text, and other electronic communication)",
+      "optional": false,
+      "purpose": "Accepting and responding to user feedback, Personalization, App development",
+      "type": "Contact and communication info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Photos",
+      "optional": false,
+      "purpose": "Machine learning, App recognition",
+      "type": "Photos"
+    },
+    {
+      "data": "Device hardware and software information (IP address, device ID and type, advertising IDs, device language, operating system, time zones, and identifiers associated with cookies or other technologies that may uniquely identify your device)",
+      "optional": false,
+      "purpose": "Advertising, Analytics",
+      "type": "Device info"
+    },
+    {
+      "data": "Microphone usage",
+      "optional": false,
+      "purpose": "Recording for translations, Speech recognition",
+      "type": "Audio data"
+    },
+    {
+      "data": "Read the contents of your memory card",
+      "optional": false,
+      "purpose": "Reading saved recordings or other related data",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Limited retention of personal data",
+      "description": "Data is retained only as long as necessary to fulfill the purposes for which it was collected"
+    },
+    {
+      "practice": "Reasonable safeguards to protect user data",
+      "description": "Reasonable physical, technical, and administrative safeguards are in place to protect user data"
+    }
+  ]
+}

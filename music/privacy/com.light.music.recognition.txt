@@ -1,0 +1,30 @@
+{
+  "sharedData": [
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Payments",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personally identifiable information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Commercially acceptable means of protection",
+      "description": "Striving to use commercially acceptable means of protecting user's personal information"
+    }
+  ]
+}

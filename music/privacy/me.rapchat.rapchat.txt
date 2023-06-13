@@ -1,0 +1,74 @@
+{
+"sharedData": [
+    {
+      "data": "User Actions",
+      "optional": false,
+      "purpose": "Recommendation, Creation, Communication and Sharing of Content and Tailoring of Advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Personal Information (including name, photos, audio recordings)",
+      "optional": false,
+      "purpose": "Identification on Services",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location Information",
+      "optional": false,
+      "purpose": "Geographic Tagging",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Interactions on the Services",
+      "optional": false,
+      "purpose": "Inferring user interests and suggesting content",
+      "type": "App activity"
+    },
+    {
+      "data": "Cookie Information",
+      "optional": false,
+      "purpose": "Distinguishing Users, Identifying Interests, Collecting Usage Data, Tracking Preferences, Delivering Content",
+      "type": "App activity"
+    },
+    {
+      "data": "Personal Information (including name, photos, audio recordings)",
+      "optional": false,
+      "purpose": "Registration for a Rapchat account",
+      "type": "Personal info"
+    },
+    {
+      "data": "User Interests",
+      "optional": false,
+      "purpose": "Identifying and suggesting content that users may like and tailoring advertising, including off-site advertising",
+      "type": "App activity"
+    },
+    {
+      "data": "Challenges and Contests Participation",
+      "optional": true,
+      "purpose": "Voluntary Participation",
+      "type": "App activity"
+    },
+    {
+      "data": "Data collected by third parties for delivering more relevant advertising",
+      "optional": false,
+      "purpose": "Delivering More Relevant Advertising",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Keeping the Services Safe and Secure",
+      "description": "Using user information to keep the Services safe and secure"
+    },
+    {
+      "practice": "Storing and Managing User Information",
+      "description": "Offering the ability to correct or update information collected during registration"
+    },
+    {
+      "practice": "Compliance with Applicable Law",
+      "description": "Collecting, using, disclosing personal information as required or permitted by applicable law"
+    }
+  ]
+}

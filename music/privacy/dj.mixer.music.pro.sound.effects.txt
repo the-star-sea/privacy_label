@@ -1,0 +1,51 @@
+{
+  "sharedData": [
+    {
+      "data": "Correspondence data",
+      "optional": false,
+      "purpose": "Customer support, feedback and communication",
+      "type": "Contact info"
+    },
+    {
+      "data": "Payment data",
+      "optional": false,
+      "purpose": "Processing of in-app purchases",
+      "type": "Financial info"
+    },
+    {
+      "data": "User content",
+      "optional": false,
+      "purpose": "Performance of services, sharing with other users, and security",
+      "type": "User content"
+    },
+    {
+      "data": "Tracking ID",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device ID"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data encryption in transit",
+      "description": "Personal data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data minimization",
+      "description": "Only necessary data is collected and processed"
+    },
+    {
+      "practice": "Third-party data sharing",
+      "description": "Personal data may be shared with selected third-party service providers with appropriate privacy policies"
+    },
+    {
+      "practice": "Cross-border data transfers",
+      "description": "Personal data may be transferred outside of the EU for necessary processing purposes with appropriate safeguards"
+    },
+    {
+      "practice": "Consent withdrawal",
+      "description": "Users have the right to withdraw their consent for data processing and exercise other privacy rights"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-Personal Data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising, Fraud prevention, security, and compliance, Personalization",
+      "type": "Usage data"
+    },
+    {
+      "data": "GPS Location Information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Firebase Cloud Messages token",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Non-Personal Data"
+    },
+    {
+      "data": "Technical Data",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Advertising, Fraud prevention, security, and compliance, Personalization",
+      "type": "Technical Data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Username and password",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact details",
+      "optional": false,
+      "purpose": "Account management, Service-related communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Payment processing data",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Non-Personal Data collected for profiling",
+      "optional": true,
+      "purpose": "Advertising",
+      "type": "Usage data"
+    },
+    {
+      "data": "Affiliated company or acquiring company data",
+      "optional": false,
+      "purpose": "Continuation of service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Data retention and processing request data",
+      "optional": false,
+      "purpose": "Compliance",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Physical, technical, and administrative security measures implemented",
+      "description": "Measures are in place to prevent unauthorized access, use, disclosure, destruction or accidental loss of data"
+    },
+    {
+      "practice": "Data transfer compliance",
+      "description": "Data transfers are conducted in compliance with applicable regulation and industry standards"
+    }
+  ]
+}

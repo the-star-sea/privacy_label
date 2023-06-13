@@ -1,0 +1,27 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personal information (e.g. name, email address)",
+      "optional": false,
+      "purpose": "Communication, processing requests and transactions, improving the app, customizing services and products, product and service development, marketing analysis",
+      "type": "Personal info"
+    },
+    {
+      "data": "App usage data",
+      "optional": false,
+      "purpose": "Improving the app, product and service development, marketing analysis",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption of personal data",
+      "description": "Data is encrypted to protect it from unauthorized access"
+    },
+    {
+      "practice": "Limited access to personal data",
+      "description": "Only companies hired to provide data analytical services have access to personal data"
+    }
+  ]
+}

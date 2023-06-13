@@ -1,0 +1,70 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "App functionality, Customer service, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Customer service, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial information",
+      "optional": false,
+      "purpose": "Payment processing, Prevent fraudulent transactions",
+      "type": "Financial info"
+    },
+    {
+      "data": "User activity",
+      "optional": false,
+      "purpose": "App functionality, Marketing",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Demographic information",
+      "optional": true,
+      "purpose": "App functionality, Customer service, Marketing, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Contact information of anyone you invite to use and/or join the Applications",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "User-generated content",
+      "optional": true,
+      "purpose": "App functionality, Customer service, Marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Interactions with other users",
+      "optional": false,
+      "purpose": "App functionality, Marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Web cookies",
+      "optional": true,
+      "purpose": "Analytics, Marketing",
+      "type": "Web browsing"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit and at rest",
+      "description": "Your data is transferred over a secure connection and stored securely"
+    },
+    {
+      "practice": "You can request removal of your data",
+      "description": "You can contact the developer to request removal of your personal data"
+    }
+  ]
+}

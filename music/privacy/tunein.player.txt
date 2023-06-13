@@ -1,0 +1,74 @@
+{
+  "sharedData": [
+    {
+      "data": "Listening history",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Follow lists",
+      "optional": false,
+      "purpose": "Personalization, Social media sharing",
+      "type": "App activity"
+    },
+    {
+      "data": "Comments and user-generated content",
+      "optional": false,
+      "purpose": "Social media sharing",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "User account registration information (such as name and email address)",
+      "optional": false,
+      "purpose": "Creating and managing user accounts",
+      "type": "Personal info"
+    },
+    {
+      "data": "Transaction details related to subscriptions",
+      "optional": false,
+      "purpose": "Billing and payments",
+      "type": "Financial info"
+    },
+    {
+      "data": "General geographic information (such as city, state, region, and country)",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Device information (such as IP address, web browser type, mobile operating system version, and unique device identifiers)",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Search terms used to find station or channel partners content",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Social media account information (when sharing Personal Information with social networking services)",
+      "optional": false,
+      "purpose": "Social media sharing",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Compliance with data protection laws",
+      "description": "The developer states compliance with EU, United Kingdom, Switzerland, or Brazil data protection law when transferring Personal Information outside of these regions."
+    }
+  ]
+}

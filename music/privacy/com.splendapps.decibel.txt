@@ -1,0 +1,72 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Account management, Marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Demographic information",
+      "optional": true,
+      "purpose": "App customization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Financial information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Chat history",
+      "optional": true,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "User-generated content",
+      "optional": true,
+      "purpose": "App functionality, Content customization",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data is stored securely",
+      "description": "All user data is stored securely by the app developer"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Children under 13 are not targeted",
+      "description": "The app developer does not knowingly collect personal information from children under 13"
+    }
+  ]
+}

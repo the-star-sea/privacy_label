@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": false,
+      "purpose": "Identification",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Identification, Communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Profile picture",
+      "optional": true,
+      "purpose": "Identification, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "In-app activities",
+      "optional": false,
+      "purpose": "Service provision, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Service provision, Technical improvements",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transmission of payment information",
+      "description": "Payment information is transmitted securely"
+    },
+    {
+      "practice": "Reasonable steps are taken to secure personally identifiable information",
+      "description": "Protective measures are in place to prevent unauthorized access or disclosure"
+    },
+    {
+      "practice": "Users may request deletion of personal information",
+      "description": "Users have control over their own data"
+    }
+  ]
+}

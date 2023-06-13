@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Non-personal data such as device model number, operating system version, and country code",
+      "optional": false,
+      "purpose": "App functionality, managing the app, communicating with the user",
+      "type": "Non-personal info"
+    },
+    {
+      "data": "Personal data such as name and email address",
+      "optional": false,
+      "purpose": "Sending informative emails",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "Functional purpose",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Non-personal data such as device model number, operating system version, and country code",
+      "optional": false,
+      "purpose": "App functionality, managing the app, communicating with the user",
+      "type": "Non-personal info"
+    },
+    {
+      "data": "Personal data such as name and email address",
+      "optional": false,
+      "purpose": "Sending informative emails",
+      "type": "Personal info"
+    },
+    {
+      "data": "Location data",
+      "optional": true,
+      "purpose": "Functional purpose",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Personal data is shared in response to legal processes or to establish/exercise legal rights",
+      "description": "Personal data may be disclosed to respond to subpoenas, court orders, and other legal processes or to establish/exercise legal rights."
+    },
+    {
+      "practice": "Personal data is shared to prevent illegal activities or defend against legal claims",
+      "description": "Personal data may be shared to investigate, prevent or take action against illegal activities, suspected fraud, potential threats to the physical safety of any person, violations of the app's Terms of Use, or as otherwise required by law."
+    }
+  ]
+}

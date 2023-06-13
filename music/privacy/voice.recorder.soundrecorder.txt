@@ -1,0 +1,88 @@
+{
+  "sharedData": [
+    {
+      "data": "Device type and model",
+      "optional": false,
+      "purpose": "Service administration and internal operations",
+      "type": "Device information"
+    },
+    {
+      "data": "Device unique identifier",
+      "optional": false,
+      "purpose": "Service administration and internal operations",
+      "type": "Device information"
+    },
+    {
+      "data": "Operating system",
+      "optional": false,
+      "purpose": "Service administration and internal operations",
+      "type": "Device information"
+    },
+    {
+      "data": "Language options",
+      "optional": false,
+      "purpose": "Service administration and internal operations",
+      "type": "Device information"
+    },
+    {
+      "data": "Mobile network information",
+      "optional": false,
+      "purpose": "Service administration and internal operations",
+      "type": "Device information"
+    },
+    {
+      "data": "Recorded audio",
+      "optional": false,
+      "purpose": "Service functionality, Internal operations, Browsing history",
+      "type": "Audio"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Internet activity"
+    },
+    {
+      "data": "Device ID",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device information"
+    },
+    {
+      "data": "Advertising ID",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device information"
+    },
+    {
+      "data": "Operating system",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device information"
+    },
+    {
+      "data": "Time zones",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device information"
+    },
+    {
+      "data": "Identifiers associated with cookies or other technologies",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device information"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Third parties are required to keep information confidential",
+      "description": "We reserve the right to disclose your information as required by law, and third parties are required to keep your information confidential"
+    }
+  ]
+}

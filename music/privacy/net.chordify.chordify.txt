@@ -1,0 +1,84 @@
+{
+  "sharedData": [
+    {
+      "data": "Contact information",
+      "optional": false,
+      "purpose": "Communication with Chordify",
+      "type": "Personal info"
+    },
+    {
+      "data": "Areas of interest",
+      "optional": false,
+      "purpose": "Personalization and content recommendations",
+      "type": "Personal info"
+    },
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Chordify campaigns and promotions",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Cookie ID",
+      "optional": false,
+      "purpose": "Chordify campaigns and promotions",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Social ID",
+      "optional": false,
+      "purpose": "Chordify campaigns and promotions",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Surfing habits",
+      "optional": false,
+      "purpose": "Chordify campaigns and promotions",
+      "type": "Online activity"
+    },
+    {
+      "data": "Gender",
+      "optional": false,
+      "purpose": "Chordify account information",
+      "type": "Personal info"
+    },
+    {
+      "data": "Photos",
+      "optional": false,
+      "purpose": "Chordify account information",
+      "type": "Personal info"
+    },
+    {
+      "data": "Technical characteristics",
+      "optional": false,
+      "purpose": "Anonymous statistics about website visits and product usage",
+      "type": "Technical data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Contributions to the Chordify Community made by the user",
+      "optional": false,
+      "purpose": "User-generated content",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "User has the right to information and inspection",
+      "description": "Users can see which personal data is being processed in their account environment"
+    },
+    {
+      "practice": "User has the right to request deletion",
+      "description": "Chordify will remove relevant personal data as soon as possible, unless there are legal reasons not to"
+    },
+    {
+      "practice": "Cookies are used but not necessary for product use",
+      "description": "Users can still use Chordify without cookies"
+    }
+  ]
+}

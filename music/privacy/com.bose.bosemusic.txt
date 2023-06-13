@@ -1,0 +1,76 @@
+{
+  "sharedData": [
+    {
+      "data": "Financial and transactional information",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "User IDs",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Purchase and transaction history",
+      "optional": false,
+      "purpose": "Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Services and content accessed via Bose product or software",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Usage and interaction information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Environmental data",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Environmental data"
+    },
+    {
+      "data": "Information collected by third-party services",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Employment application information",
+      "optional": false,
+      "purpose": "Employment",
+      "type": "Personal info"
+    },
+    {
+      "data": "Security and fraud prevention information",
+      "optional": false,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Information is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Bose takes appropriate technical and organizational measures to protect your data",
+      "description": "The company takes steps to protect your information against unauthorized or unlawful processing and against accidental loss, destruction or damage"
+    }
+  ]
+}

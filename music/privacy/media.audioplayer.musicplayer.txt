@@ -1,0 +1,56 @@
+{
+  "sharedData": [
+    {
+      "data": "Communication content",
+      "optional": false,
+      "purpose": "Communication with user",
+      "type": "Personal info"
+    },
+    {
+      "data": "Transaction data",
+      "optional": false,
+      "purpose": "Processing transactions",
+      "type": "Financial info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Product/service customization and development, Marketing analysis",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Communication content",
+      "optional": false,
+      "purpose": "Communication with user",
+      "type": "Personal info"
+    },
+    {
+      "data": "Transaction data",
+      "optional": false,
+      "purpose": "Processing transactions",
+      "type": "Financial info"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "Product/service customization and development, Marketing analysis",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Third party companies must abide by data privacy and security requirements",
+      "description": "Third party service providers must adhere to our strict data privacy and security requirements"
+    },
+    {
+      "practice": "Privacy policy changes will be clearly communicated",
+      "description": "Any changes to our privacy policy will be clearly communicated to users"
+    }
+  ]
+}

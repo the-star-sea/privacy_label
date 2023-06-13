@@ -1,0 +1,50 @@
+{
+  "sharedData": [
+    {
+      "data": "First and last name",
+      "optional": false,
+      "purpose": "Account creation and identification",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Contact and communication",
+      "type": "Contact info"
+    },
+    {
+      "data": "Cookies and similar tracking technologies",
+      "optional": false,
+      "purpose": "Site functionality, analytics, and advertising",
+      "type": "Online identifiers"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Other similar contact data",
+      "optional": true,
+      "purpose": "Account creation and identification, Contact and communication",
+      "type": "Personal info"
+    },
+    {
+      "data": "Usage data",
+      "optional": false,
+      "purpose": "Data analysis, identifying usage trends, determining the effectiveness of promotional campaigns, and evaluating and improving products, services, and experience",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Legal compliance",
+      "description": "We may share your data with third-party vendors, service providers, contractors, or agents who perform services for us or on our behalf and require access to such information to do that work. We also comply with laws and respond to legal requests to prevent harm as legally required."
+    },
+    {
+      "practice": "Data protection",
+      "description": "We do not transfer your personal information to an overseas recipient, and we take reasonable measures to protect your information from unauthorized access, use, disclosure, or destruction."
+    },
+    {
+      "practice": "Privacy control",
+      "description": "You can review or change the information in your account or terminate your account at any time. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies."
+    }
+  ]
+}

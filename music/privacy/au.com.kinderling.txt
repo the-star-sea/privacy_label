@@ -1,0 +1,44 @@
+{
+  "sharedData": [
+    {
+      "data": "Personal information, including sensitive information",
+      "optional": false,
+      "purpose": "Providing products or services, managing customer relationships",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device identifiers, IP addresses, browsing activity",
+      "optional": false,
+      "purpose": "Analytics, targeted advertising",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information, including sensitive information",
+      "optional": false,
+      "purpose": "Providing products or services, managing customer relationships",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device identifiers, IP addresses, browsing activity",
+      "optional": false,
+      "purpose": "Analytics, targeted advertising",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Employ reasonable security measures to protect personal information",
+      "description": "Reasonable steps are taken to protect the personal information from misuse, interference and loss, and from unauthorized access, modification or disclosure."
+    },
+    {
+      "practice": "Data is stored on secure servers",
+      "description": "Personal information is stored securely on servers with access controls and restricted to authorized personnel."
+    },
+    {
+      "practice": "Overseas storage of personal information",
+      "description": "Personal information may be stored overseas with third-party service providers. Reasonable steps are taken to ensure that the personal information is protected in accordance with the Australian Privacy Principles."
+    }
+  ]
+}

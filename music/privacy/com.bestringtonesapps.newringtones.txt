@@ -1,0 +1,52 @@
+{
+  "sharedData": [
+    {
+      "data": "Unique identification ID of mobile device",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Mobile telephone number",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Contact Info"
+    },
+    {
+      "data": "Anonymous information about other applications downloaded to mobile device",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "App Activity"
+    },
+    {
+      "data": "Non-precise Location Information (e.g., zip code)",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "Location"
+    },
+    {
+      "data": "Device-level data (e.g. if a device has clicked on a sports ad within our apps)",
+      "optional": false,
+      "purpose": "Advertising",
+      "type": "App Activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Precise real time location information of the device",
+      "optional": true,
+      "purpose": "Not stated",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Reasonable security measures are provided",
+      "description": "The company endeavors to provide reasonable security for information it processes and maintains"
+    },
+    {
+      "practice": "No guarantee against all potential security breaches",
+      "description": "Although the company endeavors to provide reasonable security for information it processes and maintains, no security system can prevent all potential security breaches"
+    }
+  ]
+}

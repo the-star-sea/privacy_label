@@ -1,0 +1,58 @@
+{
+  "sharedData": [
+    {
+      "data": "Geo-location",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Push notifications",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Profile information from third-party social media providers",
+      "optional": false,
+      "purpose": "App functionality, Advertising or marketing, Personalization",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Payment information",
+      "optional": false,
+      "purpose": "Payment processing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Email address",
+      "optional": false,
+      "purpose": "Data analysis, email delivery, customer service, marketing efforts",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Organizational and technical security measures",
+      "description": "We aim to protect your personal information through a system of organizational and technical security measures."
+    },
+    {
+      "practice": "Data retention",
+      "description": "We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law."
+    },
+    {
+      "practice": "Children's privacy",
+      "description": "We do not knowingly collect data from or market to children under 18 years of age."
+    },
+    {
+      "practice": "Data protection rights",
+      "description": "In some regions, like the European Economic Area, you have certain rights under applicable data protection laws. We will consider and act upon any request in accordance with applicable data protection laws."
+    },
+    {
+      "practice": "Updates to privacy policy",
+      "description": "Yes, we will update this policy as necessary to stay compliant with relevant laws."
+    }
+  ]
+}

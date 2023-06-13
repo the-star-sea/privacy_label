@@ -1,0 +1,37 @@
+{
+  "sharedData": [
+    {
+      "data": "Location information, equipment information, log information",
+      "optional": false,
+      "purpose": "Service functionality, analytics, privacy protection",
+      "type": "Personal info"
+    },
+    {
+      "data": "Personal data such as avatar and name",
+      "optional": false,
+      "purpose": "Service functionality, sharing with third parties",
+      "type": "Personal info"
+    },
+    {
+      "data": "Account information",
+      "optional": false,
+      "purpose": "Service functionality, privacy protection",
+      "type": "Account info"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Users are required to create strong passwords for their accounts",
+      "description": "The platform mandates the use of strong passwords to ensure account security"
+    },
+    {
+      "practice": "Users are notified in case of a data breach",
+      "description": "The platform has measures in place to quickly identify and notify users about any data breach"
+    }
+  ]
+}

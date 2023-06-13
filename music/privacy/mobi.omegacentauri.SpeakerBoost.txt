@@ -1,0 +1,64 @@
+{
+  "sharedData": [
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Unique device identifiers for advertising",
+      "optional": false,
+      "purpose": "Advertising or marketing, Personalization",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Usage Data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Usage data"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Cookies",
+      "optional": false,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Unique device identifiers for advertising",
+      "optional": false,
+      "purpose": "Advertising or marketing, Personalization",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Usage Data",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is processed in the United States",
+      "description": "Personal data collected is processed within the United States."
+    },
+    {
+      "practice": "Opt-out available",
+      "description": "Users can opt-out of interest-based advertising through specified services."
+    },
+    {
+      "practice": "Right to opt-out for targeted advertising",
+      "description": "Users have the right to opt-out of the processing of their personal data for targeted advertising."
+    },
+    {
+      "practice": "Right to request deletion of personal data",
+      "description": "Users have the right to request the deletion of their personal data."
+    },
+    {
+      "practice": "Respond to requests in a timely manner",
+      "description": "Requests for access, deletion, or other rights will be responded to within 45 days of receipt."
+    }
+  ]
+}

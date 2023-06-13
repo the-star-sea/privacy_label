@@ -1,0 +1,23 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Providing and improving the Service",
+      "type": "Personal info"
+    },
+    {
+      "data": "Log Data",
+      "optional": false,
+      "purpose": "Analyzing app errors",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Uses commercially acceptable means of protecting your data",
+      "description": "The developer strives to use commercially acceptable means of protecting your data"
+    }
+  ]
+}

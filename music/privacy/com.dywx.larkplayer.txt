@@ -1,0 +1,80 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Analytics",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Cookie information",
+      "optional": false,
+      "purpose": "Analytics, Personalization",
+      "type": "Online identifiers"
+    },
+    {
+      "data": "Location",
+      "optional": true,
+      "purpose": "App functionality, Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "Device info"
+    },
+    {
+      "data": "Google Drive access",
+      "optional": false,
+      "purpose": "App functionality",
+      "type": "Access to third-party services"
+    },
+    {
+      "data": "Name and email address",
+      "optional": true,
+      "purpose": "Communication",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Contacts",
+      "optional": false,
+      "purpose": "Aggregate data collection",
+      "type": "Contacts"
+    },
+    {
+      "data": "Apps, songs, videos and other content",
+      "optional": false,
+      "purpose": "Aggregate data collection",
+      "type": "Content info"
+    },
+    {
+      "data": "Location",
+      "optional": true,
+      "purpose": "App functionality, Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Device information",
+      "optional": false,
+      "purpose": "App functionality, Analytics",
+      "type": "Device info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Encryption of data in transit",
+      "description": "Data is encrypted when it is transferred through the internet"
+    },
+    {
+      "practice": "Secure information storage",
+      "description": "Measures are in place to prevent unauthorized access or disclosure of stored information"
+    },
+    {
+      "practice": "Access restricted to authorized personnel",
+      "description": "Only employees, contractors, or agents with specific authorization have access to personal information"
+    }
+  ]
+}

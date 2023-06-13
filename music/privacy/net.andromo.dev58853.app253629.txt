@@ -1,0 +1,38 @@
+{
+  "sharedData": [
+    {
+      "data": "IP address",
+      "optional": false,
+      "purpose": "Service operation, quality maintenance, and general statistics",
+      "type": "Online identifiers"    
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Personal information",
+      "optional": false,
+      "purpose": "Product or service usage, sweepstakes or contest participation, offers from third parties, email communication, payment information for orders, and any additional information collected in the future",
+      "type": "Personal info"
+    },
+    {
+      "data": "Automatically collected information about hardware and software",
+      "optional": false,
+      "purpose": "Service operation, quality maintenance, and general statistics",
+      "type": "Device and usage data"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Third-party partners are prohibited from using personal information except to provide necessary services",
+      "description": "Third-party partners can only use collected personal information for providing statistical analysis, email or postal communication, customer support, and deliveries to Best Ringtones Apps."
+    },
+    {
+      "practice": "Notification for significant changes in personal information treatment",
+      "description": "Users will be informed of significant changes in the way personal information is treated via email and site notice."
+    },
+    {
+      "practice": "Guidance for deleting personal data from third-party partners",
+      "description": "Links and guidance for deleting data from third-party partners (Facebook, Google, and Apple) are provided."
+    }
+  ]
+}
